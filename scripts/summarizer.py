@@ -239,6 +239,114 @@ def summarize_ai_news(articles: list[dict]) -> tuple[list[dict], str]:
     raise RuntimeError(f"all models failed for ai_news; last err: {last_err}")
 
 
+TH_NEWS_SYSTEM_PROMPT = (
+    "You are a senior Thai equities and macro analyst writing a personal morning brief. "
+    "Return STRICT JSON array of exactly 10 objects, each with: rank (1-10 by market "
+    "impact for Thai investors), title_th (Thai concise), summary_th (Thai 4-6 lines "
+    "covering what happened, why it matters, likely SET/THB reaction), category "
+    "(นโยบายการเงิน | SET/หุ้นไทย | เศรษฐกิจมหภาค | บริษัท-M&A | ธนาคาร-การเงิน | "
+    "สินค้าโภคภัณฑ์ | ค่าเงิน-FX | กฎระเบียบ | ต่างประเทศกระทบไทย), sentiment "
+    "(bullish/bearish/neutral for Thai equities), impact (high/medium/low), "
+    "time_horizon (immediate/short-term/long-term), sectors (array of Thai sector names "
+    "in Thai e.g. ['ธนาคาร','พลังงาน','สื่อสาร','อสังหาริมทรัพย์','อาหาร']), tickers "
+    "(array of SET tickers like PTT, AOT, KBANK, ADVANC — empty if pure macro), "
+    "key_numbers (array with context like 'GDP Q1 +2.3% vs +2.5% est'), watch_next "
+    "(1 line on what to monitor), source_name, url. Be direct and analytical — no "
+    "hedging, no disclaimers. Return ONLY the JSON array, no preamble."
+)
+
+TH_REQUIRED_FIELDS = [
+    "rank", "title_th", "summary_th", "category", "sentiment", "impact",
+    "time_horizon", "sectors", "tickers", "key_numbers", "watch_next",
+    "source_name", "url",
+]
+TH_VALID_SENTIMENT = {"bullish", "bearish", "neutral"}
+TH_VALID_IMPACT = {"high", "medium", "low"}
+TH_VALID_HORIZON = {"immediate", "short-term", "long-term"}
+
+
+def _validate_th(items: Any) -> list[dict]:
+    if not isinstance(items, list) or len(items) != 10:
+        raise ValueError(
+            f"expected list of 10, got {type(items).__name__} "
+            f"len={len(items) if isinstance(items, list) else 'n/a'}"
+        )
+    for i, it in enumerate(items):
+        if not isinstance(it, dict):
+            raise ValueError(f"item {i} not dict")
+        for f in TH_REQUIRED_FIELDS:
+            if f not in it:
+                raise ValueError(f"item {i} missing field {f}")
+        if it["sentiment"] not in TH_VALID_SENTIMENT:
+            raise ValueError(f"item {i} bad sentiment {it['sentiment']}")
+        if it["impact"] not in TH_VALID_IMPACT:
+            raise ValueError(f"item {i} bad impact {it['impact']}")
+        if it["time_horizon"] not in TH_VALID_HORIZON:
+            raise ValueError(f"item {i} bad time_horizon {it['time_horizon']}")
+        for k in ("sectors", "tickers", "key_numbers"):
+            if not isinstance(it[k], list):
+                raise ValueError(f"item {i} {k} not list")
+    return items
+
+
+def summarize_th_news(articles: list[dict]) -> tuple[list[dict], str]:
+    user_prompt = "Here are 10 top Thai business/economy news items from the past 24 hours. " \
+                  "Analyze and return the JSON array as specified.\n\n"
+    for i, a in enumerate(articles, 1):
+        body = (a.get("content") or a.get("summary") or "")[:3000]
+        user_prompt += (
+            f"--- ARTICLE {i} ---\n"
+            f"source_name: {a['source_name']}\n"
+            f"url: {a['link']}\n"
+            f"published: {a['published']}\n"
+            f"title: {a['title']}\n"
+            f"content:\n{body}\n\n"
+        )
+    messages = [
+        {"role": "system", "content": TH_NEWS_SYSTEM_PROMPT},
+        {"role": "user", "content": user_prompt},
+    ]
+    last_err = None
+    for model in MODELS:
+        log.info("summarize_th_news: trying model %s", model)
+        out = _call_model(model, messages, max_tokens=8000, temperature=0.3)
+        if not out:
+            continue
+        try:
+            items = _validate_th(_extract_json_array(out))
+            return items, model
+        except (ValueError, json.JSONDecodeError) as e:
+            last_err = e
+            log.warning("model %s failed TH validation: %s", model, e)
+            continue
+    raise RuntimeError(f"all models failed for th_news; last err: {last_err}")
+
+
+TH_EXEC_SYSTEM_PROMPT = (
+    "You are a senior Thai equities & macro analyst. Given a JSON array of 10 Thai "
+    "business/economy news items, write a 4–5 line Thai executive summary that "
+    "synthesizes the day's big picture for a Thai investor (SET, THB, BoT policy, "
+    "key sectors). Be direct and analytical, no hedging, no disclaimers. "
+    "Return ONLY the Thai text — no preamble, no bullet points, no JSON."
+)
+
+
+def th_executive_summary(items: list[dict]) -> tuple[str, str]:
+    messages = [
+        {"role": "system", "content": TH_EXEC_SYSTEM_PROMPT},
+        {"role": "user", "content": json.dumps(items, ensure_ascii=False)},
+    ]
+    for model in MODELS:
+        log.info("th_executive_summary: trying %s", model)
+        out = _call_model(model, messages, max_tokens=800, temperature=0.4)
+        if out and out.strip():
+            txt = out.strip()
+            txt = re.sub(r"^```.*?\n", "", txt)
+            txt = re.sub(r"\n```$", "", txt)
+            return txt.strip(), model
+    raise RuntimeError("all models failed for th_executive_summary")
+
+
 def executive_summary(items: list[dict]) -> tuple[str, str]:
     messages = [
         {"role": "system", "content": EXEC_SYSTEM_PROMPT},
