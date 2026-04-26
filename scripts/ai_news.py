@@ -33,15 +33,19 @@ REPO_URL = os.environ.get("REPO_URL", "https://github.com/USERNAME/REPO")
 ARTICLES_DIR = ROOT / "articles"
 
 AI_FEEDS: list[tuple[str, str]] = [
+    # direct feeds that work from GitHub Actions IPs
     ("TechCrunch AI", "https://techcrunch.com/category/artificial-intelligence/feed/"),
-    ("The Verge AI", "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"),
-    ("Ars Technica AI", "https://arstechnica.com/ai/feed/"),
-    ("VentureBeat AI", "https://venturebeat.com/category/ai/feed/"),
-    ("MIT Technology Review AI", "https://www.technologyreview.com/topic/artificial-intelligence/feed"),
-    ("Wired AI", "https://www.wired.com/feed/tag/ai/latest/rss"),
     ("Hugging Face Blog", "https://huggingface.co/blog/feed.xml"),
-    ("Google AI Blog", "https://blog.google/technology/ai/rss/"),
-    ("OpenAI Blog", "https://openai.com/news/rss.xml"),
+    # Google News proxies — these sites' direct RSS often blocks data-center IPs,
+    # but Google News' RSS is served from Google CDN and works reliably.
+    ("The Verge AI", "https://news.google.com/rss/search?q=site:theverge.com+AI&hl=en-US&gl=US&ceid=US:en"),
+    ("Ars Technica AI", "https://news.google.com/rss/search?q=site:arstechnica.com+AI&hl=en-US&gl=US&ceid=US:en"),
+    ("VentureBeat AI", "https://news.google.com/rss/search?q=site:venturebeat.com+AI&hl=en-US&gl=US&ceid=US:en"),
+    ("MIT Tech Review AI", "https://news.google.com/rss/search?q=site:technologyreview.com+AI&hl=en-US&gl=US&ceid=US:en"),
+    ("Wired AI", "https://news.google.com/rss/search?q=site:wired.com+AI&hl=en-US&gl=US&ceid=US:en"),
+    ("Google AI Blog", "https://news.google.com/rss/search?q=site:blog.google+AI&hl=en-US&gl=US&ceid=US:en"),
+    ("OpenAI", "https://news.google.com/rss/search?q=site:openai.com&hl=en-US&gl=US&ceid=US:en"),
+    ("Anthropic", "https://news.google.com/rss/search?q=site:anthropic.com&hl=en-US&gl=US&ceid=US:en"),
 ]
 
 AI_KEYWORDS = [
