@@ -31,6 +31,7 @@ FEEDS: list[tuple[str, str]] = [
     ("Seeking Alpha Market News", "https://seekingalpha.com/market_currents.xml"),
     ("Financial Times Companies", "https://www.ft.com/companies?format=rss"),
     ("Bloomberg Markets (Google News)", "https://news.google.com/rss/search?q=site:bloomberg.com+markets&hl=en-US"),
+    ("WSJ Markets (Google News)", "https://news.google.com/rss/search?q=site:wsj.com+markets&hl=en-US"),
     ("Federal Reserve Press Releases", "https://www.federalreserve.gov/feeds/press_all.xml"),
     ("US Treasury News", "https://home.treasury.gov/news/press-releases/feed"),
     ("BLS Latest", "https://www.bls.gov/feed/bls_latest.rss"),

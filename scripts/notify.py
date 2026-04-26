@@ -75,27 +75,21 @@ def _send(token: str, chat_id: str, text: str) -> None:
 
 
 def build_digest(date_str: str, items: list[dict], aggregate: dict,
-                 repo_url: str) -> str:
-    bulls = aggregate["sentiment_counts"].get("bullish", 0)
-    bears = aggregate["sentiment_counts"].get("bearish", 0)
-    neutrals = aggregate["sentiment_counts"].get("neutral", 0)
-    top_sectors = ", ".join(aggregate["top_sectors"]) or "—"
-    top_tickers = ", ".join(aggregate["top_tickers"]) or "—"
-
+                 repo_url: str, exec_summary: str = "") -> str:
     alerts = [
         it for it in items
         if it.get("impact") == "high" and it.get("time_horizon") == "immediate"
     ]
 
-    lines = []
+    lines: list[str] = []
     lines.append(f"📈 *US Market Brief — {escape_mdv2(date_str)}*")
     lines.append("")
-    lines.append(
-        f"🎯 Sentiment: {bulls}🟢 / {bears}🔴 / {neutrals}⚪"
-    )
-    lines.append(f"🏭 Top sectors: {escape_mdv2(top_sectors)}")
-    lines.append(f"🎰 Top tickers: {escape_mdv2(top_tickers)}")
-    lines.append("")
+
+    if exec_summary.strip():
+        lines.append("*Executive Summary*")
+        lines.append(escape_mdv2(exec_summary.strip()))
+        lines.append("")
+
     lines.append("🚨 *High\\-Impact Today:*")
     if alerts:
         for it in alerts:
@@ -104,26 +98,32 @@ def build_digest(date_str: str, items: list[dict], aggregate: dict,
     else:
         lines.append("• \\(none\\)")
     lines.append("")
+
     lines.append("*Top 10 Headlines:*")
+    lines.append("")
     for it in sorted(items, key=lambda x: x.get("rank", 99)):
         emoji = SENTIMENT_EMOJI.get(it.get("sentiment", "neutral"), "⚪")
         rank = it.get("rank", "?")
-        lines.append(
-            f"{rank}\\. {emoji} {escape_mdv2(it.get('title_th', ''))}"
-        )
-    lines.append("")
+        title = escape_mdv2(it.get("title_th", ""))
+        summary = escape_mdv2((it.get("summary_th", "") or "").strip())
+        lines.append(f"*{rank}\\. {emoji} {title}*")
+        if summary:
+            lines.append(summary)
+        lines.append("")
+
     full_url = f"{repo_url}/blob/main/briefs/{date_str}.md"
     lines.append(f"🔗 Full: {escape_mdv2(full_url)}")
     return "\n".join(lines)
 
 
 def send_digest(date_str: str, items: list[dict], aggregate: dict,
-                repo_url: str = "https://github.com/USERNAME/REPO") -> None:
+                repo_url: str = "https://github.com/USERNAME/REPO",
+                exec_summary: str = "") -> None:
     token = os.environ.get("TELEGRAM_BOT_TOKEN")
     chat_id = os.environ.get("TELEGRAM_CHAT_ID")
     if not token or not chat_id:
         log.warning("Telegram secrets missing; skipping notify")
         return
-    text = build_digest(date_str, items, aggregate, repo_url)
+    text = build_digest(date_str, items, aggregate, repo_url, exec_summary)
     for chunk in _chunk(text):
         _send(token, chat_id, chunk)

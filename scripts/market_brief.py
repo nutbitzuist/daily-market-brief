@@ -183,7 +183,7 @@ def run() -> int:
         print("=== DRY RUN — would write to", out_path, "===")
         print(md[:3000])
         print("...\n=== Telegram digest preview ===")
-        print(notify.build_digest(date_str, items, aggregate, REPO_URL))
+        print(notify.build_digest(date_str, items, aggregate, REPO_URL, exec_summary))
         return 0
 
     out_path.write_text(md, encoding="utf-8")
@@ -191,7 +191,7 @@ def run() -> int:
     log.info("wrote %s and %s", out_path, latest_path)
 
     # 8. telegram
-    notify.send_digest(date_str, items, aggregate, REPO_URL)
+    notify.send_digest(date_str, items, aggregate, REPO_URL, exec_summary)
     return 0
 
 

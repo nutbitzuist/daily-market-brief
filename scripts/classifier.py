@@ -87,12 +87,25 @@ def _recency_bonus(pub: datetime, now: datetime) -> float:
     return 0
 
 
+# Priority sources get a flat scoring boost so they tend to surface in top 10.
+PRIORITY_SOURCES = ("Reuters", "Bloomberg", "CNBC", "WSJ", "Financial Times")
+PRIORITY_BONUS = 4.0
+
+
+def _source_bonus(source_name: str) -> float:
+    return PRIORITY_BONUS if any(p in source_name for p in PRIORITY_SOURCES) else 0.0
+
+
 def score_articles(articles: Iterable[Article]) -> list[Article]:
     now = datetime.now(timezone.utc)
     out = []
     for a in articles:
         text = f"{a.title}\n{a.summary}"
-        a.score = _keyword_score(text) + _recency_bonus(a.published, now)
+        a.score = (
+            _keyword_score(text)
+            + _recency_bonus(a.published, now)
+            + _source_bonus(a.source_name)
+        )
         a.recency_hours = (now - a.published).total_seconds() / 3600
         a.candidate_tickers = extract_tickers(text)
         a.sector_hints = detect_sectors(text)
