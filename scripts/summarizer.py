@@ -15,7 +15,7 @@ log = logging.getLogger(__name__)
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 MODELS = [
-    "deepseek/deepseek-v4-flash",
+    "google/gemini-2.5-flash-lite",
     "openai/gpt-oss-120b:free",
     "google/gemma-3-27b-it:free",
     "qwen/qwen3-coder:free",
@@ -174,6 +174,69 @@ EXEC_SYSTEM_PROMPT = (
     "for a US equities investor. Be direct and analytical, no disclaimers, no hedging. "
     "Return ONLY the Thai text — no preamble, no bullet points, no JSON."
 )
+
+
+AI_NEWS_SYSTEM_PROMPT = (
+    "You are a senior AI research analyst writing a personal daily AI news brief. "
+    "Return STRICT JSON array of exactly 5 objects, each with: title_th (Thai concise "
+    "title), summary_th (Thai 3-5 line summary), url, source, why_it_matters (1 line "
+    "in Thai on why this matters for AI builders/investors). Be direct and analytical, "
+    "no hedging, no disclaimers. Return ONLY the JSON array, no preamble."
+)
+
+AI_REQUIRED_FIELDS = ["title_th", "summary_th", "url", "source", "why_it_matters"]
+
+
+def _validate_ai(items: Any) -> list[dict]:
+    if not isinstance(items, list) or len(items) != 5:
+        raise ValueError(
+            f"expected list of 5, got {type(items).__name__} "
+            f"len={len(items) if isinstance(items, list) else 'n/a'}"
+        )
+    for i, it in enumerate(items):
+        if not isinstance(it, dict):
+            raise ValueError(f"item {i} not dict")
+        for f in AI_REQUIRED_FIELDS:
+            if f not in it or not isinstance(it[f], str):
+                raise ValueError(f"item {i} missing/invalid field {f}")
+    return items
+
+
+def _build_ai_user_prompt(articles: list[dict]) -> str:
+    lines = ["Here are 5 top AI news items from the past 24 hours. "
+             "Analyze and return the JSON array as specified.\n"]
+    for i, a in enumerate(articles, 1):
+        body = (a.get("content") or a.get("summary") or "")[:3000]
+        lines.append(
+            f"--- ARTICLE {i} ---\n"
+            f"source: {a['source_name']}\n"
+            f"url: {a['link']}\n"
+            f"published: {a['published']}\n"
+            f"title: {a['title']}\n"
+            f"content:\n{body}\n"
+        )
+    return "\n".join(lines)
+
+
+def summarize_ai_news(articles: list[dict]) -> tuple[list[dict], str]:
+    messages = [
+        {"role": "system", "content": AI_NEWS_SYSTEM_PROMPT},
+        {"role": "user", "content": _build_ai_user_prompt(articles)},
+    ]
+    last_err = None
+    for model in MODELS:
+        log.info("summarize_ai_news: trying model %s", model)
+        out = _call_model(model, messages, max_tokens=4000, temperature=0.3)
+        if not out:
+            continue
+        try:
+            items = _validate_ai(_extract_json_array(out))
+            return items, model
+        except (ValueError, json.JSONDecodeError) as e:
+            last_err = e
+            log.warning("model %s failed AI validation: %s", model, e)
+            continue
+    raise RuntimeError(f"all models failed for ai_news; last err: {last_err}")
 
 
 def executive_summary(items: list[dict]) -> tuple[str, str]:
