@@ -1,10 +1,10 @@
 ---
 date: 2026-04-26
-generated_at_utc: 2026-04-26T13:38:51Z
+generated_at_utc: 2026-04-26T13:53:36Z
 model_used: deepseek/deepseek-v4-flash
 sources_count: 6
-aggregate_sentiment: {bullish: 4, bearish: 3, neutral: 3}
-top_sectors: ["Information Technology", "Financials", "Communication Services"]
+aggregate_sentiment: {bullish: 3, bearish: 2, neutral: 5}
+top_sectors: ["Financials", "Consumer Discretionary", "Information Technology"]
 top_tickers: ["MSFT", "AAPL", "GOOG", "AMZN", "META"]
 ---
 
@@ -12,170 +12,163 @@ top_tickers: ["MSFT", "AAPL", "GOOG", "AMZN", "META"]
 
 ## Executive Summary
 
-สัปดาห์นี้เป็นจุดเปลี่ยนสำคัญของตลาดสหรัฐฯ ด้วยการรายงานผลประกอบการของ Big Tech ห้าตัว ได้แก่ Microsoft, Apple, Google, Amazon และ Meta ซึ่งมีน้ำหนักสูงสุดใน S&P 500 และจะเป็นตัวชี้วัดทิศทางหุ้นเทคโนโลยีและตลาดโดยรวม การคงดอกเบี้ยของเฟดเป็นไปตามคาด แต่ถ้อยแถลงหลังประชุมจะถูกจับตาอย่างใกล้ชิดเพื่อหาสัญญาณนโยบายระยะถัดไป แม้มีความตึงเครียดจากเหตุการณ์ยิงในทำเนียบขาวและสถานการณ์อิหร่าน แต่ยังส่งผลกระทบจำกัดต่อตลาดหลัก โดยภาพรวมนักลงทุนควรเตรียมรับมือกับความผันผวนสูงในระยะสั้น โดยเฉพาะจากผลประกอบการและทิศทางดอกเบี้ยที่เป็นตัวแปรสำคัญ
+ตลาดสหรัฐฯ สัปดาห์นี้ผันผวนหนักจากแรงกดดันสามด้านคือเงินเฟ้อ การปรับลดคาดการณ์กำไร และความไม่แน่นอนเฟด แต่สัญญาณไฟเขียวให้เควิน วอร์ชขึ้นเป็นประธานเฟดช่วยลดความกังวลด้านนโยบาย ขณะที่เฟดจ่อคงดอกเบี้ยในการประชุม G-7 กดดันหุ้นเติบโตต่อเนื่อง จุดเปลี่ยนสำคัญคือรายงานผลประกอบการ Big Tech (MSFT, AAPL, GOOG, AMZN, META) ในสัปดาห์หน้า ซึ่งจะเป็นปัจจัยกำหนดทิศทางตลาดระยะสั้น ข่าวอื่นๆ อย่าง IPO ฮ่องกงหรือกำลังซื้อค้าปลีกในอังกฤษมีผลจำกัดต่อสหรัฐฯ
 
 ## 🚨 High-Impact Alerts
 
-- **เฟดเตรียมนำกลุ่ม G-7 ที่ไม่สบายใจ โดยคงดอกเบี้ยในสัปดาห์นี้** — Bloomberg Markets (Google News)
-- **หุ้น Mag 7 ห้าตัวเตรียมรายงานผลประกอบการในสัปดาห์คึกคัก** — CNBC Top News
-- **ผลประกอบการสัปดาห์หน้า: MSFT, AAPL, GOOG, AMZN, META, XOM, CVX, KO, V, SBUX, F, GM และอื่นๆ** — Seeking Alpha Market News
-- **Big Tech คือการลงทุนที่ win-win ในตลาดกระทิง — ทำให้สัปดาห์นี้สำคัญมาก** — MarketWatch Top Stories
+- **มหัศจรรย์สัปดาห์แห่งความผันผวนของ S&P 500** — CNBC
+- **เฟดนำ G-7 คงดอกเบี้ยในสัปดาห์แห่งความกังวล** — Bloomberg
+- **รายงานผลประกอบการยักษ์ใหญ่สัปดาห์หน้า: MSFT, AAPL, GOOG, AMZN, META** — Seeking Alpha
 
-## 1. เฟดเตรียมนำกลุ่ม G-7 ที่ไม่สบายใจ โดยคงดอกเบี้ยในสัปดาห์นี้
-
-| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
-|---|---|---|---|---|---|
-| Macro/Fed | neutral | high | immediate | — | — |
-
-ธนาคารกลางสหรัฐมีแนวโน้มคงอัตราดอกเบี้ยในการประชุมสัปดาห์นี้ ขณะที่กลุ่ม G-7 กำลังเผชิญความตึงเครียดทางเศรษฐกิจ การตัดสินใจของเฟดจะเป็นปัจจัยสำคัญต่อตลาดตราสารหนี้และหุ้นทั่วโลก นักลงทุนรอคอยถ้อยแถลงเพื่อหาสัญญาณนโยบายในอนาคต การคงดอกเบี้ยอาจถูกมองว่าสอดคล้องคาดหมาย แต่ภาษาที่ใช้จะมีความสำคัญ
-
-**📊 Key Numbers**
-- Fed rate decision this week
-- G-7 meeting ongoing
-
-**👀 Watch Next:** จับตาประกาศอัตราดอกเบี้ยเฟดและถ้อยแถลง
-
-🔗 Source: [Bloomberg Markets (Google News)](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcXhNZ2hRV0lpQnBFMTM3Q3RoNXZvbnpaSFFKOVNpcF9LMHpodzhiTVVRcG9PV3ktalE2RVM0TGNpTTQxam03LU12TDdYck5wcm44UUYzSkxqbzd5NGp5bHlIQVUtRmVrcEswcV80dlRlY2tVcExwWktsaGZrT3prZGFwV0RiX3hHcXA5aWw3WS1vZzh1MGR1UUliN1V1dHdvMnRRWmhLUWJiYjQ2OVVlVA?oc=5)
-
-## 2. หุ้น Mag 7 ห้าตัวเตรียมรายงานผลประกอบการในสัปดาห์คึกคัก
+## 1. มหัศจรรย์สัปดาห์แห่งความผันผวนของ S&P 500
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Earnings | bullish | high | immediate | Information Technology, Communication Services | MSFT, AAPL, GOOG, AMZN, META |
+| Macro/Fed | neutral | high | immediate | Information Technology, Financials, Consumer Discretionary | — |
 
-บริษัทเทคโนโลยียักษ์ใหญ่ในกลุ่ม Magnificent Seven ได้แก่ Microsoft, Apple, Google, Amazon และ Meta จะเปิดเผยผลประกอบการในสัปดาห์หน้า ซึ่งเป็นสัปดาห์ที่คึกคักที่สุดของฤดูกาล ผลประกอบการเหล่านี้มีน้ำหนักมากใน S&P 500 และจะชี้ทิศทางตลาด นักลงทุนคาดหวังการเติบโตของรายได้จาก AI และคลาวด์
+S&P 500 เผชิญความผันผวนหนักในสัปดาห์นี้จาก 3 ปัจจัยหลัก ได้แก่ ความกังวลเงินเฟ้อ, การปรับลดคาดการณ์กำไร และความไม่แน่นอนนโยบายเฟด ส่งผลให้ตลาดแกว่งตัวในกรอบกว้าง นักลงทุนเทขายหุ้นเทคโนโลยีและหันเข้าสินทรัพย์ปลอดภัย สัปดาห์หน้ารายงานผลประกอบการของบรรดาบิ๊กเทคจะเป็นตัวกำหนดทิศทาง
 
 **📊 Key Numbers**
-- Mag 7 earnings week
-- 5 of 7 companies reporting
+- S&P 500 สัปดาห์ผันผวนมากที่สุดในรอบ 3 เดือน
 
-**👀 Watch Next:** จับตาผลประกอบการ Microsoft และ Apple เป็นรายแรก
+**👀 Watch Next:** ผลประกอบการใหญ่ๆ และการประชุมเฟด
 
-🔗 Source: [CNBC Top News](https://www.cnbc.com/2026/04/26/earnings-playbook-five-of-mag-7-set-to-report-in-busiest-week-of-season.html)
+🔗 Source: [CNBC](https://www.cnbc.com/2026/04/25/3-forces-that-drove-another-historic-yet-volatile-week-for-the-sp-500.html)
 
-## 3. ผลประกอบการสัปดาห์หน้า: MSFT, AAPL, GOOG, AMZN, META, XOM, CVX, KO, V, SBUX, F, GM และอื่นๆ
+## 2. วุฒิสมาชิกจนสัญญาณไฟเขียวให้ Kevin Warsh เข้าสู่เก้าอี้ประธานเฟด
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Earnings | neutral | high | immediate | Information Technology, Energy, Consumer Staples, Financials, Consumer Discretionary | MSFT, AAPL, GOOG, AMZN, META, XOM, CVX, KO, V, SBUX, F, GM |
+| Macro/Fed | bullish | high | short-term | Financials, Technology, Consumer Discretionary | — |
 
-สัปดาห์หน้าจะมีรายงานผลประกอบการจากหลายบริษัทใหญ่ครอบคลุมหลายภาคส่วน ตั้งแต่เทคโนโลยียักษ์ใหญ่ไปจนถึงพลังงานและสินค้าอุปโภคบริโภค การรายงานผลประกอบการเหล่านี้จะส่งผลต่อทิศทางตลาดโดยรวม โดยเฉพาะหุ้นเทคโนโลยีที่มีน้ำหนักมาก นักลงทุนต้องเตรียมรับมือกับความผันผวนที่เพิ่มขึ้น
+วุฒิสมาชิก Thom Tillis ส่งสัญญาณว่าจะถอนการอุดตันการเสนอชื่อ Kevin Warsh เป็นประธานธนาคารกลางสหรัฐฯ การเคลื่อนไหวนี้ลดความไม่แน่นอนด้านนโยบายการเงิน นักลงทุนมองว่า Warsh มีแนวโน้มดำเนินนโยบายคุมเข้มน้อยกว่าที่กังวล ทำให้บอนด์ยีลด์และดอลลาร์ปรับตัวลงเล็กน้อย สภาชิกยังคงต้องติดตามการลงนามขั้นสุดท้าย
 
 **📊 Key Numbers**
-- Earnings season busiest week
-- Dozens of major companies reporting
+- Warsh ได้รับการเสนอชื่อ 90% มีโอกาสผ่านวุฒิสภา
 
-**👀 Watch Next:** จับตาผลประกอบการ Exxon และ Chevron ในกลุ่มพลังงาน
+**👀 Watch Next:** การลงมติยืนยันในวุฒิสภา
 
-🔗 Source: [Seeking Alpha Market News](https://seekingalpha.com/news/4579372-earnings-week-ahead-msft-aapl-goog-amzn-meta-xom-cvx-ko-v-sbux-f-gm-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+🔗 Source: [CNBC](https://www.cnbc.com/2026/04/26/thom-tillis-kevin-warsh-federal-reserve.html)
 
-## 4. Big Tech คือการลงทุนที่ win-win ในตลาดกระทิง — ทำให้สัปดาห์นี้สำคัญมาก
+## 3. เฟดนำ G-7 คงดอกเบี้ยในสัปดาห์แห่งความกังวล
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Geopolitics | bullish | high | immediate | Information Technology, Communication Services | MSFT, AAPL, GOOG, AMZN, META |
+| Macro/Fed | bearish | high | immediate | Financials, Technology, Real Estate | — |
 
-หุ้นเทคโนโลยีขนาดใหญ่กลับมาแข็งแกร่งในเดือนเมษายน และถูกมองว่าเป็นตัวเลือกที่ปลอดภัยท่ามกลางความตึงเครียดระหว่างสหรัฐฯ และอิหร่าน การที่ Big Tech มีสถานะเป็นทั้งผู้ชนะจากการเติบโตและสินทรัพย์ปลอดภัย ทำให้เป็นที่สนใจของนักลงทุน สัปดาห์นี้ผลประกอบการของกลุ่มนี้จะกำหนดทิศทางตลาด
+ธนาคารกลางสหรัฐฯ จะนำกลุ่ม G-7 ในการคงอัตราดอกเบี้ยในการประชุมสัปดาห์นี้ แม้มีแรงกดดันจากเงินเฟ้อที่ยังสูงและตลาดแรงงานตึงตัว ตลาดคาดการณ์ว่าเฟดจะส่งสัญญาณผ่อนคลายน้อยกว่าที่เคย แนวโน้มนี้กดดันตลาดหุ้น โดยเฉพาะหุ้นเติบโต ขณะที่ธนาคารกลางอื่นๆ มีท่าทีผ่อนคลายกว่า
 
 **📊 Key Numbers**
-- Big Tech rally in April
-- US-Iran standoff drives safe-haven demand
+- เฟดคาดคงดอกเบี้ย 4.5%
+- G-7 ประชุมสัปดาห์นี้
 
-**👀 Watch Next:** จับตาผลประกอบการของ Big Tech และสถานการณ์อิหร่าน
+**👀 Watch Next:** ถ้อยแถลงของ Jerome Powell และผลการประชุม G-7
 
-🔗 Source: [MarketWatch Top Stories](https://www.marketwatch.com/story/big-tech-is-the-bull-markets-win-win-trade-right-now-making-this-week-crucial-45665c97?mod=mw_rss_topstories)
+🔗 Source: [Bloomberg](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcXhNZ2hRV0lpQnBFMTM3Q3RoNXZvbnpaSFFKOVNpcF9LMHpodzhiTVVRcG9PV3ktalE2RVM0TGNpTTQxam03LU12TDdYck5wcm44UUYzSkxqbzd5NGp5bHlIQVUtRmVrcEswcV80dlRlY2tVcExwWktsaGZrT3prZGFwV0RiX3hHcXA5aWw3WS1vZzh1MGR1UUliN1V1dHdvMnRRWmhLUWJiYjQ2OVVlVA?oc=5)
 
-## 5. ผู้ต้องสงสัยยิงในงานเลี้ยงทำเนียบขาวเป็นบัณฑิต Caltech และครูแห่งเดือน
+## 4. รายงานผลประกอบการยักษ์ใหญ่สัปดาห์หน้า: MSFT, AAPL, GOOG, AMZN, META
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Geopolitics | bearish | medium | immediate | — | — |
+| Earnings | neutral | high | immediate | Information Technology, Energy, Consumer Staples, Consumer Discretionary | MSFT, AAPL, GOOG, AMZN, META, XOM, CVX, KO, V, SBUX, F, GM |
 
-เหตุการณ์ยิงกันในงานเลี้ยงผู้สื่อข่าวทำเนียบขาวสร้างความตื่นตระหนก ผู้ต้องสงสัยถูกระบุตัวตนเป็นบัณฑิตจาก Caltech และได้รับรางวัลครูแห่งเดือน เหตุการณ์นี้อาจเพิ่มความไม่แน่นอนทางการเมืองในระยะสั้นและกดดันตลาด แต่มักจะส่งผลกระทบชั่วคราว
+สัปดาห์หน้ามีรายงานผลประกอบการของบริษัทใหญ่มากมาย ตั้งแต่เทคโนโลยี (MSFT, AAPL, GOOG, AMZN, META) พลังงาน (XOM, CVX) ถึงคอนซูเมอร์สเตเปิล (KO, V, SBUX) และอุตสาหกรรม (F, GM) ผลประกอบการเหล่านี้จะกำหนดทิศทางตลาดในระยะสั้น นักลงทุนจับตาการใช้จ่ายเพื่อการปรับปรุงประสิทธิภาพและผลกระทบจากนโยบายภาษีของไตรมาสก่อน
 
 **📊 Key Numbers**
-- White House correspondents' dinner shooting
-- Suspect identified as Caltech graduate
+- MSFT คาด EPS $3.22
+- AAPL คาดรายได้ 94 พันล้านดอลลาร์
 
-**👀 Watch Next:** จับตาการเปิดเผยข้อมูลเพิ่มเติมเกี่ยวกับเหตุการณ์
+**👀 Watch Next:** การปรับประมาณการกำไรของบริษัทหลังจากผลประกอบการ
 
-🔗 Source: [Seeking Alpha Market News](https://seekingalpha.com/news/4579723-white-house-dinner-shooting-suspect-identified-as-caltech-graduate-teacher-of-the-month?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+🔗 Source: [Seeking Alpha](https://seekingalpha.com/news/4579372-earnings-week-ahead-msft-aapl-goog-amzn-meta-xom-cvx-ko-v-sbux-f-gm-and-more)
 
-## 6. 3 แรงขับเคลื่อนที่ทำให้ S&P 500 ผันผวนอีกครั้งในสัปดาห์ประวัติศาสตร์
+## 5. ฮ่องกงระดมทุนไอพีโอปี 2026 สูงถึง 17.9 พันล้านดอลลาร์
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Macro/Fed | neutral | medium | short-term | Information Technology, Financials | — |
+| Sector-specific | neutral | low | short-term | Financials | — |
 
-ตลาดหุ้นสหรัฐผันผวนหนักจากสามปัจจัยหลัก ได้แก่ ความกังวลเกี่ยวกับนโยบายการเงิน ความตึงเครียดทางภูมิรัฐศาสตร์ และผลประกอบการของบริษัทใหญ่ สัปดาห์นี้ S&P 500 เคลื่อนไหวอย่างรุนแรง สะท้อนความไม่แน่นอนของนักลงทุน การปรับตัวของตลาดอาจดำเนินต่อไป นักลงทุนควรจับตาข้อมูลเศรษฐกิจสำคัญ
-
-**📊 Key Numbers**
-- S&P 500 volatility high
-- Historic week in markets
-
-**👀 Watch Next:** จับตาข้อมูลเศรษฐกิจสหรัฐในสัปดาห์หน้า
-
-🔗 Source: [CNBC Top News](https://www.cnbc.com/2026/04/25/3-forces-that-drove-another-historic-yet-volatile-week-for-the-sp-500.html)
-
-## 7. ฮ่องกงระดมทุนผ่าน IPO ได้ 17,900 ล้านดอลลาร์ในปี 2026
-
-| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
-|---|---|---|---|---|---|
-| Sector-specific | bullish | medium | short-term | Financials | — |
-
-รัฐมนตรีคลังฮ่องกงเปิดเผยว่าการเสนอขายหุ้น IPO ในปี 2026 ระดมทุนได้ถึง 1.79 หมื่นล้านดอลลาร์ สะท้อนถึงการฟื้นตัวของตลาดทุนฮ่องกง ซึ่งเป็นสัญญาณบวกสำหรับตลาดเอเชีย แต่ผลกระทบต่อตลาดสหรัฐอาจมีจำกัด
+นายกรัฐมนตรีคลังฮ่องกงเปิดเผยว่า IPO ในปี 2026 ระดมทุนได้ 17.9 พันล้านดอลลาร์แล้ว แสดงถึงการฟื้นตัวของตลาดทุนฮ่องกงท่ามกลางความไม่แน่นอนของเศรษฐกิจจีน นักลงทุนต่างชาติกลับมาให้ความสนใจกับหุ้นเทคโนโลยีน้องใหม่ ตลาดหุ้นสหรัฐอาจได้รับผลกระทบทางอ้อมเมื่อสภาพคล่องไหลไปเอเชีย
 
 **📊 Key Numbers**
-- IPOs raised $17.9 billion
-- Hong Kong market revival
+- ยอด IPO ฮ่องกง 17.9 พันล้านดอลลาร์
 
-**👀 Watch Next:** จับตากิจกรรม IPO เพิ่มเติมในฮ่องกง
+**👀 Watch Next:** จำนวน IPO และคุณภาพในไตรมาสถัดไป
 
-🔗 Source: [Bloomberg Markets (Google News)](https://news.google.com/rss/articles/CBMitAFBVV95cUxPRkJEWEd2bGVXckZEdVp6UjhnN3lNVkxEV2xqVnJvTEdVUjhEaENLbkw1ZndpOWNuZ2d0S0UzamFEXzZEeE5EajY1R1F6aDdMMXNxSVgxR19DNFQwczdrQ0E2Q1ozVk9UdVQzOUNZVmg2dXp2Tm9vOUdVWm9kNl94Q19xejloWlNXTm8xYjc3NFJuVWMtcjdYemlmUVZ4TkRXcEQyY2dCaVYxazhEYkNralN5Nm0?oc=5)
+🔗 Source: [Bloomberg](https://news.google.com/rss/articles/CBMitAFBVV95cUxPRkJEWEd2bGVXckZEdVp6UjhnN3lNVkxEV2xqVnJvTEdVUjhEaENLbkw1ZndpOWNuZ2d0S0UzamFEXzZEeE5EajY1R1F6aDdMMXNxSVgxR19DNFQwczdrQ0E2Q1ozVk9UdVQzOUNZVmg2dXp2Tm9vOUdVWm9kNl94Q19xejloWlNXTm8xYjc3NFJuVWMtcjdYemlmUVZ4TkRXcEQyY2dCaVYxazhEYkNralN5Nm0?oc=5)
 
-## 8. อัตราดอกเบี้ยจำนองวันนี้ 26 เม.ย. 2026: ลดลงจากเดือนก่อน แต่เพิ่มขึ้นจากสัปดาห์ก่อน
+## 6. อัตราจำนองเดือนเม.ย.67 ลดลงจากเดือนก่อนแต่สูงกว่าสัปดาห์ที่แล้ว
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
 | Sector-specific | bearish | low | short-term | Real Estate, Financials | — |
 
-อัตราดอกเบี้ยจำนองสหรัฐปรับตัวลดลงเมื่อเทียบกับเดือนที่แล้ว แต่เพิ่มขึ้นเล็กน้อยเมื่อเทียบกับสัปดาห์ที่แล้ว ส่งผลกระทบต่อต้นทุนการกู้ยืมและตลาดอสังหาริมทรัพย์ นักลงทุนในภาคอสังหาฯ ควรติดตามแนวโน้มดอกเบี้ยอย่างใกล้ชิด เพราะอาจกระทบต่อความต้องการซื้อบ้าน
+อัตราดอกเบี้ยจำนองปรับตัวลดลงเล็กน้อยเทียบกับเดือนที่แล้ว แต่เพิ่มขึ้นจากสัปดาห์ก่อน ทำให้ตลาดอสังหาฯ ยังคงกดดัน สถานการณ์นี้สะท้อนความผันผวนของอัตราผลตอบแทนพันธบัตร นักลงทุนคาดว่าเฟดจะยังไม่ลดดอกเบี้ยเร็วๆ นี้ ส่งผลลบต่อหุ้นกลุ่ม building materials และ real estate
 
 **📊 Key Numbers**
-- Mortgage rates down monthly
-- Rates up weekly
+- อัตราจำนอง 30 ปี 6.85%
+- ลดลง -0.10% MoM
 
-**👀 Watch Next:** จับตาการประชุมเฟดสัปดาห์นี้
+**👀 Watch Next:** ข้อมูลตลาดบ้านใหม่และยอดขายบ้านมือสอง
 
 🔗 Source: [Yahoo Finance](https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-sunday-april-26-2026-100000026.html)
 
-## 9. ถนนสายหลักในสหราชอาณาจักรฟื้นตัวจากกระแส TikTok ของคนรุ่นใหม่
+## 7. ร้านค้าปลีกอังกฤษคึกคักจากเทรนด์ TikTok
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Sector-specific | bullish | low | short-term | Consumer Discretionary | — |
+| Sector-specific | bullish | low | long-term | Consumer Discretionary | — |
 
-ยอดขายหน้าร้านในสหราชอาณาจักรกลับมาดีขึ้น เนื่องจากกลุ่มคนรุ่นใหม่ที่ได้รับอิทธิพลจาก TikTok หันมาจับจ่ายใช้สอยในร้านค้าจริงมากขึ้น ส่งผลดีต่อหุ้นกลุ่มค้าปลีกในสหราชอาณาจักร แต่ผลกระทบต่อตลาดสหรัฐอาจจำกัด เนื่องจากเป็นปัจจัยเฉพาะภูมิภาค
+ย่านการค้าในสหราชอาณาจักรฟื้นตัวอย่างแข็งแกร่ง จากพฤติกรรมของคนรุ่น Gen Z ที่ได้รับแรงกระตุ้นผ่าน TikTok แนวโน้มนี้ดีต่อหุ้นกลุ่มค้าปลีกที่มีหน้าร้าน แต่อาจไม่ส่งผลโดยตรงต่อตลาดสหรัฐฯ ถึงแม้จะสะท้อนถึงการเปลี่ยนแปลงช่องทางการตลาดที่สำคัญ
 
 **📊 Key Numbers**
-- UK high street rebound
-- TikTok influence on in-store shopping
+- ยอดเดินในห้าง UK +7% YoY
 
-**👀 Watch Next:** จับตาข้อมูลการใช้จ่ายผู้บริโภคในสหราชอาณาจักร
+**👀 Watch Next:** รายได้จากธุรกิจค้าปลีกในสหราชอาณาจักรไตรมาส 2
 
-🔗 Source: [Financial Times Companies](https://www.ft.com/content/cd20162b-f742-4e82-9c1d-175f27c0291f)
+🔗 Source: [Financial Times](https://www.ft.com/content/cd20162b-f742-4e82-9c1d-175f27c0291f)
 
-## 10. ระบอบปูตินเปิดศึกกับสำนักพิมพ์หนังสือ
+## 8. มหาเศรษฐีเบนเข็มจากศิลปะสู่เครื่องบินส่วนตัว
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Geopolitics | bearish | low | long-term | — | — |
+| Sector-specific | bullish | low | long-term | Industrials, Consumer Discretionary | — |
 
-รัฐบาลรัสเซียภายใต้ปูตินเริ่มปราบปรามสำนักพิมพ์หนังสือมากขึ้น ส่งสัญญาณถึงการควบคุมสื่อและเสรีภาพในการแสดงออกที่เข้มงวดขึ้น เหตุการณ์นี้มีผลกระทบจำกัดต่อตลาดหุ้นสหรัฐ ยกเว้นบริษัทที่มีความเสี่ยงด้านภูมิรัฐศาสตร์ในรัสเซีย
+คนรวยระดับสูงหันเหความสนใจจากศิลปะ (เช่น Warhol) ไปยังสินทรัพย์อย่างเครื่องบิน Gulfstream สะท้อนความต้องการสินค้าฟุ่มเฟือยแบบ utility สูง การเปลี่ยนแปลงนี้อาจกระทบตลาดศิลปะ แต่หนุนอุตสาหกรรมการบินส่วนตัวและ luxury goods ที่เกี่ยวเนื่อง
 
 **📊 Key Numbers**
-- Russia crackdown on publishers
+- ยอดขาย Gulfstream ปีนี้ +12%
 
-**👀 Watch Next:** จับตาการคว่ำบาตรรัสเซียเพิ่มเติม
+**👀 Watch Next:** ผลประกอบการของบริษัทผลิตเครื่องบินเจ็ต
 
-🔗 Source: [Financial Times Companies](https://www.ft.com/content/120db39e-4ec0-4ef7-8041-4a1fdafb9ef0)
+🔗 Source: [WSJ](https://news.google.com/rss/articles/CBMitwFBVV95cUxQY3hyaHZYZGFVUWprSTNqbEUtcXFEZ1BRbzNGV2JPdTJ4X0VlOW1VLTEtSUk0MkRPcFNmNVZmRFBNaHd0ZzZjX2o1a3MyaTJ3WXZ2T2lNRnJpc1RJalhhcWFCdW5GQmdERGdTbVpqRjJYa3FMMWR2UXJwS0JNci1XS0VPVnpvYS0yYklGWFdxTGVmSzFhRTg3VUMtX1lrQzUtd185LWtPT2NZM1Izakh4dWtTQm9USWc?oc=5)
+
+## 9. ปูตินกระชับสายตาสำนักพิมพ์รัสเซีย
+
+| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
+|---|---|---|---|---|---|
+| Geopolitics | neutral | low | long-term | — | — |
+
+ระบอบปูตินเริ่มตรวจสอบและปิดกั้นสำนักพิมพ์หนังสือในรัสเซีย ส่งผลกระทบต่อเสรีภาพในการแสดงออกและบรรยากาศธุรกิจ ทั้งนี้กระทบต่อบริษัทสื่อและสิ่งพิมพ์ของสหรัฐฯ เพียงเล็กน้อย แต่อาจเป็นปัจจัยลบต่อบรรยากาศการลงทุนระหว่างประเทศ
+
+**📊 Key Numbers**
+- ไม่มีตัวเลขสำคัญ
+
+**👀 Watch Next:** มาตรการคว่ำบาตรใหม่จากตะวันตก
+
+🔗 Source: [Financial Times](https://www.ft.com/content/120db39e-4ec0-4ef7-8041-4a1fdafb9ef0)
+
+## 10. เหตุกราดยิงในวอชิงตัน ผู้ต้องสงสัยเป็นบัณฑิต Caltech
+
+| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
+|---|---|---|---|---|---|
+| Geopolitics | neutral | low | immediate | Information Technology | — |
+
+เหตุการณ์กราดยิงในกรุงวอชิงตัน โดยผู้ต้องสงสัยเป็นบัณฑิต Caltech และ 'Teacher of the Month' เหตุการณ์นี้สร้างความตกใจและอาจกระทบความเชื่อมั่นฐานที่ตั้งของบริษัทเทคโนโลยี แต่ไม่น่ามีผลต่อตลาดการเงินในวงกว้าง
+
+**📊 Key Numbers**
+- ไม่มีตัวเลขทางการเงิน
+
+**👀 Watch Next:** การสืบสวนและนโยบายควบคุมอาวุธปืน
+
+🔗 Source: [WSJ](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSENaVzhYeGFSMUZrTFRfLVZGcS1ScFB0aTNwR1JOWkdZeUozV0pfYlBmaHZ3X0lyOHQ3Ml91OE9XODItRmZOVDFlSFIxb0x0S1ZYd0FvTjdZS3NGellubWQwbkFSNVVTTWhTbXlpV1czeGJkeEFYQzNUaXRNWmVIMGlhdEk1QndUbTY1MzBFOUxDUVAtR29INGRxTENXR2F5NFB6VU9hNDlkN28?oc=5)
