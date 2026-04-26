@@ -15,7 +15,10 @@ from dateutil import parser as dtparser
 
 log = logging.getLogger(__name__)
 
-USER_AGENT = "MarketBriefBot/1.0 (+https://github.com/nutbitzuist/daily-market-brief)"
+USER_AGENT = (
+    "Mozilla/5.0 (compatible; MarketBriefBot/1.0; "
+    "+https://github.com/nutbitzuist/daily-market-brief)"
+)
 HTTP_TIMEOUT = 15
 HTTP_RETRIES = 2
 
