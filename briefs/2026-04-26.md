@@ -1,174 +1,170 @@
 ---
 date: 2026-04-26
-generated_at_utc: 2026-04-26T13:53:36Z
-model_used: deepseek/deepseek-v4-flash
-sources_count: 6
-aggregate_sentiment: {bullish: 3, bearish: 2, neutral: 5}
-top_sectors: ["Financials", "Consumer Discretionary", "Information Technology"]
-top_tickers: ["MSFT", "AAPL", "GOOG", "AMZN", "META"]
+generated_at_utc: 2026-04-26T23:41:49Z
+model_used: google/gemini-2.5-flash-lite
+sources_count: 5
+aggregate_sentiment: {bullish: 0, bearish: 4, neutral: 6}
+top_sectors: ["Financials", "Information Technology", "Industrials"]
+top_tickers: ["GOOG", "AMZN", "MSFT", "META", "NVDA"]
 ---
 
 # 📈 US Market Brief — 2026-04-26
 
 ## Executive Summary
 
-ตลาดสหรัฐฯ สัปดาห์นี้ผันผวนหนักจากแรงกดดันสามด้านคือเงินเฟ้อ การปรับลดคาดการณ์กำไร และความไม่แน่นอนเฟด แต่สัญญาณไฟเขียวให้เควิน วอร์ชขึ้นเป็นประธานเฟดช่วยลดความกังวลด้านนโยบาย ขณะที่เฟดจ่อคงดอกเบี้ยในการประชุม G-7 กดดันหุ้นเติบโตต่อเนื่อง จุดเปลี่ยนสำคัญคือรายงานผลประกอบการ Big Tech (MSFT, AAPL, GOOG, AMZN, META) ในสัปดาห์หน้า ซึ่งจะเป็นปัจจัยกำหนดทิศทางตลาดระยะสั้น ข่าวอื่นๆ อย่าง IPO ฮ่องกงหรือกำลังซื้อค้าปลีกในอังกฤษมีผลจำกัดต่อสหรัฐฯ
+สัปดาห์นี้ตลาดหุ้นสหรัฐฯ เผชิญแรงกดดันจากความกังวลด้านภูมิรัฐศาสตร์ที่ส่งผลให้ราคาน้ำมันดิบปรับตัวสูงขึ้น ขณะที่การรายงานผลประกอบการของ Big Tech ห้าบริษัทในกลุ่ม Magnificent Seven จะเป็นปัจจัยสำคัญชี้ทิศทางตลาดในระยะสั้น นักลงทุนควรจับตาดูผลประกอบการของ Alphabet, Amazon, Microsoft และ Meta อย่างใกล้ชิด รวมถึงสัญญาณจากประธาน Fed เกี่ยวกับนโยบายการเงินในอนาคต
 
 ## 🚨 High-Impact Alerts
 
-- **มหัศจรรย์สัปดาห์แห่งความผันผวนของ S&P 500** — CNBC
-- **เฟดนำ G-7 คงดอกเบี้ยในสัปดาห์แห่งความกังวล** — Bloomberg
-- **รายงานผลประกอบการยักษ์ใหญ่สัปดาห์หน้า: MSFT, AAPL, GOOG, AMZN, META** — Seeking Alpha
+- **ตลาดหุ้นสหรัฐฯ ปรับตัวลง น้ำมันดิบปรับตัวขึ้น ก่อนสัปดาห์ที่วุ่นวายของ Wall Street** — MarketWatch
+- **การปิดช่องแคบฮอร์มุซ ส่งผลให้ฟิวเจอร์ส S&P 500, Nasdaq, Dow ปรับตัวลดลง** — Yahoo Finance
 
-## 1. มหัศจรรย์สัปดาห์แห่งความผันผวนของ S&P 500
-
-| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
-|---|---|---|---|---|---|
-| Macro/Fed | neutral | high | immediate | Information Technology, Financials, Consumer Discretionary | — |
-
-S&P 500 เผชิญความผันผวนหนักในสัปดาห์นี้จาก 3 ปัจจัยหลัก ได้แก่ ความกังวลเงินเฟ้อ, การปรับลดคาดการณ์กำไร และความไม่แน่นอนนโยบายเฟด ส่งผลให้ตลาดแกว่งตัวในกรอบกว้าง นักลงทุนเทขายหุ้นเทคโนโลยีและหันเข้าสินทรัพย์ปลอดภัย สัปดาห์หน้ารายงานผลประกอบการของบรรดาบิ๊กเทคจะเป็นตัวกำหนดทิศทาง
-
-**📊 Key Numbers**
-- S&P 500 สัปดาห์ผันผวนมากที่สุดในรอบ 3 เดือน
-
-**👀 Watch Next:** ผลประกอบการใหญ่ๆ และการประชุมเฟด
-
-🔗 Source: [CNBC](https://www.cnbc.com/2026/04/25/3-forces-that-drove-another-historic-yet-volatile-week-for-the-sp-500.html)
-
-## 2. วุฒิสมาชิกจนสัญญาณไฟเขียวให้ Kevin Warsh เข้าสู่เก้าอี้ประธานเฟด
+## 1. สัปดาห์แห่งการรายงานผลประกอบการ Big Tech มูลค่า 16 ล้านล้านดอลลาร์ เป็นตัวตัดสินการปรับตัวขึ้นของตลาด
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Macro/Fed | bullish | high | short-term | Financials, Technology, Consumer Discretionary | — |
+| Earnings | neutral | high | short-term | Information Technology | GOOG, AMZN, MSFT, META |
 
-วุฒิสมาชิก Thom Tillis ส่งสัญญาณว่าจะถอนการอุดตันการเสนอชื่อ Kevin Warsh เป็นประธานธนาคารกลางสหรัฐฯ การเคลื่อนไหวนี้ลดความไม่แน่นอนด้านนโยบายการเงิน นักลงทุนมองว่า Warsh มีแนวโน้มดำเนินนโยบายคุมเข้มน้อยกว่าที่กังวล ทำให้บอนด์ยีลด์และดอลลาร์ปรับตัวลงเล็กน้อย สภาชิกยังคงต้องติดตามการลงนามขั้นสุดท้าย
+สัปดาห์นี้จะเป็นสัปดาห์ที่สำคัญอย่างยิ่งสำหรับหุ้นกลุ่มเทคโนโลยีขนาดใหญ่ โดยเฉพาะกลุ่ม 'Magnificent Seven' ที่มีมูลค่ารวม 16 ล้านล้านดอลลาร์ จะมีการประกาศผลประกอบการของ 5 บริษัทในกลุ่มนี้ การรายงานผลประกอบการที่แข็งแกร่งจะช่วยหนุนการปรับตัวขึ้นของตลาดต่อไป ในขณะที่ผลประกอบการที่น่าผิดหวังอาจส่งผลให้เกิดการขายทำกำไร
 
 **📊 Key Numbers**
-- Warsh ได้รับการเสนอชื่อ 90% มีโอกาสผ่านวุฒิสภา
+- $16 trillion
 
-**👀 Watch Next:** การลงมติยืนยันในวุฒิสภา
+**👀 Watch Next:** จับตาดูผลประกอบการของ Alphabet, Amazon, Microsoft และ Meta อย่างใกล้ชิด
 
-🔗 Source: [CNBC](https://www.cnbc.com/2026/04/26/thom-tillis-kevin-warsh-federal-reserve.html)
+🔗 Source: [Bloomberg Markets](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbjlCQzRpNUhWX1hhb2Y4TlFwMHEyX1Z4SXE2ei12Um9iU3NQYWJrc2xfZVZUYV9FaFFVLUlacnBzajhndWpiSEJyNW1WSFQzaDNRZDA0ZVF5b1RpSjExSWpmRWhjWHlUdUR5VktLU09FTy1SU1FxTHQ4QjNJbGpWTXgzSnJGbnlZaHhWaDJzcVZfYmE1LVJJSkNjbDJHcTkwUHQ3c3pNcUNXMXdyU3p1S3NBdkms?oc=5)
 
-## 3. เฟดนำ G-7 คงดอกเบี้ยในสัปดาห์แห่งความกังวล
+## 2. ตลาดหุ้นสหรัฐฯ ปรับตัวลง น้ำมันดิบปรับตัวขึ้น ก่อนสัปดาห์ที่วุ่นวายของ Wall Street
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Macro/Fed | bearish | high | immediate | Financials, Technology, Real Estate | — |
+| Macro/Fed | bearish | high | immediate | Energy, Financials | — |
 
-ธนาคารกลางสหรัฐฯ จะนำกลุ่ม G-7 ในการคงอัตราดอกเบี้ยในการประชุมสัปดาห์นี้ แม้มีแรงกดดันจากเงินเฟ้อที่ยังสูงและตลาดแรงงานตึงตัว ตลาดคาดการณ์ว่าเฟดจะส่งสัญญาณผ่อนคลายน้อยกว่าที่เคย แนวโน้มนี้กดดันตลาดหุ้น โดยเฉพาะหุ้นเติบโต ขณะที่ธนาคารกลางอื่นๆ มีท่าทีผ่อนคลายกว่า
+ดัชนีฟิวเจอร์สของตลาดหุ้นสหรัฐฯ ปรับตัวลดลงในวันอาทิตย์ ขณะที่ราคาน้ำมันดิบปรับตัวสูงขึ้น ก่อนเข้าสู่สัปดาห์ที่สำคัญของ Wall Street หลังจากการทำสถิติสูงสุดใหม่ของ S&P 500 และ Nasdaq การปรับตัวขึ้นของราคาน้ำมันอาจส่งผลกระทบต่อต้นทุนของภาคธุรกิจและกดดันอัตราเงินเฟ้อ
 
 **📊 Key Numbers**
-- เฟดคาดคงดอกเบี้ย 4.5%
-- G-7 ประชุมสัปดาห์นี้
+- —
 
-**👀 Watch Next:** ถ้อยแถลงของ Jerome Powell และผลการประชุม G-7
+**👀 Watch Next:** ติดตามการเคลื่อนไหวของราคาน้ำมันและการประกาศผลประกอบการของบริษัทเทคโนโลยีขนาดใหญ่
 
-🔗 Source: [Bloomberg](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcXhNZ2hRV0lpQnBFMTM3Q3RoNXZvbnpaSFFKOVNpcF9LMHpodzhiTVVRcG9PV3ktalE2RVM0TGNpTTQxam03LU12TDdYck5wcm44UUYzSkxqbzd5NGp5bHlIQVUtRmVrcEswcV80dlRlY2tVcExwWktsaGZrT3prZGFwV0RiX3hHcXA5aWw3WS1vZzh1MGR1UUliN1V1dHdvMnRRWmhLUWJiYjQ2OVVlVA?oc=5)
+🔗 Source: [MarketWatch](https://www.marketwatch.com/story/u-s-stock-futures-fall-oil-rises-ahead-of-a-busy-week-for-wall-street-c3e49958?mod=mw_rss_topstories)
 
-## 4. รายงานผลประกอบการยักษ์ใหญ่สัปดาห์หน้า: MSFT, AAPL, GOOG, AMZN, META
+## 3. การรายงานผลประกอบการของ 'Magnificent Seven' ห้าบริษัท เป็นสัปดาห์ที่สำคัญที่สุดของฤดูกาล
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Earnings | neutral | high | immediate | Information Technology, Energy, Consumer Staples, Consumer Discretionary | MSFT, AAPL, GOOG, AMZN, META, XOM, CVX, KO, V, SBUX, F, GM |
+| Earnings | neutral | high | short-term | Information Technology | GOOG, AMZN, MSFT, META, NVDA |
 
-สัปดาห์หน้ามีรายงานผลประกอบการของบริษัทใหญ่มากมาย ตั้งแต่เทคโนโลยี (MSFT, AAPL, GOOG, AMZN, META) พลังงาน (XOM, CVX) ถึงคอนซูเมอร์สเตเปิล (KO, V, SBUX) และอุตสาหกรรม (F, GM) ผลประกอบการเหล่านี้จะกำหนดทิศทางตลาดในระยะสั้น นักลงทุนจับตาการใช้จ่ายเพื่อการปรับปรุงประสิทธิภาพและผลกระทบจากนโยบายภาษีของไตรมาสก่อน
+สัปดาห์นี้จะเป็นสัปดาห์ที่สำคัญอย่างยิ่งสำหรับการรายงานผลประกอบการของกลุ่มบริษัทเทคโนโลยีขนาดใหญ่ 'Magnificent Seven' โดยห้าบริษัทในกลุ่มนี้จะประกาศผลประกอบการ ซึ่งอาจส่งผลกระทบอย่างมีนัยสำคัญต่อทิศทางของตลาดหุ้นโดยรวม การรายงานที่แข็งแกร่งจะช่วยหนุนการปรับตัวขึ้นของตลาด แต่ผลประกอบการที่อ่อนแออาจนำไปสู่การขายทำกำไร
 
 **📊 Key Numbers**
-- MSFT คาด EPS $3.22
-- AAPL คาดรายได้ 94 พันล้านดอลลาร์
+- —
 
-**👀 Watch Next:** การปรับประมาณการกำไรของบริษัทหลังจากผลประกอบการ
+**👀 Watch Next:** จับตาดูผลประกอบการของบริษัทเทคโนโลยีขนาดใหญ่ โดยเฉพาะอย่างยิ่งการคาดการณ์รายได้และกำไรในอนาคต
 
-🔗 Source: [Seeking Alpha](https://seekingalpha.com/news/4579372-earnings-week-ahead-msft-aapl-goog-amzn-meta-xom-cvx-ko-v-sbux-f-gm-and-more)
+🔗 Source: [CNBC](https://www.cnbc.com/2026/04/26/earnings-playbook-five-of-mag-7-set-to-report-in-busiest-week-of-season.html)
 
-## 5. ฮ่องกงระดมทุนไอพีโอปี 2026 สูงถึง 17.9 พันล้านดอลลาร์
+## 4. การปิดช่องแคบฮอร์มุซ ส่งผลให้ฟิวเจอร์ส S&P 500, Nasdaq, Dow ปรับตัวลดลง
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Sector-specific | neutral | low | short-term | Financials | — |
+| Geopolitics | bearish | high | immediate | Energy, Industrials | — |
 
-นายกรัฐมนตรีคลังฮ่องกงเปิดเผยว่า IPO ในปี 2026 ระดมทุนได้ 17.9 พันล้านดอลลาร์แล้ว แสดงถึงการฟื้นตัวของตลาดทุนฮ่องกงท่ามกลางความไม่แน่นอนของเศรษฐกิจจีน นักลงทุนต่างชาติกลับมาให้ความสนใจกับหุ้นเทคโนโลยีน้องใหม่ ตลาดหุ้นสหรัฐอาจได้รับผลกระทบทางอ้อมเมื่อสภาพคล่องไหลไปเอเชีย
+ความกังวลเกี่ยวกับการปิดช่องแคบฮอร์มุซ ซึ่งเป็นเส้นทางการขนส่งน้ำมันที่สำคัญ ส่งผลให้ฟิวเจอร์สของดัชนีหลักของสหรัฐฯ ปรับตัวลดลง การปิดเส้นทางดังกล่าวอาจส่งผลกระทบต่ออุปทานน้ำมันทั่วโลกและเพิ่มความเสี่ยงด้านภูมิรัฐศาสตร์ ซึ่งอาจส่งผลกระทบต่อตลาดหุ้นโดยรวม
 
 **📊 Key Numbers**
-- ยอด IPO ฮ่องกง 17.9 พันล้านดอลลาร์
+- —
 
-**👀 Watch Next:** จำนวน IPO และคุณภาพในไตรมาสถัดไป
+**👀 Watch Next:** ติดตามสถานการณ์การปิดช่องแคบฮอร์มุซและผลกระทบต่อราคาน้ำมัน
 
-🔗 Source: [Bloomberg](https://news.google.com/rss/articles/CBMitAFBVV95cUxPRkJEWEd2bGVXckZEdVp6UjhnN3lNVkxEV2xqVnJvTEdVUjhEaENLbkw1ZndpOWNuZ2d0S0UzamFEXzZEeE5EajY1R1F6aDdMMXNxSVgxR19DNFQwczdrQ0E2Q1ozVk9UdVQzOUNZVmg2dXp2Tm9vOUdVWm9kNl94Q19xejloWlNXTm8xYjc3NFJuVWMtcjdYemlmUVZ4TkRXcEQyY2dCaVYxazhEYkNralN5Nm0?oc=5)
+🔗 Source: [Yahoo Finance](https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-april-27-232226050.html)
 
-## 6. อัตราจำนองเดือนเม.ย.67 ลดลงจากเดือนก่อนแต่สูงกว่าสัปดาห์ที่แล้ว
+## 5. เทรดเดอร์พันธบัตรจับตาการอัปเดตจาก Powell และการประมูลพันธบัตรรัฐบาลสหรัฐฯ
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Sector-specific | bearish | low | short-term | Real Estate, Financials | — |
+| Macro/Fed | neutral | medium | short-term | Financials | — |
 
-อัตราดอกเบี้ยจำนองปรับตัวลดลงเล็กน้อยเทียบกับเดือนที่แล้ว แต่เพิ่มขึ้นจากสัปดาห์ก่อน ทำให้ตลาดอสังหาฯ ยังคงกดดัน สถานการณ์นี้สะท้อนความผันผวนของอัตราผลตอบแทนพันธบัตร นักลงทุนคาดว่าเฟดจะยังไม่ลดดอกเบี้ยเร็วๆ นี้ ส่งผลลบต่อหุ้นกลุ่ม building materials และ real estate
+เทรดเดอร์ในตลาดพันธบัตรกำลังรอคอยการแถลงการณ์ของประธานธนาคารกลางสหรัฐฯ Jerome Powell และการประมูลพันธบัตรรัฐบาลสหรัฐฯ ที่กำลังจะมีขึ้น การส่งสัญญาณจาก Powell เกี่ยวกับนโยบายการเงินในอนาคต และผลการประมูลพันธบัตร จะเป็นปัจจัยสำคัญที่ส่งผลต่ออัตราดอกเบี้ยและตลาดการเงินโดยรวม
 
 **📊 Key Numbers**
-- อัตราจำนอง 30 ปี 6.85%
-- ลดลง -0.10% MoM
+- —
 
-**👀 Watch Next:** ข้อมูลตลาดบ้านใหม่และยอดขายบ้านมือสอง
+**👀 Watch Next:** ติดตามการแถลงการณ์ของ Jerome Powell และผลการประมูลพันธบัตรรัฐบาลสหรัฐฯ
 
-🔗 Source: [Yahoo Finance](https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-sunday-april-26-2026-100000026.html)
+🔗 Source: [Bloomberg Markets](https://news.google.com/rss/articles/CBMiswFBVV95cUxQaW1XeHRBalFYZEttcWpmbGFiVUdKTjdBTWRsbFFqYy1YWDZoNzNiQlNTNmZwOGRJdi1oQUtiUWdBb0FUYmh4MW1nMXF6UmVkZGhicmZNR2ZpQ0FSTlg5cFFZelhHNXdVMFVKZmhDOE0tZ3pHeElUZktQSU50WnBPNkt5TEl6Q2VEVDN6VG9WWEN4cU1JWDhDMlM5eDBuMlJtQUFOQU8yS0RaMzdOSXBiMmQtUQ?oc=5)
 
-## 7. ร้านค้าปลีกอังกฤษคึกคักจากเทรนด์ TikTok
+## 6. การปราบปรามสัญญาจ้างงานแบบ Zero-hour อาจส่งผลให้เกิดการสูญเสียงาน
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Sector-specific | bullish | low | long-term | Consumer Discretionary | — |
+| Regulation | bearish | medium | short-term | Industrials, Consumer Discretionary | — |
 
-ย่านการค้าในสหราชอาณาจักรฟื้นตัวอย่างแข็งแกร่ง จากพฤติกรรมของคนรุ่น Gen Z ที่ได้รับแรงกระตุ้นผ่าน TikTok แนวโน้มนี้ดีต่อหุ้นกลุ่มค้าปลีกที่มีหน้าร้าน แต่อาจไม่ส่งผลโดยตรงต่อตลาดสหรัฐฯ ถึงแม้จะสะท้อนถึงการเปลี่ยนแปลงช่องทางการตลาดที่สำคัญ
+ภาคธุรกิจออกมาเตือนว่าการปราบปรามสัญญาจ้างงานแบบ Zero-hour ซึ่งเป็นสัญญาที่ไม่มีการกำหนดชั่วโมงการทำงานที่แน่นอน อาจนำไปสู่การสูญเสียงาน การเปลี่ยนแปลงกฎระเบียบดังกล่าวอาจส่งผลกระทบต่อตลาดแรงงานและต้นทุนของธุรกิจบางประเภท
 
 **📊 Key Numbers**
-- ยอดเดินในห้าง UK +7% YoY
+- —
 
-**👀 Watch Next:** รายได้จากธุรกิจค้าปลีกในสหราชอาณาจักรไตรมาส 2
+**👀 Watch Next:** ติดตามความคืบหน้าของการเปลี่ยนแปลงกฎระเบียบเกี่ยวกับสัญญาจ้างงานแบบ Zero-hour และผลกระทบต่อภาคธุรกิจ
 
-🔗 Source: [Financial Times](https://www.ft.com/content/cd20162b-f742-4e82-9c1d-175f27c0291f)
+🔗 Source: [Financial Times](https://www.ft.com/content/21d24d94-c6a4-4ebc-8b9d-ac3b88474725)
 
-## 8. มหาเศรษฐีเบนเข็มจากศิลปะสู่เครื่องบินส่วนตัว
+## 7. การประเมินผลงานของ Powell ใน FOMC ครั้งสุดท้าย ทิ้งมรดกที่ผสมผสานไว้สำหรับผู้ที่จะมาแทน
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Sector-specific | bullish | low | long-term | Industrials, Consumer Discretionary | — |
+| Macro/Fed | neutral | medium | long-term | Financials | — |
 
-คนรวยระดับสูงหันเหความสนใจจากศิลปะ (เช่น Warhol) ไปยังสินทรัพย์อย่างเครื่องบิน Gulfstream สะท้อนความต้องการสินค้าฟุ่มเฟือยแบบ utility สูง การเปลี่ยนแปลงนี้อาจกระทบตลาดศิลปะ แต่หนุนอุตสาหกรรมการบินส่วนตัวและ luxury goods ที่เกี่ยวเนื่อง
+การประเมินผลงานของ Jerome Powell ในฐานะประธานธนาคารกลางสหรัฐฯ ในการประชุม FOMC ครั้งสุดท้ายของเขา เผยให้เห็นถึงความสำเร็จและความท้าทายที่เขาเผชิญ นโยบายการเงินที่เขาดำเนินมาจะส่งผลต่อการตัดสินใจของผู้ที่จะมาดำรงตำแหน่งต่อ ซึ่งอาจส่งผลกระทบต่อทิศทางอัตราดอกเบี้ยและเศรษฐกิจสหรัฐฯ
 
 **📊 Key Numbers**
-- ยอดขาย Gulfstream ปีนี้ +12%
+- —
 
-**👀 Watch Next:** ผลประกอบการของบริษัทผลิตเครื่องบินเจ็ต
+**👀 Watch Next:** จับตาดูการส่งสัญญาณของ Powell เกี่ยวกับนโยบายการเงินในอนาคต และการแต่งตั้งผู้ที่จะมาดำรงตำแหน่งประธาน Fed ต่อไป
 
-🔗 Source: [WSJ](https://news.google.com/rss/articles/CBMitwFBVV95cUxQY3hyaHZYZGFVUWprSTNqbEUtcXFEZ1BRbzNGV2JPdTJ4X0VlOW1VLTEtSUk0MkRPcFNmNVZmRFBNaHd0ZzZjX2o1a3MyaTJ3WXZ2T2lNRnJpc1RJalhhcWFCdW5GQmdERGdTbVpqRjJYa3FMMWR2UXJwS0JNci1XS0VPVnpvYS0yYklGWFdxTGVmSzFhRTg3VUMtX1lrQzUtd185LWtPT2NZM1Izakh4dWtTQm9USWc?oc=5)
+🔗 Source: [Yahoo Finance](https://finance.yahoo.com/economy/policy/articles/powell-final-fomc-grading-wins-223145715.html)
 
-## 9. ปูตินกระชับสายตาสำนักพิมพ์รัสเซีย
+## 8. วันพุธแห่ง Super Bowl ของ Wall Street: Alphabet, Amazon, Microsoft และ Meta รายงานผลประกอบการ พร้อมการประชุม Fed ครั้งสุดท้ายของ Powell
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Geopolitics | neutral | low | long-term | — | — |
+| Earnings | neutral | high | short-term | Information Technology | GOOG, AMZN, MSFT, META |
 
-ระบอบปูตินเริ่มตรวจสอบและปิดกั้นสำนักพิมพ์หนังสือในรัสเซีย ส่งผลกระทบต่อเสรีภาพในการแสดงออกและบรรยากาศธุรกิจ ทั้งนี้กระทบต่อบริษัทสื่อและสิ่งพิมพ์ของสหรัฐฯ เพียงเล็กน้อย แต่อาจเป็นปัจจัยลบต่อบรรยากาศการลงทุนระหว่างประเทศ
+วันพุธนี้จะเป็นวันสำคัญทางประวัติศาสตร์ของ Wall Street โดยบริษัทเทคโนโลยีรายใหญ่ Alphabet, Amazon, Microsoft และ Meta จะประกาศผลประกอบการ ควบคู่ไปกับการแถลงข่าวหลังการประชุม FOMC ครั้งสุดท้ายของ Jerome Powell เหตุการณ์เหล่านี้จะส่งผลกระทบอย่างมีนัยสำคัญต่อตลาดหุ้น
 
 **📊 Key Numbers**
-- ไม่มีตัวเลขสำคัญ
+- —
 
-**👀 Watch Next:** มาตรการคว่ำบาตรใหม่จากตะวันตก
+**👀 Watch Next:** ติดตามผลประกอบการของบริษัทเทคโนโลยีรายใหญ่และการแถลงข่าวของ Jerome Powell
 
-🔗 Source: [Financial Times](https://www.ft.com/content/120db39e-4ec0-4ef7-8041-4a1fdafb9ef0)
+🔗 Source: [MarketWatch](https://www.marketwatch.com/story/wall-streets-super-bowl-wednesday-alphabet-amazon-microsoft-and-meta-report-along-with-powells-last-fed-meeting-88eb1710?mod=mw_rss_topstories)
 
-## 10. เหตุกราดยิงในวอชิงตัน ผู้ต้องสงสัยเป็นบัณฑิต Caltech
+## 9. กลุ่มอุตสาหกรรมชี้ว่ากฎระเบียบที่เข้มงวดของแคนาดา แย่กว่าภาษีของทรัมป์
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Geopolitics | neutral | low | immediate | Information Technology | — |
+| Regulation | bearish | low | long-term | Industrials, Financials | — |
 
-เหตุการณ์กราดยิงในกรุงวอชิงตัน โดยผู้ต้องสงสัยเป็นบัณฑิต Caltech และ 'Teacher of the Month' เหตุการณ์นี้สร้างความตกใจและอาจกระทบความเชื่อมั่นฐานที่ตั้งของบริษัทเทคโนโลยี แต่ไม่น่ามีผลต่อตลาดการเงินในวงกว้าง
+กลุ่มอุตสาหกรรมในแคนาดากล่าวว่ากฎระเบียบที่เข้มงวดของประเทศนั้น สร้างผลกระทบต่อธุรกิจมากกว่าภาษีที่เคยเรียกเก็บโดยอดีตประธานาธิบดีทรัมป์ การกล่าวอ้างนี้ชี้ให้เห็นถึงความท้าทายที่ธุรกิจต้องเผชิญจากการปฏิบัติตามกฎระเบียบ ซึ่งอาจส่งผลต่อการลงทุนและการเติบโตทางเศรษฐกิจ
 
 **📊 Key Numbers**
-- ไม่มีตัวเลขทางการเงิน
+- —
 
-**👀 Watch Next:** การสืบสวนและนโยบายควบคุมอาวุธปืน
+**👀 Watch Next:** ติดตามการเปลี่ยนแปลงกฎระเบียบในแคนาดาและผลกระทบต่อภาคธุรกิจ
 
-🔗 Source: [WSJ](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSENaVzhYeGFSMUZrTFRfLVZGcS1ScFB0aTNwR1JOWkdZeUozV0pfYlBmaHZ3X0lyOHQ3Ml91OE9XODItRmZOVDFlSFIxb0x0S1ZYd0FvTjdZS3NGellubWQwbkFSNVVTTWhTbXlpV1czeGJkeEFYQzNUaXRNWmVIMGlhdEk1QndUbTY1MzBFOUxDUVAtR29INGRxTENXR2F5NFB6VU9hNDlkN28?oc=5)
+🔗 Source: [Financial Times](https://www.ft.com/content/952d2b5b-21e5-479b-8db0-c88a4470a263)
+
+## 10. ทรัมป์ยืนยันการจัดงานในห้องบอลรูมทำเนียบขาว หลังเหตุการณ์ยิงปืนในงานเลี้ยงนักข่าว
+
+| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
+|---|---|---|---|---|---|
+| Geopolitics | neutral | low | immediate | Real Estate, Communication Services | — |
+
+อดีตประธานาธิบดีทรัมป์ยังคงยืนยันที่จะจัดงานในห้องบอลรูมของทำเนียบขาว หลังเกิดเหตุการณ์ยิงปืนในงานเลี้ยงนักข่าว เหตุการณ์นี้อาจส่งผลกระทบต่อความเชื่อมั่นด้านความปลอดภัยและการเมือง ซึ่งอาจมีผลกระทบต่อตลาด
+
+**📊 Key Numbers**
+- —
+
+**👀 Watch Next:** ติดตามความคืบหน้าของสถานการณ์ทางการเมืองที่เกี่ยวข้องกับอดีตประธานาธิบดีทรัมป์
+
+🔗 Source: [CNBC](https://www.cnbc.com/2026/04/26/trump-presses-case-for-white-house-ballroom-following-shooting.html)
