@@ -76,28 +76,13 @@ def _send(token: str, chat_id: str, text: str) -> None:
 
 def build_digest(date_str: str, items: list[dict], aggregate: dict,
                  repo_url: str, exec_summary: str = "") -> str:
-    alerts = [
-        it for it in items
-        if it.get("impact") == "high" and it.get("time_horizon") == "immediate"
-    ]
-
     lines: list[str] = []
     lines.append(f"📈 *US Market Brief — {escape_mdv2(date_str)}*")
     lines.append("")
 
     if exec_summary.strip():
-        lines.append("*Executive Summary*")
         lines.append(escape_mdv2(exec_summary.strip()))
         lines.append("")
-
-    lines.append("🚨 *High\\-Impact Today:*")
-    if alerts:
-        for it in alerts:
-            emoji = SENTIMENT_EMOJI.get(it.get("sentiment", "neutral"), "⚪")
-            lines.append(f"• {emoji} {escape_mdv2(it.get('title_th', ''))}")
-    else:
-        lines.append("• \\(none\\)")
-    lines.append("")
 
     lines.append("*Top 10 Headlines:*")
     lines.append("")

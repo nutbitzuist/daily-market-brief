@@ -73,20 +73,7 @@ def render_markdown(date_str: str, generated_at_utc: str, model_used: str,
 
     md = [yaml_fm]
     md.append(f"# 📈 US Market Brief — {date_str}\n")
-    md.append("## Executive Summary\n")
     md.append(exec_summary.strip() + "\n")
-
-    alerts = [
-        it for it in items
-        if it.get("impact") == "high" and it.get("time_horizon") == "immediate"
-    ]
-    md.append("## 🚨 High-Impact Alerts\n")
-    if alerts:
-        for it in alerts:
-            md.append(f"- **{it.get('title_th', '')}** — {it.get('source_name', '')}")
-        md.append("")
-    else:
-        md.append("_ไม่มีรายการ impact=high + immediate ในวันนี้_\n")
 
     for it in sorted(items, key=lambda x: x.get("rank", 99)):
         rank = it.get("rank", "?")

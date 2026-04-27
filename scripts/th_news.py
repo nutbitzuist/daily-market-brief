@@ -107,22 +107,8 @@ def render_md(date_str: str, generated_at_utc: str, model_used: str,
     lines.append("")
     lines.append(f"# 🇹🇭 Thailand Brief — {date_str}")
     lines.append("")
-    lines.append("## Executive Summary")
-    lines.append("")
     lines.append(exec_summary.strip())
     lines.append("")
-
-    alerts = [it for it in items
-              if it.get("impact") == "high" and it.get("time_horizon") == "immediate"]
-    lines.append("## 🚨 High-Impact Alerts")
-    lines.append("")
-    if alerts:
-        for it in alerts:
-            lines.append(f"- **{it.get('title_th','')}** — {it.get('source_name','')}")
-        lines.append("")
-    else:
-        lines.append("_ไม่มีรายการ impact=high + immediate ในวันนี้_")
-        lines.append("")
 
     for it in sorted(items, key=lambda x: x.get("rank", 99)):
         rank = it.get("rank", "?")
@@ -166,20 +152,8 @@ def build_th_digest(date_str: str, items: list[dict], exec_summary: str,
     lines.append(f"🇹🇭 *Thailand Brief — {esc(date_str)}*")
     lines.append("")
     if exec_summary.strip():
-        lines.append("*Executive Summary*")
         lines.append(esc(exec_summary.strip()))
         lines.append("")
-
-    alerts = [it for it in items
-              if it.get("impact") == "high" and it.get("time_horizon") == "immediate"]
-    lines.append("🚨 *High\\-Impact Today:*")
-    if alerts:
-        for it in alerts:
-            emo = SENT_EMOJI.get(it.get("sentiment", "neutral"), "⚪")
-            lines.append(f"• {emo} {esc(it.get('title_th', ''))}")
-    else:
-        lines.append("• \\(none\\)")
-    lines.append("")
 
     lines.append("*Top 10 Headlines:*")
     lines.append("")

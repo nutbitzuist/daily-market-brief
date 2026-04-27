@@ -19,8 +19,6 @@ ROOT = Path(__file__).resolve().parent.parent
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-import requests  # noqa: E402
-
 from scripts import notify, sources, summarizer  # noqa: E402
 
 logging.basicConfig(
@@ -33,19 +31,32 @@ REPO_URL = os.environ.get("REPO_URL", "https://github.com/USERNAME/REPO")
 ARTICLES_DIR = ROOT / "articles"
 
 AI_FEEDS: list[tuple[str, str]] = [
-    # direct feeds that work from GitHub Actions IPs
+    # Direct feeds (work from GitHub runners)
     ("TechCrunch AI", "https://techcrunch.com/category/artificial-intelligence/feed/"),
     ("Hugging Face Blog", "https://huggingface.co/blog/feed.xml"),
-    # Google News proxies — these sites' direct RSS often blocks data-center IPs,
-    # but Google News' RSS is served from Google CDN and works reliably.
-    ("The Verge AI", "https://news.google.com/rss/search?q=site:theverge.com+AI&hl=en-US&gl=US&ceid=US:en"),
-    ("Ars Technica AI", "https://news.google.com/rss/search?q=site:arstechnica.com+AI&hl=en-US&gl=US&ceid=US:en"),
-    ("VentureBeat AI", "https://news.google.com/rss/search?q=site:venturebeat.com+AI&hl=en-US&gl=US&ceid=US:en"),
-    ("MIT Tech Review AI", "https://news.google.com/rss/search?q=site:technologyreview.com+AI&hl=en-US&gl=US&ceid=US:en"),
-    ("Wired AI", "https://news.google.com/rss/search?q=site:wired.com+AI&hl=en-US&gl=US&ceid=US:en"),
-    ("Google AI Blog", "https://news.google.com/rss/search?q=site:blog.google+AI&hl=en-US&gl=US&ceid=US:en"),
+    # Frontier labs (via Google News proxy — direct RSS blocks data-center IPs)
     ("OpenAI", "https://news.google.com/rss/search?q=site:openai.com&hl=en-US&gl=US&ceid=US:en"),
     ("Anthropic", "https://news.google.com/rss/search?q=site:anthropic.com&hl=en-US&gl=US&ceid=US:en"),
+    ("Google DeepMind", "https://news.google.com/rss/search?q=site:deepmind.google+OR+%22Google+DeepMind%22&hl=en-US&gl=US&ceid=US:en"),
+    ("Google AI Blog", "https://news.google.com/rss/search?q=site:blog.google+AI&hl=en-US&gl=US&ceid=US:en"),
+    ("Meta AI", "https://news.google.com/rss/search?q=site:ai.meta.com+OR+%22Meta+AI%22+model&hl=en-US&gl=US&ceid=US:en"),
+    ("xAI / Grok", "https://news.google.com/rss/search?q=%22xAI%22+OR+%22Grok%22+model&hl=en-US&gl=US&ceid=US:en"),
+    # AI infrastructure & chips
+    ("NVIDIA AI", "https://news.google.com/rss/search?q=site:nvidia.com+OR+%22NVIDIA%22+AI+OR+GPU+OR+Blackwell&hl=en-US&gl=US&ceid=US:en"),
+    ("AMD / TSMC AI", "https://news.google.com/rss/search?q=%22AMD%22+OR+%22TSMC%22+AI+chip+OR+datacenter&hl=en-US&gl=US&ceid=US:en"),
+    # Hyperscaler enterprise AI
+    ("Microsoft AI", "https://news.google.com/rss/search?q=%22Microsoft%22+AI+OR+Copilot+OR+Azure+model&hl=en-US&gl=US&ceid=US:en"),
+    ("AWS AI", "https://news.google.com/rss/search?q=%22AWS%22+OR+%22Amazon%22+Bedrock+OR+Trainium+AI&hl=en-US&gl=US&ceid=US:en"),
+    # Quantum
+    ("Quantum Computing", "https://news.google.com/rss/search?q=quantum+computing+IBM+OR+Google+OR+IonQ+OR+PsiQuantum+OR+Quantinuum&hl=en-US&gl=US&ceid=US:en"),
+    # Tier-1 financial press tech coverage
+    ("Reuters Tech", "https://news.google.com/rss/search?q=site:reuters.com+AI+OR+chip+OR+model&hl=en-US&gl=US&ceid=US:en"),
+    ("Bloomberg Tech", "https://news.google.com/rss/search?q=site:bloomberg.com+AI+OR+chip+OR+model&hl=en-US&gl=US&ceid=US:en"),
+    ("FT Tech", "https://news.google.com/rss/search?q=site:ft.com+AI+OR+chip+OR+model&hl=en-US&gl=US&ceid=US:en"),
+    # Quality enthusiast/trade press
+    ("The Verge AI", "https://news.google.com/rss/search?q=site:theverge.com+AI&hl=en-US&gl=US&ceid=US:en"),
+    ("MIT Tech Review AI", "https://news.google.com/rss/search?q=site:technologyreview.com+AI&hl=en-US&gl=US&ceid=US:en"),
+    ("Wired AI", "https://news.google.com/rss/search?q=site:wired.com+AI&hl=en-US&gl=US&ceid=US:en"),
 ]
 
 AI_KEYWORDS = [
@@ -53,43 +64,6 @@ AI_KEYWORDS = [
     "anthropic", "openai", "deepmind", "neural", "transformer",
     "fine-tune", "rag", "diffusion", "multimodal",
 ]
-
-
-# ---------- Hacker News Algolia ----------
-
-def fetch_hn_ai(cutoff: datetime) -> list[sources.Article]:
-    ts = int(cutoff.timestamp())
-    url = (
-        "https://hn.algolia.com/api/v1/search_by_date"
-        f"?tags=story&query=AI&numericFilters=created_at_i>{ts}&hitsPerPage=30"
-    )
-    out: list[sources.Article] = []
-    try:
-        r = requests.get(url, timeout=15,
-                         headers={"User-Agent": sources.USER_AGENT})
-        if r.status_code != 200:
-            log.warning("HN Algolia HTTP %s", r.status_code)
-            return out
-        for hit in r.json().get("hits", []):
-            link = hit.get("url") or f"https://news.ycombinator.com/item?id={hit.get('objectID')}"
-            title = hit.get("title") or ""
-            ts_i = hit.get("created_at_i")
-            if not title or not link or not ts_i:
-                continue
-            pub = datetime.fromtimestamp(ts_i, tz=timezone.utc)
-            if pub < cutoff:
-                continue
-            out.append(sources.Article(
-                title=title,
-                link=link,
-                published=pub,
-                summary=hit.get("story_text") or "",
-                source_name="Hacker News (AI)",
-            ))
-    except requests.RequestException as e:
-        log.warning("HN Algolia error: %s", e)
-    log.info("fetched %d entries from Hacker News (AI)", len(out))
-    return out
 
 
 # ---------- fetch + score ----------
@@ -102,7 +76,6 @@ def fetch_all_ai(hours: int = 24) -> list[sources.Article]:
             out.extend(sources.fetch_feed(name, url, cutoff))
         except Exception as e:  # pragma: no cover
             log.warning("feed %s failed: %s", name, e)
-    out.extend(fetch_hn_ai(cutoff))
     return out
 
 
