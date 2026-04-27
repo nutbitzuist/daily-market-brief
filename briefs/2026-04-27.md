@@ -1,166 +1,171 @@
 ---
 date: 2026-04-27
-generated_at_utc: 2026-04-27T02:54:14Z
+generated_at_utc: 2026-04-27T23:56:21Z
 model_used: google/gemini-2.5-flash-lite
-sources_count: 5
-aggregate_sentiment: {bullish: 2, bearish: 2, neutral: 6}
-top_sectors: ["Industrials", "Financials", "Materials"]
-top_tickers: ["NVDA", "AMD", "QCOM", "OGN", "SUNPHARMA.NS"]
+sources_count: 6
+aggregate_sentiment: {bullish: 1, bearish: 2, neutral: 7}
+top_sectors: ["Technology", "Financials", "Energy"]
+top_tickers: ["SPY", "QQQ", "DIA", "META", "PG"]
 ---
 
 # 📈 US Market Brief — 2026-04-27
 
-กำไรอุตสาหกรรมจีนเดือนมีนาคมโต 15.8% สูงกว่าคาด 10% หนุนหุ้นเทคฯ โดยเฉพาะ AI และชิป การเข้าซื้อ Organon ของ Sun Pharma มูลค่า 1.17 หมื่นล้านดอลลาร์ จะเป็นปัจจัยบวกต่อกลุ่ม Healthcare สัปดาห์นี้จับตาผลประกอบการ Big Tech และการประชุม Fed เป็นหลัก ราคาน้ำมันที่ปรับขึ้นอาจกดดันหุ้นกลุ่มพลังงานและอุตสาหกรรม แนะนำ "ซื้อ" หุ้นกลุ่มเทคโนโลยีที่ได้อานิสงส์จากจีน
+S&P 500 ทำสถิติสูงสุดใหม่ แต่ผลประกอบการบางส่วนมีสัญญาณอ่อนแอ จับตาผลประกอบการเทคฯ ที่จะประกาศออกมา ซึ่งเป็นตัวขับเคลื่อนสำคัญของตลาดในระยะสั้น คาดการณ์ว่าตลาดจะยังคงผันผวน นักลงทุนควรกระจายการลงทุนไปยังกลุ่มที่แข็งแกร่ง.
 
-## 1. กำไรอุตสาหกรรมจีนพุ่งแรง หนุนหุ้นเทคฯ
-
-| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
-|---|---|---|---|---|---|
-| Sector-specific | bullish | high | short-term | Technology, Industrials | NVDA, AMD, QCOM |
-
-กำไรอุตสาหกรรมจีนเดือนมีนาคมพุ่ง 15.8% สูงกว่าคาดการณ์ที่ 10% ได้แรงหนุนจากภาค AI และชิป แม้มีความเสี่ยงจากราคาน้ำมันที่สูงขึ้น การเติบโตนี้จะส่งผลดีต่อหุ้นกลุ่มเทคโนโลยีที่พึ่งพาอุปสงค์จากจีน โดยเฉพาะผู้ผลิตเซมิคอนดักเตอร์และอุปกรณ์ AI คาดนักลงทุนจะเข้าซื้อสะสมหุ้นกลุ่มนี้เพื่อเก็งกำไร
-
-**📊 Key Numbers**
-- Industrial Profits: +15.8% (March)
-- Est: +10%
-
-**👀 Watch Next:** ติดตามตัวเลข PMI ภาคการผลิตจีนสัปดาห์หน้าเพื่อยืนยันแนวโน้ม
-
-🔗 Source: [CNBC Top News](https://www.cnbc.com/2026/04/27/china-industrial-profits-march-iran-war-oil-shock.html)
-
-## 2. Sun Pharma ซื้อ Organon มูลค่า 1.17 หมื่นล้านดอลลาร์
+## 1. ตลาดหุ้นสหรัฐฯ ทำสถิติสูงสุดใหม่ ดัชนี S&P 500 และ Nasdaq ปรับตัวขึ้น
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| M&A | bullish | high | short-term | Healthcare | OGN, SUNPHARMA.NS |
+| Macro/Fed | neutral | high | immediate | Technology, Financials | SPY, QQQ, DIA |
 
-Sun Pharma ประกาศเข้าซื้อ Organon บริษัทด้านสุขภาพของสหรัฐฯ ด้วยมูลค่า 1.17 หมื่นล้านดอลลาร์ การเข้าซื้อกิจการครั้งใหญ่นี้จะส่งผลให้ Sun Pharma มีขนาดใหญ่ขึ้นและขยายฐานลูกค้าในสหรัฐฯ โดยตรง คาดว่าจะส่งผลบวกต่อหุ้นกลุ่ม Healthcare และบริษัทที่เกี่ยวข้องกับ M&A นักลงทุนควรจับตาดูการปรับโครงสร้างและการควบรวมกิจการที่จะเกิดขึ้น
+ตลาดหุ้นสหรัฐฯ ปิดทำสถิติสูงสุดใหม่ ดัชนี S&P 500 และ Nasdaq ปรับตัวขึ้นอย่างแข็งแกร่ง ขณะที่ Dow Jones ปรับตัวลงเล็กน้อย จากความกังวลเกี่ยวกับความขัดแย้งที่ยืดเยื้อ อย่างไรก็ตาม ตลาดกำลังจับตาผลประกอบการบริษัทเทคโนโลยีขนาดใหญ่ที่จะประกาศออกมา ซึ่งอาจส่งผลต่อทิศทางตลาดในระยะสั้น นักลงทุนควรพิจารณาการปรับพอร์ตเพื่อรับมือกับความผันผวนที่อาจเกิดขึ้น
 
 **📊 Key Numbers**
-- Deal Value: $11.75B
+- S&P 500 Record High
+- Nasdaq Record High
 
-**👀 Watch Next:** ติดตามการอนุมัติตามกฎระเบียบและการรวมกิจการ
+**👀 Watch Next:** ผลประกอบการบริษัทเทคโนโลยี และการเคลื่อนไหวของ Bond Yields
 
-🔗 Source: [WSJ Markets (Google News)](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZW1XMmtMVEZGWURySHhvQWZuRlFNTTlkOVdOUWg2d2NIcXF1OUt3eEc2TFVUczRNWDhqMTZVUl8zSTZQVzFCaHpoLTBGbUNQVlBacFhlSnczQ2ZNRkRlQTQ3S01oZFpXNHkxZU5kMWh4WUNyMWlmekFyR2JvVGdoY0NJTlVCOWdSU3JDbWliWjZwbmZLaG91andZaktEQVl0SU9FY2EyTWQ?oc=5)
+🔗 Source: [WSJ Markets (Google News)](https://news.google.com/rss/articles/CBMinAFBVV95cUxOUDdCSXB0MmFRWGJicjdSME9NeUl4OXZkc3FRU2VmN1FZcnBaYnI5TTRkdS1NQkxJRm9fV215SmdXLUUydVl6aGRja1BwdnRfTGljeXE4V3JNeWs3Q05rQ0lpcEE4VHk1Z2Y2M0V3MFFtZ0NaX1FBVG5CZlpYVWYzQlE2bURkOEtabE5yWnpRVHluZjBnN3YtQ0s0N08?oc=5)
 
-## 3. จับตาการรายงานผลประกอบการ Big Tech และการประชุม Fed
+## 2. ความเสี่ยงภาวะเศรษฐกิจถดถอยในยุโรป จากความขัดแย้งในตะวันออกกลาง
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Earnings | neutral | high | immediate | Technology, Financials | GOOGL, AMZN, MSFT, META, AAPL |
+| Macro/Fed | bearish | high | short-term | Financials, Energy | — |
 
-สัปดาห์นี้จะเป็นสัปดาห์สำคัญของตลาดหุ้นสหรัฐฯ โดยเฉพาะวันพุธ (Super Bowl Wednesday) ที่ Alphabet, Amazon, Microsoft และ Meta จะรายงานผลประกอบการ พร้อมกับการประชุมธนาคารกลางสหรัฐฯ (Fed) ครั้งสุดท้ายของเจอโรม พาวเวลล์ นักลงทุนจะจับตาดูทิศทางอัตราดอกเบี้ยและผลประกอบการของบริษัทเทคโนโลยีขนาดใหญ่เพื่อประเมินทิศทางตลาด
+RBC BlueBay ชี้ความขัดแย้งในตะวันออกกลางเพิ่มความเสี่ยงภาวะเศรษฐกิจถดถอยในยุโรป การเจรจาสันติภาพที่หยุดชะงักส่งผลให้ Bond Yields ปรับตัวสูงขึ้น สะท้อนความกังวลของนักลงทุนต่อเสถียรภาพทางเศรษฐกิจและภูมิรัฐศาสตร์ การลงทุนในสินทรัพย์ปลอดภัยอาจเป็นทางเลือกที่น่าสนใจในระยะสั้น
 
 **📊 Key Numbers**
-- Fed Meeting
-- Big Tech Earnings
+- Europe Recession Risk
 
-**👀 Watch Next:** ติดตามการแถลงข่าวของเจอโรม พาวเวลล์ และผลประกอบการของ Big Tech
+**👀 Watch Next:** พัฒนาการความขัดแย้งในตะวันออกกลาง และนโยบายการเงินของ ECB
 
-🔗 Source: [MarketWatch Top Stories](https://www.marketwatch.com/story/wall-streets-super-bowl-wednesday-alphabet-amazon-microsoft-and-meta-report-along-with-powells-last-fed-meeting-88eb1710?mod=mw_rss_topstories)
+🔗 Source: [Bloomberg Markets (Google News)](https://news.google.com/rss/articles/CBMitgFBVV95cUxPLUVwZGFrMElITUZJYmNQS25SbVBoMFZmdmoxamd0SG15NWJSbUo1T2JHbkZyMVR1VmxMUmJ6QjNvYWVJM2o1NzBfaEY1cGlsUk9zMGZGNWN3RXIxQ2ktRmFMV0dfTDFvdGVwY0NjR2dOaXVvMUlwYkw5NFFKRXB0RHlxWTBnTk93bnFwOXpvV09YTDlONnM3TkJGSmllQ0l4ZGVfcEswd0hjc0tBQy1pUXdJTHRVUQ?oc=5)
 
-## 4. ราคาน้ำมันดิบปรับตัวขึ้น ahead of สัปดาห์ข้อมูลเศรษฐกิจ
+## 3. จีนสั่ง Meta ยกเลิกการซื้อกิจการ Manus มูลค่า 2 พันล้านดอลลาร์
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Commodity | bearish | medium | short-term | Energy, Industrials, Consumer Discretionary | XLE, USO |
+| Regulation | bearish | medium | short-term | Technology | META |
 
-ราคาน้ำมันดิบปรับตัวสูงขึ้นในวันอาทิตย์ ก่อนเข้าสู่สัปดาห์ที่ตลาดการเงินจับตาข้อมูลเศรษฐกิจสำคัญหลายตัว รวมถึงการประชุมธนาคารกลางสหรัฐฯ การปรับขึ้นของราคาน้ำมันอาจส่งผลกระทบต่อต้นทุนการผลิตและอัตราเงินเฟ้อ ซึ่งอาจกดดันหุ้นกลุ่มที่อ่อนไหวต่อต้นทุนพลังงาน
+ทางการจีนสั่งให้ Meta ยกเลิกการเข้าซื้อกิจการ Manus ซึ่งเป็นบริษัท AI มูลค่า 2 พันล้านดอลลาร์ การตัดสินใจนี้ส่งผลกระทบต่อ Meta และอุตสาหกรรม AI โดยรวม อาจส่งสัญญาณถึงการควบคุมที่เข้มงวดขึ้นของจีนต่อการลงทุนในเทคโนโลยีขั้นสูง นักลงทุนในหุ้นเทคโนโลยีควรจับตาดูผลกระทบต่อกลยุทธ์การเติบโตของ Meta
 
 **📊 Key Numbers**
-- Oil Price Rise
+- $2bn Manus Acquisition
+- China AI Regulation
 
-**👀 Watch Next:** ติดตามการแถลงการณ์ของ Fed และตัวเลข CPI สหรัฐฯ
+**👀 Watch Next:** การตอบสนองของ Meta และผลกระทบต่อการลงทุน AI ในจีน
 
-🔗 Source: [MarketWatch Top Stories](https://www.marketwatch.com/story/u-s-stock-futures-fall-oil-rises-ahead-of-a-busy-week-for-wall-street-c3e49958?mod=mw_rss_topstories)
+🔗 Source: [Financial Times Companies](https://www.ft.com/content/347f9969-bff8-4679-a7f1-dbfb9e22df52)
 
-## 5. จีนปราบปรามภาษีกระทบผู้ค้าโลหะ
+## 4. Procter & Gamble (PG) รายงานผลประกอบการ Q3/2026 ดีกว่าคาด
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Regulation | neutral | medium | short-term | Materials, Industrials | — |
+| Earnings | bullish | medium | short-term | Consumer Staples | PG |
 
-จีนดำเนินมาตรการปราบปรามด้านภาษี ส่งผลกระทบต่อผู้ค้าโลหะในศูนย์กลางทางการเงิน การดำเนินการนี้อาจส่งผลให้เกิดความไม่แน่นอนในตลาดสินค้าโภคภัณฑ์ โดยเฉพาะโลหะ และอาจกระทบต่อบริษัทที่เกี่ยวข้องกับการนำเข้า-ส่งออกและการผลิตที่ใช้โลหะเป็นวัตถุดิบหลัก
+Procter & Gamble (PG) ประกาศผลประกอบการไตรมาส 3 ปี 2026 ดีกว่าคาดการณ์ของนักวิเคราะห์ โดยมีรายได้เติบโต 7% การรายงานผลประกอบการที่แข็งแกร่งของบริษัทสินค้าอุปโภคบริโภคขนาดใหญ่นี้ สะท้อนถึงความแข็งแกร่งของภาคผู้บริโภค แม้จะมีความกังวลเกี่ยวกับเศรษฐกิจ นักลงทุนควรจับตาดูแนวโน้มการใช้จ่ายของผู้บริโภคในไตรมาสถัดไป
 
 **📊 Key Numbers**
-- Tax Crackdown
+- PG Q3 Sales +7% YoY
+- Earnings Beat Estimates
 
-**👀 Watch Next:** ติดตามผลกระทบต่อปริมาณการซื้อขายและราคาโลหะในตลาดโลก
+**👀 Watch Next:** แนวโน้มการใช้จ่ายของผู้บริโภค และผลประกอบการของบริษัทในกลุ่ม Consumer Staples
 
-🔗 Source: [Bloomberg Markets (Google News)](https://news.google.com/rss/articles/CBMirgFBVV95cUxQbW9zMmlTbGl1NmNmbjVKM3FqX2JZOWo1RHpsM21iZ1BPcVZaZVA0TkszbmotYllySjlsdmxvSWJSeVFTc3h6SnF3WkJFM20xSmY2QVltZHhnNG1FRko0bkx4Z3ZkdHlzX2VUOWdvUFViT0Y4MXRYcnlIOUV3Y2VNY09KMFVxNktDTDJRNFVTMVY3aUdreVBHNWtVWWM4V1pGempSMFQwdnBvd3pCTEE?oc=5)
+🔗 Source: [CNBC Markets](https://www.cnbc.com/2026/04/24/procter-gamble-pg-q3-2026-earnings.html)
 
-## 6. นักเทรดพันธบัตรจับตา Powell และการประมูลคลังสหรัฐฯ
+## 5. นักวิเคราะห์ปรับลดคำแนะนำหุ้น Adobe และอัปเกรด CrowdStrike
+
+| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
+|---|---|---|---|---|---|
+| Earnings | neutral | medium | short-term | Technology | ADBE, CRWD |
+
+Mizuho ปรับลดคำแนะนำหุ้น Adobe จาก Outperform เป็น Neutral และอัปเกรด CrowdStrike จาก Neutral เป็น Outperform การเปลี่ยนแปลงมุมมองของนักวิเคราะห์ต่อหุ้นซอฟต์แวร์เหล่านี้ สะท้อนถึงความคาดหวังที่แตกต่างกันในกลุ่มเทคโนโลยี นักลงทุนควรพิจารณาการกระจายความเสี่ยงในกลุ่มซอฟต์แวร์และ Cybersecurity
+
+**📊 Key Numbers**
+- ADBE Downgrade to Neutral
+- CRWD Upgrade to Outperform
+
+**👀 Watch Next:** ผลประกอบการและการคาดการณ์ของบริษัทซอฟต์แวร์และ Cybersecurity
+
+🔗 Source: [MarketWatch Top Stories](https://www.marketwatch.com/story/another-former-bull-throws-in-the-towel-on-adobes-stock-heres-the-software-stock-he-now-favors-4597c611?mod=mw_rss_topstories)
+
+## 6. ความขัดแย้งระหว่าง Musk และ Altman ในคดี OpenAI เริ่มต้นขึ้น
+
+| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
+|---|---|---|---|---|---|
+| Regulation | neutral | medium | short-term | Technology | — |
+
+การพิจารณาคดีระหว่าง Elon Musk และ Sam Altman เกี่ยวกับ OpenAI ได้เริ่มขึ้น โดยมีการคัดเลือกคณะลูกขุน 9 คน การดำเนินคดีนี้อาจส่งผลกระทบต่อทิศทางของบริษัท AI ชั้นนำ และอาจสร้างความไม่แน่นอนให้กับภาคส่วน AI โดยรวม นักลงทุนควรติดตามความคืบหน้าของคดีอย่างใกล้ชิด
+
+**📊 Key Numbers**
+- Musk v. Altman Trial
+- OpenAI Legal Proceedings
+
+**👀 Watch Next:** ความคืบหน้าของคดี Musk v. Altman และผลกระทบต่อ OpenAI
+
+🔗 Source: [CNBC Top News](https://www.cnbc.com/2026/04/27/musk-altman-trial-openai-jury-selection.html)
+
+## 7. ความกังวลเกี่ยวกับอนาคตของหุ้นเทคโนโลยี ท่ามกลางการเปลี่ยนแปลงผู้บริหาร
+
+| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
+|---|---|---|---|---|---|
+| Earnings | neutral | low | long-term | Technology | AAPL |
+
+การเปลี่ยนแปลงผู้บริหารระดับสูงในบริษัทเทคโนโลยี เช่น การออกจากตำแหน่งของ Tim Cook (สมมติฐาน) อาจเป็นสัญญาณเตือนถึงความท้าทายที่กำลังเผชิญในภาคส่วนนี้ แม้ว่าตลาดโดยรวมจะทำสถิติสูงสุดใหม่ แต่ผลประกอบการที่ถูกจับตาอย่างใกล้ชิด และความเสี่ยงด้านกฎระเบียบ อาจสร้างแรงกดดันต่อหุ้นเทคฯ บางตัว นักลงทุนควรประเมินปัจจัยพื้นฐานของแต่ละบริษัทอย่างรอบคอบ
+
+**📊 Key Numbers**
+- Tech Sector Valuation
+- Management Changes
+
+**👀 Watch Next:** ผลประกอบการของบริษัทเทคโนโลยี และการเปลี่ยนแปลงเชิงโครงสร้างในอุตสาหกรรม
+
+🔗 Source: [Financial Times Companies](https://www.ft.com/content/1f1feb43-9c34-45d0-84cc-b795df897be7)
+
+## 8. ผลประกอบการที่แข็งแกร่งของ S&P 500 บดบังความเสียหายในรายงานผลประกอบการ
+
+| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
+|---|---|---|---|---|---|
+| Earnings | neutral | medium | short-term | Financials, Technology | SPY |
+
+แม้ว่าดัชนี S&P 500 จะทำสถิติสูงสุดใหม่ แต่รายงานผลประกอบการบางส่วนกลับแสดงสัญญาณความเสียหาย ซึ่งอาจบ่งชี้ถึงความเปราะบางที่ซ่อนอยู่ภายใต้ภาพรวมที่ดูดี นักลงทุนควรวิเคราะห์ผลประกอบการรายบริษัทอย่างละเอียด เพื่อประเมินความเสี่ยงและโอกาสที่แท้จริง การกระจายการลงทุนไปยังกลุ่มอุตสาหกรรมที่แข็งแกร่งเป็นสิ่งสำคัญ
+
+**📊 Key Numbers**
+- S&P 500 Record High
+- Earnings Quality Concerns
+
+**👀 Watch Next:** รายงานผลประกอบการของบริษัทที่ประกาศในสัปดาห์นี้ และการประเมินคุณภาพกำไร
+
+🔗 Source: [Bloomberg Markets (Google News)](https://news.google.com/rss/articles/CBMiswFBVV95cUxPWGF4NnBnVTF2OWVUSVhoNm5BcEZ6eUY3U3M3dVFUS2NhTWljNkZqWHJXLUtEWGdzejYwaTl2eS14eU9ZbjJKcjFsWWVwMnhoSTVVSWNFZUFLcWxCM0Y1cnhDV21SdGxtU1dIeFFqZERhT3NmUjBMNDA4Y0oxMmdjUV8zNVMxQXBRYmFlZTdaQk9ndE5sb0dwV1dvMHlNSUhMNnR6OTNsSEJ4Yk1Yek9IWjJKNA?oc=5)
+
+## 9. Bond Yields ปรับตัวสูงขึ้น หลังทรัมป์กล่าวถึงการเจรจาสันติภาพ
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
 | Macro/Fed | neutral | medium | immediate | Financials | TLT, IEF |
 
-นักเทรดตราสารหนี้กำลังรอการแถลงการณ์ของเจอโรม พาวเวลล์ และการประมูลพันธบัตรรัฐบาลสหรัฐฯ หลายรายการ สัปดาห์นี้มีความสำคัญต่อทิศทางอัตราดอกเบี้ยและสภาพคล่องในตลาด การประมูลที่น่าสนใจและการส่งสัญญาณจาก Fed จะส่งผลต่อการเคลื่อนไหวของราคาพันธบัตรและหุ้น
+Bond Yields ปรับตัวสูงขึ้น หลังจากโดนัลด์ ทรัมป์ กล่าวว่าการเจรจาสันติภาพสามารถทำได้ผ่านการโทรศัพท์ ซึ่งลดความกังวลเกี่ยวกับความขัดแย้งที่ยืดเยื้อในทันที การเคลื่อนไหวนี้สะท้อนถึงการเปลี่ยนแปลงมุมมองของตลาดต่อความเสี่ยงทางภูมิรัฐศาสตร์ นักลงทุนควรจับตาดูการเปลี่ยนแปลงของ Bond Yields ซึ่งอาจส่งผลต่อต้นทุนทางการเงินและมูลค่าสินทรัพย์
 
 **📊 Key Numbers**
-- Powell Speech
-- Treasury Auctions
+- Treasury Yields Climb
 
-**👀 Watch Next:** ติดตามผลการประมูลพันธบัตรและทิศทางอัตราผลตอบแทน
+**👀 Watch Next:** การแถลงการณ์ของผู้นำทางการเมือง และผลกระทบต่อ Bond Yields
 
-🔗 Source: [Bloomberg Markets (Google News)](https://news.google.com/rss/articles/CBMiswFBVV95cUxQaW1XeHRBalFYZEttcWpmbGFiVUdKTjdBTWRsbFFqYy1YWDZoNzNiQlNTNmZwOGRJdi1oQUtiUWdBb0FUYmh4MW1nMXF6UmVkZGhicmZNR2ZpQ0FSTlg5cFFZelhHNXdVMFVKZmhDOE0tZ3pHeElUZktQSU50WnBPNkt5TEl6Q2VEVDN6VG9WWEN4cU1JWDhDMlM5eDBuMlJtQUFOQU8yS0RaMzdOSXBiMmQtUQ?oc=5)
+🔗 Source: [WSJ Markets (Google News)](https://news.google.com/rss/articles/CBMipgFBVV95cUxPNW0tamlPTUdjMGg0eGt6cnNvbTJyUmxNYWNxMXJwbHI4U28yeFJ0UkFYUHFsZmRmT0RfZllMT2VhTFFmSkdBVzk1UmlPLU9CWGxlcFlia3pGVUJjbUZpMzJZZ3U4b3BzV3NYUDZ0cWd4Nmw0UVN3SkFFeHA4T2h2RHpCaW1iQWU0X2V5MzJXT1lvYm1ySGNZYzhwTll0eDAyV25XNHZn?oc=5)
 
-## 7. แคนาดาเผชิญปัญหา Red Tape หนักกว่าภาษีทรัมป์
+## 10. ตลาดหุ้นสหรัฐฯ ปรับตัวขึ้นเล็กน้อย รอผลประกอบการ
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Regulation | bearish | low | long-term | Industrials, Materials, Financials | — |
+| Earnings | neutral | low | immediate | Technology, Financials | SPY, QQQ |
 
-กลุ่มอุตสาหกรรมในแคนาดาชี้ว่าปัญหาด้านกฎระเบียบ (Red Tape) ของแคนาดานั้นรุนแรงกว่าผลกระทบจากภาษีที่สหรัฐฯ เคยเรียกเก็บในสมัยทรัมป์ ปัญหานี้อาจส่งผลกระทบต่อการลงทุนและการดำเนินธุรกิจในแคนาดา โดยเฉพาะในภาคอุตสาหกรรมและบริการที่ต้องเผชิญกับกฎระเบียบที่ซับซ้อน
-
-**📊 Key Numbers**
-- Red Tape vs Trump Tariffs
-
-**👀 Watch Next:** ติดตามการเปลี่ยนแปลงนโยบายของรัฐบาลแคนาดา
-
-🔗 Source: [Financial Times Companies](https://www.ft.com/content/952d2b5b-21e5-479b-8db0-c88a4470a263)
-
-## 8. Tillis เลิกค้านการเสนอชื่อ Warsh เข้า Fed
-
-| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
-|---|---|---|---|---|---|
-| Macro/Fed | neutral | low | short-term | Financials | — |
-
-วุฒิสมาชิก Tillis ยกเลิกการคัดค้านการเสนอชื่อ Michelle Bowman เข้าดำรงตำแหน่งในคณะผู้ว่าการธนาคารกลางสหรัฐฯ (Fed) การตัดสินใจนี้จะช่วยให้กระบวนการแต่งตั้งเป็นไปอย่างราบรื่นขึ้น และส่งผลต่อองค์ประกอบของคณะกรรมการ Fed ซึ่งอาจมีผลต่อการตัดสินใจนโยบายการเงินในอนาคต
+ตลาดหุ้นสหรัฐฯ ฟิวเจอร์สปรับตัวขึ้นเล็กน้อย หลังดัชนี S&P 500 ทำสถิติสูงสุดใหม่ นักลงทุนกำลังรอผลประกอบการของบริษัทเทคโนโลยีขนาดใหญ่ ซึ่งอาจเป็นปัจจัยขับเคลื่อนตลาดในสัปดาห์นี้ ความผันผวนของตลาดอาจเพิ่มขึ้น ขึ้นอยู่กับทิศทางของผลประกอบการและแนวโน้มเศรษฐกิจมหภาค
 
 **📊 Key Numbers**
-- Warsh Fed Nomination
+- S&P 500 Record High
+- Upcoming Tech Earnings
 
-**👀 Watch Next:** ติดตามการยืนยันการแต่งตั้งและผลการประชุม Fed ครั้งถัดไป
+**👀 Watch Next:** ผลประกอบการของบริษัทเทคโนโลยี และการชี้นำจากผู้บริหาร
 
-🔗 Source: [WSJ Markets (Google News)](https://news.google.com/rss/articles/CBMilwFBVV95cUxPb2k3aGpiZlMyWEV6OVFWYWNsVWpNRHM3NjdmYVUzems4Zjk2NXAzcDBpaFRoczI4b21WVzVJc1pOekhlWmV0SzFaQWhhekZ0Z3B6N256SC1yR3NMVmRiZ2twQUZsR2FrM3NPUTBmS2llV2UwTVlickxoandqd29OVG81TkphZWkwLXBiWnVISFo4Uk14b0c4?oc=5)
-
-## 9. การปราบปรามภาษีในจีนส่งผลกระทบต่อผู้ค้าโลหะ
-
-| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
-|---|---|---|---|---|---|
-| Regulation | neutral | low | short-term | Materials | — |
-
-การปราบปรามด้านภาษีในจีนกำลังส่งผลกระทบอย่างหนักต่อผู้ค้าโลหะในศูนย์กลางทางการเงินของประเทศ การดำเนินการนี้อาจนำไปสู่ความผันผวนในตลาดโลหะและส่งผลกระทบต่อห่วงโซ่อุปทานทั่วโลก นักลงทุนควรจับตาดูผลกระทบต่อราคาและปริมาณการซื้อขายโลหะ
-
-**📊 Key Numbers**
-- China Tax Crackdown
-
-**👀 Watch Next:** ติดตามผลกระทบต่อราคาโลหะและปริมาณการค้า
-
-🔗 Source: [Bloomberg Markets (Google News)](https://news.google.com/rss/articles/CBMirgFBVV95cUxQbW9zMmlTbGl1NmNmbjVKM3FqX2JZOWo1RHpsM21iZ1BPcVZaZVA0TkszbmotYllySjlsdmxvSWJSeVFTc3h6SnF3WkJFM20xSmY2QVltZHhnNG1FRko0bkx4Z3ZkdHlzX2VUOWdvUFViT0Y4MXRYcnlIOUV3Y2VNY09KMFVxNktDTDJRNFVTMVY3aUdreVBHNWtVWWM4V1pGempSMFQwdnBvd3pCTEE?oc=5)
-
-## 10. ทรัมป์ผลักดันการจัดงานในทำเนียบขาวหลังเหตุกราดยิง
-
-| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
-|---|---|---|---|---|---|
-| Geopolitics | neutral | low | immediate | Real Estate, Communication Services | — |
-
-โดนัลด์ ทรัมป์ กำลังผลักดันให้มีการจัดงานในห้องบอลรูมของทำเนียบขาว หลังเกิดเหตุกราดยิงในงานเลี้ยงนักข่าว เหตุการณ์นี้อาจส่งผลต่อบรรยากาศทางการเมืองและภาพลักษณ์ของทำเนียบขาว ซึ่งอาจมีผลกระทบต่อความเชื่อมั่นของนักลงทุนในภาคอสังหาริมทรัพย์และบริการที่เกี่ยวข้อง
-
-**📊 Key Numbers**
-- White House Event
-
-**👀 Watch Next:** ติดตามความคืบหน้าของเหตุการณ์และผลกระทบทางการเมือง
-
-🔗 Source: [CNBC Top News](https://www.cnbc.com/2026/04/26/trump-presses-case-for-white-house-ballroom-following-shooting.html)
+🔗 Source: [CNBC Top News](https://www.cnbc.com/2026/04/27/stock-market-today-live-updates.html)
