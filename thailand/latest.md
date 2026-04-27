@@ -1,169 +1,160 @@
 ---
 date: 2026-04-27
-generated_at_utc: 2026-04-27T00:01:14Z
+generated_at_utc: 2026-04-27T03:02:32Z
 model_used: google/gemini-2.5-flash-lite
 sources_count: 5
 ---
 
 # 🇹🇭 Thailand Brief — 2026-04-27
 
-## Executive Summary
+1.00% คือระดับดอกเบี้ยนโยบายที่ กนง. คงไว้ สวนทางเงินเฟ้อโลก จับตา MPI มี.ค. เป็นปัจจัยกดดัน SET ระยะสั้น แต่มีมุมมองบวกต่อ ADVANC จากกำไรแกร่ง และ TOP, GPSC, PTTGC จากโอกาสรีบาวด์ของ SET แนะนำ Overweight กลุ่มสื่อสารและปิโตรเคมี.
 
-กนง. จับตาเงินเฟ้อโลกและเศรษฐกิจที่อาจส่งผลต่อดอกเบี้ยนโยบายและค่าเงินบาท ขณะที่ภาคเกษตรและอุตสาหกรรมเผชิญต้นทุนสูงจากพลังงานและปุ๋ย ตลาดหุ้นคาดมีโอกาสรีบาวด์ระยะสั้นจากผลประกอบการ Q1/69 และการประชุมเฟด ขณะที่แบงก์ปรับกลยุทธ์รับกฎค่าธรรมเนียมใหม่.
-
-## 🚨 High-Impact Alerts
-
-_ไม่มีรายการ impact=high + immediate ในวันนี้_
-
-## 1. แบงก์ชาติจับตาเงินเฟ้อ-เศรษฐกิจโลก
+## 1. กนง. คงดอกเบี้ย 1.00% สวนทางเงินเฟ้อโลก
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| นโยบายการเงิน | neutral | high | short-term | ธนาคาร, อสังหาริมทรัพย์, การบริโภค | KBANK, SCB, BBL, CPALL, LH |
+| นโยบายการเงิน-ธปท. | bearish | high | immediate | ธนาคาร, พลังงาน, อุตสาหกรรม | — |
 
-กนง. ประชุมจับตาเงินเฟ้อโลกที่ยังทรงตัวสูงและผลกระทบจากความขัดแย้งภูมิรัฐศาสตร์ต่อเศรษฐกิจไทย การตัดสินใจดอกเบี้ยนโยบายจะมีผลต่อต้นทุนทางการเงินของภาคธุรกิจและครัวเรือนโดยตรง การประเมินภาวะเศรษฐกิจและเงินเฟ้อจะเป็นปัจจัยสำคัญในการกำหนดทิศทางตลาดทุนและค่าเงินบาทในระยะสั้นถึงกลาง
+กนง. มีมติเอกฉันท์คงดอกเบี้ยนโยบายที่ 1.00% เพื่อประคับประคองเศรษฐกิจไทย แม้เงินเฟ้อโลกมีแนวโน้มสูงขึ้น การตัดสินใจนี้สอดคล้องกับคาดการณ์ของ Krungthai GLOBAL MARKETS และสะท้อนความกังวลต่อผลกระทบจากสถานการณ์ตะวันออกกลางต่อดัชนีผลผลิตอุตสาหกรรม (MPI) ที่อาจปรับลดลงในเดือน มี.ค. เป็นปัจจัยกดดัน SET ในระยะสั้น
 
 **📊 Key Numbers**
-- —
+- อัตราดอกเบี้ยนโยบาย 1.00%
 
-**👀 Watch Next:** การแถลงการณ์ของ กนง. หลังการประชุม
+**👀 Watch Next:** ติดตามการประกาศตัวเลข MPI เดือน มี.ค. และทิศทางดอกเบี้ยของ Fed
 
-🔗 Source: [MoneyChannel TH](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PSmJITERick9KRGd2by12b0lidEtLRUVQcjVpbENDRU1JZ25aYnppN2tneVc5WDlCOHQwUlFWajUwbDdBYkx4b2FzRW01bFI5TnFQZDh3?oc=5)
+🔗 Source: [Krungthai GLOBAL MARKETS](https://www.prachachat.net/finance/news-1998224)
 
-## 2. แบงก์ปรับกลยุทธ์รับกฎคุมค่าธรรมเนียม
+## 2. EGCO ขายหุ้น 49% โรงไฟฟ้าบ้านโป่ง-คลองหลวงให้ J-POWER
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| ธนาคาร-การเงิน | neutral | high | short-term | ธนาคาร | KBANK, SCB, BBL, KTB, TTB |
+| บริษัท-M&A | bullish | high | short-term | พลังงาน | EGCO |
 
-ธนาคารพาณิชย์ไทยกำลังปรับตัวเพื่อรับมือกับกฎระเบียบที่เข้มงวดขึ้นเกี่ยวกับค่าธรรมเนียมบริการต่างๆ การเปลี่ยนแปลงนี้อาจส่งผลกระทบต่อรายได้ค่าธรรมเนียมของธนาคาร ทำให้ต้องหันไปเน้นการหารายได้จากแหล่งอื่น เช่น การปล่อยสินเชื่อ หรือการพัฒนาผลิตภัณฑ์และบริการใหม่ๆ นักลงทุนควรจับตาผลกระทบต่อกำไรของกลุ่มธนาคาร
+EGCO Group ขายหุ้น 49% ในโรงไฟฟ้าบ้านโป่งและคลองหลวง ให้ J-POWER มูลค่าการลงทุนไม่เปิดเผย คาดนำเงินทุนต่อยอดธุรกิจใหม่ตามกลยุทธ์ POWER4 การขายหุ้นครั้งนี้ช่วยเพิ่มความยืดหยุ่นทางการเงินและกระชับความร่วมมือกับพันธมิตร เป็น Sentiment เชิงบวกต่อ EGCO ในแง่การบริหารจัดการพอร์ตสินทรัพย์
 
 **📊 Key Numbers**
-- —
+- ขายหุ้น 49%
 
-**👀 Watch Next:** ผลประกอบการไตรมาส 1/69 ของกลุ่มธนาคาร
+**👀 Watch Next:** ติดตามแผนการลงทุนใหม่ของ EGCO และผลประกอบการโรงไฟฟ้าที่เหลือ
+
+🔗 Source: [ประชาชาติธุรกิจ Economy](https://www.prachachat.net/economy/news-1998253)
+
+## 3. ค่าเงินบาทเปิดตลาดทรงตัว 32.42 บาท จับตาจ่ายปันผลกดดันอ่อนค่า
+
+| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
+|---|---|---|---|---|---|
+| ค่าเงิน-FX | bearish | medium | short-term | — | — |
+
+ค่าเงินบาทเปิดตลาดทรงตัวที่ 32.42 บาท/ดอลลาร์สหรัฐฯ จับตาช่วงปลายเดือน เม.ย. ถึงกลาง พ.ค. จะมีเงินปันผลไหลออกกว่า 1 แสนล้านบาท กดดันค่าเงินบาทอ่อนค่า 1-4% Krungthai GLOBAL MARKETS ประเมินกรอบค่าเงินบาทสัปดาห์นี้ที่ 32.00-33.00 บาท/ดอลลาร์
+
+**📊 Key Numbers**
+- 32.42 บาท/ดอลลาร์, จ่ายปันผล ~1 แสนล้านบาท
+
+**👀 Watch Next:** ติดตามการเคลื่อนไหวของดอลลาร์สหรัฐฯ และสถานการณ์ในตะวันออกกลาง
+
+🔗 Source: [Krungthai GLOBAL MARKETS](https://www.prachachat.net/finance/news-1998224)
+
+## 4. SET ลุ้นเด้ง! สวนทางน้ำมันพุ่ง-สงครามกดดัน ชี้เป้า ADVANC
+
+| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
+|---|---|---|---|---|---|
+| SET/หุ้นไทย | bullish | medium | short-term | สื่อสาร | ADVANC |
+
+บทวิเคราะห์ชี้ SET มีโอกาสรีบาวด์สวนทางราคาน้ำมันที่พุ่งขึ้นและแรงกดดันจากสงคราม โดยเน้นลงทุนในหุ้น ADVANC ที่มีกำไรแกร่งสวนวิกฤต เป็นสัญญาณบวกต่อกลุ่มสื่อสารและ SET โดยรวม
+
+**📊 Key Numbers**
+- SET รีบาวด์
+
+**👀 Watch Next:** ติดตามผลประกอบการ ADVANC และทิศทางราคาน้ำมัน
+
+🔗 Source: [posttoday](https://news.google.com/rss/articles/CBMiowFBVV95cUxQZWdsT01pS08wSjdBdGY0TUNoa3U4U3gyOUZjMjNEUmsyTzV1RUNmVjJ2Mk9CNVVQaFB0Rlc2TDhMSlRiNW50WnZpWmNhQWtWeUxrVDg3dDNpZ2pNTWVXc1Q1ZnNCRDRnNVhUUEFOZzNxS1VLS1BfMm1qbnhTSjltQ19YU1k3VnlUNVJ4UmtpUzJnMXJzSUpPTkd1Zzg4a0g1VEpz?oc=5)
+
+## 5. กรุงศรี ชี้ SET สัปดาห์นี้ “รีบาวด์” ชู TOP-GPSC-PTTGC
+
+| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
+|---|---|---|---|---|---|
+| SET/หุ้นไทย | bullish | medium | short-term | พลังงาน, ปิโตรเคมี | TOP, GPSC, PTTGC |
+
+บล.กรุงศรีคาด SET สัปดาห์นี้มีโอกาสรีบาวด์ โดยแนะนำหุ้นเด่น TOP, GPSC, PTTGC เป็นหุ้นที่น่าสนใจลงทุน เป็น Sentiment เชิงบวกต่อกลุ่มปิโตรเคมีและพลังงาน
+
+**📊 Key Numbers**
+- SET รีบาวด์
+
+**👀 Watch Next:** ติดตามผลประกอบการหุ้นแนะนำและทิศทางตลาด
+
+🔗 Source: [ข่าวหุ้นธุรกิจ - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aOEUwUGdwUUhqU1doc2ZnLWRJbXJ2MVdFVXQ3RC1WODczcmNCNHU0bmVUN3N6MkNPazZWQTdEWjNkLTFkdWVmTHZ3c1RvcXJyOXl0V2ZR?oc=5)
+
+## 6. ราคาทองคำปรับลง 150 บาท สวนทางตลาดโลกทรงตัว
+
+| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
+|---|---|---|---|---|---|
+| SET/หุ้นไทย | bearish | low | immediate | ทองคำ | — |
+
+ราคาทองคำในประเทศปรับลง 150 บาท รูปพรรณขายที่ 72,850 บาท ขณะที่ราคาทองคำตลาดโลก (Gold Spot) ทรงตัวที่ 4,706 ดอลลาร์/ออนซ์ ปัจจัยกดดันจากดัชนีเงินดอลลาร์ทรงตัวและบอนด์ยีลด์สหรัฐฯ ที่ 4.30% เป็น Sentiment เชิงลบต่อทองคำในประเทศ
+
+**📊 Key Numbers**
+- ทองคำแท่งขายออก 72,050 บาท, Gold Spot 4,706 USD/oz
+
+**👀 Watch Next:** ติดตามสถานการณ์ตะวันออกกลางและทิศทางดัชนีเงินดอลลาร์
+
+🔗 Source: [ประชาชาติธุรกิจ Finance](https://www.prachachat.net/finance/news-1998234)
+
+## 7. น้ำมันพุ่งเกือบ 2% หลังเจรจาสันติภาพสหรัฐ-อิหร่านชะงัก
+
+| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
+|---|---|---|---|---|---|
+| ต่างประเทศกระทบไทย | bearish | medium | short-term | พลังงาน, ขนส่ง | PTT, BEM |
+
+ราคาน้ำมันดิบ WTI พุ่งเกือบ 2% แตะระดับ 80.00 ดอลลาร์สหรัฐฯ/บาร์เรล หลังการเจรจาสันติภาพระหว่างสหรัฐฯ และอิหร่านชะงัก เป็นปัจจัยกดดันต่อต้นทุนการผลิตและค่าขนส่งของภาคธุรกิจไทย
+
+**📊 Key Numbers**
+- น้ำมัน WTI +1.9%
+
+**👀 Watch Next:** ติดตามความคืบหน้าการเจรจาสันติภาพสหรัฐ-อิหร่าน และการประชุม OPEC+
+
+🔗 Source: [Bangkok Post Business](https://www.bangkokpost.com/business/general/3244752/oil-climbs-nearly-2-as-usiran-peace-talks-stall)
+
+## 8. ธนาคารไทยปรับกลยุทธ์รับกฎคุมค่าธรรมเนียม
+
+| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
+|---|---|---|---|---|---|
+| กฎระเบียบ | neutral | medium | long-term | ธนาคาร | KBANK, BBL, SCB, CPALL |
+
+ธนาคารพาณิชย์ไทยกำลังปรับกลยุทธ์เพื่อรับมือกับการกำกับดูแลค่าธรรมเนียมที่เข้มงวดขึ้น โดยมุ่งเน้นการหารายได้จากช่องทางอื่น เช่น การปล่อยสินเชื่อและการให้บริการทางการเงินที่หลากหลาย เป็นปัจจัยที่ต้องจับตาต่อผลประกอบการกลุ่มธนาคาร
+
+**📊 Key Numbers**
+- กฎคุมค่าธรรมเนียม
+
+**👀 Watch Next:** ติดตามผลการปรับกลยุทธ์ของธนาคารต่างๆ และผลกระทบต่อรายได้ค่าธรรมเนียม
 
 🔗 Source: [Bangkok Post Business](https://www.bangkokpost.com/business/general/3244610/thai-banks-pivot-as-fees-are-regulated)
 
-## 3. ต้นทุนพลังงานพุ่ง กระทบอุตสาหกรรมเหล็ก
+## 9. ทุเรียนไทยไลฟ์สดเจาะตลาดจีน ยอดสั่งซื้อ 15 ล้าน
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| สินค้าโภคภัณฑ์ | bearish | high | short-term | อุตสาหกรรม, เหล็ก | GJS, TMT, MILL, BAFS |
+| เศรษฐกิจมหภาค | bullish | low | short-term | เกษตรแปรรูป, ค้าปลีก | CPALL |
 
-อุตสาหกรรมเหล็กและเหล็กกล้าของไทยกำลังเผชิญแรงกดดันจากราคาน้ำมันที่พุ่งสูงขึ้นจากความขัดแย้งในตะวันออกกลาง ส่งผลให้ต้นทุนการขนส่งแร่เหล็กซึ่งเป็นวัตถุดิบหลักเพิ่มสูงขึ้นอย่างมีนัยสำคัญ การเพิ่มขึ้นของต้นทุนการผลิตนี้อาจส่งผลกระทบต่ออัตรากำไรของบริษัทในอุตสาหกรรมเหล็ก และอาจส่งต่อไปยังอุตสาหกรรมที่เกี่ยวข้อง
+กระทรวงพาณิชย์เร่งโปรโมททุเรียนไทยผ่าน Live Commerce เจาะตลาดจีน ได้รับการตอบรับดี มียอดสั่งซื้อ 15 ล้านบาท จากผู้ติดตาม 1.5 แสนราย สะท้อนกำลังซื้อและโอกาสของทุเรียนไทยบนแพลตฟอร์มออนไลน์ เป็น Sentiment เชิงบวกต่อกลุ่มเกษตรแปรรูปและผู้ส่งออก
 
 **📊 Key Numbers**
-- —
+- ยอดสั่งซื้อ 15 ล้านบาท
 
-**👀 Watch Next:** ราคาน้ำมันดิบในตลาดโลก
+**👀 Watch Next:** ติดตามผลการขยายตลาดทุเรียนไทยในช่องทางออนไลน์อื่นๆ
 
-🔗 Source: [Bangkok Post Business](https://www.bangkokpost.com/business/general/3244680/rising-oil-power-costs-weigh-on-steel)
+🔗 Source: [ประชาชาติธุรกิจ Economy](https://www.prachachat.net/economy/news-1998246)
 
-## 4. เกษตรกรแบกรับ 'ฤดูร้อนทางการเงิน' ต้นทุนพุ่ง
+## 10. ธนาคารกลางชี้อัตราดอกเบี้ยไทยลดลงได้หากเศรษฐกิจชะลอ
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| เศรษฐกิจมหภาค | bearish | medium | short-term | การบริโภค, เกษตร | CPALL, MAKRO, OSP, SAPPE |
+| นโยบายการเงิน-ธปท. | bullish | medium | long-term | อสังหาฯ, ก่อสร้าง, ยานยนต์ | — |
 
-ภาคครัวเรือนไทยกำลังเผชิญกับภาวะ 'ฤดูร้อนทางการเงิน' จากต้นทุนที่สูงขึ้น โดยเฉพาะค่าครองชีพและค่าใช้จ่ายในการผลิตภาคเกษตร ปัญหานี้ส่งผลกระทบต่อกำลังซื้อและการใช้จ่ายของผู้บริโภค ซึ่งอาจกระทบต่อภาพรวมเศรษฐกิจในระยะสั้นถึงกลาง การแก้ปัญหาดังกล่าวต้องอาศัยมาตรการช่วยเหลือจากภาครัฐและภาคเอกชน
-
-**📊 Key Numbers**
-- —
-
-**👀 Watch Next:** ดัชนีความเชื่อมั่นผู้บริโภค
-
-🔗 Source: [Bangkok Post Business](https://www.bangkokpost.com/business/general/3244645/thailand-wilts-as-financial-summer-batters-households)
-
-## 5. ธ.ก.ส. อัดสินเชื่อ 'ดอกเบี้ยคนละครึ่ง' ช่วยเกษตรกร
-
-| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
-|---|---|---|---|---|---|
-| นโยบายการเงิน | bullish | medium | short-term | เกษตร, ธนาคาร | BAFS, PTTGC, OSP, KBANK, BAAC |
-
-ธ.ก.ส. เตรียมเสนอโครงการสินเชื่อ 'ดอกเบี้ยคนละครึ่ง' วงเงิน 30,000 ล้านบาท เพื่อช่วยเหลือเกษตรกรที่ประสบปัญหาขาดแคลนและราคาปุ๋ยแพง โครงการนี้จะช่วยลดภาระดอกเบี้ยและส่งเสริมการทำเกษตรแม่นยำ ซึ่งอาจส่งผลดีต่อต้นทุนการผลิตและผลผลิตทางการเกษตรในระยะยาว
+ผู้ว่าการธนาคารแห่งประเทศไทยระบุว่า อัตราดอกเบี้ยนโยบายของไทยสามารถปรับลดลงได้หากเศรษฐกิจชะลอตัว เป็นสัญญาณที่อาจนำไปสู่การปรับลดอัตราดอกเบี้ยในอนาคตหากเศรษฐกิจไม่ฟื้นตัวตามคาด
 
 **📊 Key Numbers**
-- วงเงิน 30,000 ล้านบาท
-- ระยะเวลา 3 ปี
+- ดอกเบี้ยลดลงได้
 
-**👀 Watch Next:** การอนุมัติโครงการโดยบอร์ด ธ.ก.ส.
+**👀 Watch Next:** ติดตามตัวเลข GDP และดัชนีเศรษฐกิจอื่นๆ ของไทย
 
-🔗 Source: [ประชาชาติธุรกิจ Finance](https://www.prachachat.net/finance/news-1997688/ธ.ก.ส.ปรับเกมสินเชื่อ-ชู-ดอกเบี้ยคนละครึ่ง-ช่วยเกษตรกรแก้-ปุ๋ยขาด-แพง)
-
-## 6. ทุเรียนต้นฤดูส่งออกทะลุล้านตัน ต้นทุนขนส่งพุ่ง
-
-| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
-|---|---|---|---|---|---|
-| สินค้าโภคภัณฑ์ | neutral | medium | short-term | เกษตร, อาหาร | CPF, TU, OSP, SAPPE |
-
-การส่งออกทุเรียนไทยไปยังจีนปีนี้คาดว่าจะทะลุล้านตัน มูลค่ากว่า 1.5 แสนล้านบาท แม้คุณภาพดี แต่ต้นทุนโลจิสติกส์เพิ่มขึ้น 10-20% และเผชิญการแข่งขันจากทุเรียนเวียดนามที่กดราคา ผู้ส่งออกและล้งไทยอาจเผชิญความเหนื่อยล้าในการบริหารจัดการสภาพคล่องและกำไร
-
-**📊 Key Numbers**
-- ส่งออกทะลุล้านตัน
-- มูลค่า > 1.5 แสนล้านบาท
-- ต้นทุนขนส่งเพิ่ม 10-20%
-
-**👀 Watch Next:** ปริมาณและราคาขายทุเรียนในตลาดจีน
-
-🔗 Source: [ประชาชาติธุรกิจ Economy](https://www.prachachat.net/economy/news-1997740/ทุเรียนต้นฤดู-ส่งออกทะลุล้านตัน-ต้นทุนขนส่งพุ่ง-เวียดนามบี้ราคา)
-
-## 7. บิตคอยน์ขยับขึ้น จับตา Bitkub เล็ง IPO ฮ่องกง
-
-| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
-|---|---|---|---|---|---|
-| SET/หุ้นไทย | neutral | low | short-term | เทคโนโลยี, การเงิน | KEX, JMT |
-
-ราคาบิตคอยน์ปรับตัวขึ้นเล็กน้อย ขณะที่ Bitkub Group เดินหน้าขยายธุรกิจและสำรวจความเป็นไปได้ในการจดทะเบียนในตลาดหุ้นฮ่องกง การเคลื่อนไหวนี้สะท้อนถึงความน่าสนใจของสินทรัพย์ดิจิทัลและการขยายตัวของธุรกิจที่เกี่ยวข้อง ซึ่งอาจส่งผลต่อภาพรวมของตลาดคริปโตเคอร์เรนซีในไทย
-
-**📊 Key Numbers**
-- ราคาบิตคอยน์ 78,648 เหรียญสหรัฐ
-
-**👀 Watch Next:** ความคืบหน้าการ IPO ของ Bitkub
-
-🔗 Source: [ประชาชาติธุรกิจ Finance](https://www.prachachat.net/finance/news-1998211/ราคาบิตคอยน์วันนี้-27-เม.ย.-69-ขยับขึ้น-1.29-อยู่ที่-78,648-เหรียญสหรัฐ)
-
-## 8. กสิกรไทยคาด SET สัปดาห์หน้าลุ้นรีบาวด์
-
-| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
-|---|---|---|---|---|---|
-| SET/หุ้นไทย | bullish | medium | short-term | SET/หุ้นไทย | SET, KBANK, SCB, BBL |
-
-บล.กสิกรไทย คาดดัชนี SET สัปดาห์หน้ามีโอกาสฟื้นตัว (รีบาวด์) โดยมีปัจจัยที่ต้องจับตาคือการประชุม กนง., การตัดสินใจดอกเบี้ยของเฟด และผลประกอบการบริษัทจดทะเบียนไทยใน Q1/69 การฟื้นตัวของตลาดหุ้นไทยจะขึ้นอยู่กับการตอบรับของนักลงทุนต่อปัจจัยเหล่านี้
-
-**📊 Key Numbers**
-- Q1/69 earnings
-
-**👀 Watch Next:** การแถลงการณ์ของ กนง. และเฟด
-
-🔗 Source: [MoneyChannel TH](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PSmJITERick9KRGd2by12b0lidEtLRUVQcjVpbENDRU1JZ25aYnppN2tneVc5WDlCOHQwUlFWajUwbDdBYkx4b2FzRW01bFI5TnFQZDh3?oc=5)
-
-## 9. รัฐบาลรับข้อเสนอชาวนา ดูแลข้าวครบวงจร
-
-| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
-|---|---|---|---|---|---|
-| เศรษฐกิจมหภาค | bullish | low | long-term | เกษตร, อาหาร | CPF, TU, OSP, SAPPE |
-
-รองนายกรัฐมนตรีรับข้อเสนอ 11 ข้อจากสมาคมชาวนาไทย เพื่อบูรณาการดูแลข้าวไทยทั้งระบบ ตั้งแต่ต้นน้ำ กลางน้ำ จนถึงปลายน้ำ โดยเน้นการพัฒนาพันธุ์ข้าว การแปรรูปเพิ่มมูลค่า และการขยายตลาดส่งออก มาตรการเหล่านี้มีเป้าหมายเพื่อสร้างเสถียรภาพรายได้ให้เกษตรกรและแก้ปัญหาวิกฤตในภาคเกษตร
-
-**📊 Key Numbers**
-- —
-
-**👀 Watch Next:** การดำเนินการตามข้อเสนอแนะ
-
-🔗 Source: [ประชาชาติธุรกิจ Economy](https://www.prachachat.net/economy/news-1998143/ศุภจี-รับ-11-ข้อเสนอสมาคมชาวนา-ดูแลข้าวไทยครบวงจร)
-
-## 10. อาเซียนกดดันเมียนมา ปล่อยตัวนักโทษเพิ่ม
-
-| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
-|---|---|---|---|---|---|
-| ต่างประเทศกระทบไทย | neutral | low | short-term | — | — |
-
-ประธานอาเซียนเรียกร้องให้เมียนมาปล่อยตัวนักโทษเพิ่ม รวมถึงนางอองซาน ซูจี การดำเนินการนี้เป็นส่วนหนึ่งของความพยายามในการแก้ไขวิกฤตการณ์ทางการเมืองในเมียนมา ซึ่งอาจส่งผลกระทบต่อเสถียรภาพและความสัมพันธ์ในภูมิภาค
-
-**📊 Key Numbers**
-- —
-
-**👀 Watch Next:** ท่าทีของรัฐบาลเมียนมา
-
-🔗 Source: [Reuters Thailand](https://news.google.com/rss/articles/CBMixgFBVV95cUxQaFVKZElXOS1kMmVTUW9tZjlqdzlkb0p5TzVFeGRkMlo5WHZhZUJteXBtckg5UkVSZXNxQlJHSW5RNExaLWxpUGFHemR1bzhhMnBQQlFXbzZZcGhyTFBHY0Y4OWVSRFA5YjRoUjl1T2RXelhhaW1QR2hOUjV0ZFR6enUzV1g3cXVFUEd1b0plRnFZYzdEU0FoOEc5aUo5eEt4OXNaYzM5QUJMQmlWdXV3ZkI0Y3g2NUZaTnhEdHJlLXVRZGNrQ3c?oc=5)
+🔗 Source: [Reuters Thailand](https://news.google.com/rss/articles/CBMiowFBVV95cUxQZWdsT01pS08wSjdBdGY0TUNoa3U4U3gyOUZjMjNEUmsyTzV1RUNmVjJ2Mk9CNVVQaFB0Rlc2TDhMSlRiNW50WnZpWmNhQWtWeUxrVDg3dDNpZ2pNTWVXc1Q1ZnNCRDRnNVhUUEFOZzNxS1VLS1BfMm1qbnhTSjltQ19YU1k3VnlUNVJ4UmtpUzJnMXJzSUpPTkd1Zzg4a0g1VEpz?oc=5)
