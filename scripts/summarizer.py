@@ -130,12 +130,12 @@ def _validate(items: Any) -> list[dict]:
             raise ValueError(f"item {i} bad impact {it['impact']}")
         if it["time_horizon"] not in VALID_HORIZON:
             raise ValueError(f"item {i} bad time_horizon {it['time_horizon']}")
-        if not isinstance(it["sectors"], list):
-            raise ValueError(f"item {i} sectors not list")
-        if not isinstance(it["tickers"], list):
-            raise ValueError(f"item {i} tickers not list")
-        if not isinstance(it["key_numbers"], list):
-            raise ValueError(f"item {i} key_numbers not list")
+        for k in ("sectors", "tickers", "key_numbers"):
+            v = it.get(k)
+            if v is None:
+                it[k] = []
+            elif not isinstance(v, list):
+                raise ValueError(f"item {i} {k} not list")
     return items
 
 
@@ -336,7 +336,10 @@ def _validate_th(items: Any) -> list[dict]:
         if it["time_horizon"] not in TH_VALID_HORIZON:
             raise ValueError(f"item {i} bad time_horizon {it['time_horizon']}")
         for k in ("sectors", "tickers", "key_numbers"):
-            if not isinstance(it[k], list):
+            v = it.get(k)
+            if v is None:
+                it[k] = []
+            elif not isinstance(v, list):
                 raise ValueError(f"item {i} {k} not list")
     return items
 
