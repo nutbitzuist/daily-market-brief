@@ -131,11 +131,7 @@ def _validate(items: Any) -> list[dict]:
         if it["time_horizon"] not in VALID_HORIZON:
             raise ValueError(f"item {i} bad time_horizon {it['time_horizon']}")
         for k in ("sectors", "tickers", "key_numbers"):
-            v = it.get(k)
-            if v is None:
-                it[k] = []
-            elif not isinstance(v, list):
-                raise ValueError(f"item {i} {k} not list")
+            it[k] = _coerce_str_list(it.get(k))
     return items
 
 
@@ -317,6 +313,21 @@ TH_VALID_IMPACT = {"high", "medium", "low"}
 TH_VALID_HORIZON = {"immediate", "short-term", "long-term"}
 
 
+def _coerce_str_list(v: Any) -> list[str]:
+    """Coerce LLM output for list fields into list[str].
+    Accepts None, str, dict, or list of mixed types — never raises."""
+    if v is None:
+        return []
+    if isinstance(v, list):
+        return [str(x) for x in v if x not in (None, "")]
+    if isinstance(v, str):
+        s = v.strip()
+        return [s] if s else []
+    if isinstance(v, dict):
+        return [f"{k}: {val}" for k, val in v.items()]
+    return [str(v)]
+
+
 def _validate_th(items: Any) -> list[dict]:
     if not isinstance(items, list) or len(items) != 10:
         raise ValueError(
@@ -336,11 +347,7 @@ def _validate_th(items: Any) -> list[dict]:
         if it["time_horizon"] not in TH_VALID_HORIZON:
             raise ValueError(f"item {i} bad time_horizon {it['time_horizon']}")
         for k in ("sectors", "tickers", "key_numbers"):
-            v = it.get(k)
-            if v is None:
-                it[k] = []
-            elif not isinstance(v, list):
-                raise ValueError(f"item {i} {k} not list")
+            it[k] = _coerce_str_list(it.get(k))
     return items
 
 
