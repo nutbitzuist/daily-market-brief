@@ -395,6 +395,57 @@ TH_EXEC_SYSTEM_PROMPT = (
 )
 
 
+PULSE_SYSTEM_PROMPT = (
+    "You are a top-1% Thai equities sales-trading analyst (CLSA / JPMorgan / "
+    "Maybank Bangkok desk voice) writing the 6pm post-close positioning note "
+    "for buy-side PMs. You are given today's structured Thai market data: "
+    "(1) SET investor-type net flow proxy (NVDR-based foreign flow), "
+    "(2) SET short-sale rankings & DoD movers, "
+    "(3) NVDR top net buy/sell names. "
+    "Write a Thai commentary, 6–9 lines, in this exact order: "
+    "(a) one-line headline read on today's flow regime "
+    "(foreign buying/selling, retail behaviour, short-side conviction); "
+    "(b) the single most actionable observation across the 3 datasets — "
+    "name the specific tickers and the trade implication; "
+    "(c) sector rotation read-through (which sectors saw real institutional "
+    "money, which had only short/retail/NVDR); "
+    "(d) one explicit positioning view for tomorrow's open (overweight/underweight/"
+    "fade/chase + named tickers); "
+    "(e) one risk to the view. "
+    "Numbers-first. Reference exact ฿M figures and DoD%. No hedging, no "
+    "'may/could/might', no disclaimers, no boilerplate, no headings. "
+    "If a dataset is missing/unavailable, note it briefly and work with what's "
+    "available. Return ONLY the Thai commentary text."
+)
+
+
+def th_market_pulse_commentary(pulse_data: dict) -> tuple[str, str]:
+    """Generate the institutional commentary for the daily Thai market pulse.
+
+    pulse_data is a dict like:
+        {"set_investor_type": {...}, "set_short": {...},
+         "set_nvdr": {...}}
+    """
+    user_prompt = (
+        "Today's Thai market data (post-close):\n\n"
+        + json.dumps(pulse_data, ensure_ascii=False, indent=2)
+        + "\n\nWrite the 6–9 line institutional commentary now."
+    )
+    messages = [
+        {"role": "system", "content": PULSE_SYSTEM_PROMPT},
+        {"role": "user", "content": user_prompt},
+    ]
+    for model in MODELS:
+        log.info("th_market_pulse_commentary: trying %s", model)
+        out = _call_model(model, messages, max_tokens=1200, temperature=0.4)
+        if out and out.strip():
+            txt = out.strip()
+            txt = re.sub(r"^```.*?\n", "", txt)
+            txt = re.sub(r"\n```$", "", txt)
+            return txt.strip(), model
+    raise RuntimeError("all models failed for th_market_pulse_commentary")
+
+
 def th_executive_summary(items: list[dict]) -> tuple[str, str]:
     messages = [
         {"role": "system", "content": TH_EXEC_SYSTEM_PROMPT},
