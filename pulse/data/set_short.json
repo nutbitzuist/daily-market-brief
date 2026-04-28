@@ -1,5 +1,110 @@
 [
   {
+    "date": "2026-04-27T00:00:00+07:00",
+    "rows": [
+      {
+        "symbol": "SCB",
+        "short_value": 431343050.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "DELTA",
+        "short_value": 234268300.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "BDMS",
+        "short_value": 98657120.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "CPALL",
+        "short_value": 95059300.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "PTTEP",
+        "short_value": 87338950.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "BH",
+        "short_value": 84198050.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "ADVANC",
+        "short_value": 72412400.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "BBL",
+        "short_value": 60516800.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "AOT",
+        "short_value": 59970950.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "PTT",
+        "short_value": 51158325.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "GULF",
+        "short_value": 48977325.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "KTB",
+        "short_value": 44713500.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "TIDLOR",
+        "short_value": 39737930.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "COM7",
+        "short_value": 35297820.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "KBANK",
+        "short_value": 31125950.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "CPF",
+        "short_value": 30623520.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "CENTEL",
+        "short_value": 29282975.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "WHA",
+        "short_value": 27255326.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "TTB",
+        "short_value": 26012800.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "HANA",
+        "short_value": 25501925.0,
+        "short_volume": null
+      }
+    ]
+  },
+  {
     "date": "2026-04-24T00:00:00+07:00",
     "rows": [
       {
