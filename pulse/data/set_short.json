@@ -1,5 +1,110 @@
 [
   {
+    "date": "2026-04-28T00:00:00+07:00",
+    "rows": [
+      {
+        "symbol": "AOT",
+        "short_value": 265451400.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "MINT",
+        "short_value": 176120180.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "KBANK",
+        "short_value": 156813250.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "DELTA",
+        "short_value": 114030000.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "CPALL",
+        "short_value": 88256625.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "PTTEP",
+        "short_value": 87442650.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "ADVANC",
+        "short_value": 83843800.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "BDMS",
+        "short_value": 76980780.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "GULF",
+        "short_value": 70632350.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "SCB",
+        "short_value": 66688650.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "TOP",
+        "short_value": 57599025.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "PTT",
+        "short_value": 53660450.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "KTB",
+        "short_value": 44421000.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "PTTGC",
+        "short_value": 42285575.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "IVL",
+        "short_value": 38449005.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "TISCO",
+        "short_value": 36433900.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "BH",
+        "short_value": 34670100.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "CPF",
+        "short_value": 32679980.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "SCC",
+        "short_value": 32303600.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "CPN",
+        "short_value": 32195875.0,
+        "short_volume": null
+      }
+    ]
+  },
+  {
     "date": "2026-04-27T00:00:00+07:00",
     "rows": [
       {
