@@ -1,5 +1,110 @@
 [
   {
+    "date": "2026-04-30T00:00:00+07:00",
+    "rows": [
+      {
+        "symbol": "SCB",
+        "short_value": 213608600.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "ADVANC",
+        "short_value": 205455200.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "PTTEP",
+        "short_value": 105552200.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "TOP",
+        "short_value": 103401575.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "CPALL",
+        "short_value": 100436875.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "GULF",
+        "short_value": 98326550.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "AOT",
+        "short_value": 93354750.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "SCC",
+        "short_value": 64616100.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "MINT",
+        "short_value": 58940630.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "KBANK",
+        "short_value": 52117250.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "KCE",
+        "short_value": 49121000.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "DELTA",
+        "short_value": 47971400.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "PTT",
+        "short_value": 44452775.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "PTTGC",
+        "short_value": 43122425.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "TRUE",
+        "short_value": 42601150.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "BBL",
+        "short_value": 40934650.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "KTB",
+        "short_value": 34250700.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "CPN",
+        "short_value": 31357200.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "AMATA",
+        "short_value": 30862100.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "KKP",
+        "short_value": 29703750.0,
+        "short_volume": null
+      }
+    ]
+  },
+  {
     "date": "2026-04-29T00:00:00+07:00",
     "rows": [
       {
