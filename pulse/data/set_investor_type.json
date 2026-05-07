@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-05-06T00:00:00+07:00",
+    "nvdr_buy_value": 24558115130.229996,
+    "nvdr_sell_value": 20010070735.199997,
+    "nvdr_net_value": 4548044395.029999,
+    "percent_foreign_volume": 25.529384916630598,
+    "percent_foreign_value": 50.475188069444584,
+    "percent_market_value": 27.167985753018407
+  },
+  {
     "date": "2026-05-05T00:00:00+07:00",
     "nvdr_buy_value": 21982276103.890007,
     "nvdr_sell_value": 17465512207.54,
