@@ -2,7 +2,7 @@
 
 Bundles 3 Thai-specific institutional positioning signals into one
 post-close digest:
-  1. SET investor-type net flow proxy (NVDR-based foreign flow)
+  1. Official SET investor-type net flow
   2. SET short-sale daily rank + DoD movers
   3. NVDR top net buy / top net sell
 
@@ -135,6 +135,33 @@ def build_pulse_digest(date_str: str, results: dict[str, TrackerResult],
     return "\n".join(lines)
 
 
+def _fmt_mb(value: float) -> str:
+    mb = value / 1e6
+    sign = "+" if mb >= 0 else ""
+    return f"{sign}฿{mb:,.0f}M"
+
+
+def verified_flow_headline(results: dict[str, TrackerResult]) -> str:
+    r = results.get("set_investor_type")
+    if not r or not r.ok:
+        return ""
+    investors = (r.data or {}).get("investors") or {}
+    try:
+        foreign = investors["foreign"]["net_value_thb"]
+        individual = investors["individual"]["net_value_thb"]
+        institution = investors["institution"]["net_value_thb"]
+        proprietary = investors["proprietary"]["net_value_thb"]
+    except (KeyError, TypeError):
+        return ""
+    return (
+        "Official SET investor-type: "
+        f"Foreign {_fmt_mb(foreign)}, "
+        f"Individual {_fmt_mb(individual)}, "
+        f"Institution {_fmt_mb(institution)}, "
+        f"Proprietary {_fmt_mb(proprietary)}."
+    )
+
+
 def send_pulse_digest(date_str: str, results: dict[str, TrackerResult],
                       commentary: str, repo_url: str) -> None:
     token = os.environ.get("TELEGRAM_BOT_TOKEN")
@@ -179,6 +206,15 @@ def run() -> int:
                 "Raw tracker data below."
             )
             model_used = "none"
+
+    flow_headline = verified_flow_headline(results)
+    if flow_headline:
+        commentary_lines = [line for line in commentary.splitlines()
+                            if line.strip()]
+        if commentary_lines:
+            commentary = "\n".join([flow_headline] + commentary_lines[1:])
+        else:
+            commentary = flow_headline
 
     PULSE_DIR.mkdir(exist_ok=True)
     out_path = PULSE_DIR / f"{date_str}.md"

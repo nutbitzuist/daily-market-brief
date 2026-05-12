@@ -1,21 +1,15 @@
-"""#1 proxy — SET foreign-flow tracker via NVDR comparative data.
+"""#1 — official SET investor-type flow tracker.
 
-The true institutional investor-type breakdown is not exposed in SET's
-public web API (gated behind SETSmart Premium tier). As the closest free
-proxy we use NVDR's `comparative-data` endpoint which shows what % of
-total SET trading value/volume was foreign plus NVDR's own aggregate
-buy/sell flows — the single most-watched Thai foreign-flow indicator.
-
-Combined signal:
-- percent of market value/volume that was foreign today
-- total NVDR net buy/sell (= net foreign flow proxy, in THB millions)
-- 5-day rolling cumulative NVDR net
+Pulls SET's official investor-type table for SET market:
+- Local institutions
+- Proprietary trading
+- Foreign investors
+- Local individuals
 """
 from __future__ import annotations
 
 import logging
 from datetime import datetime, timezone
-from typing import Any
 
 from scripts.trackers._base import (
     TrackerResult, append_today, fetch_json, get_set_session, load_history,
@@ -25,88 +19,96 @@ log = logging.getLogger(__name__)
 
 NAME = "set_investor_type"
 
-COMPARATIVE_URL = "https://www.set.or.th/api/set/nvdr-trade/comparative-data"
-OVERVIEW_URL = "https://www.set.or.th/api/set/nvdr-trade/overview"
+INVESTOR_TYPE_URL = "https://www.set.or.th/api/set/market/SET/investor-type"
+SET_REFERER = "https://www.set.or.th/en/market/statistics/investor-type"
 
 
-def _pick_market(rows: list[dict], market: str = "SET") -> dict | None:
-    """Pick the row for a given market (SET or mai) from the response."""
-    if not isinstance(rows, list):
-        return None
-    for r in rows:
-        if isinstance(r, dict) and str(r.get("market", "")).upper() == market.upper():
-            return r
-    return rows[0] if rows and isinstance(rows[0], dict) else None
+def _fmt_mb(value: float | None) -> str:
+    if value is None:
+        return "n/a"
+    mb = value / 1e6
+    sign = "+" if mb >= 0 else ""
+    return f"{sign}฿{mb:,.0f}M"
+
+
+def _parse(payload: dict) -> tuple[str, float, dict[str, dict]]:
+    if not isinstance(payload, dict):
+        raise ValueError("payload is not dict")
+    investors = payload.get("investors")
+    if not isinstance(investors, list):
+        raise ValueError("missing investors list")
+    by_type: dict[str, dict] = {}
+    for row in investors:
+        if not isinstance(row, dict):
+            continue
+        typ = str(row.get("type") or "").strip().lower()
+        if not typ:
+            continue
+        by_type[typ] = {
+            "buy_value_thb": float(row.get("buyValue") or 0),
+            "sell_value_thb": float(row.get("sellValue") or 0),
+            "net_value_thb": float(row.get("netValue") or 0),
+            "percent_buy_value": row.get("percentBuyValue"),
+            "percent_sell_value": row.get("percentSellValue"),
+        }
+    required = {"institution", "proprietary", "foreign", "individual"}
+    missing = required - set(by_type)
+    if missing:
+        raise ValueError(f"missing investor types: {sorted(missing)}")
+    return (
+        str(payload.get("asOfDate") or payload.get("endDate") or ""),
+        float(payload.get("totalValue") or 0),
+        by_type,
+    )
 
 
 def run() -> TrackerResult:
     log.info("[%s] starting", NAME)
     s = get_set_session()
-    comp = fetch_json(s, COMPARATIVE_URL)
-    overview = fetch_json(s, OVERVIEW_URL)
-    if comp is None and overview is None:
+    payload = fetch_json(s, INVESTOR_TYPE_URL, referer=SET_REFERER)
+    if payload is None:
         return TrackerResult(name=NAME, ok=False,
-                             summary="(NVDR foreign-flow proxy unreachable)",
-                             error="both endpoints failed")
-
-    set_comp = _pick_market(comp or [], "SET") or {}
-    set_ov = _pick_market(overview or [], "SET") or {}
-
-    today_date = (set_comp.get("date") or set_ov.get("date")
-                  or datetime.now(timezone.utc).strftime("%Y-%m-%d"))
-    buy_value = float(set_ov.get("buyValue") or 0)
-    sell_value = float(set_ov.get("sellValue") or 0)
-    net_value = buy_value - sell_value
-    pct_foreign_vol = set_comp.get("percentForeignVolume")
-    pct_foreign_val = set_comp.get("percentForeignValue")
-    pct_market_val = set_comp.get("percentMarketValue")
+                             summary="(SET investor-type unreachable)",
+                             error="endpoint failed")
+    try:
+        today_date, total_value, by_type = _parse(payload)
+    except Exception as e:
+        return TrackerResult(name=NAME, ok=False,
+                             summary="(SET investor-type schema not recognized)",
+                             error=str(e),
+                             data={"sample": str(payload)[:500]})
 
     record = {
         "date": today_date,
-        "nvdr_buy_value": buy_value,
-        "nvdr_sell_value": sell_value,
-        "nvdr_net_value": net_value,
-        "percent_foreign_volume": pct_foreign_vol,
-        "percent_foreign_value": pct_foreign_val,
-        "percent_market_value": pct_market_val,
+        "total_value_thb": total_value,
+        "investors": by_type,
     }
     history = append_today(NAME, record)
-    net_5d = sum(r.get("nvdr_net_value", 0) or 0 for r in history[:5])
-
-    def fmt(v: float | None, scale: float = 1e6) -> str:
-        if v is None:
-            return "n/a"
-        val = v / scale
-        sign = "+" if val >= 0 else ""
-        return f"{sign}฿{val:,.0f}M"
-
-    def pct(v: Any) -> str:
-        try:
-            return f"{float(v):.1f}%"
-        except (TypeError, ValueError):
-            return "n/a"
+    rolling_5d: dict[str, float] = {}
+    for investor_type in ("foreign", "individual", "institution", "proprietary"):
+        rolling_5d[investor_type] = sum(
+            ((r.get("investors") or {}).get(investor_type) or {})
+            .get("net_value_thb", 0) or 0
+            for r in history[:5]
+        )
 
     summary = (
-        f"NVDR net flow: {fmt(net_value)} (5d: {fmt(net_5d)}); "
-        f"Foreign % of market value: {pct(pct_foreign_val)}, "
-        f"% of market volume: {pct(pct_foreign_vol)}"
+        f"Official SET investor type: Foreign "
+        f"{_fmt_mb(by_type['foreign']['net_value_thb'])}, "
+        f"Individual {_fmt_mb(by_type['individual']['net_value_thb'])}, "
+        f"Institution {_fmt_mb(by_type['institution']['net_value_thb'])}, "
+        f"Proprietary {_fmt_mb(by_type['proprietary']['net_value_thb'])}"
     )
 
     return TrackerResult(
         name=NAME, ok=True, summary=summary,
         data={
             "date": today_date,
-            "nvdr_today": {
-                "buy_value_thb": buy_value,
-                "sell_value_thb": sell_value,
-                "net_value_thb": net_value,
-                "net_value_mb": net_value / 1e6,
-            },
-            "rolling_5d_net_mb": net_5d / 1e6,
-            "foreign_share": {
-                "percent_volume": pct_foreign_vol,
-                "percent_value": pct_foreign_val,
-                "percent_market_value": pct_market_val,
+            "source": INVESTOR_TYPE_URL,
+            "total_value_thb": total_value,
+            "investors": by_type,
+            "rolling_5d_net_mb": {
+                k: v / 1e6 for k, v in rolling_5d.items()
             },
             "history_size": len(history),
         },

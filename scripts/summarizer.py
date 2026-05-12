@@ -14,12 +14,7 @@ log = logging.getLogger(__name__)
 
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 
-MODELS = [
-    "google/gemini-2.5-flash-lite",
-    "openai/gpt-oss-120b:free",
-    "google/gemma-3-27b-it:free",
-    "qwen/qwen3-coder:free",
-]
+MODELS = ["x-ai/grok-4.1-fast"]
 
 REPO_URL = os.environ.get("REPO_URL", "https://github.com/USERNAME/REPO")
 
@@ -399,7 +394,7 @@ PULSE_SYSTEM_PROMPT = (
     "You are a top-1% Thai equities sales-trading analyst (CLSA / JPMorgan / "
     "Maybank Bangkok desk voice) writing the 6pm post-close positioning note "
     "for buy-side PMs. You are given today's structured Thai market data: "
-    "(1) SET investor-type net flow proxy (NVDR-based foreign flow), "
+    "(1) official SET investor-type net flows, "
     "(2) SET short-sale rankings & DoD movers, "
     "(3) NVDR top net buy/sell names. "
     "Write a Thai commentary, 6–9 lines, in this exact order: "
