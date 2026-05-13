@@ -278,15 +278,21 @@ TH_NEWS_SYSTEM_PROMPT = (
     "EXCLUDE ABSOLUTELY — drop items that are primarily about: "
     "agriculture / farming / rice / rubber / palm oil / livestock / crop subsidies / "
     "ธ.ก.ส. farmer loans; cryptocurrency / Bitcoin / digital asset retail stories; "
+    "BTC price moves even if Thailand investors are mentioned; "
+    "generic SET event-calendar notices such as Oppday schedules; routine treasury-stock "
+    "sale filings unless the article names a large SET50 company and a material % of float; "
     "ASEAN regional summits or generic regional commentary unless a specific Thai "
     "policy/ticker action is named; lifestyle, consumer fluff, lottery, celebrities, "
-    "minor management shuffles. Every chosen item must pass: 'would a $1B Thai "
-    "equity PM trade on this today?' If fewer than 10 articles meet the bar, you may "
-    "still rank lower-conviction items but flag them with impact='low'. "
+    "minor management shuffles. Never include crypto as an 'ignore' item. "
+    "Every chosen item must pass: 'would a $1B Thai equity PM trade or adjust risk on "
+    "this today?' If the answer is no, exclude it. "
     "Return STRICT JSON array of exactly 10 objects, each with: rank (1-10 by SET "
-    "impact), title_th (Thai concise), summary_th (Thai 4-6 lines — what happened "
-    "with numbers, sector/ticker P&L read-through, fund-flow / positioning angle, "
-    "one-line actionable view for a PM), category (นโยบายรัฐ-การคลัง | นโยบายการเงิน-ธปท. "
+    "impact), title_th (Thai concise), summary_th (Thai 5-7 lines. Required structure: "
+    "line 1 what happened with exact number/policy/action from source; line 2 why it "
+    "matters for SET/THB/rates; line 3 sector and named ticker beneficiaries/losers; "
+    "line 4 fund-flow or positioning read-through; final line explicit PM action. "
+    "Do not invent numbers; if source has no number, state the concrete policy/event "
+    "and affected ticker/sector instead), category (นโยบายรัฐ-การคลัง | นโยบายการเงิน-ธปท. "
     "| SET/หุ้นไทย | เศรษฐกิจมหภาค | บริษัท-M&A | ธนาคาร-การเงิน | ค่าเงิน-FX | "
     "กฎระเบียบ | ต่างประเทศกระทบไทย), sentiment (bullish/bearish/neutral for SET), "
     "impact (high/medium/low), time_horizon (immediate/short-term/long-term), "
@@ -306,6 +312,12 @@ TH_REQUIRED_FIELDS = [
 TH_VALID_SENTIMENT = {"bullish", "bearish", "neutral"}
 TH_VALID_IMPACT = {"high", "medium", "low"}
 TH_VALID_HORIZON = {"immediate", "short-term", "long-term"}
+TH_BLOCK_TERMS = (
+    "bitcoin", "btc", "crypto", "cryptocurrency", "digital asset",
+    "บิตคอยน์", "คริปโต", "สินทรัพย์ดิจิทัล",
+    "oppday", "opportunity day", "treasury stock", "หุ้นซื้อคืน",
+    "จำหน่ายหุ้นซื้อคืน",
+)
 
 
 def _coerce_str_list(v: Any) -> list[str]:
@@ -341,14 +353,25 @@ def _validate_th(items: Any) -> list[dict]:
             raise ValueError(f"item {i} bad impact {it['impact']}")
         if it["time_horizon"] not in TH_VALID_HORIZON:
             raise ValueError(f"item {i} bad time_horizon {it['time_horizon']}")
+        searchable = (
+            f"{it.get('title_th', '')}\n{it.get('summary_th', '')}\n"
+            f"{it.get('source_name', '')}"
+        ).lower()
+        if any(term in searchable for term in TH_BLOCK_TERMS):
+            raise ValueError(f"item {i} contains blocked Thailand Brief topic")
         for k in ("sectors", "tickers", "key_numbers"):
             it[k] = _coerce_str_list(it.get(k))
     return items
 
 
 def summarize_th_news(articles: list[dict]) -> tuple[list[dict], str]:
-    user_prompt = "Here are 10 top Thai business/economy news items from the past 24 hours. " \
-                  "Analyze and return the JSON array as specified.\n\n"
+    user_prompt = (
+        f"Here are {len(articles)} candidate Thai business/economy news items "
+        "from the past 24 hours. Select ONLY the 10 most important items for "
+        "Thailand macro, policy, THB/rates, and SET-listed equity investors. "
+        "Reject BTC/crypto, generic SET calendar notices, and routine filings. "
+        "Analyze and return the JSON array as specified.\n\n"
+    )
     for i, a in enumerate(articles, 1):
         body = (a.get("content") or a.get("summary") or "")[:3000]
         user_prompt += (

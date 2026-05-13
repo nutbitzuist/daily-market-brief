@@ -40,6 +40,24 @@ TH_FEEDS: list[tuple[str, str]] = [
     ("PostToday Market", "https://www.posttoday.com/rss/market.xml"),
     ("MoneyChannel TH (Google News)",
      "https://news.google.com/rss/search?q=%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%AB%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%97%E0%B8%A2+SET&hl=th&gl=TH&ceid=TH:th"),
+    ("Thai Policy Market Impact (Google News)",
+     "https://news.google.com/rss/search?q=%E0%B8%84%E0%B8%A3%E0%B8%A1+%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B8%A9%E0%B8%90%E0%B8%81%E0%B8%B4%E0%B8%88+%E0%B8%AB%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%97%E0%B8%A2&hl=th&gl=TH&ceid=TH:th"),
+    ("Thai Macro Data (Google News)",
+     "https://news.google.com/rss/search?q=Thailand+GDP+inflation+exports+tourism+baht+SET&hl=en&gl=TH&ceid=TH:en"),
+    ("NESDC Thai Macro (Google News)",
+     "https://news.google.com/rss/search?q=NESDC+Thailand+GDP+economy+investment+SET&hl=en&gl=TH&ceid=TH:en"),
+    ("BOT MPC FX (Google News)",
+     "https://news.google.com/rss/search?q=%E0%B8%98%E0%B8%9B%E0%B8%97+%E0%B8%81%E0%B8%99%E0%B8%87+%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2+%E0%B8%9A%E0%B8%B2%E0%B8%97&hl=th&gl=TH&ceid=TH:th"),
+    ("Thai Tourism SET Impact (Google News)",
+     "https://news.google.com/rss/search?q=%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%97%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7+AOT+CENTEL+MINT+ERW+SET&hl=th&gl=TH&ceid=TH:th"),
+    ("Thai Energy Policy SET Impact (Google News)",
+     "https://news.google.com/rss/search?q=%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99+%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B9%84%E0%B8%9F+PTT+PTTEP+GULF+GPSC+SET&hl=th&gl=TH&ceid=TH:th"),
+    ("Thai Banking Credit SET Impact (Google News)",
+     "https://news.google.com/rss/search?q=%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD+NPL+KBANK+SCB+BBL+KTB+SET&hl=th&gl=TH&ceid=TH:th"),
+    ("SEC SET Regulation (Google News)",
+     "https://news.google.com/rss/search?q=%E0%B8%81%E0%B8%A5%E0%B8%95+SET+%E0%B9%80%E0%B8%81%E0%B8%93%E0%B8%91%E0%B9%8C+%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%97%E0%B8%B8%E0%B8%99&hl=th&gl=TH&ceid=TH:th"),
+    ("Thai Earnings Guidance (Google News)",
+     "https://news.google.com/rss/search?q=SET+%E0%B8%81%E0%B8%B3%E0%B9%84%E0%B8%A3+guidance+%E0%B8%9B%E0%B8%B1%E0%B8%99%E0%B8%9C%E0%B8%A5+%E0%B8%A5%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99&hl=th&gl=TH&ceid=TH:th"),
     # English Thailand business
     ("Bangkok Post Business", "https://www.bangkokpost.com/rss/data/business.xml"),
     ("The Nation Thailand Business", "https://www.nationthailand.com/rss/business"),
@@ -55,10 +73,43 @@ TH_FEEDS: list[tuple[str, str]] = [
 ]
 
 # Source tier scoring — primary sources (BoT, SET, MoF) get the biggest boost.
-TIER1 = ("ธปท.", "SET News", "กระทรวงการคลัง")
-TIER2 = ("Reuters", "Nikkei", "Bangkok Post", "The Nation",
-         "ประชาชาติ", "กรุงเทพธุรกิจ", "ฐานเศรษฐกิจ")
+TIER1 = ("ธปท.", "SET News", "กระทรวงการคลัง", "BOT MPC", "SEC SET")
+TIER2 = ("Reuters", "Nikkei", "Bangkok Post", "The Nation", "NESDC",
+         "ประชาชาติ", "กรุงเทพธุรกิจ", "ฐานเศรษฐกิจ",
+         "Thai Policy", "Thai Macro", "Thai Tourism", "Thai Energy",
+         "Thai Banking", "Thai Earnings")
 TIER3 = ("PostToday", "MoneyChannel")
+
+EXCLUDE_TERMS = (
+    "bitcoin", "btc", "crypto", "cryptocurrency", "digital asset",
+    "บิตคอยน์", "คริปโต", "สินทรัพย์ดิจิทัล", "เหรียญ",
+    "oppday", "opportunity day", "จำหน่ายหุ้นซื้อคืน",
+    "treasury stock", "หุ้นซื้อคืน", "lottery", "หวย",
+    "ราคาทอง", "ทองวันนี้", "gold price", "bullion",
+    "โยกย้าย", "ข้าราชการ", "วาฬ", "โลมา", "ประมง",
+    "ออมรัก", "ครอบครัว", "ส่งต่อความมั่งคั่ง",
+    "dr ใหม่", "เข้าเทรด", "routine filing",
+    "ร้านอาหาร", "ทุเรียน", "ผลไม้", "พืชมงคล", "รถพุ่มพวง",
+    "vip postpaid", "premium customers",
+)
+
+GENERIC_SET_TERMS = (
+    "oppday", "opportunity day", "สรุปผลการดำเนินงาน",
+    "คำอธิบายและวิเคราะห์ของฝ่ายจัดการ", "แบบ 56-1",
+    "รายงานประจำปี", "งบการเงิน", "แจ้งมติ", "เปลี่ยนแปลงกรรมการ",
+)
+
+HIGH_VALUE_TERMS = (
+    "กนง", "ธปท", "ดอกเบี้ย", "policy rate", "rate cut", "rate hike",
+    "บาท", "baht", "fx", "bond yield", "yield", "เงินเฟ้อ", "cpi",
+    "gdp", "ส่งออก", "exports", "current account", "นักท่องเที่ยว",
+    "tourist", "ครม", "cabinet", "งบประมาณ", "budget", "stimulus",
+    "มาตรการ", "ภาษี", "tax", "คลัง", "mof", "กลต", "sec",
+    "set", "short selling", "program trading", "earnings", "กำไร",
+    "guidance", "dividend", "ปันผล", "m&a", "ควบรวม", "ลงทุน",
+    "capex", "ptt", "pttep", "aot", "cpall", "kbanks", "kbank",
+    "scb", "bbl", "ktb", "advanc", "true", "delta", "bdms",
+)
 
 
 def _source_score(name: str) -> float:
@@ -71,10 +122,27 @@ def _source_score(name: str) -> float:
     return 0.0
 
 
+def _article_text(a: sources.Article) -> str:
+    return f"{a.source_name}\n{a.title}\n{a.summary}".lower()
+
+
+def is_investor_relevant(a: sources.Article) -> bool:
+    text = _article_text(a)
+    if any(term in text for term in EXCLUDE_TERMS):
+        return False
+    if "SET News" in a.source_name and any(
+        term in text for term in GENERIC_SET_TERMS
+    ):
+        return False
+    return any(term in text for term in HIGH_VALUE_TERMS)
+
+
 def score_th(articles: list[sources.Article]) -> list[sources.Article]:
     now = datetime.now(timezone.utc)
     for a in articles:
         score = _source_score(a.source_name)
+        text = _article_text(a)
+        score += sum(1.5 for term in HIGH_VALUE_TERMS if term in text)
         hours = (now - a.published).total_seconds() / 3600
         if hours <= 6:
             score += 3
@@ -189,6 +257,7 @@ def send_th_digest(date_str: str, items: list[dict], exec_summary: str,
 def run() -> int:
     dry_run = os.environ.get("DRY_RUN") == "1"
     limit = int(os.environ.get("LIMIT", "10"))
+    candidate_limit = int(os.environ.get("CANDIDATE_LIMIT", "25"))
 
     now_utc = datetime.now(timezone.utc)
     date_str = now_utc.strftime("%Y-%m-%d")
@@ -208,9 +277,15 @@ def run() -> int:
         return 1
 
     # 2. score + dedupe + diversity-aware top-N
+    articles = [a for a in articles if is_investor_relevant(a)]
+    log.info("kept %d investor-relevant articles", len(articles))
+    if not articles:
+        log.error("no investor-relevant Thai news fetched")
+        return 1
     articles = score_th(articles)
     articles = classifier.dedupe(articles)
-    top = classifier.top_n_with_diversity(articles, n=limit, max_per_source=2)
+    top = classifier.top_n_with_diversity(
+        articles, n=max(limit, candidate_limit), max_per_source=3)
     log.info("selected top %d articles", len(top))
 
     # 3. enrich
@@ -218,7 +293,7 @@ def run() -> int:
 
     while len(top) < 10:
         top.append(top[-1])
-    top_dicts = [a.to_dict() for a in top[:10]]
+    top_dicts = [a.to_dict() for a in top[:candidate_limit]]
 
     # 4. summarize
     items, model_used = summarizer.summarize_th_news(top_dicts)
