@@ -1,214 +1,200 @@
 ---
 date: 2026-05-14
-generated_at_utc: 2026-05-14T00:02:45Z
+generated_at_utc: 2026-05-14T23:59:18Z
 model_used: x-ai/grok-4.1-fast
-sources_count: 6
-aggregate_sentiment: {bullish: 2, bearish: 5, neutral: 3}
-top_sectors: ["Financials", "Information Technology", "Energy"]
-top_tickers: []
+sources_count: 7
+aggregate_sentiment: {bullish: 4, bearish: 4, neutral: 2}
+top_sectors: ["Industrials", "Information Technology", "Consumer Discretionary"]
+top_tickers: ["BA", "CSCO", "F", "NVDA"]
 ---
 
 # 📈 US Market Brief — 2026-05-14
 
-วอร์ชยืนยันประธานเฟด hawkish สุด CPI เม.ย. 3.8% vs cons 3.4%  
-10Y yield พุ่ง 4.5-4.6% สูงสุดรอบ 10 เดือน กด P&L tech/cyclicals ลบ  
-positioning unwind long duration flows เข้า financials ออก growth  
-Actionable overweight banks underweight tech
+S&P พุ่ง 7,501 +0.77% ครั้งแรกเหนือ 7,500 Dow กลับ 50,063 +370 pts  
+Boeing จีนสั่ง 200 ลำ vs คาด 500 กด Industrials P&L  
+AI networking (CSCO) แข็ง cyclical underweight rotation เริ่ม  
+ซื้อ cyclical/F overweight ลด BA/NVDA trim AI chase
 
-## 1. วอร์ชยืนยันเป็นประธานเฟดคนใหม่
-
-| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
-|---|---|---|---|---|---|
-| Macro/Fed | bearish | high | immediate | Financials | — |
-
-วุฒิสภาสหรัฐอนุมัติเควิน วอร์ช เป็นประธานเฟดแทน
-ฮอว์กิชหนักหน่วง คาดเร่งขึ้นดอกเบี้ยสู้เงินเฟ้อ
-10Y yield พุ่ง 4.5% กดหุ้นไซ클ิกส์ P&L ลบ
-positioning: unwind long duration, flows ออกจาก bonds
-Actionable: short financials, long defensives
-
-**📊 Key Numbers**
-- Warsh confirmed as Fed Chair
-- 10Y yield +20bps to 4.5%
-
-**👀 Watch Next:** Warsh first FOMC speech for rate hike signals
-
-🔗 Source: [CNBC Top News](https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html)
-
-## 2. เงินเฟ้อเม.ย.พุ่ง กดดันวอร์ชขึ้นดอกเบี้ย
+## 1. S&P ปิดเหนือ 7,500 ครั้งแรก ดาวโจนส์ +370 กลับ 50,000
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Macro/Fed | bearish | high | immediate | Financials, Information Technology | — |
+| Macro/Fed | bullish | high | short-term | Industrials, Information Technology | — |
 
-CPI เม.ย.พุ่งเกินคาด 3.8% vs 3.4% cons
-Warsh/Fed 无ทางแก้ตัว ต้องขึ้นดอกเบี้ยทันที
-Bond vigilantes ขายหนัก 10Y yield สูงสุดในรอบ 10 เดือน
-P&L: banks +5% NIM expansion, tech -3%
-Actionable: overweight financials
+S&P 500 +0.77% ปิด 7,501.24 ครั้งแรกเหนือ 7,500 Nasdaq +0.88% ที่ 26,635 Dow +370 pts หรือ 0.75% 50,063.
+BTIG ชี้ divergence เพิ่ม cyclical ล้มจากดอกเบี้ย-พลังงานแพง เงินไหล AI ไม่ใช่ homebuilders-retail.
+Positioning: AI overweight cyclical under; P&L hit retail/home.
+ซื้อ cyclical ต่ำ รอ reversion.
 
 **📊 Key Numbers**
-- CPI Apr 3.8% vs 3.4% est
-- 10Y yield highest since Jul
+- S&P 7,501 +0.77%
+- Dow 50,063 +370 pts
+- Nasdaq 26,635 +0.88%
 
-**👀 Watch Next:** May CPI print for hike confirmation
+**👀 Watch Next:** Nvidia earnings vs overbought S&P signal
 
-🔗 Source: [MarketWatch Top Stories](https://www.marketwatch.com/story/warsh-faces-rate-pressure-as-aprils-inflation-spike-leaves-the-fed-with-zero-excuses-9610ddb6?mod=mw_rss_topstories)
+🔗 Source: [CNBC Top News](https://www.cnbc.com/2026/05/13/stock-market-today-live-updates.html)
 
-## 3. Collins เตือนขึ้นดอกเบี้ยหลังเงินเฟ้อร้อน
+## 2. Boeing -4.7% จีนสั่ง 200 ลำ vs คาด 500
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Macro/Fed | bearish | high | short-term | Financials | — |
+| Geopolitics | bearish | high | immediate | Industrials | BA |
 
-Collins Boston Fed ชี้ inflation risks สูง เปิด scenario ขึ้นดอกเบี้ย
-PPI สูงกว่าคาดกด yield curve steepen
-Financials flows เข้า +2%, tech rotation out
-positioning: crowded short rates unwind
-Actionable: buy banks sell growth
+Trump ประกาศจีนซื้อ Boeing 200 ลำ Xi Jinping; BA -3.8% intraday -4.73% AH ที่ 229.21.
+Jefferies คาด 500 ลำ miss กด P&L Industrials.
+Positioning: China trade overweight unwind; flows out aerospace.
+ขาย BA ไป F ดีกว่า.
 
 **📊 Key Numbers**
-- Inflation risks tilt higher
-- Rate-hike scenario flagged
+- China order 200 vs 500 est
+- BA -11.39 (-4.73%) AH
 
-**👀 Watch Next:** FOMC minutes for hawkish tilt
+**👀 Watch Next:** China follow-up orders and Trump-Xi details
 
-🔗 Source: [WSJ Markets (Google News)](https://news.google.com/rss/articles/CBMixwFBVV95cUxOQnA4TkszX21yWG01MlBmNlpHZW9hNEFWdy1GZUdkRVFwWFl2VkphTUtBZktkNjJFUThMU2lSb1VoaEJHa1dGNzEtSklhLXllSVhDMVVENV94RHZLSEtkSDlBSW9iRU9fMW5EVG1ZOEQ3c0dzeXM4RmFpVEtFcFNDajh1Zk9wc3g1WWNCbWt5VWFBc3dvc0R0WmJMdWUzR3A4TC1nMkZLalk5QkVqOWpPcWVYek1zYnBOLXQ4THJ5LS1wZ1NVVTRn?oc=5)
+🔗 Source: [CNBC Top News](https://www.cnbc.com/2026/05/13/stock-market-today-live-updates.html)
 
-## 4. 10Y yield พุ่งสูงสุดหลัง PPI ร้อน
+## 3. Cisco พุ่งดีสุด 2011 AI networking supercycle
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Macro/Fed | bearish | high | immediate | Energy | — |
+| Earnings | bullish | high | short-term | Information Technology | CSCO |
 
-PPI สูงกว่าคาดกด 10Y yield สูงสุดตั้งแต่ก.ค. 4.6%
-Treasury selloff กด equities -1%, cyclicals ลบหนัก
-Flows: out of tech into value +$10B
-P&L read: energy +2% hedge gains
-Actionable: fade yield spike, buy dips
+CSCO + best day since 2011 จาก AI demand แข็ง CEO ชี้ networking supercycle.
+Beat consensus orders Tech infra; P&L boost data center plays.
+Positioning: AI networking underweight chase; flows in semis/network.
+ซื้อ CSCO overweight infra.
 
 **📊 Key Numbers**
-- 10Y yield 4.6% highest since Jul
-- PPI beat consensus
+- CSCO best day since 2011
 
-**👀 Watch Next:** Next PPI for yield peak
+**👀 Watch Next:** Cisco Q2 guide vs AI capex flows
 
-🔗 Source: [Bloomberg Markets (Google News)](https://news.google.com/rss/articles/CBMitgFBVV95cUxPX1FCeHFVTXNZVG5ZNER1eFBiS1pyRWZWa2YyVjNYTTdFNHVueHhHYXFCSkUwYUdxbVJScEVaLWJ5anV6LTBDdHBncG9acHc2RFh1M19hNXozVGIxZUNBVDlja3BBMFJ0MjA0dXhIaDhxMHZHODBWMWxVeHdaYTNRQ3ZKX09GZ1A2MUc1bTVxYTBrZXViVkxIMTlBakljXzA1MU80VWoxeTlBMWUzLXYtVDhPX3dHdw?oc=5)
+🔗 Source: [CNBC Markets](https://www.cnbc.com/2026/05/14/cisco-csco-pops-on-ai-demand.html)
 
-## 5. MS ยกเป้า S&P 8,300 จากกำไรพุ่ง
+## 4. Treasury yields ชะลอ Trump-Xi พบกัน
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Earnings | bullish | medium | short-term | Information Technology | — |
+| Macro/Fed | bullish | medium | short-term | Financials | — |
 
-Morgan Stanley up S&P target 8,300 จาก earnings beat 10%
-Consensus miss rare, mega-caps lead +15% YTD
-Positioning: long tech crowded, rotate industrials
-P&L: IT +$50B mkt cap gain
-Actionable: stay long index
+Treasury yields cool จาก Trump-Xi meeting ลด trade tension bets.
+10Y TNX ลง bonds rally; credit spreads tighten.
+Positioning: Rates overweight unwind; flows into duration.
+ซื้อ Treasuries long end.
 
 **📊 Key Numbers**
-- S&P target 8300
-- Earnings boom +10% vs cons
+- Treasury yields cool post Trump-Xi
 
-**👀 Watch Next:** Q2 earnings season kickoff
+**👀 Watch Next:** Xi-Trump trade deal specifics
 
-🔗 Source: [Bloomberg Markets (Google News)](https://news.google.com/rss/articles/CBMisgFBVV95cUxPTS1GM19Ra0F2M3NCRG80ekwwUEVfaHNrMUk2SXIydXVPVDR0N2RPbENEbWthdG5pNXBkWllrbm1WWnI5N1I0bnZ3cVRFZmJhYnpvSEdPWUxwWW9jek9rcF8wTEMxcVlHdzQ4WFNQU3IwVE5sMFhwZHh0UFZhOUx5MHVOWHBVNkFmcGR2QnRBbTg2MW1tVEZrUU50MHRKZHRwRVQybWdreXVydVpJYmtsMkhR?oc=5)
+🔗 Source: [WSJ Markets (Google News)](https://news.google.com/rss/articles/CBMingFBVV95cUxNYklscXZJMUNocFVGWmdEckFSMG9NRmcwTnF5M05TZS1YaVAwSFRoWS1sbFpsUUdiVzBmZXQ0MDR6Q0VlOXVwcF91YmtZa3hlYTJ5b0hKb0xKMFAxQ081S1BUWG1QWjNKcmhYNjFld2pYcHJEY3U2VXQtbmVteXBsQ0VXNVlKVzdUWXpoem1OQ1dfanl1dDdzbVhqZkM3Zw?oc=5)
 
-## 6. ชิปสต็อกเด้ง Nasdaq พุ่ง
+## 5. Consumer sentiment ต่ำสุดใหม่ inflation สงคราม
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Sector-specific | bullish | medium | short-term | Information Technology | — |
+| Macro/Fed | bearish | medium | short-term | Consumer Discretionary, Consumer Staples | — |
 
-Chip stocks rebound +3% ดัน Nasdaq +1.2%
-NVDA/SOFI lead flows $5B inflow
-Semis valuation 25x fwd vs 30x peak
-P&L: tech rotation +2%
-Actionable: buy semis dip
+US consumer confidence new lows จาก inflation war trade worries.
+กด Consumer disc spending; P&L hit retail cyclical.
+Positioning: Defensives overweight; flows out consumer.
+ซื้อ staples หลีก cyclicals.
 
 **📊 Key Numbers**
-- Nasdaq +1.2%
-- Chips +3%
+- Consumer sentiment new lows
 
-**👀 Watch Next:** ASML/TSMC earnings
+**👀 Watch Next:** Next CPI print vs Fed cuts
 
-🔗 Source: [WSJ Markets (Google News)](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRGJHM25jUE9lZU5ORjJCeU5KRGUwbHRJaXNqUlMxSUFhWDdBbTNaZ2JhamwwU08yNGFfQTdIYU1mU080OW1HTHEyNXcwaFhJTHpxcm83cF9abDlQQ3hQOUF2QjhCYktDSWpJVW56a29RdV85MlU3ZkYyLU4xU09SQ2RjeHhPc2xMSUo0LVJOMVRwWHJYWDhnRzBJWms?oc=5)
+🔗 Source: [CNBC Economy](https://www.cnbc.com/2026/05/14/consumer-confidence-us-economy-inflation-iran-war-trade.html)
 
-## 7. เงินเฟ้อสูงนานกระทบ退休
+## 6. Gold ร่วง inflation สูง bets hike ดอกเบี้ย
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Macro/Fed | bearish | medium | long-term | Financials, Information Technology | — |
+| Commodity | bearish | medium | immediate | Materials | — |
 
-CPI จริง 8% จาก healthcare/energy spike
-Retirement portfolios ลบ 5% real terms
-Financials hedge via TIPS flows +$2B
-Positioning: shift to inflation-linked
-Actionable: underweight bonds
+Gold holds decline จาก US inflation สูงขึ้น bets Fed hike.
+กระทบ miners P&L; flows out commodities into rates.
+Positioning: Gold underperform equities.
+ขาย gold miners ซื้อ banks.
 
 **📊 Key Numbers**
-- Effective inflation 8%
-- CPI masks double-digit spikes
+- Gold decline on inflation hike bets
 
-**👀 Watch Next:** Core PCE for Fed path
+**👀 Watch Next:** Upcoming CPI data
 
-🔗 Source: [MarketWatch Top Stories](https://www.marketwatch.com/story/why-3-8-inflation-actually-feels-like-an-8-hit-to-your-retirement-savings-9e0ba615?mod=mw_rss_topstories)
+🔗 Source: [Bloomberg Markets (Google News)](https://news.google.com/rss/articles/CBMitAFBVV95cUxObDdUSWFxWVBzU0Ewbkp2NXdkcFdmeEJ1TlNOYVowY2dLQUNNYlplejNOQmUzemJ0WXB2UEdSY0tUZVUyeUlacWh2T2J4RFphd2N3cUlMcjE1Vm5HWXNBWUIyM0NMRGQxMzh0a1JudVhSeUxiWWxXRlMtVGxnUXVOU1dWaF9idWlLVDJVdWpZTlcwSnZYZ0xQS1pTNC1CV2s0eXY3V1VseUVSSmp3bkRuNTRQano?oc=5)
 
-## 8. เทคครองตลาด ภาคอื่นตาม
+## 7. Ford พุ่ง unit พลังงาน data centers
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Sector-specific | neutral | low | short-term | Information Technology | — |
+| Sector-specific | bullish | medium | long-term | Industrials, Consumer Discretionary | F |
 
-Tech YTD +20% vs market +5%
-Rotation to industrials/value +2%
-Flows: $20B out tech ETFs
-P&L: equal-weight outperformance
-Actionable: rotate to laggards
+Ford เปิด power unit สำหรับ data centers shares surge.
+Boost EV/industrial P&L จาก AI demand.
+Positioning: Auto pivot tech underweight chase.
+ซื้อ F long AI infra.
 
 **📊 Key Numbers**
-- Tech dominance +20% YTD
+- Ford shares surge on data center power
 
-**👀 Watch Next:** Sector ETF flows
+**👀 Watch Next:** Ford unit orders vs AI capex
 
-🔗 Source: [CNBC Top News](https://www.cnbc.com/2026/05/13/tech-is-completely-dominating-the-market-but-these-sectors-could-be-poised-to-catch-up.html)
+🔗 Source: [Financial Times Companies](https://www.ft.com/content/3788778f-ea93-4811-80a8-4c8f4c5c0b1f)
 
-## 9. เทนเซ็นต์กำไร Q1 miss แต่เกม/AI แรง
+## 8. Powell Fed 8 ปี tumultuous สิ้นสุด
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Earnings | neutral | low | short-term | Communication Services | — |
+| Macro/Fed | neutral | low | long-term | Financials | — |
 
-Tencent rev miss cons แต่ gaming/AI +15%
-US tech read-through neutral
-China flows ไม่กระทบ Nasdaq
-P&L: minimal spillover
-Actionable: ignore for US
+WSJ: Powell Fed ถูกทดสอบ 8 ปี crisis สิ้นสุด.
+Shape policy outlook post-term; markets price no cuts soon.
+Positioning: Rates higher for longer.
+Hold cash overweight bonds.
 
 **📊 Key Numbers**
-- Rev miss est
-- Gaming/AI +15%
+- Powell 8 tumultuous years
 
-**👀 Watch Next:** US cloud peers earnings
+**👀 Watch Next:** Fed chair succession bets
 
-🔗 Source: [CNBC Markets](https://www.cnbc.com/2026/05/13/tencent-q1-earnings-gaming-ai-demand-revenue-miss.html)
+🔗 Source: [WSJ Markets (Google News)](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSTdCb3lkcEJpQmM3QlV1UklxN2g2NHVyeVJ2blVLNFl2OE52WWtzNm1WMGpfXzVtNmZuM3lUY3JReXAwOHM2NFJsbm1qMlJoTWc2ZHhkZ2lCV09YZThhZ2hGalFfendoOWx2NDRWcWNZSU56UTVGUUR6c0hvZDBaZzRocWppbm14TWFpVGd2c0JIZHhVc1h2VW5OMFVkVXFWU0J3cjMxb3FncS1veWgxR3BGdEFDUnU3SjFuU01aZTgtaEk?oc=5)
 
-## 10. Nationwide จัดการ harassment ชำระเงิน
+## 9. Nvidia earnings ไม่ช่วย S&P sell signal
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Regulation | neutral | low | long-term | Financials | — |
+| Earnings | bearish | medium | immediate | Information Technology, Consumer Discretionary | NVDA |
 
-Nationwide UK crackdown payment harassment
-Reg impact minimal to US financials
-No P&L read-through
-Flows unchanged
-Actionable: no action
+MarketWatch: NVDA earnings alone no rescue S&P overbought sell signal.
+Tech/retail lineup; P&L risk dispersion.
+Positioning: Trim mag7 chase cyclicals.
+ลด NVDA ซื้อ value.
 
 **📊 Key Numbers**
-- —
+- S&P new sell signal pre-earnings
 
-**👀 Watch Next:** UK reg spillover to US
+**👀 Watch Next:** NVDA beat/miss vs forward P/E
 
-🔗 Source: [Financial Times Companies](https://www.ft.com/content/3d706661-9efe-45ec-a195-b41ce8633ab9)
+🔗 Source: [MarketWatch Top Stories](https://www.marketwatch.com/story/nvidia-earnings-alone-wont-rescue-the-s-p-500-from-its-new-sell-signal-5a41acc3?mod=mw_rss_topstories)
+
+## 10. Futures แบน Dow คง 50,000
+
+| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
+|---|---|---|---|---|---|
+| Macro/Fed | neutral | low | immediate | — | — |
+
+Stock futures little changed post Dow 50k reclaim S&P 7500.
+Consolidation after rally; low vol.
+Positioning: Pause AI flows.
+Hold positions watch open.
+
+**📊 Key Numbers**
+- Futures little changed
+- Dow holds 50,000
+
+**👀 Watch Next:** Open gap vs Asia handoff
+
+🔗 Source: [CNBC Top News](https://www.cnbc.com/2026/05/14/stock-market-today-live-updates.html)
