@@ -14,7 +14,7 @@ log = logging.getLogger(__name__)
 
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 
-MODELS = ["x-ai/grok-4.1-fast"]
+MODELS = ["x-ai/grok-4.3", "google/gemini-2.0-flash-001", "openai/gpt-4o-mini"]
 
 REPO_URL = os.environ.get("REPO_URL", "https://github.com/USERNAME/REPO")
 
