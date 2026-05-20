@@ -1,68 +1,48 @@
 ---
 date: 2026-05-20
-generated_at: 2026-05-20T02:19:04Z
+generated_at: 2026-05-20T22:23:48Z
 model_used: x-ai/grok-4.3
-sources_count: 1
+sources_count: 4
 ---
 
 # 📰 AI News 2026-05-20
 
-## 1. คาร์พาธี เข้าร่วมทีมพรีเทรนนิ่งแอนโทรปิก
+## 1. OpenAI แก้ปัญหาคณิตศาสตร์ Erdős ได้จริง
 
-อันเดรจ คาร์พาธี อดีตผู้ร่วมก่อตั้ง OpenAI เข้าร่วม Anthropic ทำงานพรีเทรนนิ่งภายใต้ Nick Joseph
-เริ่มทีมใช้ Claude เร่งการวิจัยพรีเทรนนิ่งแทนการพึ่งพาคอมพิวต์ล้วนๆ
-ทีมเน้น AI-assisted research เพื่อลดต้นทุนและเพิ่มความเร็ว
-คุกคาม OpenAI และ Google ในการแข่งขันโมเดล frontier
-ส่งผลดีต่อ P&L ของ Anthropic ด้วยการพัฒนาโมเดลที่คุ้มทุนกว่า
+OpenAI เปิดตัวโมเดล reasoning ทั่วไปที่ disprove conjecture เรขาคณิตแบบไม่ต่อเนื่องจากปี 1946 ได้สำเร็จ ค้นพบ family of constructions ใหม่ดีกว่า square grids นักคณิตศาสตร์ Noga Alon และ Thomas Bloom ยืนยันผล หมายถึง AI สามารถเชื่อมโยงเหตุผลยาวข้ามสาขาได้จริง
 
-**Why it matters:** การย้ายตัว Karpathy ส่งสัญญาณ Anthropic ใช้ AI ช่วยวิจัยเพื่อลดต้นทุนและแข่งขัน frontier model ได้เร็วขึ้น
+**Why it matters:** ยกระดับ frontier reasoning models ทันที ส่งผล P&L ต่อการแข่งขัน OpenAI vs DeepMind
 
-🔗 Source: [TechCrunch AI](https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/)
+🔗 Source: [TechCrunch AI](https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/)
 
-## 2. Google เปิดตัว Gemini 3.5 Flash เน้นเอเจนต์
+## 2. Microsoft เปิดตัว MDASH ใช้ 100+ AI agents
 
-Google เปิดตัว Gemini 3.5 Flash ที่ I/O 2026 เน้น coding และ autonomous agents
-เร็ว 4x-12x กว่าโมเดล frontier อื่น รองรับงานหลายชั่วโมง
-สร้าง OS จากศูนย์ได้ในทดสอบภายในและช่วย fintech ทำ workflow หลายสัปดาห์
-คุกคาม OpenAI และ Anthropic ด้วยความเร็วและ agentic capability
-ส่งผลดีต่อ Google Cloud ด้วยการเพิ่ม adoption ในองค์กรขนาดใหญ่
+Microsoft เปิดตัว MDASH ระบบ multi-agent ที่ใช้เอเจนต์มากกว่า 100 ตัวเพื่อเอาชนะข้อจำกัดของโมเดลเดี่ยว ช่วยเพิ่มความสามารถในการแก้ปัญหาที่ซับซ้อน ตรงกับธีม agentic AI ของ hyperscaler
 
-**Why it matters:** Gemini 3.5 Flash เปลี่ยนโฟกัสเป็น agentic AI ช่วย Google ครองตลาดองค์กรด้วยความเร็วและ integration ที่เหนือกว่า
+**Why it matters:** เสริมแกร่ง Azure AI ต่อสู้กับ AWS และ Google Cloud ในตลาด enterprise agentic
 
-🔗 Source: [TechCrunch AI](https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/)
+🔗 Source: [Microsoft AI](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdy1ybzFpbk1Md2JQMThRRDlFRW42d1l2dUczd2gyNmdCR0xSNDZOQ3VLb3FBNWdVZlJwUUlKNkQ4dHh2aGRBLTRQc0FYdXBYSEo4WFFOMGJTaDlHLVc4QjRrNFdMTHNtVXN5TTJHU2h1bmhCYlZhbnp2c1ByNG1seDZPOXVHNFFx?oc=5)
 
-## 3. Google เปิดตัว Android CLI สำหรับเอเจนต์โค้ดดิ้ง
+## 3. Bristol Myers ใช้ Claude เร่งค้นยา
 
-Google ปล่อย Android CLI ที่ I/O 2026 เพื่ออัพเกรด agentic app coding
-ช่วยเอเจนต์สร้างและจัดการแอป Android แบบ autonomous มากขึ้น
-รวมกับ Antigravity 2.0 ให้เอเจนต์ทำงานในสภาพแวดล้อม native
-คุกคาม Microsoft และ OpenAI ด้วยเครื่องมือ developer ที่ลึกซึ้ง
-ส่งผลดีต่อ Android ecosystem ด้วยการเพิ่ม productivity นักพัฒนา
+Bristol Myers Squibb ประกาศนำ Claude จาก Anthropic ไปใช้เร่งกระบวนการ drug discovery ช่วยลดเวลาและต้นทุน R&D อย่างมีนัยสำคัญ ถือเป็นการนำ frontier model ไปใช้จริงในอุตสาหกรรมยา
 
-**Why it matters:** Android CLI ช่วย Google ล็อกนักพัฒนาไว้กับ ecosystem ผ่านเครื่องมือ agentic ที่ทรงพลัง
+**Why it matters:** ยืนยันมูลค่าทางธุรกิจของ Anthropic ต่อ pharma sector และเพิ่มรายได้ recurring จาก enterprise
 
-🔗 Source: [TechCrunch AI](https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/)
+🔗 Source: [Reuters Tech](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaWdsQkU0QVJWQTRMYTdTWk1RMzlPaG9rZmZLNjZRZ185aFdoRy1oR2JwMzFQb0gtdGJIUVBwM3BrZlFnVkQyN0N0aDAyMUF6OUNLTFM0Zm00ZFRaeUp2WVFUaHlFZUhVSC1lMGJUTGhvVzFaMEJmdm1rUFYyempCWWxIYTRZNk10U0lfQ1JDQWRYQzdRc3puYU8yd0NqZVVNVWdKR3VKanktS0g4NUhXeTE2WVViM0twRWdRVDNXNWsyUQ?oc=5)
 
-## 4. Google เปิดตัว Gemini Spark เอเจนต์ 24/7
+## 4. Anthropic เปิดตัว Mythos AI ด้านความปลอดภัย
 
-Google เปิดตัว Gemini Spark ที่ I/O 2026 เป็นเอเจนต์ส่วนตัว 24/7 กับ Gmail integration
-ทำงานบน VM Google Cloud แบบ background โดยไม่ต้องเปิดอุปกรณ์
-ดึงข้อมูลจาก Gmail, Docs, Sheets เพื่อสร้างอีเมลและ workflow อัตโนมัติ
-คุกคาม OpenAI ChatGPT agent และ Anthropic Claude Coworker
-ส่งผลดีต่อ Google Workspace ด้วยการเพิ่มมูลค่า subscription AI Ultra
+Anthropic เปิดตัว Mythos model ที่ถูกพูดถึงเรื่องความสามารถด้าน hacking แต่รายงาน Reuters ระบุว่าความเสี่ยงถูก overstated บริษัทเน้นการควบคุมและความปลอดภัยสูง
 
-**Why it matters:** Gemini Spark ใช้ข้อมูล Gmail ที่มีอยู่แล้วเพื่อสร้าง advantage แข่งขัน agentic assistant ได้ทันที
+**Why it matters:** ลดความกังวลด้าน regulation และช่วยให้ Anthropic ขยายฐานลูกค้า enterprise ได้เร็วขึ้น
 
-🔗 Source: [TechCrunch AI](https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/)
+🔗 Source: [Reuters Tech](https://news.google.com/rss/articles/CBMiugFBVV95cUxNYzVKYk5iNHZiZE5HeXlCTW1VQmxBVlBfYmEtQVo5STRud3hFMTg4aWtESWdEckV5VzE5U3pYNkdxUDZUVnZIRnpqZWMxTDRZMVlpclRVY09aM2h6VWRRZUxudWN5U20tc1dNVl9Cakg4bGptc3dHUlRNS1FsZHY2Z1htZkZWUFQyY3hVX1NGR3dLU21TUWtXaTJ2Q0dBXzAyN2RDVDg1MGRIUXhEUW1DTjk2TnAxMEVNVnc?oc=5)
 
-## 5. Google อัพเดท Gemini แอปสู้ ChatGPT และ Claude
+## 5. OpenAI ยืนยันแก้ปัญหาเรขาคณิตแบบเปิดได้
 
-Google อัพเดท Gemini แอปที่ I/O 2026 ด้วย Daily Brief, Neural Expressive UI และ Gemini Omni
-มีผู้ใช้ 900 ล้านรายต่อเดือนใน 230 ประเทศ 70 ภาษา
-เพิ่ม Gemini Spark และวิดีโอโมเดลใหม่เพื่อแข่งขัน ChatGPT/Claude
-คุกคาม OpenAI และ Anthropic ด้วย reach และ integration ที่กว้างกว่า
-ส่งผลดีต่อ Google ด้วยการเพิ่ม engagement และ retention ผู้ใช้
+OpenAI เผยแพร่รายละเอียดอย่างเป็นทางการว่าโมเดลใหม่สามารถ disprove central conjecture ใน discrete geometry ได้จริง พร้อมคำยืนยันจากนักคณิตศาสตร์ชั้นนำ ถือเป็นครั้งแรกที่ AI แก้ปัญหาเปิดสำคัญของวงการได้ autonomously
 
-**Why it matters:** อัพเดท Gemini แอปช่วย Google ขยายฐานผู้ใช้ 900 ล้านคนให้กลายเป็น hub agentic แทน chatbot ล้วนๆ
+**Why it matters:** เพิ่มความเชื่อมั่นในความสามารถ reasoning ของโมเดล OpenAI ส่งผลโดยตรงต่อ valuation และการแข่งขัน frontier
 
-🔗 Source: [TechCrunch AI](https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/)
+🔗 Source: [OpenAI](https://news.google.com/rss/articles/CBMiekFVX3lxTE9yX01zN3g1dUU2anpzWXA3d3RaQ3RaYWRPVkUtRzlyeElQN0lBZVFfNzQ1dTFleFB6aThGc0pweklXck9ZSXhMelJ0amRKaEY4ZDdoVkJqMEFXTkQ4OWp6OTlnNmZ2VUNlTVRDSHN5WVVUc0xndXU5T2t3?oc=5)
