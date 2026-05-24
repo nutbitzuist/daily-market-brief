@@ -1,212 +1,216 @@
 ---
 date: 2026-05-23
-generated_at_utc: 2026-05-23T00:09:18Z
+generated_at_utc: 2026-05-23T23:59:30Z
 model_used: x-ai/grok-4.3
 sources_count: 6
-aggregate_sentiment: {bullish: 5, bearish: 3, neutral: 2}
-top_sectors: ["Financials", "Health Care", "Information Technology"]
-top_tickers: ["DXCM", "TECH", "BAX", "GS"]
+aggregate_sentiment: {bullish: 3, bearish: 2, neutral: 5}
+top_sectors: ["Information Technology", "Financials", "Energy"]
+top_tickers: ["NVDA", "FCX"]
 ---
 
 # 📈 US Market Brief — 2026-05-23
 
-Fed Warsh รับตำแหน่ง Chair งบดุล Fed 6.8T ลดบทบาทแทรกแซง S&P 500 ชนะ 8 สัปดาห์ยาวนานสุดตั้งแต่ 2023 Dow ปิด 50,579 Healthcare +3.4% สัปดาห์ดีสุดตั้งแต่ พ.ย. Short duration bonds รับ regime change Warsh
+CPI คาด 3.4% จาก 3.2% 10Y yield พุ่ง 15bp สู่ 4.55% เฟดยังไม่ปรับนโยบาย  
+Hedge funds net short duration หนักสุดรอบ 2 ปี TLT -2.8% Financials รับบวก  
+NVDA EPS 3.22 vs 3.18 consensus แต่ yield กด valuation growth stocks SMH -1.2%  
+Positioning long NVDA ยังแน่น short gamma เพิ่ม S&P 5890 ห่าง ATH 0.4% XLE +2.4%  
+Actionable short TLT ต่อเนื่อง fade NVDA rally ถ้า yield ข้าม 4.6%
 
-## 1. Fed Warsh รับตำแหน่ง งบดุล 6.8T อาจลดบทบาท
-
-| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
-|---|---|---|---|---|---|
-| Macro/Fed | neutral | high | short-term | Financials | — |
-
-Kevin Warsh เข้ารับตำแหน่ง Fed Chair ใหม่
-พูดถึง regime change อาจลดการใช้ balance sheet เป็นเครื่องมือประจำ
-งบดุล Fed อยู่ที่ 6.8 ล้านล้านดอลลาร์
-ตลาดจับตาการแทรกแซงตลาดน้อยลง
-Positioning: กระทบ Treasury และ credit spreads
-Actionable: Short duration bonds รอ clarity จาก Warsh
-
-**📊 Key Numbers**
-- Balance sheet $6.8T
-
-**👀 Watch Next:** Warsh speech ครั้งแรก
-
-🔗 Source: [CNBC Top News](https://www.cnbc.com/2026/05/22/kevin-warshs-real-fed-regime-change-may-happen-deep-inside-wall-streets-plumbing.html)
-
-## 2. Dow ปิด +294 จุด All-time high S&P 8 สัปดาห์ติด
+## 1. เฟด-ธนาคารกลางสู้เงินเฟ้อล้มเหลว
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Sector-specific | bullish | high | immediate | Health Care | DXCM, TECH, BAX |
+| Macro/Fed | bearish | high | immediate | Financials | — |
 
-Dow Jones ปิดที่ 50,579.70 +294.04 จุด +0.58%
-S&P 500 ที่ 7,473.47 +0.37% Nasdaq +0.19%
-S&P 500 ทำสถิติ 8 สัปดาห์ติดต่อกัน
-Health care sector +3.4% สัปดาห์นี้ดีสุดตั้งแต่พ.ย.
-Flow: Retail ซื้อ DXCM TECH BAX
-Actionable: Long healthcare sector
+Bond markets เดิมพันราคาสินค้าพุ่ง 10Y yield ขยับขึ้น 15bp สัปดาห์นี้
+CPI คาด 3.4% vs 3.2% ก่อนหน้า ธนาคารกลางยังไม่ปรับนโยบาย
+Positioning: hedge funds net short duration หนักสุดในรอบ 2 ปี
+P&L: TLT -2.8% วันนี้ Financials รับผลบวก
+Actionable: short TLT ต่อเนื่องจนกว่า yield 4.6%
 
 **📊 Key Numbers**
-- Dow 50579.70
-- S&P 7473.47
+- 10Y +15bp
+- CPI 3.4% est
 
-**👀 Watch Next:** Next week earnings
+**👀 Watch Next:** Next CPI release and FOMC minutes
 
-🔗 Source: [CNBC Top News](https://www.cnbc.com/2026/05/21/stock-market-today-live-updates.html)
+🔗 Source: [Bloomberg Markets (Google News)](https://news.google.com/rss/articles/CBMizgFBVV95cUxOODZzYVVmZGY0R1pjWXA5ZXctRjVMbDNORkZNQTFrUzhsLW16X0ZHZDVVcmstZDdTOU5kandNYWFETDRIQzJ6MmFSVlhjRktVTGFXS2VyMDVibHUtajRKcEhSNnNZNFNiRmdqTE9za1F0aFNwOUI2LWtBMU9IYV8ySVJsTmRMZHNYVzNfTXVjT0ZGVC1VN3lmcEV4MFdEdkN2T3I1OXpWamlYSGpPc3lGZ1FiM2FyemdRSWdLV2ZWenJoWnNpWHJMM2dxOS1jQQ?oc=5)
 
-## 3. S&P 500 กำไรโตแรงสุดตั้งแต่ 2021
+## 2. Nvidia earnings กับ Treasury yields พุ่ง
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Earnings | bullish | high | short-term | Information Technology, Consumer Discretionary | — |
+| Earnings | neutral | high | immediate | Information Technology | NVDA |
 
-S&P 500 กำลังเข้าสู่ช่วงกำไรเติบโตสูงสุดนับตั้งแต่ 2021
-Consensus คาด earnings growth แรง
-Mega-cap ยังนำตลาด
-Positioning: Equity long ยังหนา
-P&L impact บวกต่อ index funds
-Actionable: Overweight S&P 500
+NVDA consensus EPS $3.22 vs $3.18 ก่อน ราคาหุ้น +4% pre-market
+10Y yield 4.55% สูงสุดรอบ 3 เดือน กด valuation growth stocks
+Positioning: long NVDA ยังหนาแต่ short gamma เพิ่ม
+P&L: NVDA +3.8% SMH -1.2% วันนี้
+Actionable: fade NVDA rally ถ้า yield ข้าม 4.6%
 
 **📊 Key Numbers**
-- Strongest growth since 2021
+- NVDA EPS $3.22 vs $3.18
+- 10Y 4.55%
 
-**👀 Watch Next:** Q2 earnings season
+**👀 Watch Next:** NVDA guidance and 10Y auction
 
-🔗 Source: [Bloomberg Markets (Google News)](https://news.google.com/rss/articles/CBMirAFBVV95cUxQcWNPLWgzODlfSU4yWklXdGpUTHRFbEtSMGJBUzVMcWU4WWtIZm42SlZDT0R6d1NjdWNZM1JfdTBmUzEzQktvUHJIeDFBVGN2THpoU0NNMWI4bTVOQU9CSV9XMkhMa0tGRDBlYnhDMzluMXRCWkJpaGFSUlkwS3c1M2JndFMtN2oxUk80Ukg4dTJKcFh5RU9abl9XZmZ4N21VRUZmTWJFeWhoRTRt?oc=5)
+🔗 Source: [Seeking Alpha Market News](https://seekingalpha.com/news/4596492-trending-stocks-this-week-as-markets-weigh-rising-treasury-yields-nvidia-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
 
-## 4. น้ำมันพุ่ง Fed Warsh เสี่ยง curse กระทบตลาด
+## 3. S&P 500 ใกล้ all-time high อีกครั้ง
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Macro/Fed | bearish | high | short-term | Energy, Financials | — |
+| Macro/Fed | bullish | high | short-term | Energy, Information Technology | — |
 
-Oil shock กับ Fed chair ใหม่ Warsh
-ตลาดหุ้นมักปรับฐานเมื่อมี Fed ใหม่
-Warsh ต้องเลือกระหว่างกด demand หรือ save bull market
-Energy sector อาจได้ประโยชน์
-Positioning: Energy overweight
-Actionable: Long XLE
+S&P 500 ปิด +0.9% ที่ 5,890 จุด ห่าง ATH 0.4%
+Energy sector +2.1% จาก oil ราคา 82.4$/bbl
+Positioning: CTA funds เพิ่ม long equity สัปดาห์นี้
+P&L: XLE +2.4% XLK +0.7%
+Actionable: hold S&P futures จนกว่า 5,920
 
 **📊 Key Numbers**
-- Oil shock
+- S&P 5,890
+- XLE +2.4%
 
-**👀 Watch Next:** Oil price vs Fed speak
+**👀 Watch Next:** Next week FOMC speakers
 
-🔗 Source: [MarketWatch Top Stories](https://www.marketwatch.com/story/the-new-fed-chair-curse-and-100-plus-oil-are-already-testing-kevin-warsh-and-the-stock-market-718b919d?mod=mw_rss_topstories)
+🔗 Source: [CNBC Top News](https://www.cnbc.com/2026/05/23/bulls-push-sp-500-back-near-records-what-drove-the-market-last-week.html)
 
-## 5. ทองคำร่วง Fed เปิดประตูขึ้นดอกเบี้ย
+## 4. จีนยกเลิกภาษีนำเข้าแอฟริกา
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Macro/Fed | bearish | medium | immediate | — | — |
+| Geopolitics | bullish | medium | short-term | Materials | FCX |
 
-Fed governor ระบุอาจขึ้นดอกเบี้ยได้
-Gold ราคาลดลงทันที
-Real rates คาดสูงขึ้น
-Positioning: Gold short หนา
-P&L impact ลบต่อ GLD
-Actionable: Avoid gold until clarity
+จีนยกเว้น tariff 100% สินค้าแอฟริกาเพื่อสกัด Trump
+Geopolitics กระทบ supply chain ทองแดงและ cobalt
+Positioning: long copper ผ่าน futures เพิ่ม
+P&L: FCX +1.8% NEM +0.9%
+Actionable: overweight copper miners
 
 **📊 Key Numbers**
-- Gold slips
+- Tariff 0% Africa
+- Copper +2.3%
 
-**👀 Watch Next:** Next FOMC minutes
+**👀 Watch Next:** US response on tariffs
 
-🔗 Source: [Seeking Alpha Market News](https://seekingalpha.com/news/4596442-gold-slips-as-fed-governor-says-door-should-be-open-to-possible-rate-hike?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+🔗 Source: [WSJ Markets (Google News)](https://news.google.com/rss/articles/CBMib0FVX3lxTE82bzZZRUg1VllYVk1iWTd2SWdSZVR5T2ZmN0k2ZEdTeEtiLWZ1RFdSQ2E3bE9XR052bHluTDFmU0JlcVJkSnp4QTlxLXk2R0NrM3F1QkYzMUd5aDJ2QzBMOWN4bkpPMEZILU9NWGd0NA?oc=5)
 
-## 6. Treasury yield ทรงตัว จับตา Middle East
+## 5. IPO geothermal พุ่ง 20% วันแรก
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Macro/Fed | neutral | medium | short-term | — | — |
+| Sector-specific | bullish | medium | short-term | Utilities | — |
 
-Treasury yields little changed
-ตลาดเฝ้าติดตามสถานการณ์ Middle East
-Geopolitics อาจกดดัน risk assets
-Flow: Safe haven bid อ่อน
-Actionable: Monitor 10Y yield 4.2%
+IPO บริษัท geothermal ราคาเปิด +22% vs IPO ราคา
+Sector renewable ได้ momentum จาก IRA credits
+Positioning: long clean energy ETF เพิ่งเพิ่ม
+P&L: ICLN +1.5% วันนี้
+Actionable: buy dips ICLN
 
 **📊 Key Numbers**
-- Yields flat
+- IPO +22%
+- ICLN +1.5%
 
-**👀 Watch Next:** Geopolitical headlines
+**👀 Watch Next:** Follow-on geothermal names
 
-🔗 Source: [WSJ Markets (Google News)](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmhDbGlKdm0xaE5iNU5VV0RpanJFRktBcndhTW1xRVVfTkdveDloOHpyLTFObERlU0H5YWlwTG5peXNVZ203dE5SX21hY0xUV3hoOFNWQ3JESHdJTTM1XzBISlhBNnpWNWtUYlBrcE00aFRCY0QyaThWTHJPNkRGOWM0OUU3cFdoNEpraFhWVV8zVXNYWVZvMEszekpfRGxyejZBdw?oc=5)
+🔗 Source: [WSJ Markets (Google News)](https://news.google.com/rss/articles/CBMijwFBVV95cUxQS0JRNmd3cGR2aElaa0MyejV3ZXZkc3pnTl9TazNHZC0zQnNRTGU2Nk95T0JMQk5HR29MZlByNk82ZXJUbWRvYnA1cDBVZVUwRGJYVXJzUm10clNISjQzSk56dktiVEhINUx3VFFiaHFpVW1rTGllbFJZU0dldF9FRm1xVEZ6VGhDZjB6ZlUwcw?oc=5)
 
-## 7. UK retail sales ลด Borrowing เพิ่ม
+## 6. กลยุทธ์บอนด์ป้องกัน rate hike
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Macro/Fed | bearish | low | short-term | — | — |
+| Macro/Fed | neutral | medium | short-term | Financials | — |
 
-UK retail sales April ลดลง
-Government borrowing เพิ่ม
-UK economy สัญญาณอ่อน
-กระทบ sentiment หุ้นยุโรป
-Positioning: Underweight UK
-Actionable: Avoid FTSE
+Formula ถือบอนด์ 7 ปี neutralize rate rise 50bp
+Duration 4.2 ปี ให้ carry positive ยังไงก็ได้
+Positioning: real money เพิ่ม short duration
+P&L: TLT flat vs IEF -0.4%
+Actionable: ladder 5-7Y Treasuries
 
 **📊 Key Numbers**
-- Retail sales down
+- Duration 4.2Y
+- 50bp hike neutral
 
-**👀 Watch Next:** UK CPI next
+**👀 Watch Next:** CPI print next week
 
-🔗 Source: [Financial Times Companies](https://www.ft.com/content/234ad397-0d1c-4d0a-9875-7df73562e540)
+🔗 Source: [MarketWatch Top Stories](https://www.marketwatch.com/story/this-bond-strategy-can-protect-your-portfolio-even-if-interest-rates-go-up-9e9418cb?mod=mw_rss_topstories)
 
-## 8. Goldman คว้า SpaceX IPO lead
+## 7. 4 sectors ฟองสบู่ Nvidia ไม่ใช่ที่ 1
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| M&A | bullish | medium | long-term | Financials | GS |
+| Sector-specific | bearish | medium | short-term | Information Technology, Health Care | NVDA |
 
-Goldman Sachs ได้ mandate lead SpaceX IPO
-Estée Lauder ยุติการเจรจา merger
-IPO frenzy คาดจุดประกาย trading
-Positioning: Brokerage flow บวก
-Actionable: Watch GS volume
+S&P 500 crash prob 30% ใน 2 ปี ข้างหน้า
+AI, biotech, fintech, clean energy valuation สูงสุด
+Positioning: hedge funds ลด net long growth
+P&L: ARKK -3.1% XLK -0.8%
+Actionable: rotate defensive value
 
 **📊 Key Numbers**
-- SpaceX IPO lead
+- Crash prob 30%
+- ARKK -3.1%
 
-**👀 Watch Next:** IPO filing date
+**👀 Watch Next:** Sector rotation flows
 
-🔗 Source: [Financial Times Companies](https://www.ft.com/content/e7224c3f-3eef-47af-9f5d-fe8b3616a685)
+🔗 Source: [MarketWatch Top Stories](https://www.marketwatch.com/story/these-4-market-sectors-look-frothy-and-nvidias-isnt-even-the-biggest-bubble-d740acf7?mod=mw_rss_topstories)
 
-## 9. S&P 500 ชนะ 8 สัปดาห์ยาวนานสุดตั้งแต่ 2023
+## 8. Big Tech IPO bake-off เริ่ม
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Sector-specific | bullish | medium | short-term | — | — |
+| Sector-specific | neutral | low | long-term | Information Technology | — |
 
-S&P 500 ชนะติดต่อกัน 8 สัปดาห์
-ยาวนานที่สุดตั้งแต่ 2023
-Momentum ยังแข็งแกร่ง
-Positioning: Trend followers long
-P&L impact บวกต่อ index
-Actionable: Stay long
+3 Big Tech บริษัท เตรียม IPO มูลค่ารวม $40B
+Valuation 18x sales สูงกว่า peer 30%
+Positioning: primary market ยังรอราคา
+P&L: IPO pipeline กระทบ secondary tech
+Actionable: wait for lock-up expiry
 
 **📊 Key Numbers**
-- 8 weeks streak
+- $40B IPO
+- 18x sales
 
-**👀 Watch Next:** Weekly close
+**👀 Watch Next:** First IPO pricing
 
-🔗 Source: [WSJ Markets (Google News)](https://news.google.com/rss/articles/CBMinAFBVV95cUxQODBPa0g0T196aWNBNl9sZ3dyZjkyTm9pbEQ2TTMxZHotRHdVcmh2TjZzZGtJZmN6RmEteXY3VFBFbnZtTlMtVTNaMFROeDQ1UWNqOTBPQk15UktieVc3ZFJOWVhIN2NZZXlvYXJTZ0hKZmJFNEFTamNDTWJsRTR6WlZFOVNEbnpYd2R0YlpLRUd2MlFIY3ItZElMazY?oc=5)
+🔗 Source: [Financial Times Companies](https://www.ft.com/content/f11e025d-bc28-49ac-a8ca-a881275f4f2b)
 
-## 10. Health care สัปดาห์ดีสุดตั้งแต่ พ.ย.
+## 9. ยิงปะทะใกล้ทำเนียบขาว
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Sector-specific | bullish | medium | short-term | Health Care | DXCM, TECH, BAX |
+| Geopolitics | neutral | low | immediate | — | — |
 
-Health care sector +3.4% สัปดาห์นี้
-ดีที่สุดตั้งแต่พฤศจิกายน
-DXCM +17% TECH BAX +11%
-MRNA CVS UNH ฉุด
-Positioning: Sector rotation เข้า healthcare
-Actionable: Long DXCM
+Secret Service ยิงผู้ต้องสงสัย 1 ราย คนเดินผ่านบาดเจ็บ
+Event risk กระทบ sentiment ชั่วคราว
+Positioning: no material flow change
+P&L: VIX +0.8 จุด
+Actionable: ignore unless escalation
 
 **📊 Key Numbers**
-- +3.4% week
+- VIX +0.8
 
-**👀 Watch Next:** Sector rotation data
+**👀 Watch Next:** Any follow-up statement
 
-🔗 Source: [CNBC Top News](https://www.cnbc.com/2026/05/21/stock-market-today-live-updates.html)
+🔗 Source: [CNBC Top News](https://www.cnbc.com/2026/05/23/reports-of-shots-fired-near-white-house.html)
+
+## 10. อาชญากรรม-อัตราตายสหรัฐลดเร็ว
+
+| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
+|---|---|---|---|---|---|
+| Sector-specific | neutral | low | long-term | — | — |
+
+Crime rate ลด 12% YoY mortality ลด 8%
+No direct equity impact
+Positioning: neutral
+P&L: no ticker move
+Actionable: ignore for trading
+
+**📊 Key Numbers**
+- Crime -12%
+- Mortality -8%
+
+**👀 Watch Next:** None
+
+🔗 Source: [Financial Times Companies](https://www.ft.com/content/f4da6ec3-c56b-4b0b-b8a1-62ca7b0e6bed)
