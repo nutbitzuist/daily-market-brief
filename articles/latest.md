@@ -1,63 +1,54 @@
 ---
 date: 2026-06-01
-generated_at: 2026-06-01T07:05:25Z
+generated_at: 2026-06-01T23:01:25Z
 model_used: x-ai/grok-4.3
 sources_count: 4
 ---
 
 # 📰 AI News 2026-06-01
 
-## 1. NVIDIA Vera Chip ถูก Anthropic-OpenAI ใช้จริง
+## 1. ฟลอริดาฟ้อง OpenAI-Sam Altman คดีแรกเหตุรุนแรง
 
-NVIDIA เปิดตัว Vera Chip ใหม่
-Anthropic และ OpenAI เป็นลูกค้ารายแรก
-ชิปมุ่งเน้น inference และ training ขนาดใหญ่
-เพิ่มขีดความสามารถศูนย์ข้อมูล AI โดยตรง
+ฟลอริดา Attorney General ยื่นฟ้อง 83 หน้า กล่าวหา OpenAI ละเลยคำเตือนความปลอดภัยเพื่อชนะ AI arms race
+เชื่อมโยง ChatGPT กับเหตุยิงกราด FSU การฆ่าตัวตาย และการเสพติดของเด็ก
+เปิดการสอบสวนอาญาตั้งแต่เมษายน 2569 หลังเหตุยิงที่มหาวิทยาลัย
 
-**Why it matters:** ยืนยัน NVIDIA ยังครองตลาดชิป AI ระดับ hyperscaler ด้วยลูกค้ารายใหญ่สองราย
+**Why it matters:** คดีรัฐแรกอาจสร้างบรรทัดฐานความรับผิด AI กระทบรายได้และ valuation OpenAI โดยตรง
 
-🔗 Source: [Bloomberg Tech](https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3ZmeXE5cy0zbU1fZ1dTMjhSZWoxZkVGZHVpbDd0NVAzejJ1Nk9teTZWWExPQ3dkTlNUd2xMQW94djRHOGVta3ByS3ZHMkVxeUZaemFJQmRJa2gxanpySFlxN2l6LWxsZHlacEZmdlZCNVR1RjBmZkx5S0N0OHZRNVA4YjFiWjU4V3dvZDNFbTM4dlRGd2N4YjYzYi1EZ0lGeE45YWgzWGJCWTlKQUdKWEh3?oc=5)
+🔗 Source: [TechCrunch AI](https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/)
 
-## 2. NVIDIA เปิด Cosmos 3 โมเดล Omni สำหรับ Physical AI
+## 2. OpenAI frontier models และ Codex เปิดให้ใช้บน AWS
 
-Cosmos 3 เป็นโมเดล omni แบบเปิดตัวแรก
-รวม world generation, reasoning และ action ในโมเดลเดียว
-รองรับหุ่นยนต์ รถไร้คนขับ และพื้นที่อัจฉริยะ
-เผยแพร่บน Hugging Face พร้อมชุดข้อมูลสังเคราะห์
+OpenAI ประกาศ frontier models และ Codex พร้อมใช้งานบน AWS ทันที
+ขยายช่องทางผ่าน Amazon Bedrock เพิ่มการเข้าถึงลูกค้า enterprise
 
-**Why it matters:** เร่งการพัฒนาโมเดล physical AI แบบ end-to-end ลดความซับซ้อน pipeline สำหรับ robotics
+**Why it matters:** AWS ได้โมเดล OpenAI โดยตรง เพิ่มรายได้ cloud และลดการพึ่งพา Microsoft เพียงรายเดียว
 
-🔗 Source: [Hugging Face Blog](https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai)
+🔗 Source: [OpenAI](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVmhkdlNPYTFmbHBacG9ja1ZFU2F2YUsxTFd6cFdCdy1PVzh5NmdUdGtTSDhNV3I0WXMzc0NlR1Y2YWlyVjZEeFB3ZU1WSU5KZ0FxUjFuOFNzZVVxSzJFa2VkdmtfQ3ZXajhnUlZkSHV5VnR5dTN4ZTZEMzZyRXVTZlJHZ3IzVzFnYWRB?oc=5)
 
-## 3. Google เปิดตัว Gemini Omni เพิ่มขีด multimodal
+## 3. OpenAI models และ Codex บน Amazon Bedrock เปิดให้ใช้จริง
 
-Gemini Omni ขยายความสามารถ multimodal ขั้นสูง
-รวมการประมวลผลหลายรูปแบบในโมเดลเดียว
-ต่อยอดจาก Gemini รุ่นก่อนหน้า
-เสริมความแข็งแกร่งด้าน reasoning และการเข้าใจบริบท
+AWS ประกาศ OpenAI models และ Codex บน Bedrock พร้อมใช้งานทั่วไป
+ลูกค้า enterprise สามารถเรียกใช้ผ่าน infrastructure AWS ได้ทันที
 
-**Why it matters:** Google เร่งแข่งขัน multimodal frontier กับ OpenAI และ Anthropic โดยตรง
+**Why it matters:** AWS ได้เปรียบ hyperscaler ด้วยโมเดล frontier เพิ่มส่วนแบ่งตลาด enterprise AI
 
-🔗 Source: [Google AI Blog](https://news.google.com/rss/articles/CBMijAFBVV95cUxPRlFybC1hMElqSEl1S2ZFZ3ZJUFFLcTNqSVh6SVFwQUFYTG1MQ3o3RnI2TURnbk1ObHZUMlhfa01BeDBPZmlJS0IyNUV5Zks1b1FaZS1Valhac2dXRE1HbHFSamdpMTVFVlYtN19oVU85VjY1ekJhTHNuQ1QyWndKRDFydzl1eVh2Wnlfeg?oc=5)
+🔗 Source: [AWS AI](https://news.google.com/rss/articles/CBMitwFBVV95cUxPVFExLVhSRkhMRzhlREdBdzlFWkxMRkhPNk9uc1NTa1R3cTZIMldCSVJzN2Q1SmItV3hpN1lCbWFRWGdLQ1lTYTU3TFl2d2R0UllHdlU1MFJmMC15cjJQVGZRdThRM0RuQzItLUZ0TGpta1dlTGlqOEw4UzY4R0dqaXRKTlA2d2Zvc29hajQwNUd3UnphbjlLNDR3cGV0dGFiMmVkanFWcHNBbnBnMXByNFBwTmh6UGc?oc=5)
 
-## 4. NVIDIA ยกระดับ AI Agent บน RTX PC และ DGX Spark
+## 4. OpenAI Models เปิดให้ใช้บน AWS เพิ่มช่องทาง enterprise
 
-NVIDIA เปิดตัวซอฟต์แวร์ใหม่สำหรับ local AI agents
-รองรับ RTX PCs และ DGX Spark
-เพิ่มประสิทธิภาพ inference แบบ on-device
-ขยายตลาด AI จากศูนย์ข้อมูลสู่ edge และ PC
+OpenAI Models พร้อมใช้งานบน AWS ผ่าน Bedrock
+ขยายการเข้าถึงลูกค้าองค์กรและลดการผูกขาด Microsoft Azure
 
-**Why it matters:** เปิดตลาด local agent ขนาดใหญ่บนฮาร์ดแวร์ NVIDIA ที่มีอยู่แล้วหลายสิบล้านเครื่อง
+**Why it matters:** AWS คว้าโมเดล OpenAI โดยตรง เพิ่มรายได้และแข่งขันกับ Azure ได้ทันที
 
-🔗 Source: [NVIDIA AI](https://news.google.com/rss/articles/CBMifEFVX3lxTE80MlRaSTR5aXNWWWJyTV8xVTZpa1BzZWJNNXhCdVAyeHg2UEp0WGpGRG1fNEJJZnZELXd2Z2dwS0ZjMWRjZGdqZFY5NFZ1Q3hwZk05Yml0dHhNSTdDWkpBUktQUGpUTVZ0VFNYNlhPRjZnT0JidHJRSkRld2k?oc=5)
+🔗 Source: [AWS AI](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUm1OeHdjZTZwVUljc0xETFNVU1dxS2FZbnFIVEtPUVJ3Mm5JeE5mWkZ0ZVZ0RVBlbDBCYjhZb3lhOTVodTRjaWtKb2NQVlAyVUUzdXVTZGhyVWYtREVNZVdFX2E1MWFfZVJiVTNWc0YtTlBIQUhBWUxJUU1kcl81MEEtcmVOZFhkMjR3SDdyLTM?oc=5)
 
-## 5. NVIDIA เผยแพร่ Cosmos 3 สำหรับโมเดล Physical AI
+## 5. Anthropic เคลื่อนไหวสู่ IPO เร่งแข่ง OpenAI
 
-Cosmos 3 เปิดให้พัฒนา world, reasoning และ action models
-ใช้สถาปัตยกรรม Mixture-of-Transformers
-มี post-training scripts และชุดข้อมูล SDG
-มุ่งเป้าหมาย robotics และ autonomous systems โดยตรง
+Anthropic ก้าวสู่การ IPO เพื่อระดมทุนและแข่งขันกับ OpenAI
+เพิ่มความดุเดือดในตลาด frontier models และ valuation
 
-**Why it matters:** เสริม ecosystem NVIDIA สำหรับ physical AI ให้ครบวงจรตั้งแต่โมเดลถึงการฝึกอบรม
+**Why it matters:** IPO Anthropic จะดึงดูดทุนและ talent เพิ่มแรงกดดันให้ OpenAI และตลาด frontier
 
-🔗 Source: [NVIDIA AI](https://news.google.com/rss/articles/CBMirgFBVV95cUxQSnRpWXM5aWdGR2lFdGk1cXh1WnhOTUwzUXZLQlpFRVRZZFBmSzViRG80a0xyYVRqVmp6Yk52SmtsUTRFNVZncFR4LXF5ZUszOV9JWm1zQy1nei1PdGYtNm1LRUxBaWJpVFJwNmw3MFBabER2NzBTamxBQTR0ZEpLOUJzOVlfRm1SbzBHU1gwRHh5cVI2WWczQ2p2OXlLYmt4cmZkdElrZXJ2V0ZQVGc?oc=5)
+🔗 Source: [Reuters Tech](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQlMzZlRMZHRFRVJRSUNpZWJMTTkwdnhmeDZFRmtOUWFlamZOMy00ejR2ZS1aMlVROEVHZzlnX1UxVDBvQTBkOVpJTVh3MHFpRDJISV9TRlR5bWhQRWIxUzktRlp6d0dKcUYxeFlmc0dKYTRyQWQ0UDE2dHk1UnJ6d3NvWVZoUnJfdGFmSzh0QmFQbVE4eWc?oc=5)
