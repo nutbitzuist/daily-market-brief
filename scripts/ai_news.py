@@ -181,8 +181,14 @@ def run() -> int:
     articles = fetch_all_ai(hours=24)
     log.info("total fetched: %d", len(articles))
     if not articles:
-        log.error("no AI news fetched")
-        return 1
+        log.error("no AI news fetched; continuing with outage fallback article")
+        articles = [sources.Article(
+            title="AI news source outage — no RSS/API articles fetched",
+            link=REPO_URL,
+            published=now_utc,
+            summary="All configured AI news sources returned no usable articles. The workflow is continuing so alerts and artifacts still publish.",
+            source_name="Daily AI News fallback",
+        )]
 
     articles = score_ai(articles)
     articles = dedupe_by_url(articles)

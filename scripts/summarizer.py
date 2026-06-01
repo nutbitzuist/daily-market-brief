@@ -168,7 +168,8 @@ def summarize_articles(articles: list[dict]) -> tuple[list[dict], str]:
             last_err = e
             log.warning("model %s failed validation: %s", model, e)
             continue
-    raise RuntimeError(f"all models failed; last err: {last_err}")
+    log.error("all OpenRouter models failed for US brief; using deterministic fallback; last err: %s", last_err)
+    return _fallback_us_items(articles), "deterministic-fallback/openrouter-unavailable"
 
 
 EXEC_SYSTEM_PROMPT = (
@@ -254,7 +255,8 @@ def summarize_ai_news(articles: list[dict]) -> tuple[list[dict], str]:
             last_err = e
             log.warning("model %s failed AI validation: %s", model, e)
             continue
-    raise RuntimeError(f"all models failed for ai_news; last err: {last_err}")
+    log.error("all OpenRouter models failed for AI news; using deterministic fallback; last err: %s", last_err)
+    return _fallback_ai_items(articles), "deterministic-fallback/openrouter-unavailable"
 
 
 TH_NEWS_SYSTEM_PROMPT = (
@@ -334,6 +336,120 @@ def _coerce_str_list(v: Any) -> list[str]:
         return [f"{k}: {val}" for k, val in v.items()]
     return [str(v)]
 
+def _clean_text(v: Any, limit: int = 600) -> str:
+    text = re.sub(r"\s+", " ", str(v or "")).strip()
+    return text[:limit].rstrip()
+
+
+def _article_url(a: dict) -> str:
+    return str(a.get("link") or a.get("url") or "")
+
+
+def _article_source(a: dict) -> str:
+    return str(a.get("source_name") or a.get("source") or "Unknown")
+
+
+def _article_title(a: dict) -> str:
+    return _clean_text(a.get("title") or a.get("title_th") or "Untitled", 180)
+
+
+def _article_body(a: dict) -> str:
+    body = a.get("content") or a.get("summary") or a.get("description") or ""
+    return _clean_text(body, 420)
+
+
+def _pad_articles(articles: list[dict], n: int) -> list[dict]:
+    usable = [a for a in articles if isinstance(a, dict)]
+    if not usable:
+        usable = [{
+            "title": "Market data feed returned no usable article",
+            "summary": "The scheduled job could not fetch or summarize enough inputs. Check RSS/API sources and OpenRouter credentials.",
+            "source_name": "Daily Market Brief fallback",
+            "link": REPO_URL,
+        }]
+    out = usable[:n]
+    while len(out) < n:
+        out.append(out[-1])
+    return out
+
+
+def _fallback_us_items(articles: list[dict]) -> list[dict]:
+    """Last-resort brief: valid schema from fetched articles, no LLM dependency."""
+    items: list[dict] = []
+    for rank, a in enumerate(_pad_articles(articles, 10), 1):
+        title = _article_title(a)
+        body = _article_body(a)
+        tickers = _coerce_str_list(a.get("candidate_tickers"))[:5]
+        sectors = _coerce_str_list(a.get("sector_hints"))[:3]
+        source = _article_source(a)
+        items.append({
+            "rank": rank,
+            "title_th": title,
+            "summary_th": (
+                f"Fallback brief จาก {source}: {title}\n"
+                f"ประเด็นจากแหล่งข่าว: {body or 'ไม่มีเนื้อหาเพิ่มเติมจาก RSS'}\n"
+                "อ่านเป็น market-monitor item ก่อนเปิดพอร์ต: ใช้ headline/source เป็น trigger แล้วรอ desk review เพื่อสรุปผลต่อ sector และ risk."
+            ),
+            "category": "Sector-specific" if tickers or sectors else "Macro/Fed",
+            "sentiment": "neutral",
+            "impact": "medium" if rank <= 3 else "low",
+            "time_horizon": "immediate",
+            "sectors": sectors,
+            "tickers": tickers,
+            "key_numbers": _coerce_str_list(a.get("key_numbers"))[:5] or ["OpenRouter unavailable; deterministic fallback used"],
+            "watch_next": "ตรวจสอบต้นทางและอัปเดต OpenRouter secret; fallback นี้ป้องกัน workflow ล้มเหลวแต่ไม่แทน desk analysis เต็มรูปแบบ",
+            "source_name": source,
+            "url": _article_url(a),
+        })
+    return _validate(items)
+
+
+def _fallback_ai_items(articles: list[dict]) -> list[dict]:
+    items: list[dict] = []
+    for rank, a in enumerate(_pad_articles(articles, 5), 1):
+        title = _article_title(a)
+        body = _article_body(a)
+        source = _article_source(a)
+        items.append({
+            "title_th": title,
+            "summary_th": f"Fallback AI brief #{rank}: {body or title}",
+            "url": _article_url(a),
+            "source": source,
+            "why_it_matters": "OpenRouter unavailable; surfaced source headline so the scheduled alert still ships.",
+        })
+    return _validate_ai(items)
+
+
+def _fallback_th_items(articles: list[dict]) -> list[dict]:
+    """Last-resort Thailand brief: valid schema from fetched articles, no LLM dependency."""
+    items: list[dict] = []
+    for rank, a in enumerate(_pad_articles(articles, 10), 1):
+        title = _article_title(a)
+        body = _article_body(a)
+        source = _article_source(a)
+        text = f"{title} {body}".upper()
+        tickers = sorted(set(re.findall(r"\b[A-Z]{2,6}\b", text)))[:5]
+        items.append({
+            "rank": rank,
+            "title_th": title,
+            "summary_th": (
+                f"Fallback brief จาก {source}: {title}\n"
+                f"ประเด็นจากแหล่งข่าว: {body or 'ไม่มีเนื้อหาเพิ่มเติมจาก RSS'}\n"
+                "ใช้เป็น early-warning สำหรับ SET/THB/sector watch; ต้องตามด้วย desk review เมื่อโมเดลกลับมาใช้งานได้."
+            ),
+            "category": "SET/หุ้นไทย" if tickers else "เศรษฐกิจมหภาค",
+            "sentiment": "neutral",
+            "impact": "medium" if rank <= 3 else "low",
+            "time_horizon": "immediate",
+            "sectors": [],
+            "tickers": tickers,
+            "key_numbers": ["OpenRouter unavailable; deterministic fallback used"],
+            "watch_next": "ตรวจสอบ OpenRouter secret และต้นทางข่าว; fallback นี้ทำให้ workflow ส่ง brief ได้แม้ LLM ล่ม",
+            "source_name": source,
+            "url": _article_url(a),
+        })
+    return _validate_th(items)
+
 
 def _validate_th(items: Any) -> list[dict]:
     if not isinstance(items, list) or len(items) != 10:
@@ -399,7 +515,8 @@ def summarize_th_news(articles: list[dict]) -> tuple[list[dict], str]:
             last_err = e
             log.warning("model %s failed TH validation: %s", model, e)
             continue
-    raise RuntimeError(f"all models failed for th_news; last err: {last_err}")
+    log.error("all OpenRouter models failed for Thailand brief; using deterministic fallback; last err: %s", last_err)
+    return _fallback_th_items(articles), "deterministic-fallback/openrouter-unavailable"
 
 
 TH_EXEC_SYSTEM_PROMPT = (
@@ -461,7 +578,12 @@ def th_market_pulse_commentary(pulse_data: dict) -> tuple[str, str]:
             txt = re.sub(r"^```.*?\n", "", txt)
             txt = re.sub(r"\n```$", "", txt)
             return txt.strip(), model
-    raise RuntimeError("all models failed for th_market_pulse_commentary")
+    log.error("all OpenRouter models failed for Thai market pulse; using deterministic fallback")
+    return (
+        "OpenRouter unavailable; ส่ง fallback pulse จากข้อมูลดิบแทนเพื่อไม่ให้ workflow ล้มเหลว. "
+        "ตรวจ SET investor type, short-sale และ NVDR blocks ในไฟล์เต็มก่อนตัดสินใจ.",
+        "deterministic-fallback/openrouter-unavailable",
+    )
 
 
 def th_executive_summary(items: list[dict]) -> tuple[str, str]:
@@ -477,7 +599,9 @@ def th_executive_summary(items: list[dict]) -> tuple[str, str]:
             txt = re.sub(r"^```.*?\n", "", txt)
             txt = re.sub(r"\n```$", "", txt)
             return txt.strip(), model
-    raise RuntimeError("all models failed for th_executive_summary")
+    log.error("all OpenRouter models failed for Thailand executive summary; using deterministic fallback")
+    lead = items[0].get("title_th", "Thailand market monitor") if items else "Thailand market monitor"
+    return f"Fallback summary: {lead}. OpenRouter unavailable; top headlines are still shipped from source data for monitoring.", "deterministic-fallback/openrouter-unavailable"
 
 
 def executive_summary(items: list[dict]) -> tuple[str, str]:
@@ -493,4 +617,6 @@ def executive_summary(items: list[dict]) -> tuple[str, str]:
             txt = re.sub(r"^```.*?\n", "", txt)
             txt = re.sub(r"\n```$", "", txt)
             return txt.strip(), model
-    raise RuntimeError("all models failed for executive_summary")
+    log.error("all OpenRouter models failed for US executive summary; using deterministic fallback")
+    lead = items[0].get("title_th", "US market monitor") if items else "US market monitor"
+    return f"Fallback summary: {lead}. OpenRouter unavailable; top headlines are still shipped from source data for monitoring.", "deterministic-fallback/openrouter-unavailable"

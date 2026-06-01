@@ -273,15 +273,27 @@ def run() -> int:
             log.warning("feed %s failed: %s", name, e)
     log.info("fetched %d articles", len(articles))
     if not articles:
-        log.error("no Thai news fetched")
-        return 1
+        log.error("no Thai news fetched; continuing with outage fallback article")
+        articles = [sources.Article(
+            title="Thailand market source outage — no RSS/API articles fetched",
+            link=REPO_URL,
+            published=now_utc,
+            summary="All configured Thailand market sources returned no usable articles. The workflow is continuing so alerts and artifacts still publish.",
+            source_name="Daily Thailand Brief fallback",
+        )]
 
     # 2. score + dedupe + diversity-aware top-N
     articles = [a for a in articles if is_investor_relevant(a)]
     log.info("kept %d investor-relevant articles", len(articles))
     if not articles:
-        log.error("no investor-relevant Thai news fetched")
-        return 1
+        log.error("no investor-relevant Thai news fetched; continuing with filtered-source fallback article")
+        articles = [sources.Article(
+            title="Thailand market filter outage — no investor-relevant articles passed filters",
+            link=REPO_URL,
+            published=now_utc,
+            summary="Sources returned articles, but none passed the investor relevance filter. The workflow is continuing so alerts and artifacts still publish.",
+            source_name="Daily Thailand Brief fallback",
+        )]
     articles = score_th(articles)
     articles = classifier.dedupe(articles)
     top = classifier.top_n_with_diversity(

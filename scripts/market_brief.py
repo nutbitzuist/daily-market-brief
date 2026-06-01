@@ -122,8 +122,14 @@ def run() -> int:
         articles = sources.fetch_all(hours=24)
     log.info("fetched %d articles total", len(articles))
     if not articles:
-        log.error("no articles fetched")
-        return 1
+        log.error("no articles fetched; continuing with outage fallback article")
+        articles = [sources.Article(
+            title="US market source outage — no RSS/API articles fetched",
+            link=REPO_URL,
+            published=now_utc,
+            summary="All configured US market sources returned no usable articles. The workflow is continuing so alerts and artifacts still publish.",
+            source_name="Daily Market Brief fallback",
+        )]
 
     # 2. score + dedupe + top-N
     articles = classifier.score_articles(articles)
