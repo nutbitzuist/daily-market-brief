@@ -1,6 +1,6 @@
 ---
 date: 2026-06-01
-generated_at_utc: 2026-06-01T06:44:46Z
+generated_at_utc: 2026-06-01T06:47:51Z
 model_used: deterministic-fallback/openrouter-unavailable
 sources_count: 6
 aggregate_sentiment: {bullish: 0, bearish: 0, neutral: 10}
@@ -70,7 +70,7 @@ Fallback brief จาก WSJ Markets (Google News): Kevin Warsh Wants the Fed to
 | Sector-specific | neutral | low | immediate | Tech | — |
 
 Fallback brief จาก Financial Times Companies: AI and real GDP: how big and how fast?
-ประเด็นจากแหล่งข่าว: Plus more on the chip cycle Plus more on the chip cycle
+ประเด็นจากแหล่งข่าว: Title: AI and real GDP: how big and how fast? URL Source: https://www.ft.com/content/e9079a98-fcdb-4041-960c-cf84cf3e1b7c Published Time: 2026-06-01T05:30:08.372Z Markdown Content: # Subscribe to read [Accessibility help](https://www.ft.com/accessibility)[Skip to navigation](https://www.ft.com/content/e9079a98-fcdb-4041-960c-cf84cf3e1b7c#site-navigation)[Skip to main content](https://www.ft.com/content/e9079a98-fcdb-
 อ่านเป็น market-monitor item ก่อนเปิดพอร์ต: ใช้ headline/source เป็น trigger แล้วรอ desk review เพื่อสรุปผลต่อ sector และ risk.
 
 **📊 Key Numbers**
