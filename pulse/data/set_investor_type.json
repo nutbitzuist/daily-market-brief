@@ -1,5 +1,39 @@
 [
   {
+    "date": "2026-06-04T00:00:00+07:00",
+    "total_value_thb": 89750466243.28,
+    "investors": {
+      "institution": {
+        "buy_value_thb": 5189127857.87,
+        "sell_value_thb": 5413689434.74,
+        "net_value_thb": -224561576.8699999,
+        "percent_buy_value": 5.781728023344427,
+        "percent_sell_value": 6.031934608635358
+      },
+      "proprietary": {
+        "buy_value_thb": 6393348150.55,
+        "sell_value_thb": 5568204391.6,
+        "net_value_thb": 825143758.9499998,
+        "percent_buy_value": 7.12347068283748,
+        "percent_sell_value": 6.204095226097965
+      },
+      "foreign": {
+        "buy_value_thb": 47790290722.61,
+        "sell_value_thb": 49263814201.3,
+        "net_value_thb": -1473523478.6900024,
+        "percent_buy_value": 53.24795817000924,
+        "percent_sell_value": 54.88975853090746
+      },
+      "individual": {
+        "buy_value_thb": 30377699512.25,
+        "sell_value_thb": 29504758215.64,
+        "net_value_thb": 872941296.6100006,
+        "percent_buy_value": 33.84684312380885,
+        "percent_sell_value": 32.87421163435922
+      }
+    }
+  },
+  {
     "date": "2026-06-02T00:00:00+07:00",
     "total_value_thb": 93010912379.72,
     "investors": {
