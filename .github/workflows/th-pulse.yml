@@ -2,8 +2,9 @@ name: Daily Thai Market Pulse
 
 on:
   schedule:
-    # 11:00 UTC = 18:00 Asia/Bangkok, Mon-Fri (SET trading days only)
-    - cron: "0 11 * * 1-5"
+    # 10:30 UTC = 17:30 Asia/Bangkok, Mon-Fri (SET trading days only)
+    # Use :30 instead of top-of-hour to reduce GitHub Actions schedule delays.
+    - cron: "30 10 * * 1-5"
   workflow_dispatch: {}
 
 permissions:

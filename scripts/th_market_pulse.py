@@ -1,4 +1,4 @@
-"""Daily Thai Market Pulse — runs 18:00 Asia/Bangkok = 11:00 UTC, Mon-Fri.
+"""Daily Thai Market Pulse — runs 17:30 Asia/Bangkok = 10:30 UTC, Mon-Fri.
 
 Bundles 3 Thai-specific institutional positioning signals into one
 post-close digest:
