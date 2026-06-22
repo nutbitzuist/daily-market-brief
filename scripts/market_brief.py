@@ -109,6 +109,7 @@ def render_markdown(date_str: str, generated_at_utc: str, model_used: str,
 def run() -> int:
     dry_run = os.environ.get("DRY_RUN") == "1"
     limit = int(os.environ.get("LIMIT", "10"))
+    candidate_limit = int(os.environ.get("CANDIDATE_LIMIT", "25"))
     use_fixtures = os.environ.get("USE_FIXTURES") == "1"
 
     now_utc = datetime.now(timezone.utc)
@@ -131,10 +132,10 @@ def run() -> int:
             source_name="Daily Market Brief fallback",
         )]
 
-    # 2. score + dedupe + top-N
+    # 2. score + dedupe + diversity-aware candidate slate
     articles = classifier.score_articles(articles)
     articles = classifier.dedupe(articles)
-    top = classifier.top_n_with_diversity(articles, n=limit, max_per_source=2)
+    top = classifier.top_n_with_diversity(articles, n=max(limit, candidate_limit), max_per_source=2)
     log.info("selected top %d articles", len(top))
     if len(top) < limit:
         log.warning("only %d articles after filtering (wanted %d)", len(top), limit)
@@ -146,7 +147,7 @@ def run() -> int:
     while len(top) < 10:
         top.append(top[-1])
 
-    top_dicts = [a.to_dict() for a in top[:10]]
+    top_dicts = [a.to_dict() for a in top[:candidate_limit]]
 
     # 4. LLM summarize
     items, model_used = summarizer.summarize_articles(top_dicts)

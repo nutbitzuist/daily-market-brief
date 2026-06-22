@@ -35,8 +35,8 @@ AI_FEEDS: list[tuple[str, str]] = [
     ("TechCrunch AI", "https://techcrunch.com/category/artificial-intelligence/feed/"),
     ("Hugging Face Blog", "https://huggingface.co/blog/feed.xml"),
     # Frontier labs (via Google News proxy — direct RSS blocks data-center IPs)
-    ("OpenAI", "https://news.google.com/rss/search?q=site:openai.com&hl=en-US&gl=US&ceid=US:en"),
-    ("Anthropic", "https://news.google.com/rss/search?q=site:anthropic.com&hl=en-US&gl=US&ceid=US:en"),
+    ("OpenAI", "https://news.google.com/rss/search?q=site:openai.com+OR+%22OpenAI%22+GPT+OR+ChatGPT&hl=en-US&gl=US&ceid=US:en"),
+    ("Anthropic", "https://news.google.com/rss/search?q=site:anthropic.com+OR+%22Anthropic%22+Claude&hl=en-US&gl=US&ceid=US:en"),
     ("Google DeepMind", "https://news.google.com/rss/search?q=site:deepmind.google+OR+%22Google+DeepMind%22&hl=en-US&gl=US&ceid=US:en"),
     ("Google AI Blog", "https://news.google.com/rss/search?q=site:blog.google+AI&hl=en-US&gl=US&ceid=US:en"),
     ("Meta AI", "https://news.google.com/rss/search?q=site:ai.meta.com+OR+%22Meta+AI%22+model&hl=en-US&gl=US&ceid=US:en"),
@@ -47,6 +47,10 @@ AI_FEEDS: list[tuple[str, str]] = [
     # Hyperscaler enterprise AI
     ("Microsoft AI", "https://news.google.com/rss/search?q=%22Microsoft%22+AI+OR+Copilot+OR+Azure+model&hl=en-US&gl=US&ceid=US:en"),
     ("AWS AI", "https://news.google.com/rss/search?q=%22AWS%22+OR+%22Amazon%22+Bedrock+OR+Trainium+AI&hl=en-US&gl=US&ceid=US:en"),
+    ("Oracle / Datacenter AI", "https://news.google.com/rss/search?q=Oracle+AI+datacenter+OR+%22AI+data+center%22+power&hl=en-US&gl=US&ceid=US:en"),
+    ("Enterprise AI", "https://news.google.com/rss/search?q=enterprise+AI+agents+automation+Salesforce+ServiceNow+Palantir&hl=en-US&gl=US&ceid=US:en"),
+    ("Open Source AI", "https://news.google.com/rss/search?q=open+source+AI+model+Hugging+Face+Llama+Qwen+DeepSeek+Mistral&hl=en-US&gl=US&ceid=US:en"),
+    ("AI Regulation / Legal", "https://news.google.com/rss/search?q=AI+regulation+copyright+lawsuit+safety+policy+EU+US&hl=en-US&gl=US&ceid=US:en"),
     # Quantum
     ("Quantum Computing", "https://news.google.com/rss/search?q=quantum+computing+IBM+OR+Google+OR+IonQ+OR+PsiQuantum+OR+Quantinuum&hl=en-US&gl=US&ceid=US:en"),
     # Tier-1 financial press tech coverage
@@ -60,10 +64,25 @@ AI_FEEDS: list[tuple[str, str]] = [
 ]
 
 AI_KEYWORDS = [
-    "ai", "llm", "gpt", "claude", "gemini", "model", "agent",
-    "anthropic", "openai", "deepmind", "neural", "transformer",
-    "fine-tune", "rag", "diffusion", "multimodal",
+    "ai", "artificial intelligence", "llm", "gpt", "claude", "gemini", "grok",
+    "frontier model", "reasoning model", "agent", "agentic", "anthropic",
+    "openai", "deepmind", "meta ai", "mistral", "deepseek", "qwen",
+    "nvidia", "gpu", "blackwell", "tsmc", "broadcom", "trainium", "tpu",
+    "data center", "datacenter", "inference", "fine-tune", "rag", "multimodal",
+    "robotics", "ai regulation", "copyright", "open-source model",
 ]
+
+AI_COMPANIES = (
+    "openai", "anthropic", "google", "deepmind", "meta", "xai", "grok", "mistral",
+    "deepseek", "qwen", "nvidia", "amd", "tsmc", "broadcom", "microsoft",
+    "amazon", "aws", "oracle", "salesforce", "hugging face",
+)
+
+AI_PRIORITY_SOURCES = ("Reuters", "Bloomberg", "FT Tech", "TechCrunch", "The Verge", "Wired", "Microsoft AI", "Google AI", "NVIDIA")
+AI_EXCLUDE_TERMS = (
+    "forum", "fails to", "error", "driver", "firmware", "musician", "song", "movie",
+    "coupon", "sale", "deal", "stock image", "prompt collection", "how to use",
+)
 
 
 # ---------- fetch + score ----------
@@ -82,8 +101,12 @@ def fetch_all_ai(hours: int = 24) -> list[sources.Article]:
 def score_ai(articles: list[sources.Article]) -> list[sources.Article]:
     now = datetime.now(timezone.utc)
     for a in articles:
-        text = f"{a.title}\n{a.summary}".lower()
+        text = f"{a.source_name}\n{a.title}\n{a.summary}".lower()
         score = sum(2 for kw in AI_KEYWORDS if kw in text)
+        if any(src in a.source_name for src in AI_PRIORITY_SOURCES):
+            score += 3
+        if any(term in text for term in AI_EXCLUDE_TERMS):
+            score -= 8
         hours = (now - a.published).total_seconds() / 3600
         if hours <= 6:
             score += 3
@@ -98,13 +121,47 @@ def score_ai(articles: list[sources.Article]) -> list[sources.Article]:
 
 def dedupe_by_url(articles: list[sources.Article]) -> list[sources.Article]:
     seen: set[str] = set()
+    title_seen: set[str] = set()
     out: list[sources.Article] = []
     for a in sorted(articles, key=lambda x: x.score, reverse=True):
-        if a.link in seen:
+        norm_title = " ".join(a.title.lower().split())
+        if a.link in seen or norm_title in title_seen:
             continue
         seen.add(a.link)
+        title_seen.add(norm_title)
         out.append(a)
     return out
+
+
+def _company_key(a: sources.Article) -> str:
+    text = f"{a.source_name} {a.title} {a.summary}".lower()
+    for c in AI_COMPANIES:
+        if c in text:
+            return c
+    return a.source_name.lower()
+
+
+def select_ai_candidates(articles: list[sources.Article], n: int, max_per_source: int = 2, max_per_company: int = 2) -> list[sources.Article]:
+    picked: list[sources.Article] = []
+    source_counts: dict[str, int] = {}
+    company_counts: dict[str, int] = {}
+    for a in sorted(articles, key=lambda x: x.score, reverse=True):
+        company = _company_key(a)
+        if source_counts.get(a.source_name, 0) >= max_per_source:
+            continue
+        if company_counts.get(company, 0) >= max_per_company:
+            continue
+        picked.append(a)
+        source_counts[a.source_name] = source_counts.get(a.source_name, 0) + 1
+        company_counts[company] = company_counts.get(company, 0) + 1
+        if len(picked) >= n:
+            return picked
+    for a in sorted(articles, key=lambda x: x.score, reverse=True):
+        if a not in picked:
+            picked.append(a)
+            if len(picked) >= n:
+                break
+    return picked
 
 
 # ---------- render ----------
@@ -173,6 +230,7 @@ def send_ai_digest(date_str: str, items: list[dict], repo_url: str) -> None:
 def run() -> int:
     dry_run = os.environ.get("DRY_RUN") == "1"
     limit = int(os.environ.get("LIMIT", "5"))
+    candidate_limit = int(os.environ.get("CANDIDATE_LIMIT", "25"))
 
     now_utc = datetime.now(timezone.utc)
     date_str = now_utc.strftime("%Y-%m-%d")
@@ -191,15 +249,26 @@ def run() -> int:
         )]
 
     articles = score_ai(articles)
+    articles = [a for a in articles if a.score > 0]
+    if not articles:
+        log.error("no scored AI articles after filters; continuing with filtered-source fallback article")
+        articles = [sources.Article(
+            title="AI news filter outage — no scored articles passed filters",
+            link=REPO_URL,
+            published=now_utc,
+            summary="Sources returned articles, but none passed the AI relevance filters. The workflow is continuing so alerts and artifacts still publish.",
+            source_name="Daily AI News fallback",
+        )]
+        articles = score_ai(articles)
     articles = dedupe_by_url(articles)
-    top = articles[:limit]
-    log.info("selected top %d", len(top))
+    top = select_ai_candidates(articles, n=max(limit, candidate_limit), max_per_source=2, max_per_company=2)
+    log.info("selected %d AI candidates for LLM selection", len(top))
 
     top = sources.enrich_all(top)
 
     while len(top) < 5:
         top.append(top[-1])
-    top_dicts = [a.to_dict() for a in top[:5]]
+    top_dicts = [a.to_dict() for a in top[:candidate_limit]]
 
     items, model_used = summarizer.summarize_ai_news(top_dicts)
 

@@ -10,13 +10,16 @@ from scripts.sources import Article
 
 TIER1 = [
     "fed", "fomc", "rate cut", "rate hike", "powell", "cpi", "pce", "nfp",
-    "jobs report", "gdp", "recession", "earnings", "guidance", "s&p 500",
-    "nasdaq", "dow", "tariff", "treasury yield",
+    "jobs report", "payrolls", "unemployment", "gdp", "recession", "earnings",
+    "guidance", "s&p 500", "nasdaq", "dow", "tariff", "treasury yield",
+    "white house", "congress", "supreme court", "iran", "china", "russia",
+    "oil", "brent", "defense", "sanctions", "shutdown", "debt ceiling",
 ]
 TIER2 = [
-    "inflation", "unemployment", "retail sales", "pmi", "ism",
-    "consumer confidence", "ipo", "merger", "acquisition", "sec",
-    "antitrust", "buyback", "dividend",
+    "inflation", "retail sales", "pmi", "ism", "consumer confidence",
+    "housing", "mortgage", "credit", "delinquency", "ipo", "merger",
+    "acquisition", "sec", "antitrust", "regulation", "budget", "tax",
+    "buyback", "dividend", "ai capex", "data center", "semiconductor",
 ]
 TIER3 = [
     "opec", "oil", "gold", "bond", "tech", "financials", "energy",
@@ -25,6 +28,11 @@ TIER3 = [
 ]
 
 TICKER_RE = re.compile(r"\$([A-Z]{1,5})\b")
+
+LOW_SIGNAL_TERMS = (
+    "watch list", "analyst upgrades", "price target", "motley fool", "zacks",
+    "best stocks", "dividend stocks to buy", "crypto", "bitcoin",
+)
 
 SECTOR_KEYWORDS = {
     "Tech": ["chip", "semiconductor", "software", "cloud", "ai", "artificial intelligence", "data center"],
@@ -64,6 +72,8 @@ def detect_sectors(text: str) -> list[str]:
 def _keyword_score(text: str) -> float:
     low = text.lower()
     score = 0.0
+    if any(term in low for term in LOW_SIGNAL_TERMS):
+        score -= 4
     for kw in TIER1:
         if kw in low:
             score += 3
@@ -88,7 +98,7 @@ def _recency_bonus(pub: datetime, now: datetime) -> float:
 
 
 # Priority sources get a flat scoring boost so they tend to surface in top 10.
-PRIORITY_SOURCES = ("Reuters", "Bloomberg", "CNBC", "WSJ", "Financial Times")
+PRIORITY_SOURCES = ("Reuters", "Bloomberg", "CNBC", "WSJ", "Financial Times", "AP", "Federal Reserve", "US Treasury", "BLS", "SEC")
 PRIORITY_BONUS = 4.0
 
 

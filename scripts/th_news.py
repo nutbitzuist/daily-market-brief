@@ -42,6 +42,10 @@ TH_FEEDS: list[tuple[str, str]] = [
      "https://news.google.com/rss/search?q=%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%AB%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%97%E0%B8%A2+SET&hl=th&gl=TH&ceid=TH:th"),
     ("Thai Policy Market Impact (Google News)",
      "https://news.google.com/rss/search?q=%E0%B8%84%E0%B8%A3%E0%B8%A1+%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B8%A9%E0%B8%90%E0%B8%81%E0%B8%B4%E0%B8%88+%E0%B8%AB%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%97%E0%B8%A2&hl=th&gl=TH&ceid=TH:th"),
+    ("Thai Politics Economy (Google News)",
+     "https://news.google.com/rss/search?q=%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%9A%E0%B8%B2%E0%B8%A5+%E0%B8%AA%E0%B8%A0%E0%B8%B2+%E0%B8%99%E0%B9%82%E0%B8%A2%E0%B8%9A%E0%B8%B2%E0%B8%A2+%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B8%A9%E0%B8%90%E0%B8%81%E0%B8%B4%E0%B8%88&hl=th&gl=TH&ceid=TH:th"),
+    ("Thai Household Economy (Google News)",
+     "https://news.google.com/rss/search?q=%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%B5%E0%B8%9E+%E0%B8%AB%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99+%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B9%84%E0%B8%9F+%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%A3%E0%B8%87&hl=th&gl=TH&ceid=TH:th"),
     ("Thai Macro Data (Google News)",
      "https://news.google.com/rss/search?q=Thailand+GDP+inflation+exports+tourism+baht+SET&hl=en&gl=TH&ceid=TH:en"),
     ("NESDC Thai Macro (Google News)",
@@ -76,7 +80,7 @@ TH_FEEDS: list[tuple[str, str]] = [
 TIER1 = ("ธปท.", "SET News", "กระทรวงการคลัง", "BOT MPC", "SEC SET")
 TIER2 = ("Reuters", "Nikkei", "Bangkok Post", "The Nation", "NESDC",
          "ประชาชาติ", "กรุงเทพธุรกิจ", "ฐานเศรษฐกิจ",
-         "Thai Policy", "Thai Macro", "Thai Tourism", "Thai Energy",
+         "Thai Policy", "Thai Politics", "Thai Household", "Thai Macro", "Thai Tourism", "Thai Energy",
          "Thai Banking", "Thai Earnings")
 TIER3 = ("PostToday", "MoneyChannel")
 
@@ -91,6 +95,7 @@ EXCLUDE_TERMS = (
     "dr ใหม่", "เข้าเทรด", "routine filing",
     "ร้านอาหาร", "ทุเรียน", "ผลไม้", "พืชมงคล", "รถพุ่มพวง",
     "vip postpaid", "premium customers",
+    "แนะหุ้น", "หุ้นเด่น", "เก็งกำไร", "เทคนิค", "technical",
 )
 
 GENERIC_SET_TERMS = (
@@ -107,6 +112,8 @@ HIGH_VALUE_TERMS = (
     "มาตรการ", "ภาษี", "tax", "คลัง", "mof", "กลต", "sec",
     "set", "short selling", "program trading", "earnings", "กำไร",
     "guidance", "dividend", "ปันผล", "m&a", "ควบรวม", "ลงทุน",
+    "การเมือง", "รัฐบาล", "สภา", "นายก", "ครม", "ค่าไฟ", "ค่าแรง",
+    "หนี้ครัวเรือน", "อสังหา", "บ้าน", "รถยนต์", "บริโภค", "ค้าปลีก",
     "capex", "ptt", "pttep", "aot", "cpall", "kbanks", "kbank",
     "scb", "bbl", "ktb", "advanc", "true", "delta", "bdms",
 )
@@ -143,6 +150,8 @@ def score_th(articles: list[sources.Article]) -> list[sources.Article]:
         score = _source_score(a.source_name)
         text = _article_text(a)
         score += sum(1.5 for term in HIGH_VALUE_TERMS if term in text)
+        if any(term in text for term in ("แนะหุ้น", "หุ้นเด่น", "ลุ้น set", "เป้า set", "technical")):
+            score -= 4
         hours = (now - a.published).total_seconds() / 3600
         if hours <= 6:
             score += 3

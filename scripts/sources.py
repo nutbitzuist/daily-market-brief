@@ -19,8 +19,8 @@ USER_AGENT = (
     "Mozilla/5.0 (compatible; MarketBriefBot/1.0; "
     "+https://github.com/nutbitzuist/daily-market-brief)"
 )
-HTTP_TIMEOUT = 15
-HTTP_RETRIES = 2
+HTTP_TIMEOUT = int(os.environ.get("HTTP_TIMEOUT", "8"))
+HTTP_RETRIES = int(os.environ.get("HTTP_RETRIES", "1"))
 
 FEEDS: list[tuple[str, str]] = [
     ("Reuters Business", "https://feeds.reuters.com/reuters/businessNews"),
@@ -39,6 +39,14 @@ FEEDS: list[tuple[str, str]] = [
     ("US Treasury News", "https://home.treasury.gov/news/press-releases/feed"),
     ("BLS Latest", "https://www.bls.gov/feed/bls_latest.rss"),
     ("SEC Press Releases", "https://www.sec.gov/news/pressreleases.rss"),
+    # Broader US news via Google News RSS, kept query-specific so the brief is not just markets.
+    ("AP US Economy", "https://news.google.com/rss/search?q=site:apnews.com+US+economy+OR+inflation+OR+jobs+OR+Federal+Reserve&hl=en-US&gl=US&ceid=US:en"),
+    ("Reuters US Politics (Google News)", "https://news.google.com/rss/search?q=site:reuters.com+US+White+House+Congress+policy+economy&hl=en-US&gl=US&ceid=US:en"),
+    ("NYT US Business (Google News)", "https://news.google.com/rss/search?q=site:nytimes.com+US+business+economy+markets&hl=en-US&gl=US&ceid=US:en"),
+    ("Axios US Policy", "https://news.google.com/rss/search?q=site:axios.com+US+policy+economy+Congress+White+House&hl=en-US&gl=US&ceid=US:en"),
+    ("Politico Economy Policy", "https://news.google.com/rss/search?q=site:politico.com+economy+Federal+Reserve+Congress+White+House&hl=en-US&gl=US&ceid=US:en"),
+    ("US Geopolitics", "https://news.google.com/rss/search?q=United+States+Iran+China+Russia+oil+shipping+geopolitics&hl=en-US&gl=US&ceid=US:en"),
+    ("US Consumer Housing Credit", "https://news.google.com/rss/search?q=US+consumer+housing+credit+retail+sales+mortgage+delinquency&hl=en-US&gl=US&ceid=US:en"),
 ]
 
 
