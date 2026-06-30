@@ -11,6 +11,18 @@
    - `TELEGRAM_CHAT_ID` — ส่งข้อความใด ๆ ให้บอท แล้วเรียก `https://api.telegram.org/bot<TOKEN>/getUpdates` ดู `chat.id`
 3. ไปที่แท็บ **Actions** ของ repo แล้วกด **Enable workflows**
 
+## Explicit source policy
+
+Morning workflows now make their source universe visible in both the Markdown artifact and Telegram digest.
+
+| Workflow | Bangkok time | Primary sources |
+|---|---:|---|
+| AI News | 04:00 | Frontier labs, AI infra/chips, open-source AI, Reuters/Bloomberg/FT/TechCrunch/The Verge/MIT/Wired, AI policy/legal |
+| US Market Brief | 06:00 | CNBC, ZeroHedge, WSJ, FT, plus Fed/Treasury/BLS/SEC for official data/policy |
+| Thailand Brief | 06:30 | ประชาชาติธุรกิจ, กรุงเทพธุรกิจ, RYT9, InfoQuest, plus BoT/SET/MoF/SEC when market-moving |
+
+Note: Nut's X list from the Google Doc is part of Jack's manual/scouting desk. GitHub Actions do not currently ingest X directly because the runner has no X API/xAI search integration wired in.
+
 ## Schedule rationale
 
 - Cron `0 23 * * *` (UTC) = **06:00 น. ตามเวลาไทย** ทุกวัน

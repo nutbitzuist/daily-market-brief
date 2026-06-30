@@ -28,6 +28,7 @@ FEEDS: list[tuple[str, str]] = [
     ("CNBC Top News", "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"),
     ("CNBC Markets", "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839135"),
     ("CNBC Economy", "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258"),
+    ("ZeroHedge", "https://cms.zerohedge.com/fullrss2.xml"),
     ("MarketWatch Top Stories", "https://feeds.content.dowjones.io/public/rss/mw_topstories"),
     ("MarketWatch Real-time Headlines", "https://feeds.content.dowjones.io/public/rss/mw_realtimeheadlines"),
     ("Yahoo Finance", "https://finance.yahoo.com/news/rssindex"),

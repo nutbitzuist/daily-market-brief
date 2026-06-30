@@ -19,7 +19,7 @@ ROOT = Path(__file__).resolve().parent.parent
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from scripts import notify, sources, summarizer  # noqa: E402
+from scripts import notify, source_policy, sources, summarizer  # noqa: E402
 
 logging.basicConfig(
     level=os.environ.get("LOG_LEVEL", "INFO"),
@@ -178,6 +178,7 @@ def render_md(date_str: str, generated_at_utc: str, model_used: str,
     lines.append("")
     lines.append(f"# 📰 AI News {date_str}")
     lines.append("")
+    lines.append(source_policy.markdown_for("ai"))
     for i, it in enumerate(items, 1):
         lines.append(f"## {i}. {it.get('title_th','')}")
         lines.append("")
@@ -196,6 +197,7 @@ def build_ai_digest(date_str: str, items: list[dict], repo_url: str) -> str:
     esc = notify.escape_mdv2
     lines: list[str] = []
     lines.append(f"📰 *AI News — {esc(date_str)}*")
+    lines.append(esc(source_policy.one_line("ai")))
     lines.append("")
     for i, it in enumerate(items, 1):
         title = esc(it.get("title_th", ""))

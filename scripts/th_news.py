@@ -18,7 +18,7 @@ ROOT = Path(__file__).resolve().parent.parent
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from scripts import classifier, notify, sources, summarizer  # noqa: E402
+from scripts import classifier, notify, source_policy, sources, summarizer  # noqa: E402
 
 logging.basicConfig(
     level=os.environ.get("LOG_LEVEL", "INFO"),
@@ -35,6 +35,9 @@ TH_FEEDS: list[tuple[str, str]] = [
     ("ประชาชาติธุรกิจ Economy", "https://www.prachachat.net/economy/feed"),
     ("กรุงเทพธุรกิจ Business", "https://www.bangkokbiznews.com/rss/feed/business.xml"),
     ("กรุงเทพธุรกิจ Finance", "https://www.bangkokbiznews.com/rss/feed/finance.xml"),
+    ("RYT9 Economy (Google News)",
+     "https://news.google.com/rss/search?q=site:ryt9.com+%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B8%A9%E0%B8%90%E0%B8%81%E0%B8%B4%E0%B8%88+OR+%E0%B8%98%E0%B8%B8%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88+OR+%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99&hl=th&gl=TH&ceid=TH:th"),
+    ("InfoQuest", "https://www.infoquest.co.th/feed"),
     ("ฐานเศรษฐกิจ Finance", "https://www.thansettakij.com/rss/finance"),
     ("ฐานเศรษฐกิจ Economy", "https://www.thansettakij.com/rss/economy"),
     ("PostToday Market", "https://www.posttoday.com/rss/market.xml"),
@@ -184,6 +187,7 @@ def render_md(date_str: str, generated_at_utc: str, model_used: str,
     lines.append("")
     lines.append(f"# 🇹🇭 Thailand Brief — {date_str}")
     lines.append("")
+    lines.append(source_policy.markdown_for("thailand"))
     lines.append(exec_summary.strip())
     lines.append("")
 
@@ -227,6 +231,7 @@ def build_th_digest(date_str: str, items: list[dict], exec_summary: str,
     esc = notify.escape_mdv2
     lines: list[str] = []
     lines.append(f"🇹🇭 *Thailand Brief — {esc(date_str)}*")
+    lines.append(esc(source_policy.one_line("thailand")))
     lines.append("")
     if exec_summary.strip():
         lines.append(esc(exec_summary.strip()))

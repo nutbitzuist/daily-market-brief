@@ -9,6 +9,8 @@ from typing import Iterable
 
 import requests
 
+from scripts import source_policy
+
 log = logging.getLogger(__name__)
 
 TG_API = "https://api.telegram.org/bot{token}/sendMessage"
@@ -78,6 +80,7 @@ def build_digest(date_str: str, items: list[dict], aggregate: dict,
                  repo_url: str, exec_summary: str = "") -> str:
     lines: list[str] = []
     lines.append(f"📈 *US Market Brief — {escape_mdv2(date_str)}*")
+    lines.append(escape_mdv2(source_policy.one_line("us")))
     lines.append("")
 
     if exec_summary.strip():

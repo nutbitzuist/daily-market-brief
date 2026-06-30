@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parent.parent
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from scripts import classifier, notify, sources, summarizer  # noqa: E402
+from scripts import classifier, notify, source_policy, sources, summarizer  # noqa: E402
 
 logging.basicConfig(
     level=os.environ.get("LOG_LEVEL", "INFO"),
@@ -73,6 +73,7 @@ def render_markdown(date_str: str, generated_at_utc: str, model_used: str,
 
     md = [yaml_fm]
     md.append(f"# 📈 US Market Brief — {date_str}\n")
+    md.append(source_policy.markdown_for("us"))
     md.append(exec_summary.strip() + "\n")
 
     for it in sorted(items, key=lambda x: x.get("rank", 99)):
