@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Silent watchdog for the daily X morning Telegram delivery.
+"""Silent watchdog for the twice-daily X intelligence delivery.
 
 Empty stdout means healthy. A concise stdout alert is delivered to Nut by Hermes cron.
 """
@@ -9,7 +9,7 @@ import json
 import os
 import subprocess
 import sys
-from datetime import datetime
+from datetime import datetime, time
 from zoneinfo import ZoneInfo
 
 REPO = "nutbitzuist/daily-market-brief"
@@ -32,7 +32,14 @@ def alert(message: str) -> int:
 
 
 def main() -> int:
-    date_bkk = os.environ.get("CHECK_DATE_BKK") or datetime.now(BANGKOK).date().isoformat()
+    now_bkk = datetime.now(BANGKOK)
+    date_bkk = os.environ.get("CHECK_DATE_BKK") or now_bkk.date().isoformat()
+    forced_slot = os.environ.get("CHECK_SLOT")
+    slot = forced_slot or ("morning" if now_bkk.hour < 12 else "evening")
+    slot_date = datetime.strptime(date_bkk, "%Y-%m-%d").date()
+    slot_start = datetime.combine(
+        slot_date, time(5, 45) if slot == "morning" else time(17, 45), BANGKOK
+    )
     result = gh(
         "run", "list", "-R", REPO,
         "--workflow", WORKFLOW,
@@ -54,19 +61,20 @@ def main() -> int:
             created = datetime.fromisoformat(run["createdAt"].replace("Z", "+00:00"))
         except (KeyError, ValueError):
             continue
-        if created.astimezone(BANGKOK).date().isoformat() == date_bkk:
+        created_bkk = created.astimezone(BANGKOK)
+        if created_bkk.date().isoformat() == date_bkk and created_bkk >= slot_start:
             todays_runs.append(run)
 
     if not todays_runs:
-        return alert(f"ยังไม่พบงานส่งข่าววันที่ {date_bkk}")
+        return alert(f"ยังไม่พบงานรอบ {slot} วันที่ {date_bkk}")
 
     latest = todays_runs[0]
     if latest.get("status") != "completed":
-        return alert(f"งานวันที่ {date_bkk} ยังทำไม่เสร็จหลังเวลาเป้าหมาย")
+        return alert(f"งานรอบ {slot} วันที่ {date_bkk} ยังทำไม่เสร็จ")
     if latest.get("conclusion") != "success":
-        return alert(f"ส่งข่าววันที่ {date_bkk} ไม่สำเร็จ — Jax ต้องซ่อมและรันใหม่")
+        return alert(f"ส่งข่าวรอบ {slot} วันที่ {date_bkk} ไม่สำเร็จ — Jax ต้องซ่อมและรันใหม่")
 
-    artifact = gh("api", f"repos/{REPO}/contents/x-digests/{date_bkk}.md")
+    artifact = gh("api", f"repos/{REPO}/contents/x-digests/{date_bkk}-{slot}.md")
     if artifact.returncode != 0:
         return alert(f"ส่งสำเร็จแต่ไม่พบไฟล์ยืนยันวันที่ {date_bkk}")
 

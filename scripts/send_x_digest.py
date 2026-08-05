@@ -1,4 +1,4 @@
-"""Send a pre-built plain-text X news digest to the configured Telegram group.
+"""Send a pre-built plain-text X intelligence brief to the configured Telegram group.
 
 The workflow passes UTF-8 content as base64 so Telegram credentials remain in
 GitHub Secrets and multiline dispatch inputs do not get mangled.

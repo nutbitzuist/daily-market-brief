@@ -1,4 +1,4 @@
-name: Send X Morning News
+name: Send X Intelligence Brief
 
 on:
   workflow_dispatch:
@@ -11,6 +11,13 @@ on:
         description: Bangkok date (YYYY-MM-DD)
         required: true
         type: string
+      slot:
+        description: Delivery slot (morning or evening)
+        required: true
+        type: choice
+        options:
+          - morning
+          - evening
       sources_b64:
         description: Base64-encoded Markdown source/audit packet
         required: true
@@ -23,11 +30,11 @@ env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 concurrency:
-  group: x-morning-news-${{ inputs.date_bkk }}
+  group: x-intelligence-${{ inputs.date_bkk }}-${{ inputs.slot }}
   cancel-in-progress: false
 
 jobs:
-  send-x-morning-news:
+  send-x-intelligence:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
@@ -47,8 +54,8 @@ jobs:
         env:
           DIGEST_B64: ${{ inputs.digest_b64 }}
           SOURCES_B64: ${{ inputs.sources_b64 }}
-          ARCHIVE_PATH: x-digests/${{ inputs.date_bkk }}.md
-          SOURCE_ARCHIVE_PATH: x-digests/sources/${{ inputs.date_bkk }}.md
+          ARCHIVE_PATH: x-digests/${{ inputs.date_bkk }}-${{ inputs.slot }}.md
+          SOURCE_ARCHIVE_PATH: x-digests/sources/${{ inputs.date_bkk }}-${{ inputs.slot }}.md
           EXPECTED_CHAT_TITLE: Daily news update
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
@@ -60,7 +67,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add x-digests/
           git diff --staged --quiet && exit 0
-          git commit -m "🐦 X morning news ${{ inputs.date_bkk }}"
+          git commit -m "🐦 X intelligence ${{ inputs.date_bkk }} ${{ inputs.slot }}"
           for i in 1 2 3 4 5; do
             git pull --rebase origin main && git push && exit 0
             echo "push attempt $i failed, retrying..."
