@@ -96,7 +96,7 @@ def main() -> int:
     sources_b64 = os.environ.get("SOURCES_B64", "")
     token = os.environ.get("TELEGRAM_BOT_TOKEN", "")
     chat_id = os.environ.get("TELEGRAM_CHAT_ID", "")
-    expected_title = os.environ.get("EXPECTED_CHAT_TITLE", "Daily News Update")
+    expected_title = os.environ.get("EXPECTED_CHAT_TITLE", "Daily news update")
     archive_path = os.environ.get("ARCHIVE_PATH", "")
     source_archive_path = os.environ.get("SOURCE_ARCHIVE_PATH", "")
 
