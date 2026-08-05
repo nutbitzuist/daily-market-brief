@@ -67,7 +67,20 @@ def telegram_call(token: str, method: str, payload: dict) -> dict:
     return body
 
 
-def send_digest(text: str, token: str, chat_id: str, expected_title: str) -> list[int]:
+def send_digest(
+    text: str,
+    token: str,
+    chat_id: str,
+    expected_title: str,
+    expected_bot: str,
+) -> list[int]:
+    bot = telegram_call(token, "getMe", {})["result"]
+    actual_bot = str(bot.get("username", "")).lower()
+    if expected_bot and actual_bot != expected_bot.lstrip("@").lower():
+        raise RuntimeError(
+            f"Telegram bot mismatch: expected '@{expected_bot.lstrip('@')}', got '@{actual_bot}'"
+        )
+
     chat = telegram_call(token, "getChat", {"chat_id": chat_id})["result"]
     actual_title = (chat.get("title") or "").strip()
     if expected_title and actual_title != expected_title:
@@ -87,7 +100,7 @@ def send_digest(text: str, token: str, chat_id: str, expected_title: str) -> lis
             },
         )["result"]
         message_ids.append(int(result["message_id"]))
-    print(json.dumps({"chat_title": actual_title, "chunks_sent": len(message_ids)}))
+    print(json.dumps({"bot": f"@{actual_bot}", "chat_title": actual_title, "chunks_sent": len(message_ids)}))
     return message_ids
 
 
@@ -97,6 +110,7 @@ def main() -> int:
     token = os.environ.get("TELEGRAM_BOT_TOKEN", "")
     chat_id = os.environ.get("TELEGRAM_CHAT_ID", "")
     expected_title = os.environ.get("EXPECTED_CHAT_TITLE", "Daily news update")
+    expected_bot = os.environ.get("EXPECTED_BOT_USERNAME", "nutdailynewsbot")
     archive_path = os.environ.get("ARCHIVE_PATH", "")
     source_archive_path = os.environ.get("SOURCE_ARCHIVE_PATH", "")
 
@@ -119,7 +133,7 @@ def main() -> int:
     if not token or not chat_id:
         raise RuntimeError("TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID are required")
 
-    send_digest(text, token, chat_id, expected_title)
+    send_digest(text, token, chat_id, expected_title, expected_bot)
     return 0
 
 

@@ -57,6 +57,7 @@ jobs:
           ARCHIVE_PATH: x-digests/${{ inputs.date_bkk }}-${{ inputs.slot }}.md
           SOURCE_ARCHIVE_PATH: x-digests/sources/${{ inputs.date_bkk }}-${{ inputs.slot }}.md
           EXPECTED_CHAT_TITLE: Daily news update
+          EXPECTED_BOT_USERNAME: nutdailynewsbot
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python scripts/send_x_digest.py
