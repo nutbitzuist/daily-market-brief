@@ -12,12 +12,14 @@ on:
         required: true
         type: string
       slot:
-        description: Delivery slot (morning or evening)
+        description: Investment brief slot
         required: true
         type: choice
         options:
-          - morning
-          - evening
+          - open-0500
+          - thai-am-1030
+          - thai-close-1500
+          - us-open-1930
       sources_b64:
         description: Base64-encoded Markdown source/audit packet
         required: true

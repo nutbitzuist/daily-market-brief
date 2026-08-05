@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Silent watchdog for the twice-daily X intelligence delivery.
+"""Silent watchdog for the four-times-daily X investment delivery.
 
 Empty stdout means healthy. A concise stdout alert is delivered to Nut by Hermes cron.
 """
@@ -35,11 +35,27 @@ def main() -> int:
     now_bkk = datetime.now(BANGKOK)
     date_bkk = os.environ.get("CHECK_DATE_BKK") or now_bkk.date().isoformat()
     forced_slot = os.environ.get("CHECK_SLOT")
-    slot = forced_slot or ("morning" if now_bkk.hour < 12 else "evening")
+    slot_starts = {
+        "open-0500": time(4, 45),
+        "thai-am-1030": time(10, 15),
+        "thai-close-1500": time(14, 45),
+        "us-open-1930": time(19, 15),
+    }
+    if forced_slot:
+        if forced_slot not in slot_starts:
+            return alert(f"invalid CHECK_SLOT {forced_slot!r}")
+        slot = forced_slot
+    elif now_bkk.hour < 8:
+        slot = "open-0500"
+    elif now_bkk.hour < 13:
+        slot = "thai-am-1030"
+    elif now_bkk.hour < 17:
+        slot = "thai-close-1500"
+    else:
+        slot = "us-open-1930"
+    start_time = slot_starts[slot]
     slot_date = datetime.strptime(date_bkk, "%Y-%m-%d").date()
-    slot_start = datetime.combine(
-        slot_date, time(5, 45) if slot == "morning" else time(17, 45), BANGKOK
-    )
+    slot_start = datetime.combine(slot_date, start_time, BANGKOK)
     result = gh(
         "run", "list", "-R", REPO,
         "--workflow", WORKFLOW,
