@@ -27,7 +27,7 @@ def gh(*args: str) -> subprocess.CompletedProcess[str]:
 
 
 def alert(message: str) -> int:
-    print(f"⚠️ X morning news: {message}")
+    print(f"⚠️ X Intelligence Brief: {message}")
     return 0
 
 
