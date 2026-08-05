@@ -11,6 +11,10 @@ on:
         description: Bangkok date (YYYY-MM-DD)
         required: true
         type: string
+      sources_b64:
+        description: Base64-encoded Markdown source/audit packet
+        required: true
+        type: string
 
 permissions:
   contents: write
@@ -42,7 +46,9 @@ jobs:
       - name: Archive and send verified Telegram digest
         env:
           DIGEST_B64: ${{ inputs.digest_b64 }}
+          SOURCES_B64: ${{ inputs.sources_b64 }}
           ARCHIVE_PATH: x-digests/${{ inputs.date_bkk }}.md
+          SOURCE_ARCHIVE_PATH: x-digests/sources/${{ inputs.date_bkk }}.md
           EXPECTED_CHAT_TITLE: Daily News Update
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}

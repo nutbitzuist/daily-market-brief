@@ -93,16 +93,25 @@ def send_digest(text: str, token: str, chat_id: str, expected_title: str) -> lis
 
 def main() -> int:
     digest_b64 = os.environ.get("DIGEST_B64", "")
+    sources_b64 = os.environ.get("SOURCES_B64", "")
     token = os.environ.get("TELEGRAM_BOT_TOKEN", "")
     chat_id = os.environ.get("TELEGRAM_CHAT_ID", "")
     expected_title = os.environ.get("EXPECTED_CHAT_TITLE", "Daily News Update")
     archive_path = os.environ.get("ARCHIVE_PATH", "")
+    source_archive_path = os.environ.get("SOURCE_ARCHIVE_PATH", "")
 
     text = decode_digest(digest_b64)
     if archive_path:
         path = Path(archive_path)
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_text(text + "\n", encoding="utf-8")
+    if source_archive_path:
+        if not sources_b64:
+            raise ValueError("SOURCES_B64 is required when SOURCE_ARCHIVE_PATH is set")
+        source_text = decode_digest(sources_b64)
+        source_path = Path(source_archive_path)
+        source_path.parent.mkdir(parents=True, exist_ok=True)
+        source_path.write_text(source_text + "\n", encoding="utf-8")
 
     if os.environ.get("DRY_RUN") == "1":
         print(json.dumps({"dry_run": True, "chars": len(text), "chunks": len(chunk_plain_text(text))}))
