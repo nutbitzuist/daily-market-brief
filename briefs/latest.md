@@ -1,10 +1,10 @@
 ---
 date: 2026-08-07
-generated_at_utc: 2026-08-07T00:47:28Z
+generated_at_utc: 2026-08-07T23:13:43Z
 model_used: x-ai/grok-4.3
-sources_count: 12
-aggregate_sentiment: {bullish: 1, bearish: 3, neutral: 6}
-top_sectors: ["Financials", "Tech", "Energy"]
+sources_count: 13
+aggregate_sentiment: {bullish: 3, bearish: 4, neutral: 3}
+top_sectors: ["Financials", "Energy", "Real Estate"]
 top_tickers: []
 ---
 
@@ -20,194 +20,186 @@ top_tickers: []
 - Nut's X list from the Google Doc is part of Jack's manual/scouting desk.
 - GitHub Actions do not currently ingest X directly because the runner has no X API/xAI search integration wired in.
 
-รายงานการจ้างงานสหรัฐฯ ศุกร์นี้เป็นปัจจัยหลักที่นักลงทุนจับตา หลังตัวเลขการยื่นขอสวัสดิการว่างงานเพิ่มเป็น 199,000 ราย ขณะที่ความกังวลช่องแคบฮอร์มุซจากอิหร่านผลักดันราคาน้ำมันและดอลลาร์แข็งค่าขึ้น อาจส่งสัญญาณต่อแรงกดดันเงินเฟ้อและทิศทางนโยบายเฟด ตลาดหุ้นฟิวเจอร์สทรงตัวก่อนข้อมูลออก จับตาปฏิกิริยาตลาดและผลเจรจาสหรัฐฯ-อิหร่านวันนี้
+รายงานการจ้างงานสหรัฐเดือนกรกฎาคมอ่อนแอเกินคาด โดยตัวเลขการจ้างงานนอกภาคเกษตรลดลง 23,000 ตำแหน่ง อัตราการว่างงานพุ่งและการมีส่วนร่วมในแรงงานลดลง ส่งผลให้ตลาดปรับลดคาดการณ์การขึ้นดอกเบี้ยเฟดและอัตราผลตอบแทนพันธบัตรร่วง 
+เหตุการณ์นี้กระทบต่อแนวโน้มนโยบายการเงินและความผันผวนของตลาดการเงิน ขณะที่ข้อตกลงฮอร์มุซและร่างกฎหมายคว่ำบาตรรัสเซีย-อิหร่านยังสร้างความไม่แน่นอนด้านพลังงาน 
+ผู้อ่านควรติดตามตัวเลขเงินเฟ้อและปฏิกิริยาตลาดพันธบัตรในวันนี้
 
-## 1. รายงานการจ้างงานสหรัฐฯ ศุกร์นี้ อาจกำหนดทิศทางเฟด
+## 1. รายงานการจ้างงานสหรัฐเดือนกรกฎาคมอ่อนแอเกินคาด
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Macro/Fed | neutral | high | immediate | Financials | — |
+| Macro/Fed | bearish | high | immediate | Financials | — |
 
-นักลงทุนจับตารายงานการจ้างงานที่คาดว่าจะออกศุกร์นี้
-ตัวเลขอาจส่งสัญญาณแรงกดดันเงินเฟ้อและอัตราดอกเบี้ย
-ตลาดหุ้นฟิวเจอร์ส S&P 500 ทรงตัวก่อนข้อมูลออก
-เงินดอลลาร์แข็งค่าขึ้นรอผลเจรจาอิหร่านและเพย์โรล
-จับตาผลกระทบต่อการตัดสินใจนโยบายของเฟด
+ตัวเลขการจ้างงานนอกภาคเกษตรลดลง 23,000 ตำแหน่ง
+อัตราการว่างงานพุ่งและการมีส่วนร่วมในแรงงานลด
+ตลาดปรับลดคาดการณ์การขึ้นดอกเบี้ยของเฟด
+เฝ้าระวังข้อมูลเงินเฟ้อและปฏิกิริยาตลาดพันธบัตร
 
 **📊 Key Numbers**
 - —
 
-**👀 Watch Next:** ติดตามตัวเลขเพย์โรลและปฏิกิริยาตลาด
+**👀 Watch Next:** ติดตามตัวเลขเงินเฟ้อและคำแถลงเฟด
 
-🔗 Source: [CNBC Top News](https://www.cnbc.com/2026/08/06/what-fridays-jobs-report-could-mean-for-investors.html)
+🔗 Source: [CNBC Top News](https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html)
 
-## 2. น้ำมันพุ่งจากความกังวลช่องแคบฮอร์มุซ
+## 2. ข้อตกลงฮอร์มุซใกล้บรรลุ สหรัฐยกเลิกการปิดล้อม
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Geopolitics | bearish | high | immediate | Energy | — |
+| Geopolitics | neutral | high | immediate | Energy | — |
 
-อิหร่านประกาศโจมตีเป้าหมายในช่องแคบฮอร์มุซ
-ข้อตกลงกับโอมานอาจอนุญาตเส้นทางขนส่งใหม่
-ราคาน้ำมันขยับสูงขึ้นท่ามกลางความไม่แน่นอน
-สหรัฐฯ ยังรอการยกเลิกการปิดกั้นเรืออิหร่าน
-ตลาดหุ้นเอเชียอาจปรับตัวลงจากความเสี่ยงพลังงาน
+สหรัฐเตรียมยกเลิกการปิดล้อมท่าเรืออิหร่านเมื่อข้อตกลงโอมานประกาศ
+ราคาน้ำมันผันผวนจากความไม่แน่นอนของการเปิดช่องแคบ
+อิหร่านยังเรียกร้องยกเลิกมาตรการคว่ำบาตรและค่าชดเชย
+เฝ้าระวังการไหลของน้ำมันและราคาพลังงาน
 
 **📊 Key Numbers**
 - —
 
-**👀 Watch Next:** ติดตามการเจรจาสหรัฐฯ-อิหร่านและราคาน้ำมัน
+**👀 Watch Next:** ติดตามการประกาศข้อตกลงและปฏิกิริยาอิหร่าน
 
-🔗 Source: [Bloomberg Markets (Google News)](https://news.google.com/rss/articles/CBMinAFBVV95cUxQWk5jQUk2ejFRUXkyV29wSG94Rl9UbENwNTJ3NzJqOU9sMHdudTVwcEE0azdVSkdOMUpmX1JSaEdiMnljU0hyWkp3QU55NkRZZjBHUzRlRF84NlNyNVI5bzAyaEtEVVZWc3g3WmZoY0VpMVBPWEt0b0JGaEFkQjR3VVFRMVhvVXQya016VEQ5ZmVxNzJHYTdVWGlKRHQ?oc=5)
+🔗 Source: [ZeroHedge](https://www.zerohedge.com/geopolitical/exit-narrative-begins-trumps-muted-response-hormuz-deal-suggests-declare-victory-leave)
 
-## 3. AppLovin รายได้ไตรมาส 2 ต่ำคาด หุ้นร่วงหนัก
+## 3. ทรัมป์ผลักดันปลดลิซา คุก ผู้ว่าการเฟดอีกครั้ง
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Earnings | bearish | medium | short-term | Tech | — |
+| Regulation | neutral | high | short-term | Financials | — |
 
-AppLovin รายงานรายได้ต่ำกว่าคาดในไตรมาส 2
-หุ้นปรับตัวลงทันทีหลังประกาศผลประกอบการ
-นักลงทุนกังวลการเติบโตของธุรกิจโฆษณา
-อาจสะท้อนแนวโน้มภาคเทคโนโลยีและโฆษณา
-จับตาผลประกอบการบริษัทเทคโนโลยีอื่น ๆ
+ทรัมป์กลับมาเคลื่อนไหวปลดผู้ว่าการเฟด ลิซา คุก
+เป้าหมายเพื่อแต่งตั้งพันธมิตรในคณะกรรมการเฟด
+ศาลสูงเคยขัดขวางการกระทำนี้เมื่อสองเดือนก่อน
+เฝ้าระวังผลกระทบต่อความเป็นอิสระของเฟด
 
 **📊 Key Numbers**
 - —
 
-**👀 Watch Next:** ติดตามผลประกอบการบริษัทโฆษณาและเทคโนโลยี
+**👀 Watch Next:** ติดตามปฏิกิริยาตลาดและคำแถลงเฟด
 
-🔗 Source: [CNBC Markets](https://www.cnbc.com/2026/08/06/applovin-stock-q2-earnings-revenue.html)
+🔗 Source: [AP US Economy](https://news.google.com/rss/articles/CBMisAFBVV95cUxOQVN4VXRHS2pWOHdBdUhwYWpqODh6S0RTTTN0WTFqQlUxcU92YmNvV0ZtQ2FqTXNTbHQ5X3hQWE54RDRPVzhmc0xLZzd3cW9wekFhNGVyTnFDeVJMQmM3aF9OSEhteERaU2Q2Wnl3bHFEMEdsbXJ4aE92QXo4SkFxaHhuNXZKZy1DZ2dBbjBzV3l6MmNQTUkwSXE2OUpjN211Y1ZHYWhsSUhNLWlLdWFLNg)
 
-## 4. Trade Desk รายได้และแนวโน้มต่ำคาด หุ้นร่วง
+## 4. วุฒิสภาผ่านร่างกฎหมายคว่ำบาตรรัสเซียและอิหร่าน
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Earnings | bearish | medium | short-term | Tech | — |
+| Regulation | neutral | high | short-term | Energy | — |
 
-Trade Desk พลาดเป้ารายได้และกำไรไตรมาส 2
-แนวโน้มไตรมาสต่อไปยังอ่อนแอกว่าคาด
-หุ้นปรับตัวลงหลังประกาศผลประกอบการ
-สะท้อนความท้าทายในการเติบโตของโฆษณาดิจิทัล
-นักลงทุนจับตาภาคโฆษณาและเทคโนโลยี
+ร่างกฎหมายคว่ำบาตรรัสเซียผ่านวุฒิสภาเรียบร้อย
+มุ่งเป้าไปที่รัสเซียและอิหร่าน
+จะถูกส่งต่อไปยังสภาผู้แทนราษฎร
+เฝ้าระวังผลกระทบต่อราคาพลังงานและความสัมพันธ์ระหว่างประเทศ
 
 **📊 Key Numbers**
 - —
 
-**👀 Watch Next:** ติดตามผลประกอบการบริษัทโฆษณาอื่น
+**👀 Watch Next:** ติดตามการลงมติในสภาผู้แทน
 
-🔗 Source: [MarketWatch Top Stories](https://www.marketwatch.com/story/trade-desk-shares-tumble-on-earnings-miss-and-weak-outlook-9f4640e9?mod=mw_rss_topstories)
+🔗 Source: [CNBC Top News](https://www.cnbc.com/2026/08/07/russia-sanctions-bill-lindsey-graham-senate.html)
 
-## 5. การยื่นขอสวัสดิการว่างงานสหรัฐฯ เพิ่มเป็น 199,000 ราย
-
-| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
-|---|---|---|---|---|---|
-| Macro/Fed | neutral | medium | short-term | Financials | — |
-
-ตัวเลขการยื่นขอสวัสดิการว่างงานเพิ่มขึ้นเล็กน้อย
-แต่ยังอยู่ในระดับต่ำในประวัติศาสตร์
-ตลาดแรงงานสหรัฐฯ ยังคงแข็งแกร่ง
-อาจไม่เปลี่ยนมุมมองเฟดในระยะสั้น
-จับตารายงานการจ้างงานศุกร์นี้
-
-**📊 Key Numbers**
-- 199000
-
-**👀 Watch Next:** ติดตามเพย์โรลและข้อมูลแรงงานเพิ่มเติม
-
-🔗 Source: [AP US Economy](https://news.google.com/rss/articles/CBMimwFBVV95cUxNWW9QOGEzQmtUYmx6dHo4S3FiT0lqMllyMXdQNmZUVVk2LTdjX0VFNTkzb0ZKUkVqRFJPLUdhY0U5c1UwUHhNR0pPS0I3UGJ4a3pjQXBPN0hWNHIxX1RRVzVya0M3NGYwRjVrd2tOWGt6bk1fZU9JXzZwRV9jOEFVTFRlVnRPWFR6VnA2blV0d2liRFNQZ2toZ3lzZw?oc=5)
-
-## 6. ดอลลาร์แข็งค่าขึ้นรอข่าวข้อตกลงอิหร่านและเพย์โรล
+## 5. อัตราผลตอบแทนพันธบัตรสหรัฐร่วงหลังรายงานการจ้างงานอ่อนแอ
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Macro/Fed | neutral | high | immediate | Financials | — |
+| Macro/Fed | bullish | high | immediate | Financials | — |
 
-เงินดอลลาร์ปรับตัวขึ้นจากความไม่แน่นอนทางภูมิรัฐศาสตร์
-นักลงทุนรอผลเจรจาอิหร่านและรายงานการจ้างงาน
-อาจส่งผลต่ออัตราดอกเบี้ยและตลาดการเงิน
-ตลาดหุ้นสหรัฐฯ ปรับตัวลงจากความกังวลฮอร์มุซ
-จับตาการเคลื่อนไหวของสกุลเงินและราคาน้ำมัน
+อัตราผลตอบแทนพันธบัตรปรับตัวลดลงตามข้อมูลการจ้างงานที่ผิดหวัง
+ตลาดปรับลดความคาดหวังการขึ้นดอกเบี้ยเฟด
+สอดคล้องกับปฏิกิริยาตลาดหุ้นและสกุลเงิน
+เฝ้าระวังข้อมูลเงินเฟ้อที่จะออกมา
 
 **📊 Key Numbers**
 - —
 
-**👀 Watch Next:** ติดตามปฏิกิริยาตลาดหลังเพย์โรล
+**👀 Watch Next:** ติดตามตัวเลข CPI และการเคลื่อนไหวของเฟด
 
-🔗 Source: [WSJ Markets (Google News)](https://news.google.com/rss/articles/CBMixAFBVV95cUxPNkpOSGc0UktCVVFpT251R0dVcDF5ZTFReVlkX3Nydk8ySlVVWmN4anAwbnlBNG5WamtkMy1oN0NtWDNEZFE4dThWUHFFdGc4U2NlcFZCclVZVE9jWFRnYURreWROd1FlcUl5TUlFV1FjTllsS2xTWGplcXBENjkxMkg2OWZQMFRIYUZZMmpoWE5FTlZSb0NNVmVVdzFEdUoxMmh3QlZqTWJfb3BDbERaS0dyMXpyM3VYdUJHenFqb2NCQmlN?oc=5)
+🔗 Source: [WSJ Markets (Google News)](https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1A5N2x1WXUyTFRGUUZHdi1QZXU3bnRlTldRbkFLLW9YVEo0Yk5oc0hZb3Y2SXdpUlBfUGhVWm1xQ2RFY1lpLUE4b2d6TEd4NXQwdldLdVd0aWVjNTB5SS1QZ1VMeno3Wkp2akJTZ1ZsdHk3T19LTGVobjF4ZEdOVDRCTnMxQ0xLaEpyV1lZVmhaME1rNDlzbndiUTBHaGJmZGpjN2dqbw)
 
-## 7. Versant ปรับเพิ่มแนวโน้มปี 2026 จากแพลตฟอร์มและโฆษณา
+## 6. การส่งออกน้ำมันอิหร่านชะงักจากมาตรการปิดล้อมสหรัฐ
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Earnings | bullish | medium | short-term | Tech, Communication Services | — |
+| Commodity | bearish | high | short-term | Energy | — |
 
-Versant ปรับเพิ่มคาดการณ์รายได้และกำไรปี 2026
-แรงหนุนจากธุรกิจแพลตฟอร์มและโฆษณา
-แสดงถึงความแข็งแกร่งในบางส่วนของภาคเทคโนโลยี
-อาจเป็นสัญญาณบวกสำหรับบริษัทสื่อและโฆษณา
-จับตาผลประกอบการบริษัทเทคโนโลยีอื่น
+เกาะคาร์กของอิหร่านหยุดส่งออกน้ำมันภายใต้การปิดล้อม
+ราคาน้ำมันและผลิตภัณฑ์กลั่นปรับตัวสูงขึ้น
+อาจกระทบอุปทานพลังงานโลกในระยะสั้น
+เฝ้าระวังการเปิดช่องแคบฮอร์มุซอีกครั้ง
 
 **📊 Key Numbers**
 - —
 
-**👀 Watch Next:** ติดตามผลประกอบการบริษัทสื่อและเทคโนโลยี
+**👀 Watch Next:** ติดตามการเจรจาและการไหลของน้ำมัน
 
-🔗 Source: [CNBC Markets](https://www.cnbc.com/2026/08/06/versant-vsnt-earnings-q2-2026.html)
+🔗 Source: [Financial Times Companies](https://www.ft.com/content/6bc9c93d-1b75-4512-8bc2-ba33cc3c4a53?syn-25a6b1a6=1)
 
-## 8. ราคาทองคำปรับตัวขึ้นหลังช่วงยากลำบาก
+## 7. เควิน วอร์ช ส่งสัญญาณเฟดอาจขึ้นดอกเบี้ยเดือนกันยายน
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Commodity | neutral | medium | short-term | Materials | — |
+| Macro/Fed | bearish | medium | short-term | Financials | — |
 
-ราคาทองคำทะลุแนวต้านหลังปรับตัวลงต่อเนื่อง
-นักลงทุนมองหาที่หลบภัยจากความไม่แน่นอน
-อาจได้รับแรงหนุนจากเงินเฟ้อและนโยบายเฟด
-หุ้นเหมืองทองคำอาจเป็นทางเลือกที่น่าสนใจ
-จับตาราคาทองคำและปัจจัยเศรษฐกิจมหภาค
+วอร์ชอาจสนับสนุนการขึ้นดอกเบี้ยหากเงินเฟ้อพุ่งและตลาดปรับ hawkish
+ตลาดพันธบัตรตอบสนองแบบผสมผสาน
+ความไม่แน่นอนจากภูมิรัฐศาสตร์ยังสูง
+เฝ้าระวังข้อมูลเงินเฟ้อและการประชุมเฟด
 
 **📊 Key Numbers**
 - —
 
-**👀 Watch Next:** ติดตามราคาทองคำและข้อมูลเงินเฟ้อ
+**👀 Watch Next:** ติดตามปฏิกิริยาตลาดและข้อมูลเศรษฐกิจ
 
-🔗 Source: [MarketWatch Top Stories](https://www.marketwatch.com/story/gold-prices-are-breaking-higher-after-a-tough-stretch-could-fresh-records-be-within-reach-1e1a872f?mod=mw_rss_topstories)
+🔗 Source: [ZeroHedge](https://www.zerohedge.com/markets/uncertainty-rules)
 
-## 9. Jane Street เจรจาโอนหนี้ 11 พันล้านดอลลาร์
-
-| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
-|---|---|---|---|---|---|
-| Sector-specific | neutral | low | short-term | Financials | — |
-
-Jane Street อยู่ในระหว่างเจรจาโอนหนี้ 11 พันล้านดอลลาร์
-นักลงทุนสถาบันอย่าง Pimco อาจเข้าร่วม
-อาจสะท้อนการปรับโครงสร้างหนี้ของบริษัทการเงิน
-ตลาดการเงินจับตาผลกระทบต่อสภาพคล่อง
-จับตาข่าวการเงินและตลาดตราสารหนี้
-
-**📊 Key Numbers**
-- 11bn
-
-**👀 Watch Next:** ติดตามการพัฒนาของการเจรจาโอนหนี้
-
-🔗 Source: [Financial Times Companies](https://www.ft.com/content/80f5fede-a34a-4069-a751-f9523e3c6e00?syn-25a6b1a6=1)
-
-## 10. ConocoPhillips ซีอีโอ Ryan Lance ลาออกหลัง 14 ปี
+## 8. ฟิวเจอร์สน้ำมันปรับตัวลดจากคาดการณ์ข้อตกลงฮอร์มุซ
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
-| Sector-specific | neutral | low | short-term | Energy | — |
+| Commodity | bullish | medium | short-term | Energy | — |
 
-Ryan Lance ซีอีโอ ConocoPhillips ประกาศลาออก
-หลังดำรงตำแหน่งมานาน 14 ปี
-อาจนำไปสู่การเปลี่ยนแปลงกลยุทธ์บริษัทพลังงาน
-ตลาดจับตาผู้สืบทอดและทิศทางธุรกิจ
-จับตาภาคพลังงานและราคาน้ำมัน
+ตลาดคาดว่าช่องแคบฮอร์มุซจะเปิดอีกครั้งภายในสิ้นเดือนสิงหาคม
+ราคาน้ำมันดิบและผลิตภัณฑ์กลั่นปรับตัวลง
+อาจลดแรงกดดันเงินเฟ้อจากพลังงาน
+เฝ้าระวังการพัฒนาทางการเมืองในอ่าวเปอร์เซีย
 
 **📊 Key Numbers**
 - —
 
-**👀 Watch Next:** ติดตามการแต่งตั้งซีอีโอคนใหม่
+**👀 Watch Next:** ติดตามการเจรจาและปริมาณการส่งออก
 
-🔗 Source: [Financial Times Companies](https://www.ft.com/content/15857866-5274-41cc-90a6-b4f696c60a13?syn-25a6b1a6=1)
+🔗 Source: [WSJ Markets (Google News)](https://news.google.com/rss/articles/CBMinwFBVV95cUxQeFU3NG5ubGxPYXZSdmdhRkNqeXIwOTYtMWZfWFZ2UjlvdXR1QTBwOG8xUnhveFFJZ2wyZHk3UHNGcDBOT3o1ZVNQUkRkeEtqYXl1em53bV9OYlkwRW1iellaR3RGYlVRYkNBY3N6Z1ZNaXdmaF9QVElPMTNPT04zaFN1ejNaY05hZGdwcjUtMm9CcTJBalE5S3EzUXpJdk0)
+
+## 9. ข้อมูลการจ้างงานอ่อนแออาจกระทบพรรครีพับลิกันในการเลือกตั้ง
+
+| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
+|---|---|---|---|---|---|
+| Regulation | bearish | medium | short-term | — | — |
+
+ตัวเลขการจ้างงานที่ผิดหวังสร้างความกังวลต่อเศรษฐกิจ
+อาจกลายเป็นประเด็นหาเสียงของฝ่ายตรงข้าม
+ทรัมป์และพรรครีพับลิกันต้องอธิบายนโยบายเศรษฐกิจ
+เฝ้าระวังปฏิกิริยาของผู้ลงคะแนน
+
+**📊 Key Numbers**
+- —
+
+**👀 Watch Next:** ติดตามผลสำรวจความเห็นและการเลือกตั้ง
+
+🔗 Source: [Politico Economy Policy](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd2dVbjFkSzdTYzhSOEluZGh4OHFxVVZ5S0hLdC10bzdKSTE2YmtDbkV6Z0I2MlJMaUZ5dVlVdU9kbVJUZVBwQjBBV25HRVBpZUh6VTh0a2Jtc3FPRmI4UWxMaUVZZmxfdXFEOW8yRklJQl9PQk5TYU9PNlZrOUdIYVg0aktVN2Rx)
+
+## 10. อัตราดอกเบี้ยสินเชื่อบ้านปรับตัวลดก่อนรายงานการจ้างงาน
+
+| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
+|---|---|---|---|---|---|
+| Macro/Fed | bullish | medium | short-term | Real Estate | — |
+
+อัตราดอกเบี้ยจำนองและรีไฟแนนซ์ลดลงก่อนตัวเลขการจ้างงาน
+ตลาดคาดการณ์เฟดอาจผ่อนคลายนโยบาย
+อาจช่วยกระตุ้นภาคอสังหาริมทรัพย์
+เฝ้าระวังแนวโน้มอัตราดอกเบี้ยระยะยาว
+
+**📊 Key Numbers**
+- —
+
+**👀 Watch Next:** ติดตามอัตราดอกเบี้ยและยอดขายบ้าน
+
+🔗 Source: [Yahoo Finance](https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-august-7-2026-rates-fall-ahead-of-jobs-report-100000207.html)
