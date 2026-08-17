@@ -19,7 +19,7 @@ ROOT = Path(__file__).resolve().parent.parent
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from scripts import notify, sources, summarizer  # noqa: E402
+from scripts import notify, provenance, sources, summarizer  # noqa: E402
 
 logging.basicConfig(
     level=os.environ.get("LOG_LEVEL", "INFO"),
@@ -226,8 +226,8 @@ def send_ai_digest(date_str: str, items: list[dict], repo_url: str) -> None:
 
 def run() -> int:
     dry_run = os.environ.get("DRY_RUN") == "1"
-    limit = int(os.environ.get("LIMIT", "5"))
-    candidate_limit = int(os.environ.get("CANDIDATE_LIMIT", "25"))
+    output_count = 5
+    candidate_limit = max(int(os.environ.get("CANDIDATE_LIMIT", "25")), output_count)
 
     now_utc = datetime.now(timezone.utc)
     date_str = now_utc.strftime("%Y-%m-%d")
@@ -236,38 +236,31 @@ def run() -> int:
     articles = fetch_all_ai(hours=24)
     log.info("total fetched: %d", len(articles))
     if not articles:
-        log.error("no AI news fetched; continuing with outage fallback article")
-        articles = [sources.Article(
-            title="AI news source outage — no RSS/API articles fetched",
-            link=REPO_URL,
-            published=now_utc,
-            summary="All configured AI news sources returned no usable articles. The workflow is continuing so alerts and artifacts still publish.",
-            source_name="Daily AI News fallback",
-        )]
+        log.error("publication blocked: no verified source articles")
+        return 1
 
     articles = score_ai(articles)
     articles = [a for a in articles if a.score > 0]
     if not articles:
-        log.error("no scored AI articles after filters; continuing with filtered-source fallback article")
-        articles = [sources.Article(
-            title="AI news filter outage — no scored articles passed filters",
-            link=REPO_URL,
-            published=now_utc,
-            summary="Sources returned articles, but none passed the AI relevance filters. The workflow is continuing so alerts and artifacts still publish.",
-            source_name="Daily AI News fallback",
-        )]
-        articles = score_ai(articles)
+        log.error("publication blocked: no AI-relevant source articles")
+        return 1
     articles = dedupe_by_url(articles)
-    top = select_ai_candidates(articles, n=max(limit, candidate_limit), max_per_source=2, max_per_company=2)
+    top = select_ai_candidates(articles, n=candidate_limit, max_per_source=2, max_per_company=2)
     log.info("selected %d AI candidates for LLM selection", len(top))
+    block_reason = notify.publication_block_reason(len(top), output_count, "")
+    if block_reason:
+        log.error("publication blocked: %s", block_reason)
+        return 1
 
     top = sources.enrich_all(top)
 
-    while len(top) < 5:
-        top.append(top[-1])
     top_dicts = [a.to_dict() for a in top[:candidate_limit]]
 
     items, model_used = summarizer.summarize_ai_news(top_dicts)
+    block_reason = notify.publication_block_reason(len(top), output_count, model_used)
+    if block_reason:
+        log.error("publication blocked: %s", block_reason)
+        return 1
 
     md = render_md(
         date_str=date_str,
@@ -276,6 +269,11 @@ def run() -> int:
         sources_count=len({a.source_name for a in top}),
         items=items,
     )
+    digest = build_ai_digest(date_str, items, REPO_URL)
+    issues = notify.reader_output_issues(md + "\n" + digest)
+    if issues:
+        log.error("publication blocked: unsafe reader output: %s", ", ".join(issues))
+        return 1
 
     ARTICLES_DIR.mkdir(exist_ok=True)
     out_path = ARTICLES_DIR / f"{date_str}.md"
@@ -285,12 +283,14 @@ def run() -> int:
         print("=== DRY RUN — would write to", out_path, "===")
         print(md[:3000])
         print("\n=== Telegram preview ===")
-        print(build_ai_digest(date_str, items, REPO_URL))
+        print(digest)
         return 0
 
     out_path.write_text(md, encoding="utf-8")
     latest.write_text(md, encoding="utf-8")
-    log.info("wrote %s and %s", out_path, latest)
+    evidence_path = provenance.write_evidence(
+        ARTICLES_DIR, date_str, generated_at_utc, model_used, top, items)
+    log.info("wrote %s, %s, and %s", out_path, latest, evidence_path)
 
     send_ai_digest(date_str, items, REPO_URL)
     return 0

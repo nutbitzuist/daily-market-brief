@@ -58,6 +58,31 @@ def reader_watch(text: str) -> str:
     return re.sub(r"^(ติดตาม|จับตา)\s*[:：]?\s*", "", text).strip()
 
 
+def publication_block_reason(article_count: int, required_count: int, model_used: str) -> str:
+    """Return why a reader brief must not be published; empty means ready."""
+    if article_count <= 0:
+        return "no verified source articles"
+    if article_count < required_count:
+        return f"only {article_count} unique source articles; need {required_count}"
+    if str(model_used).startswith("deterministic-fallback"):
+        return "summary models unavailable"
+    return ""
+
+
+def reader_output_issues(text: str) -> list[str]:
+    """Detect links, extraction metadata, and operational diagnostics before publish."""
+    checks = {
+        "link": r"https?://|\bwww\.",
+        "source metadata": r"Source Policy|URL Source|Published Time|Markdown Content|generated_at",
+        "fallback diagnostics": (
+            r"Fallback brief|deterministic fallback|OpenRouter unavailable|OpenRouter secret|"
+            r"ตรวจสอบ OpenRouter|RSS/API|LLM ล่ม|desk review|source outage|filter outage|"
+            r"workflow is continuing"
+        ),
+    }
+    return [name for name, pattern in checks.items() if re.search(pattern, text, re.I)]
+
+
 def _chunk(text: str, limit: int = MAX_LEN) -> list[str]:
     if len(text) <= limit:
         return [text]

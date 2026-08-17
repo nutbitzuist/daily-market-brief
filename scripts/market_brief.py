@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parent.parent
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from scripts import classifier, notify, sources, summarizer  # noqa: E402
+from scripts import classifier, notify, provenance, sources, summarizer  # noqa: E402
 
 logging.basicConfig(
     level=os.environ.get("LOG_LEVEL", "INFO"),
@@ -75,8 +75,8 @@ def render_markdown(date_str: str, generated_at_utc: str, model_used: str,
 
 def run() -> int:
     dry_run = os.environ.get("DRY_RUN") == "1"
-    limit = int(os.environ.get("LIMIT", "10"))
-    candidate_limit = int(os.environ.get("CANDIDATE_LIMIT", "25"))
+    output_count = 10
+    candidate_limit = max(int(os.environ.get("CANDIDATE_LIMIT", "25")), output_count)
     use_fixtures = os.environ.get("USE_FIXTURES") == "1"
 
     now_utc = datetime.now(timezone.utc)
@@ -90,37 +90,33 @@ def run() -> int:
         articles = sources.fetch_all(hours=24)
     log.info("fetched %d articles total", len(articles))
     if not articles:
-        log.error("no articles fetched; continuing with outage fallback article")
-        articles = [sources.Article(
-            title="US market source outage — no RSS/API articles fetched",
-            link=REPO_URL,
-            published=now_utc,
-            summary="All configured US market sources returned no usable articles. The workflow is continuing so alerts and artifacts still publish.",
-            source_name="Daily Market Brief fallback",
-        )]
+        log.error("publication blocked: no verified source articles")
+        return 1
 
     # 2. score + dedupe + diversity-aware candidate slate
     articles = classifier.score_articles(articles)
     articles = classifier.dedupe(articles)
-    top = classifier.top_n_with_diversity(articles, n=max(limit, candidate_limit), max_per_source=2)
+    top = classifier.top_n_with_diversity(articles, n=candidate_limit, max_per_source=2)
     log.info("selected top %d articles", len(top))
-    if len(top) < limit:
-        log.warning("only %d articles after filtering (wanted %d)", len(top), limit)
+    block_reason = notify.publication_block_reason(len(top), output_count, "")
+    if block_reason:
+        log.error("publication blocked: %s", block_reason)
+        return 1
 
     # 3. enrich
     top = sources.enrich_all(top)
-
-    # pad to 10 if needed (for LLM validation) — duplicate last
-    while len(top) < 10:
-        top.append(top[-1])
 
     top_dicts = [a.to_dict() for a in top[:candidate_limit]]
 
     # 4. LLM summarize
     items, model_used = summarizer.summarize_articles(top_dicts)
+    block_reason = notify.publication_block_reason(len(top), output_count, model_used)
+    if block_reason:
+        log.error("publication blocked: %s", block_reason)
+        return 1
 
-    # 5. executive summary
-    exec_summary, _ = summarizer.executive_summary(items)
+    # Reader output intentionally has no redundant executive-summary block.
+    exec_summary = ""
 
     # 6. aggregate
     aggregate = compute_aggregate(items)
@@ -135,6 +131,11 @@ def run() -> int:
         aggregate=aggregate,
         exec_summary=exec_summary,
     )
+    digest = notify.build_digest(date_str, items, aggregate, REPO_URL, exec_summary)
+    issues = notify.reader_output_issues(md + "\n" + digest)
+    if issues:
+        log.error("publication blocked: unsafe reader output: %s", ", ".join(issues))
+        return 1
 
     BRIEFS_DIR.mkdir(exist_ok=True)
     out_path = BRIEFS_DIR / f"{date_str}.md"
@@ -144,12 +145,14 @@ def run() -> int:
         print("=== DRY RUN — would write to", out_path, "===")
         print(md[:3000])
         print("...\n=== Telegram digest preview ===")
-        print(notify.build_digest(date_str, items, aggregate, REPO_URL, exec_summary))
+        print(digest)
         return 0
 
     out_path.write_text(md, encoding="utf-8")
     latest_path.write_text(md, encoding="utf-8")
-    log.info("wrote %s and %s", out_path, latest_path)
+    evidence_path = provenance.write_evidence(
+        BRIEFS_DIR, date_str, generated_at_utc, model_used, top, items)
+    log.info("wrote %s, %s, and %s", out_path, latest_path, evidence_path)
 
     # 8. telegram
     notify.send_digest(date_str, items, aggregate, REPO_URL, exec_summary)

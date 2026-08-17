@@ -1,0 +1,69 @@
+{
+  "articles": [
+    {
+      "rank": 1,
+      "source": "TechCrunch AI",
+      "title": "Stripe มีรายงานเตรียมเข้าซื้อกิจการ OpenRouter สตาร์ทอัพ AI Gateway ด้วยมูลค่ากว่า 7 พันล้านดอลลาร์",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
+    },
+    {
+      "rank": 2,
+      "source": "Tom's Hardware",
+      "title": "Google มีรายงานจับมือ AMD ร่วมออกแบบชิป TPU รุ่นถัดไป ผสานคอร์ CPU เสริมประสิทธิภาพ Reinforcement Learning",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxORzRsRUFrejFFTjlqQnVzY1lqdkV4dHFMYnNrTUlPb3ItckJSWFgtVlBpTDFXTnJzSnhqY21xeThLOU1KNmZpaEdRM0VEQlNwTXZtMjFWdTh6Ymp1d05lTndsbkZOb0twT1hCMEZVaDQxeS0wWnk4WjNOOXFJdW11ZHo0aTIzaWp5bl9uWkoxSDJ6MGNXOEZQQmJxX0p1VUZSOHh6T1RsTkhwYW5jQVNsSXBMem1adWRuUFRaYjcyLUdLbmhVbzVueXRDNG53QXNPazIwQXQ3LUExVll5TFllZzlSajlFVFgweHExU21OQlRlY0FScklwVEFhbHJNRU9zdm9fdUV4bEVJU1k4OGpQTnFOVDJUZ3EzQnpnbTJ1WGZMTVRmSERiLV9n?oc=5"
+    },
+    {
+      "rank": 3,
+      "source": "The Verge AI",
+      "title": "OpenAI มีรายงานยุบทีม Preparedness ซึ่งดูแลด้านความปลอดภัยและความเสี่ยงขั้นวิกฤต",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSHRPU0RWLUlmU1FiVnYzSUoxN29PMnpHY3hmQ1pkUGREeDZZNmY5ZzA0R1hDdmgzWlBqNmNhaF9haVZ1YjM4SVlXRXRvSmQyZmFQTEdZMXhGalBMSXdwWVJGcTVhVExKZzFITG5yV2NDOVhfRGNoVUdhakFfYlc4emhZc0xLZTJZcnpVa1d4OTdoUVdmSVpR?oc=5"
+    },
+    {
+      "rank": 4,
+      "source": "Bloomberg.com",
+      "title": "Alibaba เตรียมขายธุรกิจเกมมูลค่า 1.5 พันล้านดอลลาร์ เพื่อระดมทุนมุ่งเน้นการพัฒนา AI เต็มตัว",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT1BmUWVZUElWU0FmektVUkUzWnFGbWZ4NzZZay1pcHdfOWhaV2JUWXI0RFZWOGFYWmhQVkprUGFXdDd0LWF6LUpoZzZ0UFEyQ3dLNWUtMWhuUUs0QlU5V3hWRTYyS1NpMEZWdjNMQzl4alVrWmF5V1hqSnlxdEVWUkpRcnhzTURCNF82TVdPdFEyNlNRSWlUUTZWWTRxOGgyeFpXdjdPZ3lwQVQ5d2dVbXl3ZEU?oc=5"
+    },
+    {
+      "rank": 5,
+      "source": "TechCrunch AI",
+      "title": "ซีอีโอ Anthropic ชี้กระแสต้าน AI แท้จริงแล้วคือ 'วิกฤตความเชื่อมั่น' ของสาธารณชนต่อกลุ่มเทคโนโลยี",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/"
+    }
+  ],
+  "date": "2026-08-17",
+  "generated_at_utc": "unknown",
+  "items": [
+    {
+      "rank": 1,
+      "source": "TechCrunch AI",
+      "title": "Stripe มีรายงานเตรียมเข้าซื้อกิจการ OpenRouter สตาร์ทอัพ AI Gateway ด้วยมูลค่ากว่า 7 พันล้านดอลลาร์",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
+    },
+    {
+      "rank": 2,
+      "source": "Tom's Hardware",
+      "title": "Google มีรายงานจับมือ AMD ร่วมออกแบบชิป TPU รุ่นถัดไป ผสานคอร์ CPU เสริมประสิทธิภาพ Reinforcement Learning",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxORzRsRUFrejFFTjlqQnVzY1lqdkV4dHFMYnNrTUlPb3ItckJSWFgtVlBpTDFXTnJzSnhqY21xeThLOU1KNmZpaEdRM0VEQlNwTXZtMjFWdTh6Ymp1d05lTndsbkZOb0twT1hCMEZVaDQxeS0wWnk4WjNOOXFJdW11ZHo0aTIzaWp5bl9uWkoxSDJ6MGNXOEZQQmJxX0p1VUZSOHh6T1RsTkhwYW5jQVNsSXBMem1adWRuUFRaYjcyLUdLbmhVbzVueXRDNG53QXNPazIwQXQ3LUExVll5TFllZzlSajlFVFgweHExU21OQlRlY0FScklwVEFhbHJNRU9zdm9fdUV4bEVJU1k4OGpQTnFOVDJUZ3EzQnpnbTJ1WGZMTVRmSERiLV9n?oc=5"
+    },
+    {
+      "rank": 3,
+      "source": "The Verge AI",
+      "title": "OpenAI มีรายงานยุบทีม Preparedness ซึ่งดูแลด้านความปลอดภัยและความเสี่ยงขั้นวิกฤต",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSHRPU0RWLUlmU1FiVnYzSUoxN29PMnpHY3hmQ1pkUGREeDZZNmY5ZzA0R1hDdmgzWlBqNmNhaF9haVZ1YjM4SVlXRXRvSmQyZmFQTEdZMXhGalBMSXdwWVJGcTVhVExKZzFITG5yV2NDOVhfRGNoVUdhakFfYlc4emhZc0xLZTJZcnpVa1d4OTdoUVdmSVpR?oc=5"
+    },
+    {
+      "rank": 4,
+      "source": "Bloomberg.com",
+      "title": "Alibaba เตรียมขายธุรกิจเกมมูลค่า 1.5 พันล้านดอลลาร์ เพื่อระดมทุนมุ่งเน้นการพัฒนา AI เต็มตัว",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT1BmUWVZUElWU0FmektVUkUzWnFGbWZ4NzZZay1pcHdfOWhaV2JUWXI0RFZWOGFYWmhQVkprUGFXdDd0LWF6LUpoZzZ0UFEyQ3dLNWUtMWhuUUs0QlU5V3hWRTYyS1NpMEZWdjNMQzl4alVrWmF5V1hqSnlxdEVWUkpRcnhzTURCNF82TVdPdFEyNlNRSWlUUTZWWTRxOGgyeFpXdjdPZ3lwQVQ5d2dVbXl3ZEU?oc=5"
+    },
+    {
+      "rank": 5,
+      "source": "TechCrunch AI",
+      "title": "ซีอีโอ Anthropic ชี้กระแสต้าน AI แท้จริงแล้วคือ 'วิกฤตความเชื่อมั่น' ของสาธารณชนต่อกลุ่มเทคโนโลยี",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/"
+    }
+  ],
+  "model_used": "google/gemini-3.7-flash"
+}

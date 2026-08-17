@@ -11,6 +11,14 @@ FORBIDDEN = (
     "Markdown Content",
     "Fallback brief",
     "deterministic fallback",
+    "OpenRouter unavailable",
+    "OpenRouter secret",
+    "RSS/API",
+    "LLM ล่ม",
+    "desk review",
+    "source outage",
+    "filter outage",
+    "workflow is continuing",
     "ตัวเลขสำคัญ",
 )
 

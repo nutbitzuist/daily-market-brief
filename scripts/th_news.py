@@ -18,7 +18,7 @@ ROOT = Path(__file__).resolve().parent.parent
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from scripts import classifier, notify, sources, summarizer  # noqa: E402
+from scripts import classifier, notify, provenance, sources, summarizer  # noqa: E402
 
 logging.basicConfig(
     level=os.environ.get("LOG_LEVEL", "INFO"),
@@ -232,8 +232,8 @@ def send_th_digest(date_str: str, items: list[dict], exec_summary: str,
 
 def run() -> int:
     dry_run = os.environ.get("DRY_RUN") == "1"
-    limit = int(os.environ.get("LIMIT", "10"))
-    candidate_limit = int(os.environ.get("CANDIDATE_LIMIT", "25"))
+    output_count = 10
+    candidate_limit = max(int(os.environ.get("CANDIDATE_LIMIT", "25")), output_count)
 
     now_utc = datetime.now(timezone.utc)
     date_str = now_utc.strftime("%Y-%m-%d")
@@ -249,45 +249,39 @@ def run() -> int:
             log.warning("feed %s failed: %s", name, e)
     log.info("fetched %d articles", len(articles))
     if not articles:
-        log.error("no Thai news fetched; continuing with outage fallback article")
-        articles = [sources.Article(
-            title="Thailand market source outage — no RSS/API articles fetched",
-            link=REPO_URL,
-            published=now_utc,
-            summary="All configured Thailand market sources returned no usable articles. The workflow is continuing so alerts and artifacts still publish.",
-            source_name="Daily Thailand Brief fallback",
-        )]
+        log.error("publication blocked: no verified source articles")
+        return 1
 
     # 2. score + dedupe + diversity-aware top-N
     articles = [a for a in articles if is_investor_relevant(a)]
     log.info("kept %d investor-relevant articles", len(articles))
     if not articles:
-        log.error("no investor-relevant Thai news fetched; continuing with filtered-source fallback article")
-        articles = [sources.Article(
-            title="Thailand market filter outage — no investor-relevant articles passed filters",
-            link=REPO_URL,
-            published=now_utc,
-            summary="Sources returned articles, but none passed the investor relevance filter. The workflow is continuing so alerts and artifacts still publish.",
-            source_name="Daily Thailand Brief fallback",
-        )]
+        log.error("publication blocked: no investor-relevant source articles")
+        return 1
     articles = score_th(articles)
     articles = classifier.dedupe(articles)
     top = classifier.top_n_with_diversity(
-        articles, n=max(limit, candidate_limit), max_per_source=3)
+        articles, n=candidate_limit, max_per_source=3)
     log.info("selected top %d articles", len(top))
+    block_reason = notify.publication_block_reason(len(top), output_count, "")
+    if block_reason:
+        log.error("publication blocked: %s", block_reason)
+        return 1
 
     # 3. enrich
     top = sources.enrich_all(top)
 
-    while len(top) < 10:
-        top.append(top[-1])
     top_dicts = [a.to_dict() for a in top[:candidate_limit]]
 
     # 4. summarize
     items, model_used = summarizer.summarize_th_news(top_dicts)
+    block_reason = notify.publication_block_reason(len(top), output_count, model_used)
+    if block_reason:
+        log.error("publication blocked: %s", block_reason)
+        return 1
 
-    # 5. exec summary
-    exec_summary, _ = summarizer.th_executive_summary(items)
+    # Reader output intentionally has no redundant executive-summary block.
+    exec_summary = ""
 
     # 6. render
     md = render_md(
@@ -298,6 +292,11 @@ def run() -> int:
         items=items,
         exec_summary=exec_summary,
     )
+    digest = build_th_digest(date_str, items, exec_summary, REPO_URL)
+    issues = notify.reader_output_issues(md + "\n" + digest)
+    if issues:
+        log.error("publication blocked: unsafe reader output: %s", ", ".join(issues))
+        return 1
 
     TH_DIR.mkdir(exist_ok=True)
     out_path = TH_DIR / f"{date_str}.md"
@@ -307,12 +306,14 @@ def run() -> int:
         print("=== DRY RUN — would write to", out_path, "===")
         print(md[:3000])
         print("\n=== Telegram preview ===")
-        print(build_th_digest(date_str, items, exec_summary, REPO_URL))
+        print(digest)
         return 0
 
     out_path.write_text(md, encoding="utf-8")
     latest.write_text(md, encoding="utf-8")
-    log.info("wrote %s and %s", out_path, latest)
+    evidence_path = provenance.write_evidence(
+        TH_DIR, date_str, generated_at_utc, model_used, top, items)
+    log.info("wrote %s, %s, and %s", out_path, latest, evidence_path)
 
     send_th_digest(date_str, items, exec_summary, REPO_URL)
     return 0
