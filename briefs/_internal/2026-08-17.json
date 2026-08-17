@@ -1,128 +1,382 @@
 {
   "articles": [
     {
-      "rank": 1,
-      "source": "CNBC Top News",
-      "title": "ฟิวเจอร์สสหรัฐฯ ทรงตัวหลัง S&P 500 ชนะ 3 สัปดาห์ติด จับตางบค้าปลีกและรายงานการประชุม Fed",
-      "url": "https://www.cnbc.com/2026/08/16/stock-market-today-live-updates-.html"
-    },
-    {
-      "rank": 2,
+      "published": "2026-08-17T14:25:00+00:00",
+      "publisher": "ZeroHedge",
       "source": "ZeroHedge",
-      "title": "ขุนคลังสหรัฐฯ เตรียมยกระดับมาตรการตัดขาดทางเศรษฐกิจขั้นสูงสุดต่ออิหร่าน",
-      "url": "https://www.zerohedge.com/geopolitical/us-cant-bomb-its-way-victory-scotiabank-maps-bessents-coming-economic-hammer-iran"
+      "title": "Key Events This Week: FOMC Minutes, PMIs, Industrial Data; WalMart And Home Depot Earnings",
+      "url": "https://www.zerohedge.com/markets/key-events-week-fomc-minutes-pmis-industrial-data-walmart-and-home-depot-earnings"
     },
     {
-      "rank": 3,
-      "source": "MarketWatch Top Stories",
-      "title": "ผลประกอบการ Walmart และ Target เตรียมชี้ชะตาสุขภาพกำลังซื้อผู้บริโภคสหรัฐฯ",
-      "url": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s-consumer-d5b89491?mod=mw_rss_topstories"
+      "published": "2026-08-17T21:00:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "Geopolitical Reality Has Ended The Rush To Renewables",
+      "url": "https://www.zerohedge.com/energy/geopolitical-reality-has-ended-rush-renewables"
     },
     {
-      "rank": 4,
+      "published": "2026-08-17T16:08:53+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Top News",
+      "title": "Nvidia financing initiative follows SEC guidance that takes sponsors off the hook for data center investments",
+      "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-initiative-follows-sec-guidance-taking-sponsors-off-the-hook.html"
+    },
+    {
+      "published": "2026-08-17T22:01:31+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Markets (Google News)",
+      "title": "Oil Gains as the US Signals No Rush to End Conflict With Iran - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYnNXUTlFdGp6Z0phbmJiNkRyVXZ2LWJVLW9TWEMzSVozT2RBNFUxVmIzbVpBaGQ4WnRlQkhZTjl6OVQxRE83bXIxYkd6aWh4NE9ZOTN0YmxnZzQ3SXd1Z3l1eWlHbjVJeUI4NXB3U2xIOEhuQUU0QlBxWk1zWEpuYjFzTFBGbktmeDZ2TVN6T1Yxbl9mTmI1STVGN3dtQQ?oc=5"
+    },
+    {
+      "published": "2026-08-17T20:04:53+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Top News",
+      "title": "30-year Treasury yield tops 5.31%, the highest in 19 years",
+      "url": "https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html"
+    },
+    {
+      "published": "2026-08-17T16:03:02+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Markets (Google News)",
+      "title": "Citadel Securities Says Spiking Yields Reflect Fed Policy Risk - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSlZXVGVDWm91NXBvRnRXWU9KNmd0bWhEX1dQLVZTek9Md3BpUUQ4UzgzVEFKamZ0NU9OckNuRnRBMVdMQXlnRFhjSWNOR0NVb29rRFFJZDhmeXRxc0R2ZGNpLTVnOEZUZFVrN05nUTVTMVVHNDlzbkFIcFIxLWRwQ3g2dmozVVV1YW1LTmsxU1ZXaHhJUm5NMjlZZ2RoaHZ5TlVfbzRBdUtSaFlBdjB6VDdLSQ?oc=5"
+    },
+    {
+      "published": "2026-08-17T16:32:12+00:00",
+      "publisher": "Financial Times",
+      "source": "Financial Times Companies",
+      "title": "Russia fires economist over Ukraine war warning",
+      "url": "https://www.ft.com/content/a1b720e3-e1e6-4a13-bdb0-9cc27399ceb4?syn-25a6b1a6=1"
+    },
+    {
+      "published": "2026-08-17T15:29:12+00:00",
+      "publisher": "Financial Times",
+      "source": "Financial Times Companies",
+      "title": "Monzo chair Gary Hoffman to step down months after shareholder revolt",
+      "url": "https://www.ft.com/content/01b0ac67-3e80-42eb-b0f6-3128f484101a?syn-25a6b1a6=1"
+    },
+    {
+      "published": "2026-08-17T11:15:00+00:00",
+      "publisher": "AP News",
+      "source": "AP US Economy",
+      "title": "AP Decision Notes: What to expect in California’s special congressional election - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZmU2N0lidUh1V0NpVlRqb3pYTkpmR19BdUhCQzNWZEVHZzZ6WGdjelNONURQZFJ6R3JJMU1FWmlJbXJTVDF5T0llQlFiZGE5N3RXSnA5MGlpQmh6WUhkdnlOdUtNaFV6SlZWaTJGUGgyelNVcEc3R3R4Z1ktLUx2TlozQzVWb2FHdGhEZU9HQ2JvREoxTUtqcHlwMjdZUjhBbFFVS0tQaGVleEo4OUU5d1NWc2RGeWhhOFE?oc=5"
+    },
+    {
+      "published": "2026-08-17T09:03:00+00:00",
+      "publisher": "Wall Street Journal",
       "source": "WSJ Markets (Google News)",
-      "title": "ราคาน้ำมันดิบขยับขึ้นต่อเนื่อง หลังการเจรจาสหรัฐฯ-อิหร่านยังไร้ข้อสรุป",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORkF6SjN6Wlp2enZxcjVZRUZEWnUtZVJ4NmYxNUFyQ0taT0loOUJSVVkwZzJ5UUZZOUM3Rm9DWmxDQTN6d1hTOTVpU19DbWRHYUVEWWxDUldaeVVJUktoN25JeGVMVWRPeUNESUF5LTVTWFV0bjBoSWF4MWxuQU55c3lVcW5xa20xLXI1aUdxdlpWRExQbFdUbEp2SndtMkRCbW9qdDZLeHJQMTd5aENBR0ViYlVhdUt4MVhN?oc=5"
+      "title": "Dollar Falls Sharply as Prospects Dim for Fed Rate Rise - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdUpiUHhKbEtobmthQ1VQV0VIX2tCUGxYMjFMRUFvR2FXNnRCVmJyX0c1NWdvR1NGanNUc2xoNUcyVUp2TkIxc2pmU1NyS245SEdTMWtIcTFyYVdtM1JRZ0xUT0ZocDdrNjB6OVJ6X2F1OWVCYWowLW5iS0NmMklVTy0xSWJvWW80ZWdIX2xqWlBVOGZfN1lnWHRUd1lUZENLSzlFVEE4UU9hcGJBYW9NQ1dJTmFGVWd4OFNnUg?oc=5"
     },
     {
-      "rank": 5,
-      "source": "ZeroHedge",
-      "title": "ตลาดจับตาการประชุม Jackson Hole และสมมติฐานการกำหนดนโยบายดอกเบี้ยของ Fed",
-      "url": "https://www.zerohedge.com/markets/warshs-mark-antony-moment"
+      "published": "2026-08-17T09:52:00+00:00",
+      "publisher": "Wall Street Journal",
+      "source": "WSJ Markets (Google News)",
+      "title": "Behind Peace Talks, Iran Hard-Liners Prepare for a Longer, Costlier U.S. War - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcnJSaVhVRDBpM2o2QVRmZ2NtR1FhSGtDS2NKbFBBdU1pVEUxS3ZFTTh6eGh2cDlWT0hJR1hJblg3QzV0WW85M3VhYmxzd182S20zdUoxUlh0Mm8wT2FtZnltbWJBbnVLNWlfU3l1M1BPVDctRHREM0t5M1pieGhLbjU5VjctajFqTzE1eVVZMFdRMjNRNl9oTjF2N0lxaFJXNmtadnlNb1FrdzhORDQ1OTRlNEhOUnFxMEY5Q2tQUDA?oc=5"
     },
     {
-      "rank": 6,
+      "published": "2026-08-17T21:22:00+00:00",
+      "publisher": "MarketWatch",
+      "source": "MarketWatch Top Stories",
+      "title": "There’s a 49% chance the Dow will finish this year up double digits. Here’s why.",
+      "url": "https://www.marketwatch.com/story/theres-a-49-chance-the-dow-will-finish-this-year-up-double-digits-heres-why-6871e569?mod=mw_rss_topstories"
+    },
+    {
+      "published": "2026-08-17T21:15:00+00:00",
+      "publisher": "MarketWatch",
+      "source": "MarketWatch Top Stories",
+      "title": "The number of ‘negative-beta’ stocks in the S&P 500 just hit a new record high. What that means for investors.",
+      "url": "https://www.marketwatch.com/story/the-number-of-negative-beta-stocks-in-the-s-p-500-just-hit-a-new-record-high-what-that-means-for-investors-992ca307?mod=mw_rss_topstories"
+    },
+    {
+      "published": "2026-08-17T22:15:19+00:00",
+      "publisher": "Seeking Alpha Market News",
+      "source": "Seeking Alpha Market News",
+      "title": "York Space Systems downgraded at Canaccord on supply chain concerns",
+      "url": "https://seekingalpha.com/news/4634147-york-space-systems-downgraded-at-canaccord-on-supply-chain-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+    },
+    {
+      "published": "2026-08-17T14:18:56+00:00",
+      "publisher": "The New York Times",
+      "source": "NYT US Business (Google News)",
+      "title": "American Hiker Dies After Lightning Strike on Mount Etna in Italy - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVGUxd0JQSW5KemFGWVQ1TE44M000SWMteURfMHZtVW5RU0hNU0w3c19ySmFUaUltOW5qaHhuOGZEZ3J5QWtlZTFZTnBSNjg5dlFWZDJXQk52WE0tNkpGaENaUjlia0I1eWluMnp0bDlqNms1YW03UTloYm9qanZ6WGJTVklQTHpOSW03cGRyYVF3Wld6X1RZ?oc=5"
+    },
+    {
+      "published": "2026-08-17T10:00:00+00:00",
+      "publisher": "Politico",
+      "source": "Politico Economy Policy",
+      "title": "Canada nears tariff o’clock - Politico",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT3ZKdVh4NGNURFdjYWtFQVpKaUp2RmNqRFE4cEFCSFhHR0hPNVZtbUlWLWYzRDhxU04xbHFQTFpBVE10VFVwUE1xdFhaWF9IVE1CXzU5NG8ySjluM1h0Slg2QVU4VjBQOGZGS2EyNzVsdTRUUGtSMWk2UWtnNEJpVms0RHhoZzlQVlQxTS1kWWx6c0FqQkJCaDN5VVJZRUNv?oc=5"
+    },
+    {
+      "published": "2026-08-17T13:57:47+00:00",
+      "publisher": "Yahoo Personal Finance",
       "source": "Yahoo Finance",
-      "title": "อัตราดอกเบี้ยสินเชื่อบ้าน 30 ปีในสหรัฐฯ ปรับขึ้นแตะ 6.54% ตลาดรีไฟแนนซ์ชะลอตัว",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-august-16-2026-rates-mostly-lower-than-last-week-100000512.html"
+      "title": "Bitcoin and ethereum prices today, Monday, August 17, 2026: Crypto prices down slightly as analysts question timing of bear market bottom",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-august-17-2026-crypto-prices-down-slightly-as-analysts-question-timing-of-bear-market-bottom-135747407.html"
     },
     {
-      "rank": 7,
+      "published": "2026-08-17T08:45:00+00:00",
+      "publisher": "Politico",
+      "source": "Politico Economy Policy",
+      "title": "AI slop is swamping a House office that drafts US laws - Politico",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3lYZTZ5N0ZsQ2pySGZhSzZuQUlKNzhjVVRrUnk4ZWV6WE8wWVZvdjZkWV82dmRBUU5sbnVFZldFeVVRR3BPUHZwcHljZmItWjVQUEo4dVJqMFV3cGYyRExEbWIwMm5iUXhJN1Bvd09YNUVWLWdyeWZxWk04dnN0NFhB?oc=5"
+    },
+    {
+      "published": "2026-08-17T05:18:44+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Markets",
+      "title": "Japanese automakers vulnerable to one-two punch of Iran war, yen rally",
+      "url": "https://www.cnbc.com/2026/08/17/japanese-automakers-vulnerable-iran-war-yen-rally.html"
+    },
+    {
+      "published": "2026-08-17T20:48:00+00:00",
+      "publisher": "AP News",
+      "source": "AP US Economy",
+      "title": "Trump administration briefly pauses contentious border project in Texas' Big Bend National Park - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOU5vVk54X1dmbDBBVXItdUpaZy1nM1doRDQ1TFh6WE9ibHBzdDFTMjh3aTVJa255TTlpZkNaNzY0NnAzSUJnVHJZM2FVOWhDcVh3MzU0UEdLQVhPLUtHVE14S1NLR182VXFRS0dlQjNpNzdES1BPUFJfbU0yT1ltN2tCVlZTcDFRLTUyUGI1akpDZzJDOUtKa0Z4YlJHbkVaUXpEdWFERGhHNWM?oc=5"
+    },
+    {
+      "published": "2026-08-17T21:00:44+00:00",
+      "publisher": "The New York Times",
+      "source": "NYT US Business (Google News)",
+      "title": "Mamdani Officials Will Skip Council Hearing on Second-Home Tax - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdDVCcTMxYldTU09qV2ZEM1JZd25CWXBzaFJ0Z1RTNndGRFpzNFNVVzZkLVhXaXNzOXR5OTdleGJfZXZJWWhXYnVfcEk5UmRSNENVV0JBZWFhUFBDWW9OenRLSndTZ3F2cWtlR3FoT29kaGRFNDFBb0poakgwVlh3S0k4UFE4T0lHNFRxYzE4eTdvTDhrdDlzMg?oc=5"
+    },
+    {
+      "published": "2026-08-17T22:00:24+00:00",
+      "publisher": "Seeking Alpha Market News",
+      "source": "Seeking Alpha Market News",
+      "title": "Here are the major earnings before the open Tuesay",
+      "url": "https://seekingalpha.com/news/4633839-here-are-the-major-earnings-before-the-open-tuesay?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+    },
+    {
+      "published": "2026-08-17T13:47:55+00:00",
+      "publisher": "Yahoo Personal Finance",
+      "source": "Yahoo Finance",
+      "title": "Gold prices today, Monday, August 17, 2026: Gold ticks up after lower retail sales report",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-august-17-2026-gold-ticks-up-after-lower-retail-sales-report-134755206.html"
+    },
+    {
+      "published": "2026-08-17T13:50:00+00:00",
+      "publisher": "ZeroHedge",
       "source": "ZeroHedge",
-      "title": "รายงานเตือนคลังอาวุธและขีปนาวุธป้องกันภัยทางอากาศของสหรัฐฯ เผชิญแรงตึงตัว",
-      "url": "https://www.zerohedge.com/geopolitical/fog-war-world-searching-exit"
+      "title": "AI Pledge Allegiance To The Flag",
+      "url": "https://www.zerohedge.com/markets/ai-pledge-allegiance-flag"
     },
     {
-      "rank": 8,
-      "source": "CNBC Top News",
-      "title": "ผลการเลือกตั้งขั้นต้นสภาคองเกรสส่งสัญญาณต่อการปฏิรูปกองทุนประกันสังคมสหรัฐฯ",
-      "url": "https://www.cnbc.com/2026/08/16/social-security-john-larson-connecticut-primary.html"
-    },
-    {
-      "rank": 9,
+      "published": "2026-08-17T19:05:00+00:00",
+      "publisher": "ZeroHedge",
       "source": "ZeroHedge",
-      "title": "ยูเครนส่งฝูงโดรนโจมตีศูนย์โลจิสติกส์ Wildberries ใกล้มอสโก กระทบระบบกระจายสินค้า",
-      "url": "https://www.zerohedge.com/geopolitical/ukrainian-drone-swarm-attack-obliterates-wildberries-largest-warehouse-near-moscow"
-    },
-    {
-      "rank": 10,
-      "source": "ZeroHedge",
-      "title": "ผู้ต้องหาคดียิงซีอีโอ UnitedHealthcare สารภาพข้อหารัฐบาลกลาง ส่อตัดสิทธิ์การดำเนินคดีระดับรัฐ",
-      "url": "https://www.zerohedge.com/political/oh-so-why-luigi-mangione-pleaded-guilty"
+      "title": "Trump Doubles Down On Plans To Make Hormuz Strait A US Territory: \"A Great Idea\"",
+      "url": "https://www.zerohedge.com/geopolitical/trump-threatens-bomb-st-out-oman-touts-irgc-backchannel"
     }
   ],
   "date": "2026-08-17",
-  "generated_at_utc": "2026-08-17T03:36:17Z",
+  "generated_at_utc": "2026-08-17T23:07:04Z",
   "items": [
     {
+      "category": "Macro/Fed",
+      "impact": "high",
+      "key_numbers": [
+        "5.31%",
+        "19 years"
+      ],
       "rank": 1,
-      "source": "CNBC Top News",
-      "title": "ฟิวเจอร์สสหรัฐฯ ทรงตัวหลัง S&P 500 ชนะ 3 สัปดาห์ติด จับตางบค้าปลีกและรายงานการประชุม Fed",
-      "url": "https://www.cnbc.com/2026/08/16/stock-market-today-live-updates-.html"
+      "sectors": [
+        "Financials",
+        "Real Estate",
+        "Tech"
+      ],
+      "sentiment": "bearish",
+      "source_name": "CNBC Top News",
+      "summary_th": "อัตราผลตอบแทนพันธบัตรรัฐบาลสหรัฐฯ อายุ 30 ปีปรับตัวขึ้นทะลุ 5.31% ทำสถิติสูงสุดในรอบ 19 ปี การพุ่งขึ้นของผลตอบแทนพันธบัตรระยะยาวสร้างแรงกดดันต่อต้นทุนทางการเงินและการประเมินมูลค่าสินทรัพย์เสี่ยงในตลาดหุ้นสหรัฐฯ",
+      "tickers": [],
+      "time_horizon": "immediate",
+      "title_th": "บอนด์ยีลด์สหรัฐฯ อายุ 30 ปีพุ่งทะลุ 5.31% แตะระดับสูงสุดในรอบ 19 ปี",
+      "url": "https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html",
+      "watch_next": "ติดตามการประมูลพันธบัตรกระทรวงการคลังสหรัฐฯ และรายงานการประชุม FOMC เพื่อประเมินทิศทางอัตราดอกเบี้ย"
     },
     {
+      "category": "Macro/Fed",
+      "impact": "high",
+      "key_numbers": [
+        "+20bps",
+        "+3.2% YoY"
+      ],
       "rank": 2,
-      "source": "ZeroHedge",
-      "title": "ขุนคลังสหรัฐฯ เตรียมยกระดับมาตรการตัดขาดทางเศรษฐกิจขั้นสูงสุดต่ออิหร่าน",
-      "url": "https://www.zerohedge.com/geopolitical/us-cant-bomb-its-way-victory-scotiabank-maps-bessents-coming-economic-hammer-iran"
+      "sectors": [
+        "Financials",
+        "Tech",
+        "Energy"
+      ],
+      "sentiment": "neutral",
+      "source_name": "ZeroHedge",
+      "summary_th": "ตลาดการเงินจับตารายงานการประชุม FOMC เดือนกรกฎาคมและดัชนี PMI เดือนสิงหาคม ส่วนต่างอัตราผลตอบแทนพันธบัตร 2 ปีและ 10 ปี (2s10s) ปรับชันขึ้น 20 bps ขณะที่คาดการณ์ Core PCE ประจำเดือนกรกฎาคมอยู่ที่ 3.2% YoY ส่งผลให้นักลงทุนยังคงระมัดระวังต่อแรงกดดันเงินเฟ้อและการเคลื่อนไหวของผลตอบแทนพันธบัตร",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ตลาดจับตารายงาน FOMC และ PMI ท่ามกลางภาวะ Yield Curve ชันขึ้นต่อเนื่อง",
+      "url": "https://www.zerohedge.com/markets/key-events-week-fomc-minutes-pmis-industrial-data-walmart-and-home-depot-earnings",
+      "watch_next": "ติดตามการเปิดเผยรายงานการประชุม FOMC ในวันพุธและตัวเลข Flash PMI ในวันศุกร์"
     },
     {
+      "category": "Geopolitics",
+      "impact": "high",
+      "key_numbers": [
+        "20%"
+      ],
       "rank": 3,
-      "source": "MarketWatch Top Stories",
-      "title": "ผลประกอบการ Walmart และ Target เตรียมชี้ชะตาสุขภาพกำลังซื้อผู้บริโภคสหรัฐฯ",
-      "url": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s-consumer-d5b89491?mod=mw_rss_topstories"
+      "sectors": [
+        "Energy",
+        "Industrials",
+        "Consumer"
+      ],
+      "sentiment": "bearish",
+      "source_name": "ZeroHedge",
+      "summary_th": "สถานการณ์ความขัดแย้งในตะวันออกกลางทวีความรุนแรงขึ้น หลังอิหร่านปรับแนวทางสู่การรุกเต็มรูปแบบและมีรายงานการเข้ายึดเรือบรรทุกน้ำมันในช่องแคบฮอร์มุซ ซึ่งเป็นเส้นทางขนส่งน้ำมันสัดส่วน 20% ของโลก ความตึงเครียดดังกล่าวส่งผลให้ราคาน้ำมันดิบโลกดีดตัวขึ้นทันทีและเพิ่มความเสี่ยงเงินเฟ้อรอบใหม่",
+      "tickers": [],
+      "time_horizon": "immediate",
+      "title_th": "วิกฤตช่องแคบฮอร์มุซตึงเครียด ดันราคาน้ำมันพุ่งหลังอิหร่านปรับท่าทีทางทหาร",
+      "url": "https://www.zerohedge.com/geopolitical/trump-threatens-bomb-st-out-oman-touts-irgc-backchannel",
+      "watch_next": "จับตามาตรการคุ้มกันการเดินเรือของกองทัพเรือสหรัฐฯ และความเสี่ยงต่อการปิดกั้นเส้นทางขนส่งพลังงาน"
     },
     {
+      "category": "Sector-specific",
+      "impact": "medium",
+      "key_numbers": [],
       "rank": 4,
-      "source": "WSJ Markets (Google News)",
-      "title": "ราคาน้ำมันดิบขยับขึ้นต่อเนื่อง หลังการเจรจาสหรัฐฯ-อิหร่านยังไร้ข้อสรุป",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORkF6SjN6Wlp2enZxcjVZRUZEWnUtZVJ4NmYxNUFyQ0taT0loOUJSVVkwZzJ5UUZZOUM3Rm9DWmxDQTN6d1hTOTVpU19DbWRHYUVEWWxDUldaeVVJUktoN25JeGVMVWRPeUNESUF5LTVTWFV0bjBoSWF4MWxuQU55c3lVcW5xa20xLXI1aUdxdlpWRExQbFdUbEp2SndtMkRCbW9qdDZLeHJQMTd5aENBR0ViYlVhdUt4MVhN?oc=5"
+      "sectors": [
+        "Tech",
+        "Financials"
+      ],
+      "sentiment": "bullish",
+      "source_name": "CNBC Top News",
+      "summary_th": "Nvidia ขับเคลื่อนโครงการจัดหาเงินทุนสำหรับศูนย์ข้อมูล AI ภายหลังสำนักงาน ก.ล.ต. สหรัฐฯ (SEC) ออกแนวปฏิบัติที่ช่วยปลดภาระความรับผิดชอบของสปอนเซอร์โครงการ แนวทางนี้ช่วยลดข้อจำกัดด้านกฎเกณฑ์และสนับสนุนกระแสเงินลงทุนโครงสร้างพื้นฐาน AI ของภาคเอกชนให้คล่องตัวยิ่งขึ้น",
+      "tickers": [
+        "NVDA"
+      ],
+      "time_horizon": "short-term",
+      "title_th": "Nvidia เดินหน้าโมเดลระดมทุนศูนย์ข้อมูล หลัง ก.ล.ต. สหรัฐฯ ออกแนวปฏิบัติใหม่",
+      "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-initiative-follows-sec-guidance-taking-sponsors-off-the-hook.html",
+      "watch_next": "ติดตามรูปแบบโครงสร้างการเงินใหม่ของกลุ่มผู้ให้บริการดาต้าเซ็นเตอร์และแนวทางลงทุน AI Capex"
     },
     {
+      "category": "Commodity",
+      "impact": "high",
+      "key_numbers": [
+        "300 million barrels"
+      ],
       "rank": 5,
-      "source": "ZeroHedge",
-      "title": "ตลาดจับตาการประชุม Jackson Hole และสมมติฐานการกำหนดนโยบายดอกเบี้ยของ Fed",
-      "url": "https://www.zerohedge.com/markets/warshs-mark-antony-moment"
+      "sectors": [
+        "Energy",
+        "Utilities"
+      ],
+      "sentiment": "bearish",
+      "source_name": "ZeroHedge",
+      "summary_th": "ปริมาณน้ำมันดิบในคลังสำรองเชิงยุทธศาสตร์ของสหรัฐฯ (SPR) ปรับลดลงต่ำกว่าระดับ 300 ล้านบาร์เรลเป็นครั้งแรกนับตั้งแต่ช่วงทศวรรษ 1980 จากความพยายามสกัดการพุ่งขึ้นของราคาน้ำมัน ระดับน้ำมันสำรองที่ลดลงจำกัดขีดความสามารถของรัฐบาลสหรัฐฯ ในการรับมือกับภาวะชะงักงันของอุปทานพลังงานในอนาคต",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "คลังสำรองน้ำมันเชิงยุทธศาสตร์สหรัฐฯ ลดลงต่ำกว่า 300 ล้านบาร์เรล",
+      "url": "https://www.zerohedge.com/markets/ai-pledge-allegiance-flag",
+      "watch_next": "ติดตามท่าทีนโยบายพลังงานของทำเนียบขาวและแผนการเติมน้ำมันกลับเข้าคลังสำรอง SPR"
     },
     {
+      "category": "Sector-specific",
+      "impact": "medium",
+      "key_numbers": [
+        "$300 million",
+        "$2.8 billion"
+      ],
       "rank": 6,
-      "source": "Yahoo Finance",
-      "title": "อัตราดอกเบี้ยสินเชื่อบ้าน 30 ปีในสหรัฐฯ ปรับขึ้นแตะ 6.54% ตลาดรีไฟแนนซ์ชะลอตัว",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-august-16-2026-rates-mostly-lower-than-last-week-100000512.html"
+      "sectors": [
+        "Energy"
+      ],
+      "sentiment": "bullish",
+      "source_name": "ZeroHedge",
+      "summary_th": "บริษัทผู้ผลิตน้ำมันจากชั้นหินดินดานในสหรัฐฯ ปรับเพิ่มงบประมาณการลงทุนเพื่อขยายการขุดเจาะอย่างต่อเนื่อง โดย Continental Resources ประกาศเพิ่มงบ Capex อีกราว 300 ล้านดอลลาร์ สู่ระดับ 2.8 พันล้านดอลลาร์ การปรับเพิ่มงบสะท้อนถึงการฟื้นตัวของกิจกรรมการผลิตพลังงานฟอสซิลในสหรัฐฯ เพื่อรองรับความมั่นคงด้านพลังงาน",
+      "tickers": [
+        "FANG",
+        "CLR"
+      ],
+      "time_horizon": "long-term",
+      "title_th": "ผู้ผลิต Shale Oil สหรัฐฯ ปรับเพิ่มงบลงทุน Capex หลังราคาน้ำมันพุ่งสูง",
+      "url": "https://www.zerohedge.com/energy/geopolitical-reality-has-ended-rush-renewables",
+      "watch_next": "ติดตามปริมาณการผลิตน้ำมันดิบรายสัปดาห์ของสหรัฐฯ และจำนวนแท่นขุดเจาะ"
     },
     {
+      "category": "Macro/Fed",
+      "impact": "medium",
+      "key_numbers": [],
       "rank": 7,
-      "source": "ZeroHedge",
-      "title": "รายงานเตือนคลังอาวุธและขีปนาวุธป้องกันภัยทางอากาศของสหรัฐฯ เผชิญแรงตึงตัว",
-      "url": "https://www.zerohedge.com/geopolitical/fog-war-world-searching-exit"
+      "sectors": [
+        "Financials"
+      ],
+      "sentiment": "neutral",
+      "source_name": "WSJ Markets (Google News)",
+      "summary_th": "ค่าเงินดอลลาร์สหรัฐฯ ปรับตัวลดลงอย่างมีนัยสำคัญ เนื่องจากนักลงทุนปรับลดโอกาสที่ธนาคารกลางสหรัฐฯ จะปรับขึ้นอัตราดอกเบี้ยนโยบายในระยะใกล้ การอ่อนค่าของดอลลาร์ช่วยลดแรงกดดันต่อสกุลเงินหลักคู่ค้า แต่ยังสะท้อนมุมมองที่ระมัดระวังต่อการเติบโตทางเศรษฐกิจ",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ดอลลาร์สหรัฐฯ ร่วงลง หลังตลาดลดการคาดการณ์การขึ้นดอกเบี้ยของเฟด",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdUpiUHhKbEtobmthQ1VQV0VIX2tCUGxYMjFMRUFvR2FXNnRCVmJyX0c1NWdvR1NGanNUc2xoNUcyVUp2TkIxc2pmU1NyS245SEdTMWtIcTFyYVdtM1JRZ0xUT0ZocDdrNjB6OVJ6X2F1OWVCYWowLW5iS0NmMklVTy0xSWJvWW80ZWdIX2xqWlBVOGZfN1lnWHRUd1lUZENLSzlFVEE4UU9hcGJBYW9NQ1dJTmFGVWd4OFNnUg?oc=5",
+      "watch_next": "จับตาดัชนีค่าเงินดอลลาร์และแถลงการณ์ของเจ้าหน้าที่เฟดในการประชุมวิชาการประจำปี"
     },
     {
+      "category": "Macro/Fed",
+      "impact": "medium",
+      "key_numbers": [],
       "rank": 8,
-      "source": "CNBC Top News",
-      "title": "ผลการเลือกตั้งขั้นต้นสภาคองเกรสส่งสัญญาณต่อการปฏิรูปกองทุนประกันสังคมสหรัฐฯ",
-      "url": "https://www.cnbc.com/2026/08/16/social-security-john-larson-connecticut-primary.html"
+      "sectors": [
+        "Financials"
+      ],
+      "sentiment": "bearish",
+      "source_name": "Bloomberg Markets (Google News)",
+      "summary_th": "Citadel Securities ระบุว่าอัตราผลตอบแทนพันธบัตรสหรัฐฯ ที่ดีดตัวขึ้นแรงสะท้อนความไม่แน่นอนของนโยบายการเงินและความเสี่ยงด้านเงินเฟ้อที่ยังคงอยู่ ความผันผวนในตลาดตราสารหนี้อาจส่งผลให้ส่วนชดเชยความเสี่ยง (Term Premium) ปรับสูงขึ้นอย่างต่อเนื่อง",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "Citadel Securities ชี้บอนด์ยีลด์ที่พุ่งแรงสะท้อนความเสี่ยงเชิงนโยบายของเฟด",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSlZXVGVDWm91NXBvRnRXWU9KNmd0bWhEX1dQLVZTek9Md3BpUUQ4UzgzVEFKamZ0NU9OckNuRnRBMVdMQXlnRFhjSWNOR0NVb29rRFFJZDhmeXRxc0R2ZGNpLTVnOEZUZFVrN05nUTVTMVVHNDlzbkFIcFIxLWRwQ3g2dmozVVV1YW1LTmsxU1ZXaHhJUm5NMjlZZ2RoaHZ5TlVfbzRBdUtSaFlBdjB6VDdLSQ?oc=5",
+      "watch_next": "ติดตามท่าทีของตลาดตราสารหนี้ต่อการประมูลพันธบัตรรุ่นอายุ 20 ปีในสัปดาห์นี้"
     },
     {
+      "category": "Sector-specific",
+      "impact": "medium",
+      "key_numbers": [],
       "rank": 9,
-      "source": "ZeroHedge",
-      "title": "ยูเครนส่งฝูงโดรนโจมตีศูนย์โลจิสติกส์ Wildberries ใกล้มอสโก กระทบระบบกระจายสินค้า",
-      "url": "https://www.zerohedge.com/geopolitical/ukrainian-drone-swarm-attack-obliterates-wildberries-largest-warehouse-near-moscow"
+      "sectors": [
+        "Tech",
+        "Financials",
+        "Consumer"
+      ],
+      "sentiment": "neutral",
+      "source_name": "MarketWatch Top Stories",
+      "summary_th": "จำนวนหุ้นที่มีค่าความสัมพันธ์ทิศทางตรงข้ามกับตลาด (Negative-Beta) ภายในดัชนี S&P 500 พุ่งทำสถิติสูงสุดใหม่ ปรากฏการณ์นี้สะท้อนภาวะการเคลื่อนไหวแบบแยกส่วน (Dispersion) สูงในตลาดหุ้นสหรัฐฯ แม้ดัชนีรวมจะดูทรงตัว",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "หุ้น Negative-Beta ใน S&P 500 พุ่งแตะระดับสูงสุดเป็นประวัติการณ์ บ่งชี้ความผันผวนแฝง",
+      "url": "https://www.marketwatch.com/story/the-number-of-negative-beta-stocks-in-the-s-p-500-just-hit-a-new-record-high-what-that-means-for-investors-992ca307?mod=mw_rss_topstories",
+      "watch_next": "จับตาระดับความผันผวนของดัชนี VIX และการกระจายตัวของผลตอบแทนรายกลุ่มอุตสาหกรรม"
     },
     {
+      "category": "Commodity",
+      "impact": "low",
+      "key_numbers": [],
       "rank": 10,
-      "source": "ZeroHedge",
-      "title": "ผู้ต้องหาคดียิงซีอีโอ UnitedHealthcare สารภาพข้อหารัฐบาลกลาง ส่อตัดสิทธิ์การดำเนินคดีระดับรัฐ",
-      "url": "https://www.zerohedge.com/political/oh-so-why-luigi-mangione-pleaded-guilty"
+      "sectors": [
+        "Materials",
+        "Consumer"
+      ],
+      "sentiment": "bullish",
+      "source_name": "Yahoo Finance",
+      "summary_th": "ราคาทองคำปรับตัวขึ้นเล็กน้อยหลังตัวเลขยอดค้าปลีกของสหรัฐฯ ออกมาต่ำกว่าคาดการณ์ ข้อมูลดังกล่าวช่วยคลายความกังวลเรื่องเศรษฐกิจร้อนแรงเกินไปและหนุนแรงซื้อสินทรัพย์ปลอดภัย",
+      "tickers": [],
+      "time_horizon": "immediate",
+      "title_th": "ราคาทองคำขยับขึ้น รับแรงหนุนจากรายงานยอดค้าปลีกสหรัฐฯ ที่ชะลอตัว",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-august-17-2026-gold-ticks-up-after-lower-retail-sales-report-134755206.html",
+      "watch_next": "ติดตามการรายงานตัวเลขการใช้จ่ายผู้บริโภคและการแถลงของเจ้าหน้าที่เฟด"
     }
   ],
   "model_used": "google/gemini-3.7-flash"
