@@ -3,16 +3,17 @@ from datetime import datetime, timezone
 import pytest
 
 from scripts import classifier, summarizer
-from scripts.sources import Article
+from scripts.sources import Article, entry_publisher
 
 
-def article(title: str, source: str, url: str) -> Article:
+def article(title: str, source: str, url: str, publisher: str = "") -> Article:
     return Article(
         title=title,
         link=url,
         published=datetime.now(timezone.utc),
         summary=title,
         source_name=source,
+        publisher=publisher,
     )
 
 
@@ -27,9 +28,9 @@ def test_default_model_chain_is_current_and_synchronous():
 
 def test_us_scope_penalizes_unrelated_foreign_domestic_story():
     foreign = article(
-        "UK government considers a domestic bank tax",
+        "China government considers a domestic bank tax",
         "Financial Times",
-        "https://example.com/uk",
+        "https://example.com/china",
     )
     us = article(
         "Federal Reserve signals rate decision after US inflation data",
@@ -38,6 +39,7 @@ def test_us_scope_penalizes_unrelated_foreign_domestic_story():
     )
     scored = classifier.score_articles([foreign, us])
     assert us.score > foreign.score
+    assert classifier._us_scope_score(foreign.title) == -5.0
 
 
 def test_dedupe_preserves_independent_corroborating_source():
@@ -45,15 +47,38 @@ def test_dedupe_preserves_independent_corroborating_source():
         "Federal Reserve signals rate cut after inflation report",
         "Reuters",
         "https://example.com/1",
+        publisher="Reuters",
     )
     second = article(
         "Federal Reserve signals rate cut after inflation report",
         "CNBC",
         "https://example.com/2",
+        publisher="CNBC",
     )
     kept = classifier.dedupe(classifier.score_articles([first, second]))
     assert len(kept) == 1
-    assert len(kept[0].corroborating_sources) == 1
+    assert kept[0].corroborating_sources == ["CNBC"]
+
+
+def test_feed_labels_from_same_publisher_are_not_corroboration():
+    first = article(
+        "Federal Reserve signals rate cut after inflation report",
+        "Reuters Business",
+        "https://example.com/1",
+    )
+    second = article(
+        "Federal Reserve signals rate cut after inflation report",
+        "Reuters US Markets",
+        "https://example.com/2",
+    )
+    kept = classifier.dedupe(classifier.score_articles([first, second]))
+    assert len(kept) == 1
+    assert kept[0].corroborating_sources == []
+
+
+def test_google_news_entry_uses_actual_publisher_metadata():
+    entry = {"source": {"title": "Reuters"}}
+    assert entry_publisher(entry, "US Geopolitics") == "Reuters"
 
 
 def test_validator_rejects_invented_and_duplicate_urls():

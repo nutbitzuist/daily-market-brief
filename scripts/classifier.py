@@ -6,7 +6,7 @@ from datetime import datetime, timezone
 from difflib import SequenceMatcher
 from typing import Iterable
 
-from scripts.sources import Article
+from scripts.sources import Article, canonical_publisher
 
 TIER1 = [
     "fed", "fomc", "rate cut", "rate hike", "powell", "cpi", "pce", "nfp",
@@ -34,11 +34,15 @@ LOW_SIGNAL_TERMS = (
     "best stocks", "dividend stocks to buy", "crypto", "bitcoin",
 )
 
-US_SCOPE_TERMS = (
-    "u.s.", " us ", "america", "american", "federal reserve", "fed ", "fomc",
-    "white house", "congress", "treasury", "sec ", "wall street", "s&p 500",
-    "nasdaq", "dow", "dollar", "tariff", "china", "iran", "russia", "opec",
-    "oil", "shipping", "global market", "geopolit",
+US_DIRECT_TERMS = (
+    "u.s.", " us ", "united states", "america", "american", "federal reserve",
+    "fed ", "fomc", "white house", "congress", "us treasury", "u.s. treasury",
+    "wall street", "s&p 500", "nasdaq", "dow", "sec ",
+)
+GLOBAL_TRANSMISSION_TERMS = (
+    "global market", "world market", "supply chain", "trade war", "tariff",
+    "sanction", "export control", "shipping lane", "oil price", "crude price",
+    "energy price", "geopolit", "war ",
 )
 
 SECTOR_KEYWORDS = {
@@ -115,7 +119,11 @@ def _source_bonus(source_name: str) -> float:
 
 def _us_scope_score(text: str) -> float:
     padded = f" {text.lower()} "
-    return 3.0 if any(term in padded for term in US_SCOPE_TERMS) else -5.0
+    if any(term in padded for term in US_DIRECT_TERMS):
+        return 3.0
+    if any(term in padded for term in GLOBAL_TRANSMISSION_TERMS):
+        return 1.0
+    return -5.0
 
 
 def score_articles(articles: Iterable[Article]) -> list[Article]:
@@ -140,6 +148,10 @@ def _normalize_title(t: str) -> str:
     return re.sub(r"\s+", " ", t.lower().strip())
 
 
+def _publisher(article: Article) -> str:
+    return article.publisher or canonical_publisher(article.source_name)
+
+
 def dedupe(articles: list[Article], ratio_threshold: float = 0.8) -> list[Article]:
     seen_urls: set[str] = set()
     kept: list[Article] = []
@@ -150,8 +162,9 @@ def dedupe(articles: list[Article], ratio_threshold: float = 0.8) -> list[Articl
         is_dup = False
         for k in kept:
             if SequenceMatcher(None, norm, _normalize_title(k.title)).ratio() > ratio_threshold:
-                if a.source_name != k.source_name and a.source_name not in k.corroborating_sources:
-                    k.corroborating_sources.append(a.source_name)
+                publisher = _publisher(a)
+                if publisher != _publisher(k) and publisher not in k.corroborating_sources:
+                    k.corroborating_sources.append(publisher)
                 is_dup = True
                 break
         if is_dup:

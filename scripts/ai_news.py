@@ -127,11 +127,15 @@ def dedupe_by_url(articles: list[sources.Article]) -> list[sources.Article]:
         norm_title = " ".join(a.title.lower().split())
         duplicate = seen.get(a.link) or title_seen.get(norm_title)
         if duplicate:
+            publisher = a.publisher or sources.canonical_publisher(a.source_name)
+            duplicate_publisher = (
+                duplicate.publisher or sources.canonical_publisher(duplicate.source_name)
+            )
             if (
-                a.source_name != duplicate.source_name
-                and a.source_name not in duplicate.corroborating_sources
+                publisher != duplicate_publisher
+                and publisher not in duplicate.corroborating_sources
             ):
-                duplicate.corroborating_sources.append(a.source_name)
+                duplicate.corroborating_sources.append(publisher)
             continue
         seen[a.link] = a
         title_seen[norm_title] = a

@@ -58,6 +58,7 @@ class Article:
     published: datetime
     summary: str
     source_name: str
+    publisher: str = ""
     content: str = ""
     paywalled: bool = False
     score: float = 0.0
@@ -73,6 +74,7 @@ class Article:
             "published": self.published.isoformat(),
             "summary": self.summary,
             "source_name": self.source_name,
+            "publisher": self.publisher or self.source_name,
             "content": self.content,
             "paywalled": self.paywalled,
             "score": self.score,
@@ -139,6 +141,36 @@ def _extract_rss_content(entry) -> str:
     return soup.get_text(" ", strip=True)
 
 
+def canonical_publisher(source_name: str) -> str:
+    """Collapse feed/query labels to the underlying editorial publisher."""
+    low = source_name.lower()
+    aliases = (
+        ("reuters", "Reuters"),
+        ("financial times", "Financial Times"),
+        ("ft tech", "Financial Times"),
+        ("cnbc", "CNBC"),
+        ("marketwatch", "MarketWatch"),
+        ("bloomberg", "Bloomberg"),
+        ("wsj", "Wall Street Journal"),
+        ("google deepmind", "Google"),
+        ("google ai", "Google"),
+    )
+    for marker, publisher in aliases:
+        if marker in low:
+            return publisher
+    return source_name.replace(" (Google News)", "").strip()
+
+
+def entry_publisher(entry, source_name: str) -> str:
+    """Use RSS publisher metadata when present; otherwise normalize the feed label."""
+    source = entry.get("source") or {}
+    if isinstance(source, dict):
+        title = str(source.get("title") or "").strip()
+        if title:
+            return canonical_publisher(title)
+    return canonical_publisher(source_name)
+
+
 def fetch_feed(source_name: str, url: str, cutoff: datetime) -> list[Article]:
     resp = _http_get(url)
     data = resp.content if resp else None
@@ -160,6 +192,7 @@ def fetch_feed(source_name: str, url: str, cutoff: datetime) -> list[Article]:
                 published=pub,
                 summary=summary,
                 source_name=source_name,
+                publisher=entry_publisher(entry, source_name),
             )
         )
     log.info("fetched %d entries from %s", len(out), source_name)
