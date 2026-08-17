@@ -1,6 +1,6 @@
 ---
 date: 2026-08-17
-generated_at_utc: 2026-08-17T03:17:17Z
+generated_at_utc: 2026-08-17T03:26:49Z
 model_used: deterministic-fallback/openrouter-unavailable
 sources_count: 5
 ---
@@ -15,7 +15,7 @@ sources_count: 5
 - InfoQuest — economic, business, market and policy news; exclude crypto/PR noise
 - Official Thailand market sources — BoT, SET, MoF/คลัง, SEC/ก.ล.ต. when market-moving
 
-ตลาดหุ้นไทยวันนี้มีแนวโน้มแกว่งตัวไซด์เวย์ในกรอบ 1,590–1,620
+ปัจจัยขับเคลื่อนหลักเช้านี้อยู่ที่การแถลงตัวเลข GDP ไตรมาส 2 และการปรับประมาณการเศรษฐกิจไทยโดยสภาพัฒ
 
 ## 1. SET วันนี้ (17 ส.ค.) กรอบ 1,590 – 1,620 จุด จับตาสภาพัฒน์ปรับจีดีพี
 
@@ -136,24 +136,7 @@ Fallback brief จาก Bangkok Post Business: Larger part for yuan in trade
 
 🔗 Source: [Bangkok Post Business](https://www.bangkokpost.com/business/general/3302952/larger-part-for-yuan-in-trade)
 
-## 8. ภาวะตลาดหุ้นไทย:แนวโน้มดัชนีเช้าแกว่งไซด์เวย์ เข้าโหมดระวังลงทุนกังวลเงินเฟ้อ-น้ำมันพุ่ง จับตาตัวเลข GDP ไทย-ทิศทาง Flow : อินโฟเควสท์ - สำนักข่าวอินโฟเควสท์
-
-| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
-|---|---|---|---|---|---|
-| SET/หุ้นไทย | neutral | low | immediate | — | FLOW, GDP |
-
-Fallback brief จาก MoneyChannel TH (Google News): ภาวะตลาดหุ้นไทย:แนวโน้มดัชนีเช้าแกว่งไซด์เวย์ เข้าโหมดระวังลงทุนกังวลเงินเฟ้อ-น้ำมันพุ่ง จับตาตัวเลข GDP ไทย-ทิศทาง Flow : อินโฟเควสท์ - สำนักข่าวอินโฟเควสท์
-ประเด็นจากแหล่งข่าว: ภาวะตลาดหุ้นไทย:แนวโน้มดัชนีเช้าแกว่งไซด์เวย์ เข้าโหมดระวังลงทุนกังวลเงินเฟ้อ-น้ำมันพุ่ง จับตาตัวเลข GDP ไทย-ทิศทาง Flow : อินโฟเควสท์ สำนักข่าวอินโฟเควสท์ ภาวะตลาดหุ้นไทย:แนวโน้มดัชนีเช้าแกว่งไซด์เวย์ เข้าโหมดระวังลงทุนกังวลเงินเฟ้อ-น้ำมันพุ่ง จับตาตัวเลข GDP ไทย-ทิศทาง Flow : อินโฟเควสท์ สำนักข่าวอินโฟเควสท์
-ใช้เป็น early-warning สำหรับ SET/THB/sector watch; ต้องตามด้วย desk review เมื่อโมเดลกลับมาใช้งานได้.
-
-**📊 Key Numbers**
-- OpenRouter unavailable; deterministic fallback used
-
-**👀 Watch Next:** ตรวจสอบ OpenRouter secret และต้นทางข่าว; fallback นี้ทำให้ workflow ส่ง brief ได้แม้ LLM ล่ม
-
-🔗 Source: [MoneyChannel TH (Google News)](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwQmNBVVF5VG13VW1FN1U1aDBxVWE3ekcxbWpJUTdob19BX0RENFR0UWNuQVBxQTJ1UUpVTHl1dkhXcVZSbWx3RW1BZ1FKT2JU?oc=5)
-
-## 9. TOPICSTODAY: จับตาสภาพัฒน์ แถลง GDP Q2/69 แนวโน้มปี 69/ นายกฯ เยือนออสเตรเลียและนิวซีแลนด์ - RYT9
+## 8. TOPICSTODAY: จับตาสภาพัฒน์ แถลง GDP Q2/69 แนวโน้มปี 69/ นายกฯ เยือนออสเตรเลียและนิวซีแลนด์ - RYT9
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
@@ -170,7 +153,7 @@ Fallback brief จาก RYT9 Economy (Google News): TOPICSTODAY: จับต�
 
 🔗 Source: [RYT9 Economy (Google News)](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1qRTF2SzdKWUJNUXNkNFE0UWIyOWE2dUd5cTZ1ck5vZ0tyZEgyVkhRRWE0aFJCelRXVTJUVldJWkJiQUI5X0pSaVJ3?oc=5)
 
-## 10. KSS คาดหุ้นไทยสัปดาห์นี้ไซด์เวย์ ลุ้น GDP ไตรมาส 2 ฟื้น ชู BH-THAI-AOT เด่น | ข่าวหุ้นธุรกิจ - LINE TODAY
+## 9. KSS คาดหุ้นไทยสัปดาห์นี้ไซด์เวย์ ลุ้น GDP ไตรมาส 2 ฟื้น ชู BH-THAI-AOT เด่น | ข่าวหุ้นธุรกิจ - LINE TODAY
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
@@ -186,3 +169,20 @@ Fallback brief จาก MoneyChannel TH (Google News): KSS คาดหุ้�
 **👀 Watch Next:** ตรวจสอบ OpenRouter secret และต้นทางข่าว; fallback นี้ทำให้ workflow ส่ง brief ได้แม้ LLM ล่ม
 
 🔗 Source: [MoneyChannel TH (Google News)](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aLVM2WWlIUEIwamp6YjJJaE9rQ0FNbFBmZ2Z6SkNwV2ZVRlhpNUN2RGEzR2dQam9oVHJyeWt6dlZKaTFVMGVQbUs5VnhGbEJpdzZPc0RR?oc=5)
+
+## 10. แนวโน้ม SET แกว่งไซด์เวย์ จับตา GDP ไทย-ฟันด์โฟลว์ต่างชาติ - ข่าวหุ้นธุรกิจออนไลน์
+
+| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
+|---|---|---|---|---|---|
+| SET/หุ้นไทย | neutral | low | immediate | — | GDP, SET |
+
+Fallback brief จาก MoneyChannel TH (Google News): แนวโน้ม SET แกว่งไซด์เวย์ จับตา GDP ไทย-ฟันด์โฟลว์ต่างชาติ - ข่าวหุ้นธุรกิจออนไลน์
+ประเด็นจากแหล่งข่าว: แนวโน้ม SET แกว่งไซด์เวย์ จับตา GDP ไทย-ฟันด์โฟลว์ต่างชาติ ข่าวหุ้นธุรกิจออนไลน์ แนวโน้ม SET แกว่งไซด์เวย์ จับตา GDP ไทย-ฟันด์โฟลว์ต่างชาติ ข่าวหุ้นธุรกิจออนไลน์
+ใช้เป็น early-warning สำหรับ SET/THB/sector watch; ต้องตามด้วย desk review เมื่อโมเดลกลับมาใช้งานได้.
+
+**📊 Key Numbers**
+- OpenRouter unavailable; deterministic fallback used
+
+**👀 Watch Next:** ตรวจสอบ OpenRouter secret และต้นทางข่าว; fallback นี้ทำให้ workflow ส่ง brief ได้แม้ LLM ล่ม
+
+🔗 Source: [MoneyChannel TH (Google News)](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JNkZXNk92dzlRblFmN1BpeENTY3JrU3FaX05iLTdmU1NhRWpTUm5meUZ1by1VTmJTdmZ2VnZzbUxlOHVuNUxtVUpzaw?oc=5)
