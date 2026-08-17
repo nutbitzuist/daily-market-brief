@@ -151,7 +151,7 @@ def _validate(items: Any) -> list[dict]:
 
 
 def _validate_selected_urls(items: list[dict], articles: list[dict]) -> list[dict]:
-    """Reject invented URLs and duplicate story selections."""
+    """Strict validator retained for tests and callers that require all-model output."""
     allowed = {str(a.get("link", "")).strip() for a in articles}
     selected: set[str] = set()
     for i, item in enumerate(items):
@@ -162,6 +162,54 @@ def _validate_selected_urls(items: list[dict], articles: list[dict]) -> list[dic
             raise ValueError(f"item {i} duplicated a selected story URL")
         selected.add(url)
     return items
+
+
+def _repair_selected_items(
+    items: list[dict],
+    articles: list[dict],
+    fallback_items: list[dict],
+    blocked_terms: tuple[str, ...] = (),
+) -> tuple[list[dict], int]:
+    """Keep valid model rows and replace at most a few unsafe rows deterministically."""
+    allowed = {str(a.get("link", "")).strip() for a in articles}
+    selected: set[str] = set()
+    repaired: list[dict] = []
+    replacements = 0
+    for item in items:
+        searchable = (
+            f"{item.get('title_th', '')}\n{item.get('summary_th', '')}\n"
+            f"{item.get('source_name', item.get('source', ''))}"
+        ).lower()
+        url = str(item.get("url", "")).strip()
+        if (
+            url not in allowed
+            or url in selected
+            or any(term in searchable for term in blocked_terms)
+        ):
+            replacements += 1
+            continue
+        selected.add(url)
+        repaired.append(item)
+
+    for fallback in fallback_items:
+        if len(repaired) >= len(items):
+            break
+        url = str(fallback.get("url", "")).strip()
+        searchable = (
+            f"{fallback.get('title_th', '')}\n{fallback.get('summary_th', '')}\n"
+            f"{fallback.get('source_name', fallback.get('source', ''))}"
+        ).lower()
+        if not url or url in selected or any(term in searchable for term in blocked_terms):
+            continue
+        selected.add(url)
+        repaired.append(fallback)
+
+    if len(repaired) != len(items):
+        raise ValueError("could not safely backfill invalid model selections")
+    for rank, item in enumerate(repaired, 1):
+        if "rank" in item:
+            item["rank"] = rank
+    return repaired, replacements
 
 
 def _build_user_prompt(articles: list[dict]) -> str:
@@ -198,7 +246,13 @@ def summarize_articles(articles: list[dict]) -> tuple[list[dict], str]:
             continue
         try:
             items = _validate(_extract_json_array(out))
-            items = _validate_selected_urls(items, articles)
+            items, replacements = _repair_selected_items(
+                items, articles, _fallback_us_items(articles)
+            )
+            if replacements > 2:
+                raise ValueError(f"model required {replacements} unsafe row replacements")
+            if replacements:
+                log.warning("model %s required %s deterministic US row replacement(s)", model, replacements)
             return items, model
         except (ValueError, json.JSONDecodeError) as e:
             last_err = e
@@ -288,7 +342,13 @@ def summarize_ai_news(articles: list[dict]) -> tuple[list[dict], str]:
             continue
         try:
             items = _validate_ai(_extract_json_array(out))
-            items = _validate_selected_urls(items, articles)
+            items, replacements = _repair_selected_items(
+                items, articles, _fallback_ai_items(articles)
+            )
+            if replacements > 1:
+                raise ValueError(f"model required {replacements} unsafe row replacements")
+            if replacements:
+                log.warning("model %s required %s deterministic AI row replacement(s)", model, replacements)
             return items, model
         except (ValueError, json.JSONDecodeError) as e:
             last_err = e
@@ -492,12 +552,6 @@ def _validate_th(items: Any) -> list[dict]:
         it["time_horizon"] = HORIZON_ALIASES.get(it["time_horizon"], it["time_horizon"])
         if it["time_horizon"] not in TH_VALID_HORIZON:
             raise ValueError(f"item {i} bad time_horizon {it['time_horizon']}")
-        searchable = (
-            f"{it.get('title_th', '')}\n{it.get('summary_th', '')}\n"
-            f"{it.get('source_name', '')}"
-        ).lower()
-        if any(term in searchable for term in TH_BLOCK_TERMS):
-            raise ValueError(f"item {i} contains blocked Thailand Brief topic")
         for k in ("sectors", "tickers", "key_numbers"):
             it[k] = _coerce_str_list(it.get(k))
     return items
@@ -535,7 +589,16 @@ def summarize_th_news(articles: list[dict]) -> tuple[list[dict], str]:
             continue
         try:
             items = _validate_th(_extract_json_array(out))
-            items = _validate_selected_urls(items, articles)
+            items, replacements = _repair_selected_items(
+                items,
+                articles,
+                _fallback_th_items(articles),
+                blocked_terms=TH_BLOCK_TERMS,
+            )
+            if replacements > 2:
+                raise ValueError(f"model required {replacements} unsafe row replacements")
+            if replacements:
+                log.warning("model %s required %s deterministic TH row replacement(s)", model, replacements)
             return items, model
         except (ValueError, json.JSONDecodeError) as e:
             last_err = e

@@ -94,3 +94,24 @@ def test_common_horizon_alias_is_normalized_instead_of_rejecting_brief():
         [dict(item, rank=rank) for rank in range(1, 11)]
     )
     assert all(row["time_horizon"] == "short-term" for row in items)
+
+
+def test_repair_keeps_model_rows_and_backfills_one_bad_selection():
+    model_rows = [
+        {"rank": rank, "url": f"https://example.com/{rank}", "title_th": f"ข่าว {rank}"}
+        for rank in range(1, 11)
+    ]
+    model_rows[2]["url"] = model_rows[1]["url"]
+    candidates = [
+        {"link": f"https://example.com/{rank}"} for rank in range(1, 12)
+    ]
+    fallback = [
+        {"rank": rank, "url": f"https://example.com/{rank}", "title_th": f"สำรอง {rank}"}
+        for rank in range(1, 12)
+    ]
+    repaired, replacements = summarizer._repair_selected_items(
+        model_rows, candidates, fallback
+    )
+    assert replacements == 1
+    assert len(repaired) == 10
+    assert len({row["url"] for row in repaired}) == 10
