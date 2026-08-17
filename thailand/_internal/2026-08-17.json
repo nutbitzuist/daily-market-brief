@@ -1,128 +1,394 @@
 {
   "articles": [
     {
-      "rank": 1,
-      "source": "RYT9 / InfoQuest",
-      "title": "สภาพัฒน์แถลง GDP ไตรมาส 2/2569 ขยายตัว 1.9% พร้อมปรับกรอบทั้งปีเป็น 2.0-2.5%",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5kVlZ6YThteVVJZ3kyc2hESDdWeFJTcGZNMUszX1VhUDJLbm45bHRtN1JUUDRQQ0R0ejJiR190eTgxTWZOU1pGX3Jn?oc=5"
-    },
-    {
-      "rank": 2,
-      "source": "ประชาชาติธุรกิจ Finance",
-      "title": "ขุนคลังนำทีมเยือนออสเตรเลีย-นิวซีแลนด์ ต่อยอด FTA รถยนต์ ดึงบีโอไอดึงดูดลงทุน Canva",
-      "url": "https://www.prachachat.net/finance/news-2052738"
-    },
-    {
-      "rank": 3,
-      "source": "ประชาชาติธุรกิจ Finance",
-      "title": "ห้องค้ากสิกรไทยเตือนความเสี่ยง ‘ขาดดุลแฝด’ อาจกดดันเงินบาทอ่อนค่าปลายไตรมาส 3",
-      "url": "https://www.prachachat.net/finance/news-2052308"
-    },
-    {
-      "rank": 4,
-      "source": "Bangkok Post Business",
-      "title": "จีนผลักดันการใช้เงินหยวนชำระการค้าตรงคู่เงินบาท ลดการพึ่งพาดอลลาร์สหรัฐ",
-      "url": "https://www.bangkokpost.com/business/general/3302952/larger-part-for-yuan-in-trade"
-    },
-    {
-      "rank": 5,
-      "source": "InfoQuest",
-      "title": "CRC เผยกำไรสุทธิไตรมาส 2/2569 เติบโตก้าวกระโดด 97% หนุนราคาหุ้นพุ่งรับผลงานแกร่ง",
-      "url": "https://www.infoquest.co.th/2026/632459"
-    },
-    {
-      "rank": 6,
-      "source": "ประชาชาติธุรกิจ Finance",
-      "title": "กลุ่มนอนแบงก์ MTC และ SAWAD กำไรครึ่งปีแรกโตแกร่ง 2 หลัก พร้อมคุม NPL นิ่ง",
-      "url": "https://www.prachachat.net/finance/news-2052289"
-    },
-    {
-      "rank": 7,
-      "source": "InfoQuest",
-      "title": "บอร์ด SMO ไฟเขียว 2 บิ๊กโปรเจกต์ สร้างโรงงาน CPKO สุราษฎร์ฯ รุกตลาดปลายน้ำและ ESG",
-      "url": "https://www.infoquest.co.th/2026/632446"
-    },
-    {
-      "rank": 8,
-      "source": "RYT9",
-      "title": "TFG กางแผนครึ่งปีหลัง 2569 เร่งขยายสาขาค้าปลีก Thai Foods Fresh Market แตะ 875 แห่ง",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5td3dBbk1RMFN2V1V3Rl9xeWxqUjhwMkp0a3Z6czBreGFuRlRIMWF6bWVHc3M2U0dEaGVScUlaRVVKNjZ5NmR0THUyWQ?oc=5"
-    },
-    {
-      "rank": 9,
-      "source": "RYT9 / InfoQuest",
-      "title": "ค่าเงินบาทเปิดตลาดเช้า 33.08 บาท/ดอลลาร์ แข็งค่าตามภูมิภาค หนุน SET เช้าเปิดบวก",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE43MGF4MGV2ZTZ3Nmc1UmNfaExnZkUweFpDMndWbVhjcXZlcjFqbDkzelE1bFd4Vk9FNl9jUWJRNFhsNjZOTFdXRW9R?oc=5"
-    },
-    {
-      "rank": 10,
+      "published": "2026-08-17T01:36:30+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
       "source": "ประชาชาติธุรกิจ Finance",
       "title": "SET วันนี้ (17 ส.ค.) กรอบ 1,590 – 1,620 จุด จับตาสภาพัฒน์ปรับจีดีพี",
       "url": "https://www.prachachat.net/finance/news-2052744"
+    },
+    {
+      "published": "2026-08-17T08:14:34+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "สศช. เชื่อค่ายรถญี่ปุ่นไม่ย้ายฐานหนีไทย คำนึงถึงซัพพลายเชนสร้างมา 30 ปี ที่อื่นไม่พร้อมเท่า",
+      "url": "https://www.prachachat.net/finance/news-2053040"
+    },
+    {
+      "published": "2026-08-17T03:48:52+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "เอกนิติ สั่งสรรพสามิตเร่งปรับโครงสร้างภาษีรถยนต์ รั้งผู้ประกอบการย้ายฐานการผลิต ฟันข้อสรุปภายใน ก.ย.",
+      "url": "https://www.prachachat.net/finance/news-2052803"
+    },
+    {
+      "published": "2026-08-17T04:44:38+00:00",
+      "publisher": "วารสารการเงินธนาคาร",
+      "source": "BOT MPC FX (Google News)",
+      "title": "เงินบาท จ่ออ่อนค่าครึ่งปีหลัง นักวิเคราะห์คาดกนง.คงดอกเบี้ย 1% 26 ส.ค.นี้ - วารสารการเงินธนาคาร",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CMnU3akk4dFpEQWFHWFZZQWx6UGpBVzFQdUVlbXRwVzVEUjFQVGdSTWY4OG1oQTdYZGZHTlowZmtsd0VIdHowcEwyMnhicGpkR2dqTQ?oc=5"
+    },
+    {
+      "published": "2026-08-17T09:01:23+00:00",
+      "publisher": "The Bangkok Insight",
+      "source": "BOT MPC FX (Google News)",
+      "title": "เงินบาทแข็งอาจแค่ชั่วคราว! นักวิเคราะห์มองปลายปีเสี่ยงอ่อนแตะ 34.40 บาท - The Bangkok Insight",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52SVktRnduZ3FJUHpJcmRVeThpTWloaHR6UTJJWTkwNXpTYjlsN19FRWtvUC02QXVaOHFFLXA0VUhmVktJbjNWWlBqVEhnLWxHSV94b0dsSWtZM1hBRUZ3aENEUXdDSTNGMEhNNG9DX0tEeWhDZE1SNQ?oc=5"
+    },
+    {
+      "published": "2026-08-17T23:06:00+00:00",
+      "publisher": "Bangkok Post Business",
+      "source": "Bangkok Post Business",
+      "title": "CRC sees revenue increase by 3.5% to B60.1bn in Q2",
+      "url": "https://www.bangkokpost.com/business/general/3303505/crc-sees-revenue-increase-by-35-to-b601bn-in-q2"
+    },
+    {
+      "published": "2026-08-16T23:40:58+00:00",
+      "publisher": "SET",
+      "source": "SET News (Google News)",
+      "title": "อนุมัติการจ่ายเงินปันผลระหว่างกาล - SET",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdHh6RVR4ZU9OT21uMHJ2X3h3czlVQU5xSzVMazU3UERlVERxV1pWYXdkZ2dCQlU3SndHLXFJV2EzTmR5TS1rLUt3RncwcTRJVU1jWEZzczV5U0Jvd05IZU4wM2VaaTNkcllLR2wySTd5VFY5RkhuUnRIc05TMU12OTR1RjBIT0RIZkp5Rw?oc=5"
+    },
+    {
+      "published": "2026-08-17T22:26:00+00:00",
+      "publisher": "Bangkok Post Business",
+      "source": "Bangkok Post Business",
+      "title": "Thai growth faces mounting economic headwinds",
+      "url": "https://www.bangkokpost.com/business/general/3303295/thai-growth-faces-mounting-economic-headwinds"
+    },
+    {
+      "published": "2026-08-17T22:19:00+00:00",
+      "publisher": "Bangkok Post Business",
+      "source": "Bangkok Post Business",
+      "title": "Slower Q2 growth close to ministry's earlier estimate",
+      "url": "https://www.bangkokpost.com/business/general/3303370/slower-q2-growth-close-to-ministrys-earlier-estimate"
+    },
+    {
+      "published": "2026-08-17T05:44:51+00:00",
+      "publisher": "SET",
+      "source": "SET News (Google News)",
+      "title": "ชี้แจงความคืบหน้าเกี่ยวกับการซื้อคืนทรัพย์สินที่ใช้ในการดำเนินธุรกิจโรงแรมรอยัล ออคิด เชอราตัน ริเวอร์ไซด์ กรุงเทพฯ และสถานะการดำเนินธุรกิจของบริษัท - ตลาดหลักทรัพย์แห่งประเทศไทย - SET",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVHRVVmFlc1E4V2ttR0Z1dUllTjBEcHhzcmFydWJCbEpLMTJxNmx5d3MxT0NtVzhHTTFZZUQydFJoQ2JtNl9VMTN2QXdvYk1ib3lPZFBKSU9XVkZ4MXNyZ2J6WDRJMFNCUHdad25RVTB3eTI0MXVqWHFOWVl3dnliOThocWY1X3haVmc?oc=5"
+    },
+    {
+      "published": "2026-08-17T02:42:00+00:00",
+      "publisher": "posttoday",
+      "source": "MoneyChannel TH (Google News)",
+      "title": "SET ไซด์เวย์ 1,600–1,618 จุด จับตา GDP ไทย-น้ำมันพุ่งกดดันเงินเฟ้อ ชู CBG เด่นกำไรฟื้น - posttoday",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UNm8zSnRKMno2LTVaVEpZWVo1RW9KRXMwN19rajJ5RGpDTW8zeGxRUzRoZmZ5bVdERVdrYWluYU9TRWlqNnczRlRBeHVJeEs1ekFGY2hFbUUzM2ZxQXBaOU9WTQ?oc=5"
+    },
+    {
+      "published": "2026-08-17T02:08:04+00:00",
+      "publisher": "SET",
+      "source": "SET News (Google News)",
+      "title": "ตลาดหลักทรัพย์ฯ คงเครื่องหมาย CB หลักทรัพย์ MONO และปลดเครื่องหมาย CB หลักทรัพย์ RS - SET",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRVUxSVRNTDZnazZETnB2MWszeXRzRl9LQ09ZaXdLbkVtdFM0alBGWW5XVmdKN2tLVE1oWlhISHVtTWc1b1huNTJ2TXlZanUwQnYzWGdmNVdwVzhMd1Zpc3ZtMlY2Y19NVzBvRWRhRFo3NVJmVUFVZVgxaWxxNHhzUXZKUUV3c2NY?oc=5"
+    },
+    {
+      "published": "2026-08-17T23:29:49+00:00",
+      "publisher": "InfoQuest",
+      "source": "InfoQuest",
+      "title": "ภาวะตลาดหุ้นนิวยอร์ก: ดาวโจนส์ปิดลบ 272.63 จุด กังวลน้ำมันพุ่ง จับตาผลประกอบการบริษัทค้าปลีก",
+      "url": "https://www.infoquest.co.th/2026/633021"
+    },
+    {
+      "published": "2026-08-17T13:58:11+00:00",
+      "publisher": "ข่าวหุ้นธุรกิจออนไลน์",
+      "source": "MoneyChannel TH (Google News)",
+      "title": "SET ปิดพุ่ง 17 จุด! รับงบ 2Q/69 แกร่ง-GDP ขยับขึ้น \"บล.กรุงศรี\" ชู HANA–CRC เด่น - ข่าวหุ้นธุรกิจออนไลน์",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tSUJmay1mMS0taGV5UUpVbVM0dC1YWUVsbjlqTFdMeTEyb3Rod0VOZmE5UlE3RnVvSHNkbGExaXNzamVDUm9EeW9OcFJ1RDRsT3F4bw?oc=5"
+    },
+    {
+      "published": "2026-08-17T11:11:46+00:00",
+      "publisher": "RYT9",
+      "source": "RYT9 Economy (Google News)",
+      "title": "GRAMMY ครึ่งปีแรกกำไรพุ่ง 132% แตะ 236 ล้านบาท รับเทรนด์คอนเสิร์ตและเพลงดิจิทัล เคาะปันผลระหว่างกาล - RYT9",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzWWRaTGU2d1FJbmdzQVhSbm5EQWV2WFFiNktXNXZGVHRSazM0TnBkdXFMVEFyRlhzQ1lwZGNBOXhab21UU1pWYnBUdw?oc=5"
+    },
+    {
+      "published": "2026-08-17T06:24:53+00:00",
+      "publisher": "RYT9",
+      "source": "RYT9 Economy (Google News)",
+      "title": "คลัง ชี้ GDP ไตรมาส 2/69 โตตามคาด มาตรการประคองศก.มาถูกทาง เชื่อไทยก้าวสู่ New Economy - RYT9",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBKMjJVVlBsajhsc3o2d1VTQkx1SFhCUlNRN0ZKRVlVN2pMS0M1RTM4d014cWNxeVA0MGVkTzJGQlU4X0U1TXlmMzlB?oc=5"
+    },
+    {
+      "published": "2026-08-17T04:45:07+00:00",
+      "publisher": "LINE TODAY",
+      "source": "MoneyChannel TH (Google News)",
+      "title": "“พบชัย” ชี้ SET ไซด์เวย์อัพ รับ GDP ดีกว่าคาด-EPS พุ่ง ชู HANA-แบงก์เด่นปันผลสูง | ข่าวหุ้นธุรกิจ - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yNHJhUm5yMkJsNkV2VnpvQnBKUXAwazlrR0hueDhMQ0xhZm91X1FaZ2JqRkM3cHJDZFFEME52UWpkbGU0d0lfRWVxVWVKWGs1SExnYkFB?oc=5"
+    },
+    {
+      "published": "2026-08-17T17:11:31+00:00",
+      "publisher": "InfoQuest",
+      "source": "InfoQuest",
+      "title": "ภาวะตลาดหุ้นอินเดีย: ดัชนี Sensex ร่วงกว่า 200 จุด กังวลราคาน้ำมันพุ่ง",
+      "url": "https://www.infoquest.co.th/2026/633099"
+    },
+    {
+      "published": "2026-08-17T04:28:31+00:00",
+      "publisher": "RYT9",
+      "source": "RYT9 Economy (Google News)",
+      "title": "FSMART กำไรครึ่งปี 268.9 ลบ. จ่ายปันผลระหว่างกาล 0.18 บาท/หุ้น - RYT9",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oT256VHVKRVpBTEJoRmVoeXllX1ByZHNOS1Y2UTdEbGhnT1lyUXBad2ZxYmxRb1hrc3RBWFhTRFYtN01CRzR2UFdxbw?oc=5"
+    },
+    {
+      "published": "2026-08-17T18:58:25+00:00",
+      "publisher": "InfoQuest",
+      "source": "InfoQuest",
+      "title": "สหรัฐเผยปริมาณน้ำมันดิบในคลังสำรองต่ำสุดรอบกว่า 40 ปี",
+      "url": "https://www.infoquest.co.th/2026/633107"
+    },
+    {
+      "published": "2026-08-17T03:56:00+00:00",
+      "publisher": "Nation Thailand",
+      "source": "Thai Macro Data (Google News)",
+      "title": "Thailand’s Q2 GDP expands 1.9% with 2026 growth forecast midpoint at 2.2% - Nation Thailand",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BZTRGWDliamNjOFV6TVVsbVAxSDdEdVFhRnJLTmJyLVJDcF9tWUhZOWFhYmNRUGNweGNTLWlPVGx5TjVFTWNiSFBNODFmVnB1T3h5YVBiTU93ZUNpU0I0Mm51VWRSRkE?oc=5"
+    },
+    {
+      "published": "2026-08-17T04:00:00+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Thailand (Google News)",
+      "title": "Myanmar confirms nearly 309,000 Rohingya in Bangladesh, says security issues delaying repatriation - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYkJmMlhqYzFHSXozTjNGVU1iU3JQUUtzdnRwMFZFZkhlLVVieWFxejVmclk1aGpKbVJ2bDdXdUdLU0MzcHFhQnM5ZHZsRUgzX2h3UHRiYnpjeWlJMHV0UUVSWkF6ZVA3dVJlYkoyWDQ5Q01IekZqTEEwZnR2MXNZN1J5dDRKU2ZuVFNkNERiejdmM2VOUGZheEMxVFIxWDZBOHgtb2hZVzBjZGpCZ1hoQjVVQmRtemEySEtjbHpqTjM5d2F0R0FEMHZWSmxIV1Jr?oc=5"
+    },
+    {
+      "published": "2026-08-17T07:36:33+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "ROH ลั่นซื้อ ‘รร.รอยัล ออคิดฯ’ คืน ยันมีพันธมิตรหนุนการเงิน ขอให้ GRORIET ปฏิบัติตามสัญญา",
+      "url": "https://www.prachachat.net/finance/news-2052982"
+    },
+    {
+      "published": "2026-08-17T01:06:13+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "เอกนิติ บินตรงออสเตรเลีย-นิวซีแลนด์ ตลาดส่งออกรถยนต์ เพิ่มกิจกรรมทางเศรษฐกิจ",
+      "url": "https://www.prachachat.net/finance/news-2052738"
+    },
+    {
+      "published": "2026-08-17T11:27:02+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "กรุงศรี ฟินโนเวต ลงทุน 3 สตาร์ตอัพตัวท็อป ระดับ Global",
+      "url": "https://www.prachachat.net/finance/news-2053136"
     }
   ],
   "date": "2026-08-17",
-  "generated_at_utc": "2026-08-17T03:36:20Z",
+  "generated_at_utc": "2026-08-17T23:36:22Z",
   "items": [
     {
+      "category": "เศรษฐกิจมหภาค",
+      "impact": "high",
+      "key_numbers": [
+        "1.9%",
+        "2.2%"
+      ],
       "rank": 1,
-      "source": "RYT9 / InfoQuest",
-      "title": "สภาพัฒน์แถลง GDP ไตรมาส 2/2569 ขยายตัว 1.9% พร้อมปรับกรอบทั้งปีเป็น 2.0-2.5%",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5kVlZ6YThteVVJZ3kyc2hESDdWeFJTcGZNMUszX1VhUDJLbm45bHRtN1JUUDRQQ0R0ejJiR190eTgxTWZOU1pGX3Jn?oc=5"
+      "sectors": [
+        "Macro",
+        "Commerce",
+        "Tourism"
+      ],
+      "sentiment": "neutral",
+      "source_name": "Thai Macro Data (Google News)",
+      "summary_th": "เศรษฐกิจไทยในไตรมาส 2 ขยายตัว 1.9% ส่งผลให้ประมาณการการเติบโตรวมทั้งปีมีค่ากลางอยู่ที่ 2.2% การฟื้นตัวยังเผชิญแรงกดดันจากดุลบัญชีเดินสะพัด ข้อจำกัดทางการคลัง และความไม่แน่นอนของการค้าโลก",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "เศรษฐกิจไทย Q2 ขยายตัว 1.9% สศช. ประเมินทั้งปีโตค่ากลาง 2.2%",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BZTRGWDliamNjOFV6TVVsbVAxSDdEdVFhRnJLTmJyLVJDcF9tWUhZOWFhYmNRUGNweGNTLWlPVGx5TjVFTWNiSFBNODFmVnB1T3h5YVBiTU93ZUNpU0I0Mm51VWRSRkE?oc=5",
+      "watch_next": "ติดตามการขับเคลื่อนมาตรการกระตุ้นเศรษฐกิจและการเบิกจ่ายงบประมาณภาครัฐช่วงครึ่งปีหลัง"
     },
     {
+      "category": "นโยบายรัฐ-การคลัง",
+      "impact": "high",
+      "key_numbers": [],
       "rank": 2,
-      "source": "ประชาชาติธุรกิจ Finance",
-      "title": "ขุนคลังนำทีมเยือนออสเตรเลีย-นิวซีแลนด์ ต่อยอด FTA รถยนต์ ดึงบีโอไอดึงดูดลงทุน Canva",
-      "url": "https://www.prachachat.net/finance/news-2052738"
+      "sectors": [
+        "Automotive",
+        "Manufacturing"
+      ],
+      "sentiment": "bullish",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "กระทรวงการคลังสั่งการกรมสรรพสามิตเร่งปรับโครงสร้างภาษีรถยนต์ให้แล้วเสร็จภายในเดือนกันยายน เพื่อลดความเหลื่อมล้ำจากภาษีนำเข้า FTA และรักษาฐานการผลิตยานยนต์ในประเทศ มาตรการนี้มุ่งปกป้องการจ้างงานและห่วงโซ่อุปทานทั้งกลุ่มรถยนต์สันดาป ไฮบริด และอีวี",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "คลังสั่งสรรพสามิตเร่งปรับโครงสร้างภาษีรถยนต์ สรุป ก.ย. สกัดย้ายฐานผลิต",
+      "url": "https://www.prachachat.net/finance/news-2052803",
+      "watch_next": "จับตาข้อสรุปพิกัดอัตราภาษีสรรพสามิตใหม่สำหรับรถยนต์แต่ละประเภทภายในเดือนกันยายน"
     },
     {
+      "category": "เศรษฐกิจมหภาค",
+      "impact": "medium",
+      "key_numbers": [
+        "30 ปี",
+        "50%"
+      ],
       "rank": 3,
-      "source": "ประชาชาติธุรกิจ Finance",
-      "title": "ห้องค้ากสิกรไทยเตือนความเสี่ยง ‘ขาดดุลแฝด’ อาจกดดันเงินบาทอ่อนค่าปลายไตรมาส 3",
-      "url": "https://www.prachachat.net/finance/news-2052308"
+      "sectors": [
+        "Automotive",
+        "Industrial"
+      ],
+      "sentiment": "neutral",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "สภาพัฒน์ประเมินค่ายรถยนต์ญี่ปุ่นยังเลือกไทยเป็นฐานการผลิตหลักเนื่องจากมีความพร้อมของห่วงโซ่อุปทานที่พัฒนามายาวนานกว่า 30 ปี แม้การส่งออกรถยนต์นั่งชะลอตัวตามเกณฑ์คาร์บอนและการแข่งขันของอีวี แต่การส่งออกรถกระบะไทยยังขยายตัวได้กว่า 50%",
+      "tickers": [],
+      "time_horizon": "long-term",
+      "title_th": "สศช. มั่นใจค่ายรถญี่ปุ่นไม่ย้ายฐาน ชี้ซัพพลายเชน 30 ปีแข็งแกร่ง",
+      "url": "https://www.prachachat.net/finance/news-2053040",
+      "watch_next": "ติดตามการปรับตัวของห่วงโซ่อุปทานชิ้นส่วนยานยนต์ไทยในการเปลี่ยนผ่านสู่ชิ้นส่วนอีวี"
     },
     {
+      "category": "นโยบายการเงิน-ธปท.",
+      "impact": "high",
+      "key_numbers": [
+        "1%"
+      ],
       "rank": 4,
-      "source": "Bangkok Post Business",
-      "title": "จีนผลักดันการใช้เงินหยวนชำระการค้าตรงคู่เงินบาท ลดการพึ่งพาดอลลาร์สหรัฐ",
-      "url": "https://www.bangkokpost.com/business/general/3302952/larger-part-for-yuan-in-trade"
+      "sectors": [
+        "Banking",
+        "Finance",
+        "Export"
+      ],
+      "sentiment": "neutral",
+      "source_name": "BOT MPC FX (Google News)",
+      "summary_th": "ค่าเงินบาทมีแนวโน้มเผชิญแรงกดดันด้านอ่อนค่าในช่วงครึ่งปีหลังตามปัจจัยเศรษฐกิจโลกและราคาน้ำมัน นักวิเคราะห์ประเมิน กนง. มีโอกาสคงอัตราดอกเบี้ยนโยบายที่ 1% ในการประชุมวันที่ 26 สิงหาคม เพื่อประคองเสถียรภาพทางการเงิน",
+      "tickers": [],
+      "time_horizon": "immediate",
+      "title_th": "ตลาดจับตาทิศทางบาทอ่อนค่าครึ่งปีหลัง คาด กนง. ตรึงดอกเบี้ยนโยบาย 26 ส.ค.",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CMnU3akk4dFpEQWFHWFZZQWx6UGpBVzFQdUVlbXRwVzVEUjFQVGdSTWY4OG1oQTdYZGZHTlowZmtsd0VIdHowcEwyMnhicGpkR2dqTQ?oc=5",
+      "watch_next": "ติดตามผลการประชุม กนง. วันที่ 26 สิงหาคม และการส่งสัญญาณทิศทางดอกเบี้ยนโยบาย"
     },
     {
+      "category": "บริษัท-M&A",
+      "impact": "medium",
+      "key_numbers": [
+        "4,873 ล้านบาท"
+      ],
       "rank": 5,
-      "source": "InfoQuest",
-      "title": "CRC เผยกำไรสุทธิไตรมาส 2/2569 เติบโตก้าวกระโดด 97% หนุนราคาหุ้นพุ่งรับผลงานแกร่ง",
-      "url": "https://www.infoquest.co.th/2026/632459"
+      "sectors": [
+        "Tourism & Leisure",
+        "Property Fund & REITs"
+      ],
+      "sentiment": "neutral",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "ROH แจ้งความพร้อมทางการเงินและยื่นหนังสือขอใช้สิทธิซื้อคืนทรัพย์สินโรงแรมรอยัล ออคิด เชอราตัน จากกองทรัสต์ GROREIT มูลค่า 4,873 ล้านบาท การดำเนินงานของโรงแรมยังเปิดให้บริการตามปกติและอยู่ระหว่างแก้ปัญหาคุณสมบัติกระจายหุ้นรายย่อย",
+      "tickers": [
+        "ROH",
+        "GROREIT"
+      ],
+      "time_horizon": "short-term",
+      "title_th": "ROH เดินหน้าใช้สิทธิซื้อคืนโรงแรมรอยัล ออคิดฯ มูลค่า 4,873 ล้านบาท จาก GROREIT",
+      "url": "https://www.prachachat.net/finance/news-2052982",
+      "watch_next": "ติดตามขั้นตอนการทำสัญญาโอนกรรมสิทธิ์และแผนแก้ไขสัดส่วน Free Float ของ ROH"
     },
     {
+      "category": "SET/หุ้นไทย",
+      "impact": "medium",
+      "key_numbers": [
+        "60,100 ล้านบาท",
+        "3.5%"
+      ],
       "rank": 6,
-      "source": "ประชาชาติธุรกิจ Finance",
-      "title": "กลุ่มนอนแบงก์ MTC และ SAWAD กำไรครึ่งปีแรกโตแกร่ง 2 หลัก พร้อมคุม NPL นิ่ง",
-      "url": "https://www.prachachat.net/finance/news-2052289"
+      "sectors": [
+        "Commerce"
+      ],
+      "sentiment": "bullish",
+      "source_name": "Bangkok Post Business",
+      "summary_th": "เซ็นทรัล รีเทล คอร์ปอเรชั่น รายงานรายได้รวมในไตรมาส 2 แตะระดับ 60,100 ล้านบาท เติบโตขึ้น 3.5% ผลการดำเนินงานสะท้อนการฟื้นตัวของภาคการค้าปลีกและการท่องเที่ยว แม้ยังมีแรงกดดันจากภาวะกำลังซื้อของผู้บริโภค",
+      "tickers": [
+        "CRC"
+      ],
+      "time_horizon": "short-term",
+      "title_th": "CRC เผยรายได้ Q2 แตะ 60,100 ล้านบาท เติบโต 3.5%",
+      "url": "https://www.bangkokpost.com/business/general/3303505/crc-sees-revenue-increase-by-35-to-b601bn-in-q2",
+      "watch_next": "ติดตามยอดขายสาขาเดิม (SSSG) และการใช้จ่ายของผู้บริโภคช่วงไฮซีซั่นไตรมาส 3 และ 4"
     },
     {
+      "category": "นโยบายรัฐ-การคลัง",
+      "impact": "medium",
+      "key_numbers": [],
       "rank": 7,
-      "source": "InfoQuest",
-      "title": "บอร์ด SMO ไฟเขียว 2 บิ๊กโปรเจกต์ สร้างโรงงาน CPKO สุราษฎร์ฯ รุกตลาดปลายน้ำและ ESG",
-      "url": "https://www.infoquest.co.th/2026/632446"
+      "sectors": [
+        "Automotive",
+        "Technology",
+        "Export"
+      ],
+      "sentiment": "bullish",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "รองนายกฯ และ รมว.คลัง นำทีมเยือนออสเตรเลียและนิวซีแลนด์เพื่อต่อยอดสิทธิประโยชน์ FTA ในการส่งออกยานยนต์ไฟฟ้าของไทย พร้อมนำบีโอไอเจรจาดึงดูดการลงทุนจากบริษัทเทคโนโลยี Canva เพื่อขยายฐานเศรษฐกิจสร้างสรรค์",
+      "tickers": [],
+      "time_horizon": "long-term",
+      "title_th": "คลังนำทีมโรดโชว์ออสเตรเลีย-นิวซีแลนด์ ดันส่งออกรถยนต์-ดึง Canva ลงทุน",
+      "url": "https://www.prachachat.net/finance/news-2052738",
+      "watch_next": "ติดตามผลการเจรจาและการยื่นขอรับการส่งเสริมการลงทุนของบริษัทเทคโนโลยีต่างชาติในไทย"
     },
     {
+      "category": "กฎระเบียบ",
+      "impact": "medium",
+      "key_numbers": [],
       "rank": 8,
-      "source": "RYT9",
-      "title": "TFG กางแผนครึ่งปีหลัง 2569 เร่งขยายสาขาค้าปลีก Thai Foods Fresh Market แตะ 875 แห่ง",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5td3dBbk1RMFN2V1V3Rl9xeWxqUjhwMkp0a3Z6czBreGFuRlRIMWF6bWVHc3M2U0dEaGVScUlaRVVKNjZ5NmR0THUyWQ?oc=5"
+      "sectors": [
+        "Media & Publishing"
+      ],
+      "sentiment": "neutral",
+      "source_name": "SET News (Google News)",
+      "summary_th": "ตลาดหลักทรัพย์แห่งประเทศไทยประกาศปลดเครื่องหมาย CB สำหรับหลักทรัพย์ RS หลังบริษัทดำเนินการแก้ไขคุณสมบัติตามเกณฑ์เรียบร้อยแล้ว ในขณะที่ยังคงเครื่องหมาย CB สำหรับหลักทรัพย์ MONO ต่อไป",
+      "tickers": [
+        "RS",
+        "MONO"
+      ],
+      "time_horizon": "immediate",
+      "title_th": "ตลท. ปลดเครื่องหมาย CB หุ้น RS ขณะที่ยังคง CB หุ้น MONO",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRVUxSVRNTDZnazZETnB2MWszeXRzRl9LQ09ZaXdLbkVtdFM0alBGWW5XVmdKN2tLVE1oWlhISHVtTWc1b1huNTJ2TXlZanUwQnYzWGdmNVdwVzhMd1Zpc3ZtMlY2Y19NVzBvRWRhRFo3NVJmVUFVZVgxaWxxNHhzUXZKUUV3c2NY?oc=5",
+      "watch_next": "ติดตามแนวทางการปรับโครงสร้างธุรกิจและฐานะการเงินของ MONO เพื่อแก้ไขเหตุเครื่องหมาย CB"
     },
     {
+      "category": "บริษัท-M&A",
+      "impact": "medium",
+      "key_numbers": [
+        "236 ล้านบาท",
+        "132%"
+      ],
       "rank": 9,
-      "source": "RYT9 / InfoQuest",
-      "title": "ค่าเงินบาทเปิดตลาดเช้า 33.08 บาท/ดอลลาร์ แข็งค่าตามภูมิภาค หนุน SET เช้าเปิดบวก",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE43MGF4MGV2ZTZ3Nmc1UmNfaExnZkUweFpDMndWbVhjcXZlcjFqbDkzelE1bFd4Vk9FNl9jUWJRNFhsNjZOTFdXRW9R?oc=5"
+      "sectors": [
+        "Media & Publishing",
+        "Entertainment"
+      ],
+      "sentiment": "bullish",
+      "source_name": "RYT9 Economy (Google News)",
+      "summary_th": "GRAMMY รายงานกำไรสุทธิช่วง 6 เดือนแรกของปีพุ่งแตะ 236 ล้านบาท เติบโต 132% แรงหนุนหลักมาจากการฟื้นตัวของกิจกรรมการจัดคอนเสิร์ต มิวสิกเฟสติวัล และรายได้จากเพลงดิจิทัล พร้อมประกาศจ่ายเงินปันผลระหว่างกาล",
+      "tickers": [
+        "GRAMMY"
+      ],
+      "time_horizon": "short-term",
+      "title_th": "GRAMMY กำไรครึ่งปีแรกพุ่ง 132% แตะ 236 ล้านบาท รับธุรกิจคอนเสิร์ตและดิจิทัลโต",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzWWRaTGU2d1FJbmdzQVhSbm5EQWV2WFFiNktXNXZGVHRSazM0TnBkdXFMVEFyRlhzQ1lwZGNBOXhab21UU1pWYnBUdw?oc=5",
+      "watch_next": "ติดตามตารางการจัดอีเวนต์และคอนเสิร์ตขนาดใหญ่ในช่วงครึ่งหลังของปี"
     },
     {
+      "category": "ธนาคาร-การเงิน",
+      "impact": "medium",
+      "key_numbers": [
+        "5,000 ล้านบาท"
+      ],
       "rank": 10,
-      "source": "ประชาชาติธุรกิจ Finance",
-      "title": "SET วันนี้ (17 ส.ค.) กรอบ 1,590 – 1,620 จุด จับตาสภาพัฒน์ปรับจีดีพี",
-      "url": "https://www.prachachat.net/finance/news-2052744"
+      "sectors": [
+        "Banking",
+        "Information & Communication Technology"
+      ],
+      "sentiment": "bullish",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "กรุงศรี ฟินโนเวต เผยการลงทุน 7 เดือนแรกใน 3 สตาร์ตอัพกลุ่ม AI, InsurTech และ FinTech ระดับโลก ได้แก่ Alpaca, Qoala และ Whale ผลักดันมูลค่าพอร์ตรวมแตะ 5,000 ล้านบาท มุ่งผสานเทคโนโลยีขับเคลื่อนธุรกิจการเงินในเครือ",
+      "tickers": [
+        "BAY"
+      ],
+      "time_horizon": "long-term",
+      "title_th": "กรุงศรี ฟินโนเวต รุกใส่เงิน 3 สตาร์ตอัพระดับโลก ดันพอร์ต CVC แตะ 5,000 ล้านบาท",
+      "url": "https://www.prachachat.net/finance/news-2053136",
+      "watch_next": "ติดตามการต่อยอดโซลูชัน Enterprise AI และ Wealth Management เข้ากับบริการของธนาคาร"
     }
   ],
   "model_used": "google/gemini-3.7-flash"
