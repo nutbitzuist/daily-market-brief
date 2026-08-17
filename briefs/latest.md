@@ -1,6 +1,6 @@
 ---
 date: 2026-08-17
-generated_at_utc: 2026-08-17T03:17:15Z
+generated_at_utc: 2026-08-17T03:26:45Z
 model_used: deterministic-fallback/openrouter-unavailable
 sources_count: 10
 aggregate_sentiment: {bullish: 0, bearish: 0, neutral: 10}
@@ -20,7 +20,7 @@ top_tickers: []
 - Nut's X list from the Google Doc is part of Jack's manual/scouting desk.
 - GitHub Actions do not currently ingest X directly because the runner has no X API/xAI search integration wired in.
 
-ตลาดข้ามคืนเผชิญความตึงเครียดทางภูมิรัฐศาสตร์หลังกระทรวงการคลังสหรัฐฯ เตรียมยกระดับมาตรการ
+ตลาดการเงินโลกเช้านี้ถูกขับเคลื่อนด้วยความตึงเครียดทางภูมิรัฐศาสตร์ หลังสหรัฐฯ เตรียมประกาศมาตรการกด
 
 ## 1. Warsh's Mark Antony Moment
 
