@@ -73,3 +73,24 @@ def test_validator_rejects_invented_and_duplicate_urls():
             ],
             candidates,
         )
+
+
+def test_common_horizon_alias_is_normalized_instead_of_rejecting_brief():
+    item = {
+        "title_th": "ข่าว",
+        "summary_th": "สรุป",
+        "category": "Macro/Fed",
+        "sentiment": "neutral",
+        "impact": "medium",
+        "time_horizon": "medium-term",
+        "sectors": [],
+        "tickers": [],
+        "key_numbers": [],
+        "watch_next": "ติดตาม",
+        "source_name": "Reuters",
+        "url": "https://example.com/1",
+    }
+    items = summarizer._validate(
+        [dict(item, rank=rank) for rank in range(1, 11)]
+    )
+    assert all(row["time_horizon"] == "short-term" for row in items)

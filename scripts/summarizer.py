@@ -65,6 +65,11 @@ VALID_CATEGORIES = {
 VALID_SENTIMENT = {"bullish", "bearish", "neutral"}
 VALID_IMPACT = {"high", "medium", "low"}
 VALID_HORIZON = {"immediate", "short-term", "long-term"}
+HORIZON_ALIASES = {
+    "near-term": "short-term",
+    "medium-term": "short-term",
+    "mid-term": "short-term",
+}
 
 REQUIRED_FIELDS = [
     "rank", "title_th", "summary_th", "category", "sentiment", "impact",
@@ -137,6 +142,7 @@ def _validate(items: Any) -> list[dict]:
             raise ValueError(f"item {i} bad sentiment {it['sentiment']}")
         if it["impact"] not in VALID_IMPACT:
             raise ValueError(f"item {i} bad impact {it['impact']}")
+        it["time_horizon"] = HORIZON_ALIASES.get(it["time_horizon"], it["time_horizon"])
         if it["time_horizon"] not in VALID_HORIZON:
             raise ValueError(f"item {i} bad time_horizon {it['time_horizon']}")
         for k in ("sectors", "tickers", "key_numbers"):
@@ -483,6 +489,7 @@ def _validate_th(items: Any) -> list[dict]:
             raise ValueError(f"item {i} bad sentiment {it['sentiment']}")
         if it["impact"] not in TH_VALID_IMPACT:
             raise ValueError(f"item {i} bad impact {it['impact']}")
+        it["time_horizon"] = HORIZON_ALIASES.get(it["time_horizon"], it["time_horizon"])
         if it["time_horizon"] not in TH_VALID_HORIZON:
             raise ValueError(f"item {i} bad time_horizon {it['time_horizon']}")
         searchable = (
