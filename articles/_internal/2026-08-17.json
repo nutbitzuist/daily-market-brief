@@ -1,68 +1,218 @@
 {
   "articles": [
     {
-      "rank": 1,
+      "published": "2026-08-17T15:16:24+00:00",
+      "publisher": "TechCrunch AI",
       "source": "TechCrunch AI",
-      "title": "Stripe มีรายงานเตรียมเข้าซื้อกิจการ OpenRouter สตาร์ทอัพ AI Gateway ด้วยมูลค่ากว่า 7 พันล้านดอลลาร์",
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/"
     },
     {
-      "rank": 2,
-      "source": "Tom's Hardware",
-      "title": "Google มีรายงานจับมือ AMD ร่วมออกแบบชิป TPU รุ่นถัดไป ผสานคอร์ CPU เสริมประสิทธิภาพ Reinforcement Learning",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxORzRsRUFrejFFTjlqQnVzY1lqdkV4dHFMYnNrTUlPb3ItckJSWFgtVlBpTDFXTnJzSnhqY21xeThLOU1KNmZpaEdRM0VEQlNwTXZtMjFWdTh6Ymp1d05lTndsbkZOb0twT1hCMEZVaDQxeS0wWnk4WjNOOXFJdW11ZHo0aTIzaWp5bl9uWkoxSDJ6MGNXOEZQQmJxX0p1VUZSOHh6T1RsTkhwYW5jQVNsSXBMem1adWRuUFRaYjcyLUdLbmhVbzVueXRDNG53QXNPazIwQXQ3LUExVll5TFllZzlSajlFVFgweHExU21OQlRlY0FScklwVEFhbHJNRU9zdm9fdUV4bEVJU1k4OGpQTnFOVDJUZ3EzQnpnbTJ1WGZMTVRmSERiLV9n?oc=5"
+      "published": "2026-08-17T19:36:14+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkxQZ0FIUUQ0X2p6bVF1NWw1eF9PQnBtRVJVbUk4eV83UkU5X0JjdmE0RnFDdkZOLVJNWWlCejVmOTdmdTFoT3FGWmhGOGVYdFdwcXNwWlAtaEVNRnFPYkZFVzhmY3ZBQ0xERGUtWFF6QWdxcVFqR2k4dkdDTkJHNURIdUJ0Rk05NE94ekVPMjYtaWNodnItODdIdGU4Qmw5bndYZ095UF9nRFc5RnRheGxtNXFCM2VWbXd5M2pCTGw?oc=5"
     },
     {
-      "rank": 3,
+      "published": "2026-08-17T16:15:12+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/"
+    },
+    {
+      "published": "2026-08-17T10:57:56+00:00",
+      "publisher": "theverge.com",
       "source": "The Verge AI",
-      "title": "OpenAI มีรายงานยุบทีม Preparedness ซึ่งดูแลด้านความปลอดภัยและความเสี่ยงขั้นวิกฤต",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSHRPU0RWLUlmU1FiVnYzSUoxN29PMnpHY3hmQ1pkUGREeDZZNmY5ZzA0R1hDdmgzWlBqNmNhaF9haVZ1YjM4SVlXRXRvSmQyZmFQTEdZMXhGalBMSXdwWVJGcTVhVExKZzFITG5yV2NDOVhfRGNoVUdhakFfYlc4emhZc0xLZTJZcnpVa1d4OTdoUVdmSVpR?oc=5"
+      "title": "Anthropic explains how Claude’s invisible text watermarks will work - theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSXJuNGo3cjRuTXkxM3FJVmt1SHNVd0w1UV95Y19TU2VaSUxnY0RTTi1aZi01UUpuRmplTUtObkZ4T2JkbXRqclByNFc3em84N3M2WmVOVjhTcGNFeUFzcU56Q0I4b1BhaUFSR3luTkJwQk9xa1NleWdXcWtULW5IMVRKaDJ1anpSZFpKX0QySmJHWXNqclA1XzRYTlM0NGczOEFqTDJMSmNHUQ?oc=5"
     },
     {
-      "rank": 4,
-      "source": "Bloomberg.com",
-      "title": "Alibaba เตรียมขายธุรกิจเกมมูลค่า 1.5 พันล้านดอลลาร์ เพื่อระดมทุนมุ่งเน้นการพัฒนา AI เต็มตัว",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT1BmUWVZUElWU0FmektVUkUzWnFGbWZ4NzZZay1pcHdfOWhaV2JUWXI0RFZWOGFYWmhQVkprUGFXdDd0LWF6LUpoZzZ0UFEyQ3dLNWUtMWhuUUs0QlU5V3hWRTYyS1NpMEZWdjNMQzl4alVrWmF5V1hqSnlxdEVWUkpRcnhzTURCNF82TVdPdFEyNlNRSWlUUTZWWTRxOGgyeFpXdjdPZ3lwQVQ5d2dVbXl3ZEU?oc=5"
+      "published": "2026-08-17T20:52:33+00:00",
+      "publisher": "NVIDIA",
+      "source": "NVIDIA AI",
+      "title": "AI Infrastructure Ecosystem Day Code Of Conduct - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTklwTUR0OVFKQ1B0OXhQT09CLUFEZ21nS0ZWMGNDS0JZZEc5Q2RtbGYxaU5NVUtYS3ByZ1hNZEx2UDVULWtXd0lXOG1mVHB5Wk9Relg4LUttY2lqcUlXQ2lwal9OcFlyQ1FWTm9QN1pJXzJtVWhpbE1NaWhDS1psUFZIbmlyel9EaVJyWQ?oc=5"
     },
     {
-      "rank": 5,
-      "source": "TechCrunch AI",
-      "title": "ซีอีโอ Anthropic ชี้กระแสต้าน AI แท้จริงแล้วคือ 'วิกฤตความเชื่อมั่น' ของสาธารณชนต่อกลุ่มเทคโนโลยี",
-      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/"
+      "published": "2026-08-17T13:42:41+00:00",
+      "publisher": "AI Insider",
+      "source": "Microsoft AI",
+      "title": "The Week Ahead in AI: Stripe Acquiring OpenRouter, Microsoft and AI Chips, Gemini's Watermark Changes, Plus Upcoming Earnings and Events - AI Insider",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPY2Raa0hlbEZUa2hMU2tPSUx1YjF5R29VMWx4UU9aNnBmdk5Qc2hJalIyTkhLQl9YTmNONGFQUjc2V05icE5RaHhQdElQMk02ZUxKS2lwd1hDcU9jel9KYkpCXzFBOHd5R2RiVHNLV1NjLVFIM3VnVm4yamp4dFhncVZ3dURBVlBQdThPMVNYLTh0SVVNcU1Wc2dBNGlHSVRIRmZwVnVMTXVzc19VZnF4OEJpZHlMa0ZXSXVHU0x2VDVrWWdxTXAybnlOVHplQTk3UmE0QzBpZEs3di1GdUUwVzJLTjM2YzFxVXRnMmVUaGxZbURlVVRyQ0szY1Uzdw?oc=5"
+    },
+    {
+      "published": "2026-08-17T14:52:28+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "ByteDance signs AI copyright pact with Hollywood trade group - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdU1ONEFWUlFsY1BRU3JteFBXbXd6YUx5NzBpMlRfZVdKT0xESnZ2cUxXckpiaDJ6S1BVek8zRWhlVmxkcEM3TEdpZVRSZmlSbUljWHRYUkhodnloNGd1bHpTeUU4dkhYLVVJTWZWQ2ZKSVIwN3ExXzhYNVdDcTJUeVdMNmRVeW1ER1N5dlNzbjllZFdPZ3VuUjdpUkJKR3RFNHZlY3J2ZlREY3RUVzM3T3Z6TQ?oc=5"
+    },
+    {
+      "published": "2026-08-17T12:41:50+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "US Futures Flat; Tech Shares Gain on Anthropic Revenue Jump - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWkZVMUg0dVN1b0V5U3BIdUUyZFZ0UGo2VGNZZnU5QXRUSWt3LVdLVzBxdWZ3NTBRNlVZR2UxWUhDRmFEbTBBcEdyb0FVTG9vOVh0VnNUS0lUdzdsS2E5Zld6MndMVzh1anhVV1dXOWZTQkFwV3E4aTlQbFVaNDlOV0tTNnhGWmhKNmY5TE1LbG1kcS1sMG9WRkZFS1JqUzM1YlU0SmN3MXVJYjFCN3c?oc=5"
+    },
+    {
+      "published": "2026-08-17T08:09:01+00:00",
+      "publisher": "blog.google",
+      "source": "Google AI Blog",
+      "title": "Get closer to the game with Gemini and Pixel - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcWJ2SERjNC1seXR0UXlSeEJvNmJkWUFDSjFQeWxISlMzdU5rR0dOdnVOeUx3ZTdOOTlJQXRWaVNURnptdE85SURIRU9xVTA0dmZwOGFyaEZYWndzWGtVMHd0Ql9XOHZXNmpCTkdDWkVXNld3MkYyczNBODRRTUFKNU5zRjZMUXpKV3JxX0VVUk1KTTBXVnNzREIzRUVFd1FnYmNOSnh4dUduQQ?oc=5"
+    },
+    {
+      "published": "2026-08-17T18:14:03+00:00",
+      "publisher": "blog.google",
+      "source": "Google AI Blog",
+      "title": "7 can’t-miss updates from our Pixel 11 launch - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY2E2UTJqYjh2Zmg0T1M0ZWRGZEFMRWtSdWlFVGZnU29yclY1MWFuOFdKemtRcHB6MV9JTlBuVVd1ZFdhc3RPaW1fQzM5MC1uLUN2NTA5Y051MndleHJJZDc4VjVoVkF5b2lhVzhfSHBNZjdLYnVvU2U0WUJ2YWRoVw?oc=5"
+    },
+    {
+      "published": "2026-08-17T10:31:00+00:00",
+      "publisher": "SpeedwayMedia.com",
+      "source": "xAI / Grok",
+      "title": "Grok 4.6 vs DeepSeek V4 Pro: 14.9× the Cost, 7.9 More Index Points - SpeedwayMedia.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORDQ1QU1ScFYwdmNBV2xsbkpjYmtWREJEcU81R0tZZTZ2UmR1OE5zU2U5R1k2bFZnYS0zVlVTcGtxaVlMZUpabTZ1dVBTaGhXbzhtYld4THhValNQN3ZWMEhfaTFKc3M3elBxNmkxV3d6LUc0TnJMaFZrZDFuaHJ2d1JROTQ4X0JyRkhpQ3ZyUUR3dXJOdFhtSFpEaGc1UUVwcjgtOA?oc=5"
+    },
+    {
+      "published": "2026-08-17T10:36:05+00:00",
+      "publisher": "Memeburn",
+      "source": "xAI / Grok",
+      "title": "Grok 4.6 vs GPT-5.6 Sol 2026: Which AI Model Wins? - Memeburn",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Jck9DZU5BQVk5bFN6cEF6anRNeHJ4eWg1bmpFX25KaDc0bm1sMnRoaVJfVW1XdHY4OWthbkVuenVleXF5VG83UEt1R2xQSmZOQkw0dFNmeGktZjdQVVQ4S19VRFlLYXVNY0ExSUpqdVA0SFhHaWZfenNn?oc=5"
+    },
+    {
+      "published": "2026-08-17T10:35:00+00:00",
+      "publisher": "finance.biggo.com",
+      "source": "AMD / TSMC AI",
+      "title": "Hedge Fund Giants Reshuffle: Dumping Broadcom, Loading Up on TSMC — 13F Filings Reveal New AI Capital Flows - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42RnFYTFluZmExTnVJV09ud3pIT1h5R3ByVEhhc3VidmZXalNqY01RSnM1cW01aV9VNnYzUGJhX3YtVFd0d2dTaHhfVGw4WjVsNDFzSWh3Yi1fYUZoMU9OOXdKeU1CY3JYX0ZFQ2hVbXk4c2xoaGc?oc=5"
+    },
+    {
+      "published": "2026-08-17T17:30:00+00:00",
+      "publisher": "Kalkine Media",
+      "source": "Microsoft AI",
+      "title": "Microsoft (NASDAQ:MSFT) Shares Ride AI-Driven Rally To Fresh Highs - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMDRPTngxc2hKR1A1clVaVEs4X3VIX3hCOU5lSmdXWThITHJFTXR1X1RPcnhqdjBCbEFkQ3BqeGtTU2NUdjJGdjRFZk8wNHVhS1NqUjByVV90YWdlU3RGRmI4NDNIVTRXNEZqLVlFUE4xdVRuSl8wbE0zZ1Q2ZW1rSnl2UXVMelJFMHRqLW9PNl9QQUJCMTBhbjUtUzhUWU1OMmtBb25KQmNkOWc?oc=5"
+    },
+    {
+      "published": "2026-08-17T19:37:28+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "China’s open-weight AI models are prompting US players to reconsider their strategy. - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVDBadzJSVlN6dThDdjlFNHB2UW1PZkxLSS11cVZaM3dNQU5pQ0d4UXIwcHpqUW5PSE0tNTh6SmRqQkdYcUxxODFYck1mUEtibGhrWnYtRWN5cmZOb09Qb01XbzBBTnZPLVBTNkVkZVE1bzE3OGFuNW1xTTBpYzRKWFZOU0Y2elhRR29RWDhybVduM25XT1dTdnpKZmVpV2hOY0JMZ01ybFYtYjhJZ0JWZEktamcyZTM1S2VWRko5UWRKRko3cjhtTGhyVzZReWVEbUVF?oc=5"
+    },
+    {
+      "published": "2026-08-17T15:10:25+00:00",
+      "publisher": "theverge.com",
+      "source": "The Verge AI",
+      "title": "Apple ordered to stop scaring iPhone and iPad users away from third-party apps - theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcUhQRjI1WEFmcmVqdXRuX0kwQW1OM01nQ1BjeXdSMFNfWjVMMWdJZzhkS2hNSEtXcXVlNjdxTlMwVXZLUFlQNG1ZbVFORWNDSTZnQVJYTmh5MTg5TW10endBV0dVRzlDSFNoR3FEYVp4SU1wWG9wM0JpNmxhZ0gzRmpuQm04NF80Wl8yN3dzeGk?oc=5"
+    },
+    {
+      "published": "2026-08-17T20:18:17+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "This R-Rated Film Studio Wants to Be the HBO of AI - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd0t2SHVjb21rdDZEVkZfdHVUY3h0NWdJbjVwcmxqOUF1bW9oSlZILUNlVEhFbVpJdHd0ODJhWlBGci11T21QdlpmdGRyQWlqMVBXWkVnblVCVlE2MHdXZnRYMldkVzd6T3pyX05IQWZXZXprZFBDME5pamxPS3N3bnV0ellUUQ?oc=5"
+    },
+    {
+      "published": "2026-08-17T17:12:15+00:00",
+      "publisher": "24/7 Wall St.",
+      "source": "AMD / TSMC AI",
+      "title": "Cerebras Shares Skyrocket Monday. Intel Gains While AMD Is Down Slightly - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONFFOZ0RRMDA2RWJFRkplMFZfVUpMRHltdWZTNUtqZ2owcllHZVhOWGFkYm5PZWljUnM4MTZqMEFxS3hVeE9jZ1lVbFN3R25sVFFQWmswY19oV1kwQ0EwaVFoeTVFZWxyYW1rYlFiV0N5ZklxQl8ycFppQ1J0OXpDS0lKby1uNU1TQUJGcTY0SlAzU05Gbks4SGoxbWlWanVESGZCemdCQ1VLV2poMGticnBLaXJkQQ?oc=5"
+    },
+    {
+      "published": "2026-08-17T16:19:56+00:00",
+      "publisher": "Amazon Web Services (AWS)",
+      "source": "AWS AI",
+      "title": "Build OpenClaw agents that transact with Amazon Bedrock AgentCore payments - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdzk1bnBXVFdlNWt5a2dYc25Fc2w3QWpXb0VJMFU3emlieTBJX2pncndNVjRTVkp1Mnp1UTdPcV9LTG5pRkYweGk5cW52RHJod1hXUWZBZTE0S1VUMlh3R25mRHNwek9BN2Z5ZDE2aWJrX3pKR2NHaGRLTHEyQm9Ra3hveDBUNTlQRklRRGZBbXJYaWdSWFpQVHhtTGQ4RTdSaDNkQVhuNWt1ckRlcTU1WHZnSlFIZzRqZDZpMF93?oc=5"
+    },
+    {
+      "published": "2026-08-17T12:42:27+00:00",
+      "publisher": "ft.com",
+      "source": "FT Tech",
+      "title": "UK government to pay KPMG and EY up to £456mn to train civil servants - ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNDFCY2lvWkNZU2VfZUFadl9Od1JObmhzbURHNGhmQXZ3SVVGYkhWS0t6QUk1YWZfU0E4djlRU281RXVkT1VTWlpqYWJBNFVDSlJFVXdJUzEyVC1QV0VuM2ZMdGZuVVB1MEJONGN0U0hDU1N2ZWRfSjlFeG84QnBiTHhJZVU?oc=5"
+    },
+    {
+      "published": "2026-08-17T09:30:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "Election Officials Are Preparing for Prediction Markets to Sow Chaos in the Midterms - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMzdxUjdDNEJXdzZ4azBwNW94eUJkYlA5bmVFZXVRN3UxdXBISTJ6WllDWGdVZVZrTllsRmczSUcwVFJ5SlA3djBJNmhNYTVVbnlBdElBU3E0VkM1S1M2NmM0QW8tU0JwZ2VpTzM3YmtueFM4ZlFPUXA1bTYwN1lKMUZ5a1ZzYW8yeVZ3eXhTam9XSFdidUR4Z19Ba0Zyb0FHZWdLeGVsTUlFcGxDTTNaWVQ0bw?oc=5"
+    },
+    {
+      "published": "2026-08-17T04:00:27+00:00",
+      "publisher": "ft.com",
+      "source": "FT Tech",
+      "title": "Higgsfield valued at $5.4bn as Goldman and Intel back AI video start-up - ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGRzMWp1Znhpd1ZrWkZnWm1UV0pYR0lGTThBSmphSEstRW01NG96OXlucnRBTF95a2hMcWZJUFkzVm5rekZjb2VfV1ZHQ18ycHR5M2hYV0E3c1RjeXhfTExMcy1RTHZXSTRtVXJSRXd5QzNjN3R0ajRpWVMyYkwtY25pRnc?oc=5"
+    },
+    {
+      "published": "2026-08-17T11:04:52+00:00",
+      "publisher": "PharmaTimes",
+      "source": "AWS AI",
+      "title": "Novo Nordisk and AWS form AI partnership to speed drug discovery - PharmaTimes",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQODFoSkZKaUNPRjlMR3loRUpIanI4ZjJfY3g1R1JheTIyeFFrYmloRkR6V3doSVg0TTVNSV9QLUEzM3NNaHdVX1lsN29KZXVzWXhiZ0RiRC1hNS1zYTFPMkdXMmhnUjZkQUhlMUpmVVFRMHNUMkltdEdVLXo2ajZUU0JIQWFUbl9GLXlHQlcwY2tTaU1DUEJTczd3?oc=5"
+    },
+    {
+      "published": "2026-08-17T14:53:31+00:00",
+      "publisher": "The Globe and Mail",
+      "source": "Quantum Computing",
+      "title": "Got $200? 1 Quantum Computing ETF to Buy Right Now. - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNFNYNjAwM1Ywcm41SEtFUHkxRVE5UV9wOXVTQW1rN1ZPNEI0VzRFb0x3YzZtTmJJSDk2OUJBS3pkcEFPWjBtX0NxYlhDd1ZESUQ2UEFCZWRvSTl4RTBUTWM5QW5yVHE5bDBldDJkOVpYVl95T1hSOHFhR21HVWhOeVFuX2x3SU44c2c3QkVvbDBrUU5XZG91RjJ3N0Y1ZDZsWnRrcFBTd0lJdVlCdHRFTXJ6bUdSRnoyUDgtRlhnaHZPT1J3Nm5GdC1FdmtxUQ?oc=5"
+    },
+    {
+      "published": "2026-08-17T12:10:00+00:00",
+      "publisher": "MIT Technology Review",
+      "source": "MIT Tech Review AI",
+      "title": "The Download: dead robot friends and the “censorship-industrial complex” - MIT Technology Review",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc3RnTDBzN3FQQkdNUDcxbjFYcHNUeGdoMmpJOUFOZWhEMGR5SXJTTzlVeUxUSlZxaVNaTGJVWlNhQ29Nb2pWcGJqSDl3QUFUdnFhQy1yUVdWOXNGR01rcURsOWM2UmJNQVJEc3ppcS1KbGVtQjExSER3OUlMb2pKTHRBcUZ2OHlwNVpMUWlLWXZwYU5ucGhFcl9VU19qeFVGenVfbF8yRWd5SzJCdzZnNmlCY1_SAboBQVVfeXFMT3pEUUhDTE9Eb2dJSGtpLTlUeTA0WWY3M290MGtiNGdhb0ZwYVJMWEdHdTJacVlIYXoxdkhDYTRlOHloRGJPdDA1TWhmU2xzalNONVFmNEFhZGF5cXBhX2x2d2c4bm9pek5jOC1uTjNWM3NMSlAtaWc3NmNEd2dqLW42OWIwLTJYQk5KTWIwOGphTEZndnVpY3poOFNzZWpWYldWckVSR1VKd0JxM2dZdWtYaGJ6VnVYMmx3?oc=5"
     }
   ],
   "date": "2026-08-17",
-  "generated_at_utc": "unknown",
+  "generated_at_utc": "2026-08-17T21:07:36Z",
   "items": [
     {
-      "rank": 1,
-      "source": "TechCrunch AI",
-      "title": "Stripe มีรายงานเตรียมเข้าซื้อกิจการ OpenRouter สตาร์ทอัพ AI Gateway ด้วยมูลค่ากว่า 7 พันล้านดอลลาร์",
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
+      "source": "Reuters Tech",
+      "summary_th": "Nvidia ประกาศพร้อมให้การสนับสนุนการค้ำประกันทางการเงินมูลค่าสูงถึง 1.05 แสนล้านดอลลาร์สำหรับโครงการศูนย์ข้อมูล AI ของ OpenAI ในรัฐโอไฮโอ ข้อตกลงนี้จะช่วยผลักดันโครงสร้างพื้นฐานประมวลผลขนาดใหญ่เพื่อรองรับการเทรนและการประมวลผลโมเดล AI รุ่นถัดไป",
+      "title_th": "Nvidia เตรียมค้ำประกันวงเงินสูงถึง 1.05 แสนล้านดอลลาร์สำหรับดาต้าเซ็นเตอร์ OpenAI ในรัฐโอไฮโอ",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkxQZ0FIUUQ0X2p6bVF1NWw1eF9PQnBtRVJVbUk4eV83UkU5X0JjdmE0RnFDdkZOLVJNWWlCejVmOTdmdTFoT3FGWmhGOGVYdFdwcXNwWlAtaEVNRnFPYkZFVzhmY3ZBQ0xERGUtWFF6QWdxcVFqR2k4dkdDTkJHNURIdUJ0Rk05NE94ekVPMjYtaWNodnItODdIdGU4Qmw5bndYZ095UF9nRFc5RnRheGxtNXFCM2VWbXd5M2pCTGw?oc=5",
+      "why_it_matters": "สะท้อนถึงการลงทุนระดับมหาศาลในโครงสร้างพื้นฐาน AI และตอกย้ำการผูกพันทางยุทธศาสตร์ที่ลึกซึ้งยิ่งขึ้นระหว่าง Nvidia และ OpenAI"
     },
     {
-      "rank": 2,
-      "source": "Tom's Hardware",
-      "title": "Google มีรายงานจับมือ AMD ร่วมออกแบบชิป TPU รุ่นถัดไป ผสานคอร์ CPU เสริมประสิทธิภาพ Reinforcement Learning",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxORzRsRUFrejFFTjlqQnVzY1lqdkV4dHFMYnNrTUlPb3ItckJSWFgtVlBpTDFXTnJzSnhqY21xeThLOU1KNmZpaEdRM0VEQlNwTXZtMjFWdTh6Ymp1d05lTndsbkZOb0twT1hCMEZVaDQxeS0wWnk4WjNOOXFJdW11ZHo0aTIzaWp5bl9uWkoxSDJ6MGNXOEZQQmJxX0p1VUZSOHh6T1RsTkhwYW5jQVNsSXBMem1adWRuUFRaYjcyLUdLbmhVbzVueXRDNG53QXNPazIwQXQ3LUExVll5TFllZzlSajlFVFgweHExU21OQlRlY0FScklwVEFhbHJNRU9zdm9fdUV4bEVJU1k4OGpQTnFOVDJUZ3EzQnpnbTJ1WGZMTVRmSERiLV9n?oc=5"
-    },
-    {
-      "rank": 3,
       "source": "The Verge AI",
-      "title": "OpenAI มีรายงานยุบทีม Preparedness ซึ่งดูแลด้านความปลอดภัยและความเสี่ยงขั้นวิกฤต",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSHRPU0RWLUlmU1FiVnYzSUoxN29PMnpHY3hmQ1pkUGREeDZZNmY5ZzA0R1hDdmgzWlBqNmNhaF9haVZ1YjM4SVlXRXRvSmQyZmFQTEdZMXhGalBMSXdwWVJGcTVhVExKZzFITG5yV2NDOVhfRGNoVUdhakFfYlc4emhZc0xLZTJZcnpVa1d4OTdoUVdmSVpR?oc=5"
+      "summary_th": "Anthropic อธิบายถึงหลักการทำงานของระบบลายน้ำข้อความล่องหนที่จะนำมาใช้ระบุเนื้อหาที่สร้างโดยโมเดล Claude ระบบดังกล่าวช่วยให้สามารถตรวจสอบแหล่งที่มาของข้อความได้อย่างแม่นยำโดยไม่ลดทอนคุณภาพและความเป็นธรรมชาติของภาษา",
+      "title_th": "Anthropic เผยกลไกการใส่ลายน้ำข้อความแบบล่องหนในผลลัพธ์ของ Claude",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSXJuNGo3cjRuTXkxM3FJVmt1SHNVd0w1UV95Y19TU2VaSUxnY0RTTi1aZi01UUpuRmplTUtObkZ4T2JkbXRqclByNFc3em84N3M2WmVOVjhTcGNFeUFzcU56Q0I4b1BhaUFSR3luTkJwQk9xa1NleWdXcWtULW5IMVRKaDJ1anpSZFpKX0QySmJHWXNqclA1XzRYTlM0NGczOEFqTDJMSmNHUQ?oc=5",
+      "why_it_matters": "เป็นก้าวสำคัญด้านความปลอดภัยและความโปร่งใสของ AI เพื่อแก้ปัญหาข่าวปลอมและการนำเนื้อหาอัตโนมัติไปใช้ในทางที่ผิด"
     },
     {
-      "rank": 4,
-      "source": "Bloomberg.com",
-      "title": "Alibaba เตรียมขายธุรกิจเกมมูลค่า 1.5 พันล้านดอลลาร์ เพื่อระดมทุนมุ่งเน้นการพัฒนา AI เต็มตัว",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT1BmUWVZUElWU0FmektVUkUzWnFGbWZ4NzZZay1pcHdfOWhaV2JUWXI0RFZWOGFYWmhQVkprUGFXdDd0LWF6LUpoZzZ0UFEyQ3dLNWUtMWhuUUs0QlU5V3hWRTYyS1NpMEZWdjNMQzl4alVrWmF5V1hqSnlxdEVWUkpRcnhzTURCNF82TVdPdFEyNlNRSWlUUTZWWTRxOGgyeFpXdjdPZ3lwQVQ5d2dVbXl3ZEU?oc=5"
-    },
-    {
-      "rank": 5,
       "source": "TechCrunch AI",
-      "title": "ซีอีโอ Anthropic ชี้กระแสต้าน AI แท้จริงแล้วคือ 'วิกฤตความเชื่อมั่น' ของสาธารณชนต่อกลุ่มเทคโนโลยี",
-      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/"
+      "summary_th": "สตาร์ทอัพ Groq ระดมทุนรอบใหม่ได้ 350 ล้านดอลลาร์ นำโดย Disruptive พร้อมประเมินมูลค่ากิจการอยู่ที่ 3.5 พันล้านดอลลาร์ เงินทุนนี้จะใช้ขยายศูนย์ข้อมูลสำหรับให้บริการประมวลผล AI Inference บนคลาวด์หลังปรับทิศทางธุรกิจจากการมุ่งผลิตชิปเพียงอย่างเดียว",
+      "title_th": "Groq ระดมทุนเพิ่ม 350 ล้านดอลลาร์ ขับเคลื่อนการเปลี่ยนผ่านสู่ผู้ให้บริการ Neocloud",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "why_it_matters": "ความต้องการระบบประมวลผล Inference เติบโตอย่างรวดเร็ว ทำให้ตลาดคลาวด์เฉพาะทางด้าน AI กลายเป็นสมรภูมิสำคัญนอกเหนือจากชิปประมวลผล"
+    },
+    {
+      "source": "Reuters Tech",
+      "summary_th": "ByteDance ได้ลงนามในข้อตกลงด้านลิขสิทธิ์เนื้อหา AI ร่วมกับกลุ่มพันธมิตรอุตสาหกรรมภาพยนตร์ฮอลลีวูด ข้อตกลงนี้กำหนดกรอบการใช้งานและการปกป้องทรัพย์สินทางปัญญาสำหรับเทคโนโลยีปัญญาประดิษฐ์เชิงสร้างสรรค์ของบริษัท",
+      "title_th": "ByteDance บรรลุข้อตกลงลิขสิทธิ์ AI ร่วมกับกลุ่มอุตสาหกรรมฮอลลีวูด",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdU1ONEFWUlFsY1BRU3JteFBXbXd6YUx5NzBpMlRfZVdKT0xESnZ2cUxXckpiaDJ6S1BVek8zRWhlVmxkcEM3TEdpZVRSZmlSbUljWHRYUkhodnloNGd1bHpTeUU4dkhYLVVJTWZWQ2ZKSVIwN3ExXzhYNVdDcTJUeVdMNmRVeW1ER1N5dlNzbjllZFdPZ3VuUjdpUkJKR3RFNHZlY3J2ZlREY3RUVzM3T3Z6TQ?oc=5",
+      "why_it_matters": "สร้างบรรทัดฐานใหม่ในการเจรจาลิขสิทธิ์ระหว่างยักษ์ใหญ่เทคโนโลยีกับอุตสาหกรรมบันเทิงเพื่อลดข้อพิพาททางกฎหมายด้าน AI"
+    },
+    {
+      "source": "FT Tech",
+      "summary_th": "Higgsfield ผู้พัฒนาโมเดลปัญญาประดิษฐ์สำหรับสร้างวิดีโอ ได้รับการประเมินมูลค่าแตะ 5.4 พันล้านดอลลาร์จากการสนับสนุนของนักลงทุนสถาบันรายใหญ่อย่าง Goldman Sachs และ Intel เงินทุนรอบนี้จะช่วยเร่งการวิจัยและพัฒนาโมเดลเจเนอเรชันถัดไปเพื่อแข่งขันในตลาดวิดีโอ AI",
+      "title_th": "สตาร์ทอัพวิดีโอ AI 'Higgsfield' คว้ามูลค่า 5.4 พันล้านดอลลาร์ หลังได้แรงหนุนจาก Goldman Sachs และ Intel",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGRzMWp1Znhpd1ZrWkZnWm1UV0pYR0lGTThBSmphSEstRW01NG96OXlucnRBTF95a2hMcWZJUFkzVm5rekZjb2VfV1ZHQ18ycHR5M2hYV0E3c1RjeXhfTExMcy1RTHZXSTRtVXJSRXd5QzNjN3R0ajRpWVMyYkwtY25pRnc?oc=5",
+      "why_it_matters": "ส่งสัญญาณว่ากระแสความสนใจและการอัดฉีดเงินทุนในกลุ่ม Generative Video ยังคงแข็งแกร่งและดึงดูดสถาบันการเงินระดับโลก"
     }
   ],
   "model_used": "google/gemini-3.7-flash"
