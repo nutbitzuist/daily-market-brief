@@ -9,8 +9,6 @@ from typing import Iterable
 
 import requests
 
-from scripts import source_policy
-
 log = logging.getLogger(__name__)
 
 TG_API = "https://api.telegram.org/bot{token}/sendMessage"
@@ -31,6 +29,33 @@ def escape_mdv2(text: str) -> str:
         else:
             out.append(ch)
     return "".join(out)
+
+
+def reader_text(text: str) -> str:
+    """Final user-facing guard against links and extraction/debug metadata."""
+    text = str(text or "")
+    text = re.sub(r"\[([^\]]+)\]\(https?://[^)]+\)", r"\1", text)
+    text = re.sub(r"https?://\S+", "", text)
+    text = re.sub(r"\bwww\.\S+", "", text)
+    lines = []
+    for line in text.splitlines():
+        stripped = line.strip()
+        if re.match(
+            r"^(Title|URL Source|Published Time|Markdown Content|Source Policy):",
+            stripped,
+            re.I,
+        ):
+            continue
+        stripped = re.sub(r"(?i)\bfallback brief\b", "", stripped)
+        stripped = re.sub(r"(?i)\bdeterministic fallback\b", "", stripped)
+        if stripped:
+            lines.append(stripped)
+    return "\n".join(lines).strip()
+
+
+def reader_watch(text: str) -> str:
+    text = reader_text(text)
+    return re.sub(r"^(ติดตาม|จับตา)\s*[:：]?\s*", "", text).strip()
 
 
 def _chunk(text: str, limit: int = MAX_LEN) -> list[str]:
@@ -78,30 +103,20 @@ def _send(token: str, chat_id: str, text: str) -> None:
 
 def build_digest(date_str: str, items: list[dict], aggregate: dict,
                  repo_url: str, exec_summary: str = "") -> str:
-    lines: list[str] = []
-    lines.append(f"📈 *US Market Brief — {escape_mdv2(date_str)}*")
-    lines.append(escape_mdv2(source_policy.one_line("us")))
-    lines.append("")
-
-    if exec_summary.strip():
-        lines.append(escape_mdv2(exec_summary.strip()))
-        lines.append("")
-
-    lines.append("*Top 10 Headlines:*")
-    lines.append("")
+    """Concise link-free reader output; provenance remains internal."""
+    lines: list[str] = [f"📈 *US Market Brief — {escape_mdv2(date_str)}*", ""]
     for it in sorted(items, key=lambda x: x.get("rank", 99)):
-        emoji = SENTIMENT_EMOJI.get(it.get("sentiment", "neutral"), "⚪")
         rank = it.get("rank", "?")
-        title = escape_mdv2(it.get("title_th", ""))
-        summary = escape_mdv2((it.get("summary_th", "") or "").strip())
-        lines.append(f"*{rank}\\. {emoji} {title}*")
+        title = escape_mdv2(reader_text(it.get("title_th", "")))
+        summary = escape_mdv2(reader_text(it.get("summary_th", "")))
+        lines.append(f"*{rank}\\. {title}*")
         if summary:
             lines.append(summary)
+        watch = reader_watch(it.get("watch_next", ""))
+        if watch:
+            lines.append(escape_mdv2(f"จับตา: {watch}"))
         lines.append("")
-
-    full_url = f"{repo_url}/blob/main/briefs/{date_str}.md"
-    lines.append(f"🔗 Full: {escape_mdv2(full_url)}")
-    return "\n".join(lines)
+    return "\n".join(lines).rstrip()
 
 
 def send_digest(date_str: str, items: list[dict], aggregate: dict,

@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import logging
 import os
+import re
 import time
 from dataclasses import dataclass, field
 from datetime import datetime, timedelta, timezone
@@ -141,6 +142,27 @@ def _extract_rss_content(entry) -> str:
     return soup.get_text(" ", strip=True)
 
 
+def clean_enriched_text(text: str) -> str:
+    """Remove page-extraction transport metadata before summarization."""
+    if not text:
+        return ""
+    marker = re.search(r"(?im)^Markdown Content:\s*$", text)
+    if marker and marker.start() < 2500:
+        text = text[marker.end():]
+    kept = []
+    for line in text.splitlines():
+        if re.match(
+            r"^(Title|URL Source|Published Time|Markdown Content):",
+            line.strip(),
+            re.I,
+        ):
+            continue
+        kept.append(line)
+    text = "\n".join(kept)
+    text = re.sub(r"!\[[^\]]*\]\([^)]*\)", "", text)
+    return text.strip()
+
+
 def canonical_publisher(source_name: str) -> str:
     """Collapse feed/query labels to the underlying editorial publisher."""
     low = source_name.lower()
@@ -215,7 +237,7 @@ def fetch_all(hours: int = 24) -> list[Article]:
 def _jina_reader(url: str) -> str:
     r = _http_get(f"https://r.jina.ai/{url}")
     if r and r.text and len(r.text) > 200:
-        return r.text
+        return clean_enriched_text(r.text)
     return ""
 
 
@@ -237,7 +259,7 @@ def _wayback(url: str) -> str:
     soup = BeautifulSoup(page.content, "html.parser")
     for t in soup(["script", "style", "nav", "footer", "header"]):
         t.decompose()
-    return soup.get_text(" ", strip=True)
+    return clean_enriched_text(soup.get_text(" ", strip=True))
 
 
 PAYWALL_HOSTS = ("wsj.com", "bloomberg.com", "ft.com")

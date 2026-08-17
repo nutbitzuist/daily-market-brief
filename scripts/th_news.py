@@ -18,7 +18,7 @@ ROOT = Path(__file__).resolve().parent.parent
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from scripts import classifier, notify, source_policy, sources, summarizer  # noqa: E402
+from scripts import classifier, notify, sources, summarizer  # noqa: E402
 
 logging.basicConfig(
     level=os.environ.get("LOG_LEVEL", "INFO"),
@@ -177,48 +177,20 @@ def _yaml_list(vals: list[str]) -> str:
 
 def render_md(date_str: str, generated_at_utc: str, model_used: str,
               sources_count: int, items: list[dict], exec_summary: str) -> str:
-    lines: list[str] = []
-    lines.append("---")
-    lines.append(f"date: {date_str}")
-    lines.append(f"generated_at_utc: {generated_at_utc}")
-    lines.append(f"model_used: {model_used}")
-    lines.append(f"sources_count: {sources_count}")
-    lines.append("---")
-    lines.append("")
-    lines.append(f"# 🇹🇭 Thailand Brief — {date_str}")
-    lines.append("")
-    lines.append(source_policy.markdown_for("thailand"))
-    lines.append(exec_summary.strip())
-    lines.append("")
-
+    """Render concise reader output; source metadata remains internal."""
+    lines: list[str] = [f"# 🇹🇭 Thailand Brief — {date_str}", ""]
     for it in sorted(items, key=lambda x: x.get("rank", 99)):
         rank = it.get("rank", "?")
-        lines.append(f"## {rank}. {it.get('title_th', '')}")
+        lines.append(f"## {rank}. {notify.reader_text(it.get('title_th', ''))}")
         lines.append("")
-        lines.append("| Category | Sentiment | Impact | Horizon | Sectors | Tickers |")
-        lines.append("|---|---|---|---|---|---|")
-        lines.append(
-            f"| {it.get('category','')} | {it.get('sentiment','')} | "
-            f"{it.get('impact','')} | {it.get('time_horizon','')} | "
-            f"{', '.join(it.get('sectors', []) or []) or '—'} | "
-            f"{', '.join(it.get('tickers', []) or []) or '—'} |"
-        )
+        summary = notify.reader_text(it.get("summary_th", ""))
+        if summary:
+            lines.append(summary)
+        watch = notify.reader_watch(it.get("watch_next", ""))
+        if watch:
+            lines.append(f"จับตา: {watch}")
         lines.append("")
-        lines.append((it.get("summary_th", "") or "").strip())
-        lines.append("")
-        kn = it.get("key_numbers") or []
-        lines.append("**📊 Key Numbers**")
-        if kn:
-            for n in kn:
-                lines.append(f"- {n}")
-        else:
-            lines.append("- —")
-        lines.append("")
-        lines.append(f"**👀 Watch Next:** {it.get('watch_next','—')}")
-        lines.append("")
-        lines.append(f"🔗 Source: [{it.get('source_name','')}]({it.get('url','')})")
-        lines.append("")
-    return "\n".join(lines)
+    return "\n".join(lines).rstrip() + "\n"
 
 
 # ---------- telegram ----------
@@ -229,29 +201,19 @@ SENT_EMOJI = {"bullish": "🟢", "bearish": "🔴", "neutral": "⚪"}
 def build_th_digest(date_str: str, items: list[dict], exec_summary: str,
                     repo_url: str) -> str:
     esc = notify.escape_mdv2
-    lines: list[str] = []
-    lines.append(f"🇹🇭 *Thailand Brief — {esc(date_str)}*")
-    lines.append(esc(source_policy.one_line("thailand")))
-    lines.append("")
-    if exec_summary.strip():
-        lines.append(esc(exec_summary.strip()))
-        lines.append("")
-
-    lines.append("*Top 10 Headlines:*")
-    lines.append("")
+    lines: list[str] = [f"🇹🇭 *Thailand Brief — {esc(date_str)}*", ""]
     for it in sorted(items, key=lambda x: x.get("rank", 99)):
-        emo = SENT_EMOJI.get(it.get("sentiment", "neutral"), "⚪")
         rank = it.get("rank", "?")
-        title = esc(it.get("title_th", ""))
-        summary = esc((it.get("summary_th", "") or "").strip())
-        lines.append(f"*{rank}\\. {emo} {title}*")
+        title = esc(notify.reader_text(it.get("title_th", "")))
+        summary = esc(notify.reader_text(it.get("summary_th", "")))
+        lines.append(f"*{rank}\\. {title}*")
         if summary:
             lines.append(summary)
+        watch = notify.reader_watch(it.get("watch_next", ""))
+        if watch:
+            lines.append(esc(f"จับตา: {watch}"))
         lines.append("")
-
-    full_url = f"{repo_url}/blob/main/thailand/{date_str}.md"
-    lines.append(f"🔗 Full: {esc(full_url)}")
-    return "\n".join(lines)
+    return "\n".join(lines).rstrip()
 
 
 def send_th_digest(date_str: str, items: list[dict], exec_summary: str,

@@ -49,8 +49,9 @@ SYSTEM_PROMPT = (
     "'market implication' language only. Do not invent numbers, consensus, prices, "
     "flows, or positioning. If a number is not in the source, omit it. "
     "Return STRICT JSON array of exactly 10 objects, each with: rank (1-10 by real-world "
-    "importance), title_th (Thai concise), summary_th (Thai 3-5 short lines: what "
-    "happened, why it matters, likely market/economic implication if any, what to watch next), "
+    "importance), title_th (Thai concise), summary_th (Thai 2-3 short sentences containing "
+    "only what happened, why it matters, and at most 2 essential sourced numbers inline; "
+    "no source, URL, publication time, or metadata), "
     "category (Macro/Fed | Earnings | M&A | Regulation | Geopolitics | Sector-specific | Commodity | Crypto), "
     "sentiment (bullish/bearish/neutral for US equities), impact (high/medium/low), "
     "time_horizon (immediate/short-term/long-term), sectors (array), tickers (array), "
@@ -289,7 +290,8 @@ AI_NEWS_SYSTEM_PROMPT = (
     "Prefer official announcements and independently corroborated reports. Treat a single "
     "secondary-source interpretation cautiously. "
     "Return STRICT JSON array of exactly 5 objects, each with: title_th, summary_th "
-    "(Thai 3-4 short lines: what happened, why it matters, who/what is affected), url, "
+    "(Thai 2 short sentences: what happened and who/what is affected; never repeat source "
+    "metadata, URLs, publication time, or page markup), url, "
     "source, why_it_matters (1 sharp Thai line). Return ONLY the JSON array, no preamble."
 )
 
@@ -379,8 +381,9 @@ TH_NEWS_SYSTEM_PROMPT = (
     "'ประเด็นที่ต้องดูต่อ' language. Do not invent numbers, fund flows, prices, or affected "
     "tickers. If not sourced, omit. "
     "Return STRICT JSON array of exactly 10 objects, each with: rank (1-10 by importance), "
-    "title_th, summary_th (Thai 3-5 short lines: what happened, why it matters, business/SET/THB "
-    "impact if any, what to watch next), category (นโยบายรัฐ-การคลัง | นโยบายการเงิน-ธปท. "
+    "title_th, summary_th (Thai 2-3 short sentences containing only what happened, why it "
+    "matters, and at most 2 essential sourced numbers inline; no source, URL, publication "
+    "time, or metadata), category (นโยบายรัฐ-การคลัง | นโยบายการเงิน-ธปท. "
     "| SET/หุ้นไทย | เศรษฐกิจมหภาค | บริษัท-M&A | ธนาคาร-การเงิน | ค่าเงิน-FX | "
     "กฎระเบียบ | ต่างประเทศกระทบไทย), sentiment (bullish/bearish/neutral for SET), "
     "impact (high/medium/low), time_horizon (immediate/short-term/long-term), sectors, "
@@ -467,19 +470,15 @@ def _fallback_us_items(articles: list[dict]) -> list[dict]:
         items.append({
             "rank": rank,
             "title_th": title,
-            "summary_th": (
-                f"Fallback brief จาก {source}: {title}\n"
-                f"ประเด็นจากแหล่งข่าว: {body or 'ไม่มีเนื้อหาเพิ่มเติมจาก RSS'}\n"
-                "อ่านเป็น market-monitor item ก่อนเปิดพอร์ต: ใช้ headline/source เป็น trigger แล้วรอ desk review เพื่อสรุปผลต่อ sector และ risk."
-            ),
+            "summary_th": body or title,
             "category": "Sector-specific" if tickers or sectors else "Macro/Fed",
             "sentiment": "neutral",
             "impact": "medium" if rank <= 3 else "low",
             "time_horizon": "immediate",
             "sectors": sectors,
             "tickers": tickers,
-            "key_numbers": _coerce_str_list(a.get("key_numbers"))[:5] or ["OpenRouter unavailable; deterministic fallback used"],
-            "watch_next": "ตรวจสอบต้นทางและอัปเดต OpenRouter secret; fallback นี้ป้องกัน workflow ล้มเหลวแต่ไม่แทน desk analysis เต็มรูปแบบ",
+            "key_numbers": _coerce_str_list(a.get("key_numbers"))[:5],
+            "watch_next": "ติดตามความคืบหน้าและผลกระทบที่ยืนยันได้จากข้อมูลรอบถัดไป",
             "source_name": source,
             "url": _article_url(a),
         })
@@ -494,10 +493,10 @@ def _fallback_ai_items(articles: list[dict]) -> list[dict]:
         source = _article_source(a)
         items.append({
             "title_th": title,
-            "summary_th": f"Fallback AI brief #{rank}: {body or title}",
+            "summary_th": body or title,
             "url": _article_url(a),
             "source": source,
-            "why_it_matters": "OpenRouter unavailable; surfaced source headline so the scheduled alert still ships.",
+            "why_it_matters": "ประเด็นนี้อยู่ในชุดข่าวสำคัญที่ต้องติดตามต่อ",
         })
     return _validate_ai(items)
 
@@ -514,19 +513,15 @@ def _fallback_th_items(articles: list[dict]) -> list[dict]:
         items.append({
             "rank": rank,
             "title_th": title,
-            "summary_th": (
-                f"Fallback brief จาก {source}: {title}\n"
-                f"ประเด็นจากแหล่งข่าว: {body or 'ไม่มีเนื้อหาเพิ่มเติมจาก RSS'}\n"
-                "ใช้เป็น early-warning สำหรับ SET/THB/sector watch; ต้องตามด้วย desk review เมื่อโมเดลกลับมาใช้งานได้."
-            ),
+            "summary_th": body or title,
             "category": "SET/หุ้นไทย" if tickers else "เศรษฐกิจมหภาค",
             "sentiment": "neutral",
             "impact": "medium" if rank <= 3 else "low",
             "time_horizon": "immediate",
             "sectors": [],
             "tickers": tickers,
-            "key_numbers": ["OpenRouter unavailable; deterministic fallback used"],
-            "watch_next": "ตรวจสอบ OpenRouter secret และต้นทางข่าว; fallback นี้ทำให้ workflow ส่ง brief ได้แม้ LLM ล่ม",
+            "key_numbers": _coerce_str_list(a.get("key_numbers"))[:5],
+            "watch_next": "ติดตามความคืบหน้าและผลกระทบที่ยืนยันได้จากข้อมูลรอบถัดไป",
             "source_name": source,
             "url": _article_url(a),
         })

@@ -1,66 +1,31 @@
----
-date: 2026-08-17
-generated_at: 2026-08-17T03:17:10Z
-model_used: google/gemini-3.7-flash
-sources_count: 12
----
-
-# 📰 AI News 2026-08-17
-
-## Source Policy — AI
-
-- Frontier labs — OpenAI, Anthropic, Google DeepMind/Google AI, Meta AI, xAI/Grok
-- AI infrastructure — NVIDIA, AMD, TSMC, Broadcom, Microsoft/Azure, AWS, Oracle/datacenters
-- Open-source / developer ecosystem — Hugging Face, Llama/Qwen/DeepSeek/Mistral coverage
-- Tier-1 financial/tech press — Reuters, Bloomberg, FT, TechCrunch, The Verge, MIT Tech Review, Wired
-- Policy/legal — AI regulation, copyright, safety, antitrust, major lawsuits
+# 📰 AI News — 2026-08-17
 
 ## 1. Stripe มีรายงานเตรียมเข้าซื้อกิจการ OpenRouter สตาร์ทอัพ AI Gateway ด้วยมูลค่ากว่า 7 พันล้านดอลลาร์
 
 Stripe ยักษ์ใหญ่ด้านฟินเทคมีรายงานเตรียมเข้าซื้อกิจการ OpenRouter ผู้ให้บริการศูนย์รวมโมเดล AI (AI Gateway) ด้วยมูลค่าดีลสูงกว่า 7 พันล้านดอลลาร์
 การควบรวมกิจการครั้งนี้สะท้อนว่าผู้ให้บริการด้านการชำระเงินและโครงสร้างพื้นฐานดิจิทัลกำลังรุกคืบสู่ระบบบริหารจัดการและการเรียกใช้โมเดล AI อย่างจริงจัง
-ส่งผลกระทบโดยตรงต่อนักพัฒนาและภาคธุรกิจที่ต้องเชื่อมต่อ API ของโมเดลภาษาจากหลากหลายค่ายผ่านแพลตฟอร์มเดียว
-
-**Why it matters:** ดีล M&A ด้าน AI ขนาดใหญ่ที่ชี้ให้เห็นว่าโครงสร้างพื้นฐานในการเข้าถึงโมเดล AI กลายเป็นจุดยุทธศาสตร์สำคัญของอุตสาหกรรมเทคโนโลยี
-
-🔗 Source: [TechCrunch AI](https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/)
+สำคัญอย่างไร: ดีล M&A ด้าน AI ขนาดใหญ่ที่ชี้ให้เห็นว่าโครงสร้างพื้นฐานในการเข้าถึงโมเดล AI กลายเป็นจุดยุทธศาสตร์สำคัญของอุตสาหกรรมเทคโนโลยี
 
 ## 2. Google มีรายงานจับมือ AMD ร่วมออกแบบชิป TPU รุ่นถัดไป ผสานคอร์ CPU เสริมประสิทธิภาพ Reinforcement Learning
 
 มีรายงานว่า Google ได้ดึงตัว AMD เข้ามาร่วมพัฒนาชิปประมวลผล TPU สำหรับ AI ยุคถัดไป
 การออกแบบชิปแบบไฮบริด ASIC นี้จะรวมคอร์ประมวลผล CPU ไว้ในแพ็กเกจเดียวกันเพื่อเร่งความเร็วในการคำนวณด้าน Reinforcement Learning โดยเฉพาะ
-การร่วมมือนี้อาจส่งผลต่อสมดุลการแข่งขันในตลาดชิปประมวลผล AI และลดการพึ่งพาสถาปัตยกรรมเดิม
-
-**Why it matters:** ความร่วมมือระหว่าง Google และ AMD ส่งสัญญาณถึงการเร่งยกระดับฮาร์ดแวร์เฉพาะทางเพื่อรองรับการเทรน AI ด้วยการเรียนรู้แบบเสริมกำลัง (RL)
-
-🔗 Source: [Tom's Hardware](https://news.google.com/rss/articles/CBMiqgJBVV95cUxORzRsRUFrejFFTjlqQnVzY1lqdkV4dHFMYnNrTUlPb3ItckJSWFgtVlBpTDFXTnJzSnhqY21xeThLOU1KNmZpaEdRM0VEQlNwTXZtMjFWdTh6Ymp1d05lTndsbkZOb0twT1hCMEZVaDQxeS0wWnk4WjNOOXFJdW11ZHo0aTIzaWp5bl9uWkoxSDJ6MGNXOEZQQmJxX0p1VUZSOHh6T1RsTkhwYW5jQVNsSXBMem1adWRuUFRaYjcyLUdLbmhVbzVueXRDNG53QXNPazIwQXQ3LUExVll5TFllZzlSajlFVFgweHExU21OQlRlY0FScklwVEFhbHJNRU9zdm9fdUV4bEVJU1k4OGpQTnFOVDJUZ3EzQnpnbTJ1WGZMTVRmSERiLV9n?oc=5)
+สำคัญอย่างไร: ความร่วมมือระหว่าง Google และ AMD ส่งสัญญาณถึงการเร่งยกระดับฮาร์ดแวร์เฉพาะทางเพื่อรองรับการเทรน AI ด้วยการเรียนรู้แบบเสริมกำลัง (RL)
 
 ## 3. OpenAI มีรายงานยุบทีม Preparedness ซึ่งดูแลด้านความปลอดภัยและความเสี่ยงขั้นวิกฤต
 
 มีรายงานระบุว่า OpenAI ได้ดำเนินการยุบทีม Preparedness ซึ่งเป็นทีมที่มีหน้าที่ติดตามและประเมินความเสี่ยงระดับรุนแรงของ AI
 ความเคลื่อนไหวดังกล่าวเกิดขึ้นท่ามกลางการจับตามองของสาธารณชนเรื่องการปรับโครงสร้างภายในและการจัดลำดับความสำคัญด้านความปลอดภัยของโมเดล AI
-สร้างข้อกังวลใหม่ให้แก่ฝ่ายกำกับดูแลและแวดวงวิจัย AI Safety เกี่ยวกับแนวทางการบริหารความเสี่ยงระยะยาวขององค์กร
-
-**Why it matters:** การปรับเปลี่ยนโครงสร้างทีมความปลอดภัยภายใน OpenAI ตอกย้ำประเด็นข้อถกเถียงเรื่องความสมดุลระหว่างความเร็วในการพัฒนาและการควบคุมความเสี่ยง
-
-🔗 Source: [The Verge AI](https://news.google.com/rss/articles/CBMilwFBVV95cUxPSHRPU0RWLUlmU1FiVnYzSUoxN29PMnpHY3hmQ1pkUGREeDZZNmY5ZzA0R1hDdmgzWlBqNmNhaF9haVZ1YjM4SVlXRXRvSmQyZmFQTEdZMXhGalBMSXdwWVJGcTVhVExKZzFITG5yV2NDOVhfRGNoVUdhakFfYlc4emhZc0xLZTJZcnpVa1d4OTdoUVdmSVpR?oc=5)
+สำคัญอย่างไร: การปรับเปลี่ยนโครงสร้างทีมความปลอดภัยภายใน OpenAI ตอกย้ำประเด็นข้อถกเถียงเรื่องความสมดุลระหว่างความเร็วในการพัฒนาและการควบคุมความเสี่ยง
 
 ## 4. Alibaba เตรียมขายธุรกิจเกมมูลค่า 1.5 พันล้านดอลลาร์ เพื่อระดมทุนมุ่งเน้นการพัฒนา AI เต็มตัว
 
 Alibaba ประกาศเตรียมขายธุรกิจในส่วนของแผนกเกมคิดเป็นมูลค่าราว 1.5 พันล้านดอลลาร์สหรัฐ
 การถอนตัวจากธุรกิจเกมมีเป้าหมายเพื่อนำเงินทุนและทรัพยากรไปเสริมกำลังให้กับการปรับทิศทางองค์กรสู่การเป็นผู้นำด้าน AI และคลาวด์
-ส่งผลกระทบต่อทิศทางการลงทุนของบริษัทยักษ์ใหญ่ด้านเทคโนโลยีในจีนที่กำลังเร่งทำสงครามชิงความได้เปรียบด้าน AI
-
-**Why it matters:** การปรับพอร์ตโฟลิโอครั้งใหญ่ของ Alibaba ยืนยันว่า AI ได้กลายเป็นเดิมพันสูงสุดที่บิ๊กเทคยอมตัดธุรกิจอื่นเพื่อจัดสรรงบประมาณเข้ามาแข่งขัน
-
-🔗 Source: [Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQT1BmUWVZUElWU0FmektVUkUzWnFGbWZ4NzZZay1pcHdfOWhaV2JUWXI0RFZWOGFYWmhQVkprUGFXdDd0LWF6LUpoZzZ0UFEyQ3dLNWUtMWhuUUs0QlU5V3hWRTYyS1NpMEZWdjNMQzl4alVrWmF5V1hqSnlxdEVWUkpRcnhzTURCNF82TVdPdFEyNlNRSWlUUTZWWTRxOGgyeFpXdjdPZ3lwQVQ5d2dVbXl3ZEU?oc=5)
+สำคัญอย่างไร: การปรับพอร์ตโฟลิโอครั้งใหญ่ของ Alibaba ยืนยันว่า AI ได้กลายเป็นเดิมพันสูงสุดที่บิ๊กเทคยอมตัดธุรกิจอื่นเพื่อจัดสรรงบประมาณเข้ามาแข่งขัน
 
 ## 5. ซีอีโอ Anthropic ชี้กระแสต้าน AI แท้จริงแล้วคือ 'วิกฤตความเชื่อมั่น' ของสาธารณชนต่อกลุ่มเทคโนโลยี
 
 Dario Amodei ซีอีโอของ Anthropic ออกมาโต้แย้งข้อกล่าวหาที่ว่าการเตือนถึงภัยอันตรายของ AI ทำให้เกิดกระแสต้านเทคโนโลยี
 เขาระบุว่าทัศนคติเชิงลบของสังคมต่อ AI ไม่ได้เกิดจากการเตือนเรื่องความปลอดภัย แต่เกิดจากวิกฤตความเชื่อมั่นที่ประชาชนมีต่อรัฐบาลและบริษัทยักษ์ใหญ่เทคโนโลยี
-ประเด็นนี้ส่งผลกระทบต่อแนวทางการผลักดันกฎหมายควบคุม AI และการวางกลยุทธ์สื่อสารของบริษัทปัญญาประดิษฐ์ชั้นนำ
-
-**Why it matters:** สะท้อนความขัดแย้งเชิงความคิดของผู้นำอุตสาหกรรม AI ในการสร้างสมดุลระหว่างการเตือนความเสี่ยงกับการรักษาระดับความไว้วางใจจากสังคม
-
-🔗 Source: [TechCrunch AI](https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/)
+สำคัญอย่างไร: สะท้อนความขัดแย้งเชิงความคิดของผู้นำอุตสาหกรรม AI ในการสร้างสมดุลระหว่างการเตือนความเสี่ยงกับการรักษาระดับความไว้วางใจจากสังคม

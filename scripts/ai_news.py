@@ -19,7 +19,7 @@ ROOT = Path(__file__).resolve().parent.parent
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from scripts import notify, source_policy, sources, summarizer  # noqa: E402
+from scripts import notify, sources, summarizer  # noqa: E402
 
 logging.basicConfig(
     level=os.environ.get("LOG_LEVEL", "INFO"),
@@ -178,52 +178,37 @@ def select_ai_candidates(articles: list[sources.Article], n: int, max_per_source
 
 def render_md(date_str: str, generated_at_utc: str, model_used: str,
               sources_count: int, items: list[dict]) -> str:
-    lines: list[str] = []
-    lines.append("---")
-    lines.append(f"date: {date_str}")
-    lines.append(f"generated_at: {generated_at_utc}")
-    lines.append(f"model_used: {model_used}")
-    lines.append(f"sources_count: {sources_count}")
-    lines.append("---")
-    lines.append("")
-    lines.append(f"# 📰 AI News {date_str}")
-    lines.append("")
-    lines.append(source_policy.markdown_for("ai"))
+    """Render concise reader output; source metadata remains internal."""
+    lines: list[str] = [f"# 📰 AI News — {date_str}", ""]
     for i, it in enumerate(items, 1):
-        lines.append(f"## {i}. {it.get('title_th','')}")
+        lines.append(f"## {i}. {notify.reader_text(it.get('title_th',''))}")
         lines.append("")
-        lines.append((it.get("summary_th") or "").strip())
+        summary = notify.reader_text(it.get("summary_th", ""))
+        if summary:
+            lines.append(summary)
+        why = notify.reader_text(it.get("why_it_matters", ""))
+        if why:
+            lines.append(f"สำคัญอย่างไร: {why}")
         lines.append("")
-        lines.append(f"**Why it matters:** {it.get('why_it_matters','')}")
-        lines.append("")
-        lines.append(f"🔗 Source: [{it.get('source','')}]({it.get('url','')})")
-        lines.append("")
-    return "\n".join(lines)
+    return "\n".join(lines).rstrip() + "\n"
 
 
 # ---------- telegram ----------
 
 def build_ai_digest(date_str: str, items: list[dict], repo_url: str) -> str:
     esc = notify.escape_mdv2
-    lines: list[str] = []
-    lines.append(f"📰 *AI News — {esc(date_str)}*")
-    lines.append(esc(source_policy.one_line("ai")))
-    lines.append("")
+    lines: list[str] = [f"📰 *AI News — {esc(date_str)}*", ""]
     for i, it in enumerate(items, 1):
-        title = esc(it.get("title_th", ""))
-        summary = esc((it.get("summary_th", "") or "").strip())
-        why = esc(it.get("why_it_matters", ""))
-        src = esc(it.get("source", ""))
+        title = esc(notify.reader_text(it.get("title_th", "")))
+        summary = esc(notify.reader_text(it.get("summary_th", "")))
+        why = notify.reader_text(it.get("why_it_matters", ""))
         lines.append(f"*{i}\\. {title}*")
         if summary:
             lines.append(summary)
         if why:
-            lines.append(f"💡 {why}")
-        lines.append(f"🔗 {src}")
+            lines.append(esc(f"สำคัญอย่างไร: {why}"))
         lines.append("")
-    full_url = f"{repo_url}/blob/main/articles/{date_str}.md"
-    lines.append(f"📂 Full: {esc(full_url)}")
-    return "\n".join(lines)
+    return "\n".join(lines).rstrip()
 
 
 def send_ai_digest(date_str: str, items: list[dict], repo_url: str) -> None:

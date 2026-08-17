@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parent.parent
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from scripts import classifier, notify, source_policy, sources, summarizer  # noqa: E402
+from scripts import classifier, notify, sources, summarizer  # noqa: E402
 
 logging.basicConfig(
     level=os.environ.get("LOG_LEVEL", "INFO"),
@@ -55,54 +55,20 @@ def _yaml_list(vals: list[str]) -> str:
 def render_markdown(date_str: str, generated_at_utc: str, model_used: str,
                     sources_count: int, items: list[dict], aggregate: dict,
                     exec_summary: str) -> str:
-    agg_sent = aggregate["sentiment_counts"]
-    yaml_fm = (
-        "---\n"
-        f"date: {date_str}\n"
-        f"generated_at_utc: {generated_at_utc}\n"
-        f"model_used: {model_used}\n"
-        f"sources_count: {sources_count}\n"
-        f"aggregate_sentiment: "
-        f"{{bullish: {agg_sent.get('bullish', 0)}, "
-        f"bearish: {agg_sent.get('bearish', 0)}, "
-        f"neutral: {agg_sent.get('neutral', 0)}}}\n"
-        f"top_sectors: {_yaml_list(aggregate['top_sectors'])}\n"
-        f"top_tickers: {_yaml_list(aggregate['top_tickers'])}\n"
-        "---\n"
-    )
-
-    md = [yaml_fm]
-    md.append(f"# 📈 US Market Brief — {date_str}\n")
-    md.append(source_policy.markdown_for("us"))
-    md.append(exec_summary.strip() + "\n")
-
+    """Render the same concise, link-free brief Nut receives in Telegram."""
+    md = [f"# 📈 US Market Brief — {date_str}", ""]
     for it in sorted(items, key=lambda x: x.get("rank", 99)):
         rank = it.get("rank", "?")
-        md.append(f"## {rank}. {it.get('title_th', '')}\n")
-        md.append("| Category | Sentiment | Impact | Horizon | Sectors | Tickers |")
-        md.append("|---|---|---|---|---|---|")
-        md.append(
-            f"| {it.get('category','')} | {it.get('sentiment','')} | "
-            f"{it.get('impact','')} | {it.get('time_horizon','')} | "
-            f"{', '.join(it.get('sectors', []) or []) or '—'} | "
-            f"{', '.join(it.get('tickers', []) or []) or '—'} |"
-        )
+        md.append(f"## {rank}. {notify.reader_text(it.get('title_th', ''))}")
         md.append("")
-        md.append(it.get("summary_th", "").strip() + "\n")
-        md.append("**📊 Key Numbers**")
-        kn = it.get("key_numbers") or []
-        if kn:
-            for n in kn:
-                md.append(f"- {n}")
-        else:
-            md.append("- —")
+        summary = notify.reader_text(it.get("summary_th", ""))
+        if summary:
+            md.append(summary)
+        watch = notify.reader_watch(it.get("watch_next", ""))
+        if watch:
+            md.append(f"จับตา: {watch}")
         md.append("")
-        md.append(f"**👀 Watch Next:** {it.get('watch_next','—')}")
-        md.append("")
-        md.append(f"🔗 Source: [{it.get('source_name','')}]({it.get('url','')})")
-        md.append("")
-
-    return "\n".join(md)
+    return "\n".join(md).rstrip() + "\n"
 
 
 # ------------------------ pipeline ------------------------
