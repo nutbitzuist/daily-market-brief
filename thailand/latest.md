@@ -1,8 +1,8 @@
 ---
 date: 2026-08-17
-generated_at_utc: 2026-08-17T03:26:49Z
-model_used: deterministic-fallback/openrouter-unavailable
-sources_count: 5
+generated_at_utc: 2026-08-17T03:36:20Z
+model_used: google/gemini-3.7-flash
+sources_count: 6
 ---
 
 # 🇹🇭 Thailand Brief — 2026-08-17
@@ -15,9 +15,178 @@ sources_count: 5
 - InfoQuest — economic, business, market and policy news; exclude crypto/PR noise
 - Official Thailand market sources — BoT, SET, MoF/คลัง, SEC/ก.ล.ต. when market-moving
 
-ปัจจัยขับเคลื่อนหลักเช้านี้อยู่ที่การแถลงตัวเลข GDP ไตรมาส 2 และการปรับประมาณการเศรษฐกิจไทยโดยสภาพัฒ
+สภาพัฒน์แถลง GDP ไตรมาส 2/2569 ขยายตัว 1.9% พร้อมปรับกรอบคาดการณ์
 
-## 1. SET วันนี้ (17 ส.ค.) กรอบ 1,590 – 1,620 จุด จับตาสภาพัฒน์ปรับจีดีพี
+## 1. สภาพัฒน์แถลง GDP ไตรมาส 2/2569 ขยายตัว 1.9% พร้อมปรับกรอบทั้งปีเป็น 2.0-2.5%
+
+| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
+|---|---|---|---|---|---|
+| เศรษฐกิจมหภาค | neutral | high | short-term | ธนาคารและบริการทางการเงิน, พาณิชย์, ท่องเที่ยวและสันทนาการ | — |
+
+สำนักงานสภาพัฒนาการเศรษฐกิจและสังคมแห่งชาติ (สศช.) รายงานตัวเลขเศรษฐกิจไทยไตรมาส 2/2569 ขยายตัว 1.9% และปรับกรอบประมาณการเติบโตของ GDP ทั้งปี 2569 มาอยู่ที่ 2.0 - 2.5%
+ตัวเลขดังกล่าวสะท้อนการฟื้นตัวของเศรษฐกิจที่ยังคงเผชิญแรงกดดันจากการส่งออกและอุปสงค์ภายในประเทศที่ฟื้นตัวแบบค่อยเป็นค่อยไป
+ส่งผลต่อการคาดการณ์ทิศทางอัตราดอกเบี้ยนโยบายของ กนง. และการจัดทำนโยบายกระตุ้นเศรษฐกิจภาครัฐเพิ่มเติม
+ประเด็นที่ต้องจับตาคือตัวเลขดุลการค้า ภาคท่องเที่ยวช่วงครึ่งปีหลัง และมาตรการกระตุ้นการบริโภคของรัฐบาล
+
+**📊 Key Numbers**
+- GDP Q2/2569 โต 1.9%
+- คาดการณ์ GDP ปี 2569 ที่ 2.0-2.5%
+
+**👀 Watch Next:** ติดตามการแถลงรายละเอียดองค์ประกอบ GDP และปฏิกิริยาของคณะกรรมการนโยบายการเงิน (กนง.) ในการประชุมรอบถัดไป
+
+🔗 Source: [RYT9 / InfoQuest](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5kVlZ6YThteVVJZ3kyc2hESDdWeFJTcGZNMUszX1VhUDJLbm45bHRtN1JUUDRQQ0R0ejJiR190eTgxTWZOU1pGX3Jn?oc=5)
+
+## 2. ขุนคลังนำทีมเยือนออสเตรเลีย-นิวซีแลนด์ ต่อยอด FTA รถยนต์ ดึงบีโอไอดึงดูดลงทุน Canva
+
+| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
+|---|---|---|---|---|---|
+| นโยบายรัฐ-การคลัง | bullish | medium | short-term | ยานยนต์, เทคโนโลยีสารสนเทศและการสื่อสาร | — |
+
+นายเอกนิติ นิติทัณฑ์ประภาศ รองนายกรัฐมนตรีและ รมว.คลัง พร้อมนายกรัฐมนตรี เดินทางเยือนออสเตรเลียและนิวซีแลนด์ (17-22 ส.ค.) เพื่อกระชับความร่วมมือทางการค้า
+มุ่งขยายตลาดส่งออกยานยนต์และยานยนต์ไฟฟ้า (EV) ภายใต้กรอบความตกลง FTA พร้อมนำบีโอไอเจรจาดึงดูดการลงทุนจากบริษัทเทคโนโลยีระดับโลกอย่าง Canva ในกลุ่ม Creative Economy
+ช่วยเสริมสภาพคล่องด้านการค้าและกระตุ้นยอดส่งออกอุตสาหกรรมยานยนต์ไทยในตลาดสำคัญ
+ประเด็นที่ต้องดูต่อคือข้อตกลงการลงทุนจริงและความคืบหน้าของเม็ดเงินลงทุนใหม่ในอุตสาหกรรมเทคโนโลยีและสร้างสรรค์
+
+**📊 Key Numbers**
+- กำหนดการเดินทาง 17-22 ส.ค.
+
+**👀 Watch Next:** ติดตามผลการเจรจากับกลุ่มนักลงทุนออสเตรเลียและสิทธิประโยชน์ทางภาษีที่จะมอบให้เพื่อดึงดูดฐานการลงทุน
+
+🔗 Source: [ประชาชาติธุรกิจ Finance](https://www.prachachat.net/finance/news-2052738)
+
+## 3. ห้องค้ากสิกรไทยเตือนความเสี่ยง ‘ขาดดุลแฝด’ อาจกดดันเงินบาทอ่อนค่าปลายไตรมาส 3
+
+| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
+|---|---|---|---|---|---|
+| ค่าเงิน-FX | bearish | medium | short-term | ธนาคารและบริการทางการเงิน, พลังงานและสาธารณูปโภค | KBANK |
+
+ศูนย์วิจัยและห้องค้า ธ.กสิกรไทย ประเมินว่าแม้ค่าเงินบาทจะกลับมาแข็งค่าบริเวณ 33.0 บาทต่อดอลลาร์ในระยะสั้น แต่ยังมีความเสี่ยงจากภาวะขาดดุลบัญชีเดินสะพัดและขาดดุลการคลังพร้อมกัน (Twin Deficits)
+การนำเข้าพลังงานที่ยังสูงและรายรับท่องเที่ยวที่ยังฟื้นตัวไม่เต็มที่ ประกอบกับปัจจัยเชิงฤดูกาลในไตรมาส 3 ที่ดอลลาร์มักแข็งค่า อาจส่งผลให้เงินบาทกลับมาเผชิญแรงกดดันด้านอ่อนค่า
+อาจมีผลต่อผลตอบแทนพันธบัตรรัฐบาลและต้นทุนการระดมทุนของภาครัฐและเอกชน โดยประเมินค่าเงินบาท ณ สิ้นปี 2569 ที่ระดับ 33.80 บาทต่อดอลลาร์
+ประเด็นที่ต้องจับตาคือสัญญาณนโยบายการเงินจากการประชุม Jackson Hole และตัวเลขดุลบัญชีเดินสะพัดรายเดือนของ ธปท.
+
+**📊 Key Numbers**
+- คาดการณ์เงินบาทสิ้นปี 2569 ที่ 33.80 บาท/ดอลลาร์
+- ระดับเคลื่อนไหวสิงหาคม 33.0 บาท/ดอลลาร์
+
+**👀 Watch Next:** ติดตามรายงานดุลบัญชีเดินสะพัดของ ธปท. สิ้นเดือน และถ้อยแถลงประธานเฟดในการประชุม Jackson Hole
+
+🔗 Source: [ประชาชาติธุรกิจ Finance](https://www.prachachat.net/finance/news-2052308)
+
+## 4. จีนผลักดันการใช้เงินหยวนชำระการค้าตรงคู่เงินบาท ลดการพึ่งพาดอลลาร์สหรัฐ
+
+| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
+|---|---|---|---|---|---|
+| ต่างประเทศกระทบไทย | bullish | medium | long-term | ธนาคารและบริการทางการเงิน, พาณิชย์, ขนส่งและโลจิสติกส์ | — |
+
+ทางการจีนเร่งส่งเสริมการชำระบัญชีการค้าระหว่างประเทศด้วยสกุลเงินท้องถิ่น โดยเปิดให้ธนาคารพาณิชย์ขยายกลไก Settlement ตรงระหว่างเงินหยวนและสกุลเงินคู่ค้า รวมถึงเงินบาท
+การปรับเปลี่ยนนี้มีเป้าหมายเพื่อลดต้นทุนการแปลงค่าเงิน ขจัดความเสี่ยงจากอัตราแลกเปลี่ยนดอลลาร์สหรัฐ และอำนวยความสะดวกให้ผู้ประกอบการนำเข้า-ส่งออกไทย-จีน
+เป็นประโยชน์ต่อผู้ประกอบการที่มีห่วงโซ่อุปทานเชื่อมโยงกับจีน ช่วยลดค่าธรรมเนียมทางการเงินและเพิ่มทางเลือกในการบริหารสภาพคล่องเงินตราต่างประเทศ
+สิ่งที่ต้องติดตามคือปริมาณธุรกรรม Direct Settlement จริงในระบบธนาคารพาณิชย์ไทย
+
+**📊 Key Numbers**
+- —
+
+**👀 Watch Next:** ติดตามแนวทางการสนับสนุนธุรกรรม Local Currency Settlement เพิ่มเติมจากความร่วมมือ ธปท. และธนาคารกลางจีน (PBOC)
+
+🔗 Source: [Bangkok Post Business](https://www.bangkokpost.com/business/general/3302952/larger-part-for-yuan-in-trade)
+
+## 5. CRC เผยกำไรสุทธิไตรมาส 2/2569 เติบโตก้าวกระโดด 97% หนุนราคาหุ้นพุ่งรับผลงานแกร่ง
+
+| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
+|---|---|---|---|---|---|
+| บริษัท-M&A | bullish | medium | short-term | พาณิชย์ | CRC |
+
+บมจ.เซ็นทรัล รีเทล คอร์ปอเรชั่น (CRC) รายงานกำไรสุทธิไตรมาส 2/2569 เติบโตแข็งแกร่งถึง 97% เมื่อเทียบกับช่วงเดียวกันของปีก่อนหน้า จากการขยายอัตรากำไรขั้นต้นและการบริหารต้นทุนอย่างมีประสิทธิภาพ
+ผลการดำเนินงานที่สูงกว่าคาดการณ์ของนักวิเคราะห์ หนุนให้ราคาหุ้นปรับตัวขึ้นกว่า 11.65% แตะระดับ 28.75 บาท ด้วยมูลค่าการซื้อขายหนาแน่น
+สะท้อนให้เห็นถึงความยืดหยุ่นของภาคค้าปลีกขนาดใหญ่และความสามารถในการสร้างอัตรากำไรในภาวะกำลังซื้อชะลอตัว
+สิ่งที่ต้องดูต่อคือแนวโน้มยอดขายสาขาเดิม (SSSG) ในช่วงครึ่งปีหลังและโอกาสการปรับเพิ่มประมาณการกำไรทั้งปีจากโบรกเกอร์
+
+**📊 Key Numbers**
+- กำไร Q2/2569 เติบโต 97% YoY
+- ราคาหุ้นปรับขึ้น 11.65% มาที่ 28.75 บาท
+
+**👀 Watch Next:** จับตาตัวเลข SSSG ในไตรมาส 3/2569 และการจัดโปรโมชันกระตุ้นยอดขายช่วงเข้าสู่ไฮซีซั่นปลายปี
+
+🔗 Source: [InfoQuest](https://www.infoquest.co.th/2026/632459)
+
+## 6. กลุ่มนอนแบงก์ MTC และ SAWAD กำไรครึ่งปีแรกโตแกร่ง 2 หลัก พร้อมคุม NPL นิ่ง
+
+| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
+|---|---|---|---|---|---|
+| ธนาคาร-การเงิน | bullish | medium | short-term | เงินทุนและหลักทรัพย์ | MTC, SAWAD |
+
+ผู้ประกอบการสินเชื่อทะเบียนรถรายงานผลประกอบการงวด 6 เดือนแรกปี 2569 โดย MTC ทำกำไรสุทธิ 3,728 ล้านบาท (+15.84% YoY) พอร์ตสินเชื่อโตแตะ 188,699 ล้านบาท คุม NPL ที่ 2.61%
+ด้าน SAWAD กำไรสุทธิครึ่งปีแรกแตะ 3,005 ล้านบาท (+22.40% YoY) ลูกหนี้คงเหลือ 95,805 ล้านบาท ได้แรงหนุนจากการลดต้นทุนทางการเงินและค่าใช้จ่ายบริหาร
+สะท้อนความต้องการสภาพคล่องของกลุ่มลูกค้ารายย่อยที่ยังคงสูง ขณะที่ความสามารถในการบริหารความเสี่ยงเครดิตยังทำได้ตามเป้าหมาย
+สิ่งที่ต้องติดตามต่อคือทิศทางหนี้เสียในช่วงครึ่งหลังของปีเมื่อเข้าสู่ช่วงฤดูกาลสินเชื่อและความเข้มงวดของเกณฑ์การปล่อยกู้
+
+**📊 Key Numbers**
+- MTC กำไร 6 เดือน 3,728 ลบ. (+15.84%)
+- MTC NPL 2.61%
+- SAWAD กำไร 6 เดือน 3,005 ลบ. (+22.40%)
+
+**👀 Watch Next:** ติดตามผลการเปิดตัว Mobile Lending Platform และการควบคุม NPL ท่ามกลางภาระหนี้ครัวเรือน
+
+🔗 Source: [ประชาชาติธุรกิจ Finance](https://www.prachachat.net/finance/news-2052289)
+
+## 7. บอร์ด SMO ไฟเขียว 2 บิ๊กโปรเจกต์ สร้างโรงงาน CPKO สุราษฎร์ฯ รุกตลาดปลายน้ำและ ESG
+
+| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
+|---|---|---|---|---|---|
+| บริษัท-M&A | bullish | low | long-term | เกษตรและอุตสาหกรรมอาหาร | SMO |
+
+บมจ.กลุ่มสมอทอง (SMO) ได้รับอนุมัติจากคณะกรรมการบริษัทในการลงทุนก่อสร้างโรงงานผลิตน้ำมันเมล็ดในปาล์ม (Crude Palm Kernel Oil: CPKO) ที่จังหวัดสุราษฎร์ธานี พร้อมโครงการด้าน ESG
+การลงทุนครั้งนี้ช่วยยกระดับห่วงโซ่คุณค่าสู่ธุรกิจปลายน้ำที่มีมูลค่าเพิ่มสูงขึ้น และช่วยจัดการของเสียจากกระบวนการผลิตตามมาตรฐานความยั่งยืน
+ส่งผลบวกต่อโครงสร้างรายได้และอัตรากำไรในระยะยาวเมื่อโรงงานเปิดดำเนินการเชิงพาณิชย์
+สิ่งที่ต้องติดตามคืองบประมาณเงินลงทุนรวม ระยะเวลาก่อสร้าง และกำหนดการเริ่มรับรู้รายได้เชิงพาณิชย์
+
+**📊 Key Numbers**
+- มติบอร์ดอนุมัติ ณ วันที่ 14 สิงหาคม 2569
+
+**👀 Watch Next:** ติดตามความคืบหน้าการก่อสร้างและการเริ่มเดินเครื่องจักรเชิงพาณิชย์ของโรงงาน CPKO
+
+🔗 Source: [InfoQuest](https://www.infoquest.co.th/2026/632446)
+
+## 8. TFG กางแผนครึ่งปีหลัง 2569 เร่งขยายสาขาค้าปลีก Thai Foods Fresh Market แตะ 875 แห่ง
+
+| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
+|---|---|---|---|---|---|
+| บริษัท-M&A | bullish | low | short-term | เกษตรและอุตสาหกรรมอาหาร, พาณิชย์ | TFG |
+
+บมจ.ไทยฟู้ดส์ กรุ๊ป (TFG) เผยแนวโน้มธุรกิจครึ่งปีหลัง 2569 ยังเติบโตต่อเนื่อง โดยเดินหน้ากลยุทธ์ขยายสาขาร้านค้าปลีกสด 'Thai Foods Fresh Market' ให้ครบ 875 สาขาตามเป้าหมาย
+การขยายช่องทางจำหน่ายของตนเองช่วยเพิ่มอัตรากำไรขั้นต้น ลดการพึ่งพาราคาสินค้าโภคภัณฑ์หน้าฟาร์ม และเพิ่มความสามารถในการเข้าถึงผู้บริโภคโดยตรง
+ช่วยกระจายความเสี่ยงจากความผันผวนของราคาเนื้อสัตว์และช่วยสร้างกระแสเงินสดที่สม่ำเสมอ
+สิ่งที่ต้องดูต่อคืออัตราการทำกำไรต่อสาขาเดิมและต้นทุนการบริหารจัดการสาขาใหม่
+
+**📊 Key Numbers**
+- เป้าหมายขยายสาขาครบ 875 สาขา
+
+**👀 Watch Next:** ติดตามยอดขายเฉลี่ยต่อสาขาและการควบคุมต้นทุนค่าใช้จ่ายในการขยายสาขาค้าปลีกช่วงครึ่งปีหลัง
+
+🔗 Source: [RYT9](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5td3dBbk1RMFN2V1V3Rl9xeWxqUjhwMkp0a3Z6czBreGFuRlRIMWF6bWVHc3M2U0dEaGVScUlaRVVKNjZ5NmR0THUyWQ?oc=5)
+
+## 9. ค่าเงินบาทเปิดตลาดเช้า 33.08 บาท/ดอลลาร์ แข็งค่าตามภูมิภาค หนุน SET เช้าเปิดบวก
+
+| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
+|---|---|---|---|---|---|
+| SET/หุ้นไทย | bullish | low | immediate | ชิ้นส่วนอิเล็กทรอนิกส์, ธนาคารและบริการทางการเงิน | — |
+
+ตลาดเงินบาทเปิดตลาดเช้าที่ระดับ 33.08 บาทต่อดอลลาร์ แข็งค่าสอดคล้องกับสกุลเงินในภูมิภาค โดยนักวิเคราะห์ประเมินกรอบความเคลื่อนไหวระหว่างวันไว้ที่ 32.90 - 33.25 บาทต่อดอลลาร์
+ขณะเดียวกัน ตลาดหุ้นไทยเปิดภาคเช้าปรับตัวบวกกว่า 10 จุด ตามทิศทางตลาดต่างประเทศ โดยมีแรงซื้อเด่นในกลุ่มชิ้นส่วนอิเล็กทรอนิกส์
+สะท้อนภาวะตลาดที่ตอบรับเชิงบวกต่อการผ่อนคลายของดัชนีดอลลาร์สหรัฐในระยะสั้น
+ประเด็นที่ต้องดูต่อคือแรงซื้อสุทธิของนักลงทุนต่างชาติหลังการประกาศตัวเลข GDP ไทยอย่างเป็นทางการ
+
+**📊 Key Numbers**
+- ค่าเงินบาทเปิดที่ 33.08 บาท/ดอลลาร์
+- กรอบค่าเงิน 32.90-33.25 บาท/ดอลลาร์
+- SET เปิดเช้าบวกกว่า 10 จุด
+
+**👀 Watch Next:** ติดตามยอดซื้อขายสุทธิของนักลงทุนต่างชาติและแรงตอบรับของดัชนีต่อตัวเลข GDP สภาพัฒน์
+
+🔗 Source: [RYT9 / InfoQuest](https://news.google.com/rss/articles/CBMiSkFVX3lxTE43MGF4MGV2ZTZ3Nmc1UmNfaExnZkUweFpDMndWbVhjcXZlcjFqbDkzelE1bFd4Vk9FNl9jUWJRNFhsNjZOTFdXRW9R?oc=5)
+
+## 10. SET วันนี้ (17 ส.ค.) กรอบ 1,590 – 1,620 จุด จับตาสภาพัฒน์ปรับจีดีพี
 
 | Category | Sentiment | Impact | Horizon | Sectors | Tickers |
 |---|---|---|---|---|---|
@@ -33,156 +202,3 @@ Fallback brief จาก ประชาชาติธุรกิจ Finance: 
 **👀 Watch Next:** ตรวจสอบ OpenRouter secret และต้นทางข่าว; fallback นี้ทำให้ workflow ส่ง brief ได้แม้ LLM ล่ม
 
 🔗 Source: [ประชาชาติธุรกิจ Finance](https://www.prachachat.net/finance/news-2052744)
-
-## 2. ดอลลาร์พัก บาทฟื้น แต่ความเสี่ยงยังรออยู่ปลายไตรมาส 3
-
-| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
-|---|---|---|---|---|---|
-| SET/หุ้นไทย | neutral | medium | immediate | — | CFA |
-
-Fallback brief จาก ประชาชาติธุรกิจ Finance: ดอลลาร์พัก บาทฟื้น แต่ความเสี่ยงยังรออยู่ปลายไตรมาส 3
-ประเด็นจากแหล่งข่าว: คอลัมน์​ : นั่งคุยกับห้องค้า ผู้เขียน : ดร.กอบสิทธิ์ ศิลปชัย, CFA / จงรัก ก้องกำชัย ธนาคารกสิกรไทย เงินบาทอ่อนค่าลงแตะราว 33.8 บาทต่อดอลลาร์ในเดือนกรกฎาคม ซึ่งเป็นระดับอ่อนค่าที่สุดในรอบกว่าหนึ่งปี ก่อนกลับมาแข็งค่าบริเวณ 33.0 บาทต่อดอลลาร์ในช่วงต้นเดือนสิงหาคม หลังแรงกดดันจากดอลลาร์สหรัฐลดลง โดยเฟดคงอัตราดอกเบี้ยและส่งสัญญาณไม่เข้มงวดเท่าที่ตลาดกังวล ขณะที่ข้อมูลเศรษฐกิจสหรัฐ ทั้งการจ้างงาน เงินเฟ้อ และกิจกรรมภาคเอก
-ใช้เป็น early-warning สำหรับ SET/THB/sector watch; ต้องตามด้วย desk review เมื่อโมเดลกลับมาใช้งานได้.
-
-**📊 Key Numbers**
-- OpenRouter unavailable; deterministic fallback used
-
-**👀 Watch Next:** ตรวจสอบ OpenRouter secret และต้นทางข่าว; fallback นี้ทำให้ workflow ส่ง brief ได้แม้ LLM ล่ม
-
-🔗 Source: [ประชาชาติธุรกิจ Finance](https://www.prachachat.net/finance/news-2052308)
-
-## 3. เอกนิติ บินตรงออสเตรเลีย-นิวซีแลนด์ ตลาดส่งออกรถยนต์ เพิ่มกิจกรรมทางเศรษฐกิจ
-
-| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
-|---|---|---|---|---|---|
-| SET/หุ้นไทย | neutral | medium | immediate | — | BOI, CANVA, FTA |
-
-Fallback brief จาก ประชาชาติธุรกิจ Finance: เอกนิติ บินตรงออสเตรเลีย-นิวซีแลนด์ ตลาดส่งออกรถยนต์ เพิ่มกิจกรรมทางเศรษฐกิจ
-ประเด็นจากแหล่งข่าว: เอกนิติ บินตรงออสเตรเลีย-นิวซีแลนด์ ฐาน FTA ตลาดส่งออกรถยนต์ เพิ่มกิจกรรมทางเศรษฐกิจ หิ้ว BOI พบนักลงทุนบริษัท Canva นายเอกนิติ นิติทัณฑ์ประภาศ รองนายกรัฐมนตรีและรัฐมนตรีว่าการกระทรวงการคลัง เปิดเผยว่า สัปดาห์นี้ (17-22 ส.ค.) จะเดินทางพร้อมนายกรัฐมนตรีไปยังประเทศออสเตรเลียและนิวซีแลนด์ ซึ่งเป็นประเทศที่ไทยเริ่มผลิตยานยนต์ไฟฟ้าเพื่อส่งออก นายเอกนิติ กล่าวว่า ประเทศไทยทำข้อตกลงการค้าเสรี (FTA) กับทั้ง 2 ประเทศดังกล่าว
-ใช้เป็น early-warning สำหรับ SET/THB/sector watch; ต้องตามด้วย desk review เมื่อโมเดลกลับมาใช้งานได้.
-
-**📊 Key Numbers**
-- OpenRouter unavailable; deterministic fallback used
-
-**👀 Watch Next:** ตรวจสอบ OpenRouter secret และต้นทางข่าว; fallback นี้ทำให้ workflow ส่ง brief ได้แม้ LLM ล่ม
-
-🔗 Source: [ประชาชาติธุรกิจ Finance](https://www.prachachat.net/finance/news-2052738)
-
-## 4. SET ไซด์เวย์ 1,600–1,618 จุด จับตา GDP ไทย-น้ำมันพุ่งกดดันเงินเฟ้อ ชู CBG เด่นกำไรฟื้น - posttoday
-
-| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
-|---|---|---|---|---|---|
-| SET/หุ้นไทย | neutral | low | immediate | — | CBG, GDP, SET |
-
-Fallback brief จาก MoneyChannel TH (Google News): SET ไซด์เวย์ 1,600–1,618 จุด จับตา GDP ไทย-น้ำมันพุ่งกดดันเงินเฟ้อ ชู CBG เด่นกำไรฟื้น - posttoday
-ประเด็นจากแหล่งข่าว: SET ไซด์เวย์ 1,600–1,618 จุด จับตา GDP ไทย-น้ำมันพุ่งกดดันเงินเฟ้อ ชู CBG เด่นกำไรฟื้น posttoday SET ไซด์เวย์ 1,600–1,618 จุด จับตา GDP ไทย-น้ำมันพุ่งกดดันเงินเฟ้อ ชู CBG เด่นกำไรฟื้น posttoday
-ใช้เป็น early-warning สำหรับ SET/THB/sector watch; ต้องตามด้วย desk review เมื่อโมเดลกลับมาใช้งานได้.
-
-**📊 Key Numbers**
-- OpenRouter unavailable; deterministic fallback used
-
-**👀 Watch Next:** ตรวจสอบ OpenRouter secret และต้นทางข่าว; fallback นี้ทำให้ workflow ส่ง brief ได้แม้ LLM ล่ม
-
-🔗 Source: [MoneyChannel TH (Google News)](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UNm8zSnRKMno2LTVaVEpZWVo1RW9KRXMwN19rajJ5RGpDTW8zeGxRUzRoZmZ5bVdERVdrYWluYU9TRWlqNnczRlRBeHVJeEs1ekFGY2hFbUUzM2ZxQXBaOU9WTQ?oc=5)
-
-## 5. Thai tokenisation takes off
-
-| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
-|---|---|---|---|---|---|
-| SET/หุ้นไทย | neutral | low | immediate | — | AN, BY, COM, DCX, GLOBAL |
-
-Fallback brief จาก Bangkok Post Business: Thai tokenisation takes off
-ประเด็นจากแหล่งข่าว: Title: Thai tokenisation takes off URL Source: https://www.bangkokpost.com/business/general/3302997/thai-tokenisation-takes-off Published Time: 2026-08-17T05:35:00+07:00 Markdown Content: ![Image 1: Global RWA tokenisation is on an upward trajectory, with the market projected to reach US$16 trillion by 2030.](https://static.bangkokpost.com/media/content/dcx/2026/08/17/6191137_800.jpg) Global RWA tokenisation is on an
-ใช้เป็น early-warning สำหรับ SET/THB/sector watch; ต้องตามด้วย desk review เมื่อโมเดลกลับมาใช้งานได้.
-
-**📊 Key Numbers**
-- OpenRouter unavailable; deterministic fallback used
-
-**👀 Watch Next:** ตรวจสอบ OpenRouter secret และต้นทางข่าว; fallback นี้ทำให้ workflow ส่ง brief ได้แม้ LLM ล่ม
-
-🔗 Source: [Bangkok Post Business](https://www.bangkokpost.com/business/general/3302997/thai-tokenisation-takes-off)
-
-## 6. Settlement in yuan reduces trade costs
-
-| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
-|---|---|---|---|---|---|
-| SET/หุ้นไทย | neutral | low | immediate | — | ASSETS, BANGK, COM, COSTS, HTTPS |
-
-Fallback brief จาก Bangkok Post Business: Settlement in yuan reduces trade costs
-ประเด็นจากแหล่งข่าว: Title: Settlement in yuan reduces trade costs URL Source: https://www.bangkokpost.com/business/general/3302942/settlement-in-yuan-reduces-trade-costs Published Time: 2026-08-17T05:25:00+07:00 Markdown Content: [_![Image 2: SIGN IN](https://www.bangkokpost.com/v3/assets/images/icon/icon\_profile\_black.svg)_](https://member.bangkokpost.com/login "SIGN IN") [Bangkok Post - The world’s window on Thailand![Image 3: Bangk
-ใช้เป็น early-warning สำหรับ SET/THB/sector watch; ต้องตามด้วย desk review เมื่อโมเดลกลับมาใช้งานได้.
-
-**📊 Key Numbers**
-- OpenRouter unavailable; deterministic fallback used
-
-**👀 Watch Next:** ตรวจสอบ OpenRouter secret และต้นทางข่าว; fallback นี้ทำให้ workflow ส่ง brief ได้แม้ LLM ล่ม
-
-🔗 Source: [Bangkok Post Business](https://www.bangkokpost.com/business/general/3302942/settlement-in-yuan-reduces-trade-costs)
-
-## 7. Larger part for yuan in trade
-
-| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
-|---|---|---|---|---|---|
-| SET/หุ้นไทย | neutral | low | immediate | — | AIMING, AN, AS, BAHT, BANKS |
-
-Fallback brief จาก Bangkok Post Business: Larger part for yuan in trade
-ประเด็นจากแหล่งข่าว: Beijing is stepping up efforts to widen the role of the yuan in international trade, allowing its domestic commercial banks to expand direct settlement arrangements with a growing number of foreign currencies, including the baht, aiming to reduce usage of the US dollar as an intermediary in cross-border trade. Beijing is stepping up efforts to widen the role of the yuan in international trade, allowing its domestic c
-ใช้เป็น early-warning สำหรับ SET/THB/sector watch; ต้องตามด้วย desk review เมื่อโมเดลกลับมาใช้งานได้.
-
-**📊 Key Numbers**
-- OpenRouter unavailable; deterministic fallback used
-
-**👀 Watch Next:** ตรวจสอบ OpenRouter secret และต้นทางข่าว; fallback นี้ทำให้ workflow ส่ง brief ได้แม้ LLM ล่ม
-
-🔗 Source: [Bangkok Post Business](https://www.bangkokpost.com/business/general/3302952/larger-part-for-yuan-in-trade)
-
-## 8. TOPICSTODAY: จับตาสภาพัฒน์ แถลง GDP Q2/69 แนวโน้มปี 69/ นายกฯ เยือนออสเตรเลียและนิวซีแลนด์ - RYT9
-
-| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
-|---|---|---|---|---|---|
-| SET/หุ้นไทย | neutral | low | immediate | — | GDP |
-
-Fallback brief จาก RYT9 Economy (Google News): TOPICSTODAY: จับตาสภาพัฒน์ แถลง GDP Q2/69 แนวโน้มปี 69/ นายกฯ เยือนออสเตรเลียและนิวซีแลนด์ - RYT9
-ประเด็นจากแหล่งข่าว: TOPICSTODAY: จับตาสภาพัฒน์ แถลง GDP Q2/69 แนวโน้มปี 69/ นายกฯ เยือนออสเตรเลียและนิวซีแลนด์ RYT9 TOPICSTODAY: จับตาสภาพัฒน์ แถลง GDP Q2/69 แนวโน้มปี 69/ นายกฯ เยือนออสเตรเลียและนิวซีแลนด์ RYT9
-ใช้เป็น early-warning สำหรับ SET/THB/sector watch; ต้องตามด้วย desk review เมื่อโมเดลกลับมาใช้งานได้.
-
-**📊 Key Numbers**
-- OpenRouter unavailable; deterministic fallback used
-
-**👀 Watch Next:** ตรวจสอบ OpenRouter secret และต้นทางข่าว; fallback นี้ทำให้ workflow ส่ง brief ได้แม้ LLM ล่ม
-
-🔗 Source: [RYT9 Economy (Google News)](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1qRTF2SzdKWUJNUXNkNFE0UWIyOWE2dUd5cTZ1ck5vZ0tyZEgyVkhRRWE0aFJCelRXVTJUVldJWkJiQUI5X0pSaVJ3?oc=5)
-
-## 9. KSS คาดหุ้นไทยสัปดาห์นี้ไซด์เวย์ ลุ้น GDP ไตรมาส 2 ฟื้น ชู BH-THAI-AOT เด่น | ข่าวหุ้นธุรกิจ - LINE TODAY
-
-| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
-|---|---|---|---|---|---|
-| SET/หุ้นไทย | neutral | low | immediate | — | AOT, BH, GDP, KSS, LINE |
-
-Fallback brief จาก MoneyChannel TH (Google News): KSS คาดหุ้นไทยสัปดาห์นี้ไซด์เวย์ ลุ้น GDP ไตรมาส 2 ฟื้น ชู BH-THAI-AOT เด่น | ข่าวหุ้นธุรกิจ - LINE TODAY
-ประเด็นจากแหล่งข่าว: KSS คาดหุ้นไทยสัปดาห์นี้ไซด์เวย์ ลุ้น GDP ไตรมาส 2 ฟื้น ชู BH-THAI-AOT เด่น | ข่าวหุ้นธุรกิจ LINE TODAY KSS คาดหุ้นไทยสัปดาห์นี้ไซด์เวย์ ลุ้น GDP ไตรมาส 2 ฟื้น ชู BH-THAI-AOT เด่น | ข่าวหุ้นธุรกิจ LINE TODAY
-ใช้เป็น early-warning สำหรับ SET/THB/sector watch; ต้องตามด้วย desk review เมื่อโมเดลกลับมาใช้งานได้.
-
-**📊 Key Numbers**
-- OpenRouter unavailable; deterministic fallback used
-
-**👀 Watch Next:** ตรวจสอบ OpenRouter secret และต้นทางข่าว; fallback นี้ทำให้ workflow ส่ง brief ได้แม้ LLM ล่ม
-
-🔗 Source: [MoneyChannel TH (Google News)](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aLVM2WWlIUEIwamp6YjJJaE9rQ0FNbFBmZ2Z6SkNwV2ZVRlhpNUN2RGEzR2dQam9oVHJyeWt6dlZKaTFVMGVQbUs5VnhGbEJpdzZPc0RR?oc=5)
-
-## 10. แนวโน้ม SET แกว่งไซด์เวย์ จับตา GDP ไทย-ฟันด์โฟลว์ต่างชาติ - ข่าวหุ้นธุรกิจออนไลน์
-
-| Category | Sentiment | Impact | Horizon | Sectors | Tickers |
-|---|---|---|---|---|---|
-| SET/หุ้นไทย | neutral | low | immediate | — | GDP, SET |
-
-Fallback brief จาก MoneyChannel TH (Google News): แนวโน้ม SET แกว่งไซด์เวย์ จับตา GDP ไทย-ฟันด์โฟลว์ต่างชาติ - ข่าวหุ้นธุรกิจออนไลน์
-ประเด็นจากแหล่งข่าว: แนวโน้ม SET แกว่งไซด์เวย์ จับตา GDP ไทย-ฟันด์โฟลว์ต่างชาติ ข่าวหุ้นธุรกิจออนไลน์ แนวโน้ม SET แกว่งไซด์เวย์ จับตา GDP ไทย-ฟันด์โฟลว์ต่างชาติ ข่าวหุ้นธุรกิจออนไลน์
-ใช้เป็น early-warning สำหรับ SET/THB/sector watch; ต้องตามด้วย desk review เมื่อโมเดลกลับมาใช้งานได้.
-
-**📊 Key Numbers**
-- OpenRouter unavailable; deterministic fallback used
-
-**👀 Watch Next:** ตรวจสอบ OpenRouter secret และต้นทางข่าว; fallback นี้ทำให้ workflow ส่ง brief ได้แม้ LLM ล่ม
-
-🔗 Source: [MoneyChannel TH (Google News)](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JNkZXNk92dzlRblFmN1BpeENTY3JrU3FaX05iLTdmU1NhRWpTUm5meUZ1by1VTmJTdmZ2VnZzbUxlOHVuNUxtVUpzaw?oc=5)
