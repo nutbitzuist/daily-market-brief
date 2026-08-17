@@ -120,15 +120,21 @@ def score_ai(articles: list[sources.Article]) -> list[sources.Article]:
 
 
 def dedupe_by_url(articles: list[sources.Article]) -> list[sources.Article]:
-    seen: set[str] = set()
-    title_seen: set[str] = set()
+    seen: dict[str, sources.Article] = {}
+    title_seen: dict[str, sources.Article] = {}
     out: list[sources.Article] = []
     for a in sorted(articles, key=lambda x: x.score, reverse=True):
         norm_title = " ".join(a.title.lower().split())
-        if a.link in seen or norm_title in title_seen:
+        duplicate = seen.get(a.link) or title_seen.get(norm_title)
+        if duplicate:
+            if (
+                a.source_name != duplicate.source_name
+                and a.source_name not in duplicate.corroborating_sources
+            ):
+                duplicate.corroborating_sources.append(a.source_name)
             continue
-        seen.add(a.link)
-        title_seen.add(norm_title)
+        seen[a.link] = a
+        title_seen[norm_title] = a
         out.append(a)
     return out
 

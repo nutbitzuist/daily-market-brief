@@ -64,6 +64,7 @@ class Article:
     candidate_tickers: list[str] = field(default_factory=list)
     sector_hints: list[str] = field(default_factory=list)
     recency_hours: float = 0.0
+    corroborating_sources: list[str] = field(default_factory=list)
 
     def to_dict(self) -> dict:
         return {
@@ -77,6 +78,7 @@ class Article:
             "score": self.score,
             "candidate_tickers": self.candidate_tickers,
             "sector_hints": self.sector_hints,
+            "corroborating_sources": self.corroborating_sources,
         }
 
 

@@ -34,6 +34,13 @@ LOW_SIGNAL_TERMS = (
     "best stocks", "dividend stocks to buy", "crypto", "bitcoin",
 )
 
+US_SCOPE_TERMS = (
+    "u.s.", " us ", "america", "american", "federal reserve", "fed ", "fomc",
+    "white house", "congress", "treasury", "sec ", "wall street", "s&p 500",
+    "nasdaq", "dow", "dollar", "tariff", "china", "iran", "russia", "opec",
+    "oil", "shipping", "global market", "geopolit",
+)
+
 SECTOR_KEYWORDS = {
     "Tech": ["chip", "semiconductor", "software", "cloud", "ai", "artificial intelligence", "data center"],
     "Financials": ["bank", "insurance", "fintech", "lending", "hedge fund", "private equity"],
@@ -106,6 +113,11 @@ def _source_bonus(source_name: str) -> float:
     return PRIORITY_BONUS if any(p in source_name for p in PRIORITY_SOURCES) else 0.0
 
 
+def _us_scope_score(text: str) -> float:
+    padded = f" {text.lower()} "
+    return 3.0 if any(term in padded for term in US_SCOPE_TERMS) else -5.0
+
+
 def score_articles(articles: Iterable[Article]) -> list[Article]:
     now = datetime.now(timezone.utc)
     out = []
@@ -115,6 +127,7 @@ def score_articles(articles: Iterable[Article]) -> list[Article]:
             _keyword_score(text)
             + _recency_bonus(a.published, now)
             + _source_bonus(a.source_name)
+            + _us_scope_score(text)
         )
         a.recency_hours = (now - a.published).total_seconds() / 3600
         a.candidate_tickers = extract_tickers(text)
@@ -137,6 +150,8 @@ def dedupe(articles: list[Article], ratio_threshold: float = 0.8) -> list[Articl
         is_dup = False
         for k in kept:
             if SequenceMatcher(None, norm, _normalize_title(k.title)).ratio() > ratio_threshold:
+                if a.source_name != k.source_name and a.source_name not in k.corroborating_sources:
+                    k.corroborating_sources.append(a.source_name)
                 is_dup = True
                 break
         if is_dup:

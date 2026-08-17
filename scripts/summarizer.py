@@ -14,7 +14,16 @@ log = logging.getLogger(__name__)
 
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 
-MODELS = ["x-ai/grok-4.3", "google/gemini-2.0-flash-001", "openai/gpt-4o-mini"]
+DEFAULT_MODELS = [
+    "google/gemini-3.7-flash",
+    "deepseek/deepseek-v4-flash-0731",
+    "x-ai/grok-4.3",
+]
+MODELS = [
+    model.strip()
+    for model in os.environ.get("OPENROUTER_MODELS", ",".join(DEFAULT_MODELS)).split(",")
+    if model.strip()
+]
 
 REPO_URL = os.environ.get("REPO_URL", "https://github.com/USERNAME/REPO")
 
@@ -28,6 +37,11 @@ SYSTEM_PROMPT = (
     "or market impact; (4) geopolitics involving the US, oil, defense, shipping, or "
     "supply chains; (5) consumer/housing/credit data; (6) major corporate/M&A stories. "
     "Do not over-rank small single-stock stories unless they reveal a broader theme. "
+    "US SCOPE: reject domestic stories from other countries unless they materially affect "
+    "US markets, companies, policy, supply chains, energy, or geopolitics. "
+    "SOURCE DISCIPLINE: consequential factual claims need an official/primary source or "
+    "corroboration shown in corroborating_sources. If only one secondary source supports a "
+    "claim, state it cautiously and do not turn commentary into fact. "
     "EXCLUDE: crypto price chatter, minor management changes, lifestyle/fluff, local "
     "crime/weather unless national economic impact, and duplicated versions of the same story. "
     "STRICT SAFETY: never write direct trade instructions such as 'buy', 'sell', "
@@ -130,8 +144,22 @@ def _validate(items: Any) -> list[dict]:
     return items
 
 
+def _validate_selected_urls(items: list[dict], articles: list[dict]) -> list[dict]:
+    """Reject invented URLs and duplicate story selections."""
+    allowed = {str(a.get("link", "")).strip() for a in articles}
+    selected: set[str] = set()
+    for i, item in enumerate(items):
+        url = str(item.get("url", "")).strip()
+        if url not in allowed:
+            raise ValueError(f"item {i} returned URL outside candidate set")
+        if url in selected:
+            raise ValueError(f"item {i} duplicated a selected story URL")
+        selected.add(url)
+    return items
+
+
 def _build_user_prompt(articles: list[dict]) -> str:
-    lines = ["Here are 10 top financial news items from the past 24 hours. "
+    lines = [f"Here are {len(articles)} candidate financial news items from the past 24 hours. "
              "Analyze them and return the JSON array as specified.\n"]
     for i, a in enumerate(articles, 1):
         body = (a.get("content") or a.get("summary") or "")[:3000]
@@ -143,6 +171,7 @@ def _build_user_prompt(articles: list[dict]) -> str:
             f"paywalled: {a.get('paywalled', False)}\n"
             f"candidate_tickers: {a.get('candidate_tickers', [])}\n"
             f"sector_hints: {a.get('sector_hints', [])}\n"
+            f"corroborating_sources: {a.get('corroborating_sources', [])}\n"
             f"title: {a['title']}\n"
             f"content:\n{body}\n"
         )
@@ -163,6 +192,7 @@ def summarize_articles(articles: list[dict]) -> tuple[list[dict], str]:
             continue
         try:
             items = _validate(_extract_json_array(out))
+            items = _validate_selected_urls(items, articles)
             return items, model
         except (ValueError, json.JSONDecodeError) as e:
             last_err = e
@@ -196,6 +226,8 @@ AI_NEWS_SYSTEM_PROMPT = (
     "opinion pieces, crypto, recycled announcements, and posts with no concrete new fact. "
     "Do not invent revenue, growth, users, benchmarks, or competitive effects not present "
     "in the source. If a number is not sourced, omit it. "
+    "Prefer official announcements and independently corroborated reports. Treat a single "
+    "secondary-source interpretation cautiously. "
     "Return STRICT JSON array of exactly 5 objects, each with: title_th, summary_th "
     "(Thai 3-4 short lines: what happened, why it matters, who/what is affected), url, "
     "source, why_it_matters (1 sharp Thai line). Return ONLY the JSON array, no preamble."
@@ -230,6 +262,7 @@ def _build_ai_user_prompt(articles: list[dict]) -> str:
             f"source: {a['source_name']}\n"
             f"url: {a['link']}\n"
             f"published: {a['published']}\n"
+            f"corroborating_sources: {a.get('corroborating_sources', [])}\n"
             f"title: {a['title']}\n"
             f"content:\n{body}\n"
         )
@@ -249,6 +282,7 @@ def summarize_ai_news(articles: list[dict]) -> tuple[list[dict], str]:
             continue
         try:
             items = _validate_ai(_extract_json_array(out))
+            items = _validate_selected_urls(items, articles)
             return items, model
         except (ValueError, json.JSONDecodeError) as e:
             last_err = e
@@ -262,6 +296,9 @@ TH_NEWS_SYSTEM_PROMPT = (
     "You are the editor of a morning Thailand news digest for Nut and her family group. "
     "Select the 10 most important Thailand stories and explain them in Thai with a "
     "business/markets lens. This is a NEWS digest, not a trading instruction note. "
+    "SOURCE DISCIPLINE: prioritize BoT/SET/MoF/SEC and other primary sources for official "
+    "figures. Consequential claims from secondary media need corroboration shown in "
+    "corroborating_sources; otherwise use cautious attribution. "
     "Prioritize: (1) government/cabinet/fiscal policy; (2) Bank of Thailand/กนง./THB/rates; "
     "(3) SET/SEC/capital-market rules, flows, short selling, NVDR; (4) material SET-listed "
     "company news; (5) GDP/CPI/exports/tourism/consumption; (6) politics/geopolitics that "
@@ -475,6 +512,7 @@ def summarize_th_news(articles: list[dict]) -> tuple[list[dict], str]:
             f"source_name: {a['source_name']}\n"
             f"url: {a['link']}\n"
             f"published: {a['published']}\n"
+            f"corroborating_sources: {a.get('corroborating_sources', [])}\n"
             f"title: {a['title']}\n"
             f"content:\n{body}\n\n"
         )
@@ -490,6 +528,7 @@ def summarize_th_news(articles: list[dict]) -> tuple[list[dict], str]:
             continue
         try:
             items = _validate_th(_extract_json_array(out))
+            items = _validate_selected_urls(items, articles)
             return items, model
         except (ValueError, json.JSONDecodeError) as e:
             last_err = e
