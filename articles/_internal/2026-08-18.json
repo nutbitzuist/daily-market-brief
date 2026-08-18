@@ -1,0 +1,219 @@
+{
+  "articles": [
+    {
+      "published": "2026-08-18T18:06:54+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE?oc=5"
+    },
+    {
+      "published": "2026-08-18T18:33:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTksybl8xelFTR0VEYlhGbnNxeGx6SHFFeUVYWW4xZzRwcE1jSEN4eDlQbzJJUTkyVlNNSUZFcF9lU3NnNnU4bDdSTHg3ek1iYVlZRjhhWXdNdE1jbC1aWkdqS2xxT25ldzNrNmJmNUZWY1hjRC1yb2s5QXgyTlJKSmNZNmxtOVpwTlM5Y1ZmaWtvd3NvOGVqWg?oc=5"
+    },
+    {
+      "published": "2026-08-18T15:26:45+00:00",
+      "publisher": "24/7 Wall St.",
+      "source": "AMD / TSMC AI",
+      "title": "Move Over, Nvidia: Why AMD’s Latest Acquisition Could Redefine Direct-Silicon AI Inference - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQXJhUU9wOGozc09nQ3BOdEZaeWNMVlhadzFEQlE4SXNmVzV5djZ6S216eTh6VnhyNU1KeDhCT3d1UlZuUzFfTXV4eVdfbUlTTmJmcDIwTGpGeHViU2V6MFZhci1yZFpmOUV1OXg4eUZjZlRtX2FvMm9NVkd0WDhhTVN2Q2dJeEoySjdER2o4NVVqZHY5V29CV0c4UThPR3VraktxZUl4QV9rX1ZFR0tYTU1xcUJXUU92VjJ4VnRWOFNqcWJQWGEwMi1KQQ?oc=5"
+    },
+    {
+      "published": "2026-08-18T12:13:22+00:00",
+      "publisher": "tech-insider.org",
+      "source": "xAI / Grok",
+      "title": "Claude Fable 5 vs Grok 4.6 vs DeepSeek V4 [2026] - tech-insider.org",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tZ2J6Xy13TG81ejQ3LTJ0Z1BHeWtLWlcwSEhwWVJvdTdFN2dDZnNvQUg2d2ZHSEZSSGY0UEU3T016SExEeTZYc2E5OExFVndXYUlfZEZITTk1NHpwRmo4VTNkV1MzZUhmaWN2djljWmV6RVlyNlVKNTl2dlo?oc=5"
+    },
+    {
+      "published": "2026-08-18T15:42:23+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "French government to hire French AI providers such as Mistral, Minister says - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWllfZzVOVlkxemdwV3dhNWRPbFBHV1BHNV8tc3BjVUoxZk1oQWJoUVpGVlhpczZ6Rng1WDBlN05IX21GSUFBbWRmZE9ZclE1TmNzaWV1YmFLaDlMejRhcGhhMHNtVWh1dEgzaXQ1QzBnMk1Ld2QySmd6TFNnVzFwaVhrcFpNdGVveUdqWDctVHB0Nk5yMnk2MUR1UTJNY3JiUU96eDRleTJ5anNYVHZHY2Y2dndrMVdSQ0Jn?oc=5"
+    },
+    {
+      "published": "2026-08-18T12:59:09+00:00",
+      "publisher": "NVIDIA",
+      "source": "NVIDIA AI",
+      "title": "Mortal Shell II & The Sinking City 2 Launch This Week With DLSS - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZTN5RUFjelU5ZzFxQnhKUTJ0SEd6Tm8wS2tld0ZtSU9RMnhfYzFJNWFuZFFNOUp4OXlxM0VVa2dacUVvaXFNWVllRnVISkJ5M05lM09CYUlFVy1FNGZrcmlUNTM1cnBCWkd2ZzlDZjNOc3owMjdoamI1MWY2VUJiVEdKTQ?oc=5"
+    },
+    {
+      "published": "2026-08-18T16:10:14+00:00",
+      "publisher": "Wccftech",
+      "source": "AMD / TSMC AI",
+      "title": "Alibaba’s TSMC-Built 5nm RISC-V Chip, XuanTie C950, Now Runs Qwen-3.8 27B Model Natively, Unlocking Massive Vertical Integration Tailwinds - Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRkpQQWpTWGg5N2hBeUVGazlnQzNialpBblQ5SURxWG51SW9VQ1huclhQOFNERXJ4NS1BUzRCTUw3WHJYbXhuaWp1UENFcGJ0MExQLU1odHRUUTZnUE1DeHZjdjBwcDFzUlgxZm1UeWw2M0p2MTluZlZBXzR4SXFZaWIwZ2J2Si1yS2xoWU5idFltWWd0eUtJdTZZRVFRNklRY3JJc3hnektBeWQyRHM2YmNnT0VjN0hNZElDNUtHZEU2d3p5SnlzMldBakQzbjRWY1pCNlliQl83el83c1VYSGdDR0M0eTNlbDdDRtIB8gFBVV95cUxQbVJzb2E0eTk1dzJJTEZTRndwQnhhTDVQb1I2aTFHQ3pwZ3RNUU9tRkw5UUdWN01KYmdVR0VyMnZ5cVhTUkx5OW95MmhQUDNQR1dub1FuQ2Y0TDlYOFViSXZOT2NHU0x3R1VXd3pCRWhSXzRHTXo1enlrSUJWZF9oM2w5RTZBTEl1M2xmR09Rck1yRDdXX3kwVHVvLTdlWXplWjJweC1Gcy1kb3M3cE5hYzFGTzdHVDVic0hTaE8tS0ZGNV93Y0NhMHpzWXE3cEtFbDhRNzlRRGwzeERPYnNhZUtkRkNlcVJBZW9uc3NjSmE4QQ?oc=5"
+    },
+    {
+      "published": "2026-08-18T15:09:49+00:00",
+      "publisher": "Stocktwits",
+      "source": "Oracle / Datacenter AI",
+      "title": "ORCL Stock Drops After 6-Month Delay To Gas Pipeline Project Supporting New Mexico AI Data Center - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOa1c4U1E5SGUxRnNMa2lKSWlqRmY0TGwwTml1VUEyUk1JS2RNUUxDLUF2UjZKd0s2NkFYaWxrT0ZoTXFENlBkQlpSYTV4aGR6M0RzWUJHbTBwTDVpS19WLUIzdWdPemJoWW5UYUx1SklWTnJhMVdhcUdDM1llbGl6aTBUa2F4eTVpMDNsZlRDTFBUQzJhOVA5RUlrOC1fZmxIQXpWME52cTBlYlUwRzBuWUNnaXlqdEhwNjMyY1VFY1FKU09RcjEwaFdKbHd1UVU3WGRzZXZndHlDWkRkX1kzaGhVWVdmcEpleVNQNGF1Zk5vQnc?oc=5"
+    },
+    {
+      "published": "2026-08-18T11:00:00+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "ChatGPT is getting a dedicated mode for teens - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcVhic0ZZbl9GSEk5cWlpNW5INF9NWnRrdnlWb3ZBazNZbVZSMUdfVWJLaV9qVkFZWFhrOXF6UjZZUXc1TnFsMDY3UXdrWnE0cXUxMmFkcFRCNS1QYjRzYWtsU0oxcXRHempVOG9jeXN4THJDWGE3T0tiOWlSV2tKWDQwYTJtYU8tZklB?oc=5"
+    },
+    {
+      "published": "2026-08-18T17:21:58+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Etched’s valuation doubles to $21B in a month",
+      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
+    },
+    {
+      "published": "2026-08-18T16:19:10+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+      "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/"
+    },
+    {
+      "published": "2026-08-18T18:27:23+00:00",
+      "publisher": "blog.google",
+      "source": "Google AI Blog",
+      "title": "7 can’t-miss updates from our Pixel 11 launch - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY2E2UTJqYjh2Zmg0T1M0ZWRGZEFMRWtSdWlFVGZnU29yclY1MWFuOFdKemtRcHB6MV9JTlBuVVd1ZFdhc3RPaW1fQzM5MC1uLUN2NTA5Y051MndleHJJZDc4VjVoVkF5b2lhVzhfSHBNZjdLYnVvU2U0WUJ2YWRoVw?oc=5"
+    },
+    {
+      "published": "2026-08-18T18:47:57+00:00",
+      "publisher": "blog.google",
+      "source": "Google AI Blog",
+      "title": "Ask a Scientist: How can researchers use AI to predict a flood? - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVGdmUnhyeGo2TTE2MlJ0UVhQc3lEN0hhYjNrYkxQS2M0Nlg2OWRya1VRVURkTzYyVTkxVUY3c194U08ta2hES0lEd29jWkdLVmJKSzlxZFBZRjVTMnNwR2J4aVlWZDdxR0RwdFIxV0xzSHRNeHVRZ2hEOUkwRWNNQm9qRzg?oc=5"
+    },
+    {
+      "published": "2026-08-17T23:31:13+00:00",
+      "publisher": "thelec.net",
+      "source": "xAI / Grok",
+      "title": "Grok Gets Smarter, Gemini Faster: AI Model War Rages Over Performance, Speed and Price - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZNnlTVk5mNmlJbVBQYmFTcG5lTWtvb3U1X1FtU3hXR3VxU1U1aFZwbUE0Ul8tai1JZUhvenNUVi1VRXJ1OU9hWmFLbXF5b0xHTnJVYk9kbURSSVBqa0ZHWWdzUW1fWlU?oc=5"
+    },
+    {
+      "published": "2026-08-18T16:06:23+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "JPMorgan’s Santos Says ‘AI Tentacle’ Risk Spans Bonds and Stocks - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX3YyR0FJTnBhdHh1NFdXZlFYQV9KUHhYTjE5d2E5czN5VDRRT3ZCZkZZaDlEV21ZVUdGTVZyMjZxUWFTQTJSVXB1UElBYzlZU3JidnhzT1hMT0VNbk5wM3I4OWUxcnQwdk1TVXY3aFNqa2VuSDFsU1RnV0RFbzhoWUstZzBmWk52blQtVkdvekRIQnlQdlBONmw3Z0dzQk5ZYUdiY24xZzVUMlRKRklJNGJJUQ?oc=5"
+    },
+    {
+      "published": "2026-08-18T16:20:52+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "Israeli strikes on Syrian air base criticised by US and Turkey - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGZGWFpoejVuOGwxTHRyUkYtOWVzZXg5NjBEcGpyUWZ4eDI3MDdRRzBKWGI1WnVNMnoxU3lRcEJMSGliMWU0ckRGN3Y1TDZqaXBkcHJISzQzS0NwWWgyOW11OE9DM280emp5eXZkc1dZMGFNWENTMExJeDFZZ01reVNTX24?oc=5"
+    },
+    {
+      "published": "2026-08-18T19:48:26+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’ - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUnhzSXlkd01CYTM3SDRmUjJfZUpSM2VkekNObEZNYUdZUkNOZkEtcThZOXM5SFMzR0E4cVJ6b2VXZVhldXpVVnhxOHUyYkI5NldJM2djTi1zQnJmcFE2X0Vrc1R1Q2V6cDZaTlQxMnhRLVB2U2xlc2stRVp1RVRWMTRUOVNmMWVy?oc=5"
+    },
+    {
+      "published": "2026-08-18T15:50:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "Viral Disneyland Content Creator Defends Her ‘Special Friendship’ With Peter Pan - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTjBYYTM3RFVRTklCUXRlZ3plREJRUjVGTXp2Y1U1UlBhZGNCWDdXaWZqNFAyd1RNTS1jWkd0a1dUaDRxaW8yenNNNUU5V2IzMmg3a3VjVFFEUFhiaVhldGhlVHROWUFGSktmZVlEQm5DY1RYQWFWVjZqLTd0SHk4STdFNHpBSmNtakJWek1RWFJjTVdUM01qSGVwOF9xdjI1LUVNTTRuNVQzM3c?oc=5"
+    },
+    {
+      "published": "2026-08-18T11:30:00+00:00",
+      "publisher": "Cloud Wars",
+      "source": "Microsoft AI",
+      "title": "Microsoft Research and Paige Unveil PRISM 2 Pathology AI Model - Cloud Wars",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUkpJcEptYUVBMjlxMjRnRnlsdklNcEFQY043ejlGZzltT0lFQ19SZFdpMHM2Q3dEZWxKR0FGT2RIR25SakZyU2tSb0NGa2Z2SE15S3lsM1pVdmV2UmdYbUpUMFpvdXNXOHJWTFp3T25uMFp4MlgyWDRVRW02T1RsX294M1l3eFNjamNuYXdnNS1LLWx6VVFLNUl0YUIzMVB5SjlPZ29B?oc=5"
+    },
+    {
+      "published": "2026-08-18T16:09:38+00:00",
+      "publisher": "IT Pro",
+      "source": "AWS AI",
+      "title": "What is AWS Trainium? - IT Pro",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VckhNUXgwcEVJSWRnbTRaXzN6Unp0d21kdmFBWXZrY1RSVk9YaGVoRHRLeEhFN1RFVmQ5eURFczZLU08yUG1jNzJzUDNaeHVZYjhpamdIR3hEWnlzQUl5Y2ZiSlVSYjBl?oc=5"
+    },
+    {
+      "published": "2026-08-18T09:07:51+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "Apple’s Anti-AI Position Suddenly Becomes Stock Market Baggage - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX3hVcFo4aXJweEVPYXpCUHNOMy1uWUlRX2luTGVLZW1YazRkMW1BNm9aRFd2ZnFIUWxiaFlmbUt3Tm85SmhxOHlqM2NCSG5LX1Zkckk5MGtwZzIzNUFzeEtIdTFFd1VJYUxtaEl5VE8tOUxFM21ueER3TTE5WDZ1bTB1TzRWY0xoU1VuQ2RGS0NuSGJWdjJPY3lHSTdraGJTeFBWY1dHUl95dXpJX3NyUEN5VQ?oc=5"
+    },
+    {
+      "published": "2026-08-18T10:57:48+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "AI phobia is America’s new consensus - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdmc1eUlTSGNkdm1hWDlWX1NJQ2NfMnBiOTA5NUVOVFdVTFY3QlA4aDdPNG1CNGtOakJ4UTJ1djhWY2V2SDVqTFY3cUVVREo2SkZsZVUyZ2lEcjlUTEhDT29hem5feTk2TTI1aGFIMC1NVTJyQ2t4LXJLRmlPOUZwa3E5YU8?oc=5"
+    },
+    {
+      "published": "2026-08-18T18:09:38+00:00",
+      "publisher": "Hugging Face Blog",
+      "source": "Hugging Face Blog",
+      "title": "How Much Memory Does Your Agent Actually Need?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm"
+    },
+    {
+      "published": "2026-08-17T22:23:39+00:00",
+      "publisher": "Yellow.com",
+      "source": "Microsoft AI",
+      "title": "IREN Surges Toward Historic $9.7B Microsoft Milestone With First AI Cloud Delivery - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnMWFoX0JlQTVYREVZM185NGJiZ2FwZDhCV0Q0REthcVZOdTFnUXpzWXNwdDh2emU1RUc4SXU5UHQzYkR3UFdrQlVaNHg3VlpxQ3lza0lPXzFFU2R5QU50MV9lLW13Rzg?oc=5"
+    },
+    {
+      "published": "2026-08-18T17:02:52+00:00",
+      "publisher": "Amazon Web Services (AWS)",
+      "source": "AWS AI",
+      "title": "Improve contract search accuracy with auto-generated filters in Amazon Bedrock - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeXRudWx2dENFM1NVcnpSSmRSQlpIUUVEQ3NmSkJINHJkSFBHZ1ByNGZtd2FxLW5LRkJvT094SVlfRVpFUlhNZVBhRGxXdkhZQ19mek9YSlc2ci1OeGlZeDJlT1N3S1UxbFpNVVhRUDBqc2ZfRUdMQ0hBTk5pbUlDVHNYdkRsVXdmVy1ER2RWMHczSzY3WWZYdjhmdjh2X1VBTHlqci0zYVNFX1JqVTY4ZG5jVGhONU5SUkJBdWRia2RIWmc?oc=5"
+    }
+  ],
+  "date": "2026-08-18",
+  "generated_at_utc": "2026-08-18T21:06:31Z",
+  "items": [
+    {
+      "source": "Reuters Tech",
+      "summary_th": "OpenAI ประกาศเปิดตัวโหมดการใช้งาน ChatGPT สำหรับผู้ใช้วัยรุ่นที่เพิ่มมาตรการความปลอดภัยและระบบควบคุมดูแลที่รัดกุมขึ้น การอัปเดตนี้ส่งผลให้ผู้ใช้งานกลุ่มเยาวชนและผู้ปกครองได้รับสภาพแวดล้อมการใช้งาน AI ที่ปลอดภัยจากการเข้าถึงเนื้อหาที่ไม่เหมาะสม",
+      "title_th": "OpenAI เปิดตัว ChatGPT เวอร์ชันเฉพาะสำหรับวัยรุ่นพร้อมระบบความปลอดภัยที่เข้มงวดยิ่งขึ้น",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE?oc=5",
+      "why_it_matters": "ช่วยลดแรงกดดันด้านกฎระเบียบและสร้างมาตรฐานความปลอดภัยใหม่ในการนำ AI เชิงกำเนิดไปใช้ในกลุ่มผู้เยาว์"
+    },
+    {
+      "source": "Reuters Tech",
+      "summary_th": "รัฐมนตรีฝรั่งเศสประกาศนโยบายเตรียมจัดซื้อและนำโซลูชัน AI จากผู้พัฒนาสัญชาติฝรั่งเศส เช่น Mistral มาใช้งานในระบบราชการ โครงการนี้จะช่วยเสริมสร้างขีดความสามารถด้านอธิปไตยทางเทคโนโลยีของยุโรปและผลักดันให้อุตสาหกรรม AI ท้องถิ่นเติบโต",
+      "title_th": "รัฐบาลฝรั่งเศสเตรียมจัดซื้อและใช้งานโมเดล AI ในประเทศอย่าง Mistral ในหน่วยงานรัฐ",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWllfZzVOVlkxemdwV3dhNWRPbFBHV1BHNV8tc3BjVUoxZk1oQWJoUVpGVlhpczZ6Rng1WDBlN05IX21GSUFBbWRmZE9ZclE1TmNzaWV1YmFLaDlMejRhcGhhMHNtVWh1dEgzaXQ1QzBnMk1Ld2QySmd6TFNnVzFwaVhrcFpNdGVveUdqWDctVHB0Nk5yMnk2MUR1UTJNY3JiUU96eDRleTJ5anNYVHZHY2Y2dndrMVdSQ0Jn?oc=5",
+      "why_it_matters": "เป็นก้าวสำคัญของยุโรปในการลดการพึ่งพาเทคโนโลยี AI จากสหรัฐฯ และสร้างระบบนิเวศ Sovereign AI ของตนเอง"
+    },
+    {
+      "source": "Wccftech",
+      "summary_th": "Alibaba ประสบความสำเร็จในการพัฒนาชิป XuanTie C950 ขนาด 5 นาโนเมตรที่ผลิตโดย TSMC ให้สามารถประมวลผลโมเดล Qwen-3.8 27B ได้จากตัวชิปโดยตรง นวัตกรรมนี้ช่วยเพิ่มประสิทธิภาพการประมวลผลระดับฮาร์ดแวร์และลดการพึ่งพาสถาปัตยกรรมชิปประมวลผลแบบดั้งเดิม",
+      "title_th": "Alibaba พัฒนาชิป 5nm XuanTie C950 บนสถาปัตยกรรม RISC-V รันโมเดล Qwen ได้โดยตรง",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRkpQQWpTWGg5N2hBeUVGazlnQzNialpBblQ5SURxWG51SW9VQ1huclhQOFNERXJ4NS1BUzRCTUw3WHJYbXhuaWp1UENFcGJ0MExQLU1odHRUUTZnUE1DeHZjdjBwcDFzUlgxZm1UeWw2M0p2MTluZlZBXzR4SXFZaWIwZ2J2Si1yS2xoWU5idFltWWd0eUtJdTZZRVFRNklRY3JJc3hnektBeWQyRHM2YmNnT0VjN0hNZElDNUtHZEU2d3p5SnlzMldBakQzbjRWY1pCNlliQl83el83c1VYSGdDR0M0eTNlbDdDRtIB8gFBVV95cUxQbVJzb2E0eTk1dzJJTEZTRndwQnhhTDVQb1I2aTFHQ3pwZ3RNUU9tRkw5UUdWN01KYmdVR0VyMnZ5cVhTUkx5OW95MmhQUDNQR1dub1FuQ2Y0TDlYOFViSXZOT2NHU0x3R1VXd3pCRWhSXzRHTXo1enlrSUJWZF9oM2w5RTZBTEl1M2xmR09Rck1yRDdXX3kwVHVvLTdlWXplWjJweC1Gcy1kb3M3cE5hYzFGTzdHVDVic0hTaE8tS0ZGNV93Y0NhMHpzWXE3cEtFbDhRNzlRRGwzeERPYnNhZUtkRkNlcVJBZW9uc3NjSmE4QQ?oc=5",
+      "why_it_matters": "สะท้อนความก้าวหน้าครั้งสำคัญของการผสานชิป RISC-V กับโมเดลโอเพนซอร์สเพื่อสร้างโครงสร้างพื้นฐาน AI ครบวงจร"
+    },
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "ข้อมูลในระบบซอฟต์แวร์ทดสอบของ Apple เผยให้เห็นการพัฒนาหูฟัง AirPods ติดตั้งกล้องความละเอียดต่ำเพื่อทำงานร่วมกับระบบ Visual Intelligence และ Siri โฉมใหม่ การเปลี่ยนแปลงนี้จะช่วยให้ผู้สวมใส่สามารถวิเคราะห์ภาพและสิ่งแวดล้อมรอบตัวได้โดยเน้นความเป็นส่วนตัว",
+      "title_th": "ภาพหลุดโค้ด macOS เผย Apple ซุ่มพัฒนา AirPods ติดกล้องเพื่อรองรับ Visual Intelligence",
+      "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+      "why_it_matters": "ชี้ให้เห็นทิศทางของอุปกรณ์ AI สวมใส่ที่นำเซนเซอร์ภาพมารวมกับหูฟังเพื่อขยายขอบเขตการทำงานของระบบ AI ผู้ช่วยส่วนตัว"
+    },
+    {
+      "source": "Stocktwits",
+      "summary_th": "โครงการศูนย์ข้อมูล AI แห่งใหม่ของ Oracle ประสบปัญหาโครงสร้างพื้นฐานท่อส่งก๊าซธรรมชาติล่าช้ากว่ากำหนด 6 เดือน ส่งผลกระทบต่อแผนการจ่ายพลังงานและสร้างความกังวลต่อการขยายกำลังการประมวลผล AI ของบริษัท",
+      "title_th": "โครงการศูนย์ข้อมูล AI ของ Oracle ในนิวเม็กซิโกสะดุด หลังระบบท่อส่งก๊าซล่าช้า 6 เดือน",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOa1c4U1E5SGUxRnNMa2lKSWlqRmY0TGwwTml1VUEyUk1JS2RNUUxDLUF2UjZKd0s2NkFYaWxrT0ZoTXFENlBkQlpSYTV4aGR6M0RzWUJHbTBwTDVpS19WLUIzdWdPemJoWW5UYUx1SklWTnJhMVdhcUdDM1llbGl6aTBUa2F4eTVpMDNsZlRDTFBUQzJhOVA5RUlrOC1fZmxIQXpWME52cTBlYlUwRzBuWUNnaXlqdEhwNjMyY1VFY1FKU09RcjEwaFdKbHd1UVU3WGRzZXZndHlDWkRkX1kzaGhVWVdmcEpleVNQNGF1Zk5vQnc?oc=5",
+      "why_it_matters": "ตอกย้ำว่าข้อจำกัดด้านพลังงานและโครงสร้างพื้นฐานสาธารณูปโภคเป็นคอขวดสำคัญที่สุดในการขยายดาต้าเซ็นเตอร์ AI"
+    }
+  ],
+  "model_used": "google/gemini-3.7-flash"
+}
