@@ -1,0 +1,219 @@
+{
+  "articles": [
+    {
+      "published": "2026-08-21T19:43:39+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
+    },
+    {
+      "published": "2026-08-21T16:34:56+00:00",
+      "publisher": "NVIDIA Developer",
+      "source": "NVIDIA AI",
+      "title": "GPU-Accelerated Clustering for Financial Instruments at Scale - NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNFJiVUwzSkhhQ0VYZTFyMnNQbW53WktXTlAtaUJLUlR0R2dZR29FX0VWR0ZZaDRGdVRRSWNvRUVTUVB4QXdrbjc3UjlUNjAzZUlnVlRXdTlPalhQMnhTb21ZUVFvNnljM1UwNVlVdVJGTkNmbS1yLTlfcjdHbGFSM1FySGkzMkhaYkRNbmtCZGZEYjNwUWN4MFpIVVY?oc=5"
+    },
+    {
+      "published": "2026-08-21T11:00:10+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "ACE Robotics chairman says robot brains will have 'ChatGPT moment' by end of 2027 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWDBxcmZmdGdPSTkzWHdLVTN5d3VIbU9mbDdrMDE5enl4MlNGa3RuTnFJQjJZWFpMX3k0Q3g0MWVlcTdTbGZwSFJNY2ZZN3VLRzBpWEdiYXRGZmgxRmlJZVVuRG45bUNHdlg4UnA5WWhFbzJPc29hT1hLcHM4d09fUjE4TS1rUVFlTkhsVlN1Mk9xY0pRakZUTlJ6enpZT0VlSlN5djk1cTNySVhodFM1a1NLa2Z2bUZhYWc?oc=5"
+    },
+    {
+      "published": "2026-08-21T13:20:59+00:00",
+      "publisher": "OpenAI Help Center",
+      "source": "OpenAI",
+      "title": "File storage and Library in ChatGPT - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQmlGZEt5OENVOGNHektRbXlGQnpRTEkxU0ZVMU11T3g4T0Y5VkJQLWttakhXV0g4clR5WUN0QlZidDN6VDNHR0dLbnRoUjlCUVRqZkthdUprdFViczBmQnoxU1cwQ2kzc3hjVlJQcUVCQlFWTFRDcGVjc1d5Z0Q0RXJGdGJ4UWc?oc=5"
+    },
+    {
+      "published": "2026-08-20T21:46:03+00:00",
+      "publisher": "Amazon Web Services (AWS)",
+      "source": "AWS AI",
+      "title": "Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock | Artificial Intelligence - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVFAzbUgyY293ZV9uTEdfaXJhcGwydW4xMXZmQ1J4RkxLVTdxR2J5MnhxbklrUFdmd0xOMzhsc1hJR2hiVktDWGFJVXlkVnBTblV4Sk4zcEpLbEdOSVFzWnExM1h4alo1eXE0RHV0WldxVUFmYzRDTy1RcFN6TXdiam9TaUJ1OGtyNTctdTBSbE1OM0x4MEV6Sk4zVkJtUHdoakc0ZU9Wa243TjN5dE5HRVlkVmx5YUI0RzJjYzZTM1RLQ2M?oc=5"
+    },
+    {
+      "published": "2026-08-21T14:00:00+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
+    },
+    {
+      "published": "2026-08-21T00:37:28+00:00",
+      "publisher": "NVIDIA",
+      "source": "NVIDIA AI",
+      "title": "deepseek-v4-flash-0731 Model by Deepseek-ai - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZRG5qZGM3WV82cXc1SlNEZGU1NlM4WVJLOXRiNjVNTVA1YUxiaWZwZExybXJGdDZVU05fTDFVdVhoVHdydzlIaEVZY3NydGZtQUVlYTNyRUJ3eW1vUGF6c2ticFJBejUtamlScmo4NmxiZGJtWE8wNg?oc=5"
+    },
+    {
+      "published": "2026-08-21T11:04:33+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "DeepSeek Unveils Test Model to Rival Anthropic’s Opus 4.8 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR3dGaDI3T2lNQ3pHUExzeUpvYkN1a1ZLaXpQY0xSeXBBOFZFalR1RHI0VGg1R2ZuODRmaDZkc01PS0dENHNDSmQ5SXlnY3ZIWV95MFl5OGh4bi1NcEw1WWJQVzlxbWEwbC1JQldZY0NlaHpjTGUwajJzdGVXc3dvdjl5d1N3Mkl2Z09qM0VLRG4zd0ZHN21fc0piZTZPMGY1WFhHeUI3b28zYm1P?oc=5"
+    },
+    {
+      "published": "2026-08-21T14:00:26+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "AI Jitters Have Suppliers Preparing for Data Center Boom to Go Bust - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZUszSkJmYXUzTmpFaF9YZVhnZEF0NzZIZFlJWUJsMEFlNmgzTG1PMlpPaE5NQUtXVi12aXVZcTlINjFyc2Z3MGlrMWFuaFBNeTFaR19iLWx4ZHJWbjNRS0VRN2Vsb1hXMGRpLWJVc2xrVld6N3FiV011dEkzWklrcVRmbnBhQWRqMEpibGJtX2lsN19scVFVWFR4ZFhXUEdXR0RTZnc3ZXVkMmg0U25fQTh3dVUyRUVjQnpHTjVjNHdZUQ?oc=5"
+    },
+    {
+      "published": "2026-08-21T16:05:09+00:00",
+      "publisher": "blog.google",
+      "source": "Google AI Blog",
+      "title": "What does “full-stack” AI actually mean? - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUkZOclU4THFna0VKT00wODhBSjBvQTRTdzNaNWYtb04yMDhoZjZXeTMyNUR6S3FaUnZiYWVLMld1Rzd6ejBrbHRpcGtFMjY2TVJYUW05R1ZWTlJMdzk1ZnlwZUpKMmlPWTJmMVJzYi1jdnA2LWxBbG4tVEY1OXlva1dScldoOWd1VUlrRThvbFhTczVxX1JSUVVrQzA4WWtuVkUzVXFIb0E1Zw?oc=5"
+    },
+    {
+      "published": "2026-08-21T17:03:28+00:00",
+      "publisher": "blog.google",
+      "source": "Google AI Blog",
+      "title": "Enter Google Play’s sweepstakes to win legendary experiences and collectibles with your Play Points. - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOajBJX1VBRFhmSmg1dUNnQW82Yi1rLUh2YUZuUzJTSDVDdVhwU0hwSlBfYl9qVXNVZFdqSVBWZEZJeHA4YWhjaXk1YVpseUhOODFyRWhwRVhUZnE3V2R4U1Y1WE1PZFp2ZjlqY3hzRE1mdmhDUWNleFk2VE5XZ25WNnlhcmQyblhtZmZnRnRRZHZVaHM?oc=5"
+    },
+    {
+      "published": "2026-08-21T12:14:56+00:00",
+      "publisher": "Dataconomy",
+      "source": "xAI / Grok",
+      "title": "XAI's Grok Chat Agent Vulnerable To Cryptographic Context Injection Attack - Dataconomy",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaTZ4SEJWa2JRbTVoZllGeXMwclJNWWdaLWJUUmRoaC1BRldpa0tLTXFzYVo1T1ZFS1YwVktadWgtLWtVMUNrVnhpbmdnb3RDM2k1SEkwUGNETFNXWmJmNWcxYTRRcUE1ME5jVkNqY1drTU5LZVlWRFA5S2RDT0ZUS2JNWW9zWktERkNkMGFoS3gybXJ4eHc?oc=5"
+    },
+    {
+      "published": "2026-08-21T10:36:27+00:00",
+      "publisher": "Wccftech",
+      "source": "AMD / TSMC AI",
+      "title": "PlayStation 6 Handheld Can’t Hit $600, AMD Leaker Warns, As AI Datacenter Demand Devours LPDDR Memory - Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWTdhYmVsYy02bGM0cTN4RTd5dFBRZ2FscEdJRWttc3BEOExBcWNYLW53d250QnN5NkhBTFJ4RkhOTWNQUXM0VmpmOEh0T2xObjJBSkE4ZVdEdDlxYkZUMVp6MnZ1aFc4SFo0c2Z6MXhLQXpxZHkyZUdRelo4V0syYm51ZUZpd1pwYnktR9IBkgFBVV95cUxOY3JnMzV5enVFWDVhQ3J0TlVLUThaZ0owZWtoc1NmRzV0RzBXX3ZLQ3pMQUNVNFFhR2Y1cVR5anZmdjhXblcycXRKVVQzVVYtcnQyMjJ0b3JNdXNPS05aX2ZtRDdHYUxJYUs1VnB6UVNicFdha2FMaTc1YUE5M3hsX0p5SWRFcWVIajdzb0NoRDhhdw?oc=5"
+    },
+    {
+      "published": "2026-08-21T17:26:44+00:00",
+      "publisher": "The Next Web",
+      "source": "Microsoft AI",
+      "title": "Meta is one of Microsoft's largest AI customers - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5peGpPQUFwZXotNDBoclpMOTlvaDJRNzN0N3RwQXF6WW1ESGxBMUhxWTV2ZHNiRzRMemJnM3VKU3oxUXJwS2ROb1ZNRmFZb1FoTXlhT3BXY2FDWlZlbXIzRl9KR3RWVkp0OUg3OGtrSDBkMXUzWEUtcDhOZmE1Q1k?oc=5"
+    },
+    {
+      "published": "2026-08-21T20:03:40+00:00",
+      "publisher": "Bioengineer.org",
+      "source": "Microsoft AI",
+      "title": "CASUS and Microsoft Research Partner to Advance Scientific Discovery - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTVdIMDdVaEw3V0pJeXFlOVdlTUtRaDhqenNrZWNhZWZBNnFHY3EyMTlfbTV4SkFOaUwzejkzMm54Wng1WVlpWmNpTWhLVmxqSXVrczhkWFpTb0F3LWZhN3dLdHBfb3RoYkJSQjFvOGU3a0ZkNGFTdVB4cFc3VHhLUVBsT1hWNEN3T0Q1QlFDRl9wbXVlbU42ZA?oc=5"
+    },
+    {
+      "published": "2026-08-21T15:07:42+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "US corporate AI debt surge tests investor limits as fatigue emerges - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR0I5VXZyeVp4RlV6cnhVdXFwZ2RNZUU0Q1czQ2c0WkpZUUJuRV9PNEg0VHkzLVlnSUdZMWVOalJzNkNXdlNtamlGSzRLbVRXb0VkVzl3dm5Uc3hPV21Cb3BIdTNyOWZQSDRGQ1ZvV2xUVUZ6eExfeGpRM0hQck8wSDlzR3ViRDJHS25NaGxwNHdVYWN5cHRUcWJvb0hybjRtclNxMFFGT18tMmc2SEw5RFNYb3ZrSWZpS0VYTw?oc=5"
+    },
+    {
+      "published": "2026-08-21T16:27:05+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "Pixel 11 gets in on the digicam trend - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWcxdGdEdlZScFpCYS1PMlRtOHk4X3lDQVZNTThzYmE1S290bjBMa3dlUmV1RzlCMjZsM00xM0N2STBEYkZLYldud3pXcm11eWptdm1iMTcwcGh0NFk2dlZfZHdOU3hNMnJmekg3aEV0UGk2NDB1bnc5VHp5a2R1RkZCSQ?oc=5"
+    },
+    {
+      "published": "2026-08-21T16:52:56+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "Microsoft and Discord subpoenaed over GTA VI gameplay leaks - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNUJHeHVMcU0wNWJfX2EwekRfTmRhVk9JMnoyT3UwX3FHcjVIQ1BvdmVCdTJQYWJhNC1lNUktYUMzS3ZhMm5VdDFkVEpOX2Y2YjFjVE1pVW9KNFVHTm9td1Z3d3ZBUzVxM1EtaFdGa0hCSHdDQnNDeDg1UU9PYlhaMFlWbDJCbVdHdXozdHYyMkJqY0xqaGRBRFpGbm0?oc=5"
+    },
+    {
+      "published": "2026-08-21T18:52:54+00:00",
+      "publisher": "x.ai",
+      "source": "xAI / Grok",
+      "title": "Grok 4.6 on Vertex AI - x.ai",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE45VkJvRlBPSEdIQUt5VmNpT3k5cU1kNkQyblByT2lHTDlDLUVsanVFV0hGM0NQTDcwMGZyalYwZWI1bHRYUS03NDZ2NVA?oc=5"
+    },
+    {
+      "published": "2026-08-21T16:54:05+00:00",
+      "publisher": "Automotive World",
+      "source": "AMD / TSMC AI",
+      "title": "Samsung hikes chip prices as much as 15% on AI demand - Automotive World",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMUpxc295c3h0MGJSSjU0X1JBNUxOdFhCR2F2SkJKMkdhb0ZXaWN2d3JIOC05MmN4eFR2OWNtQWtNRFJvY0d4emVZaGRmd1BlRmlzTWRzdVM5clNvLVdLYzI3eEZWZVBCZkFCMHhBb2RKZEtjUEpVZTZsS21kalZwbm44OFZJU0NJako2akJfYU9vcm5P?oc=5"
+    },
+    {
+      "published": "2026-08-21T16:59:15+00:00",
+      "publisher": "Amazon Web Services (AWS)",
+      "source": "AWS AI",
+      "title": "Reduce RAG costs on Amazon Bedrock with query-aware compression - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON1J6SnhrQ0J6UWlDcVlsUkM1WHE4aVdSS2RoaXl2V3g0ak9CSllrMHBFYnQ2d3ZQMGN0djVCbGNPcTdUWFRUR0VDRTRlLXkwQngwZTJUZXdaNU1CdmhkNHV0Q1VXTE80SnJIV2NnZE95RU9lWjZObENSRUdqTVNGU3hEX0pxaHRpVGdTLTlXWThvWXhXdVU3d2lqWFJHNjJLbG9jOHJYemRfb21NVVRj?oc=5"
+    },
+    {
+      "published": "2026-08-21T10:04:54+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "Blackwater founder Erik Prince launches air-defence systems company - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOHphY2RNZGFEUmUxc3I0MFFwYVNBUTRhdHNpNnBzMmowbWtVWi1EUG55b1J0aV8wazlIWFQ3T2JIMWIwanhvaFUzdWh3azRkNndtRGR1T0pIdklVNHdIaTlYYi1IUEhnMEdzbDA5ZlJEV0tEM3ZIakx2WE1oYXUwWFhoc0k?oc=5"
+    },
+    {
+      "published": "2026-08-21T13:01:43+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "UK retail investors snap up gilts in wake of bond sell-off - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUp0SUphV2JaX252WkdsdExWMkkyVFlsWlQ3eXpScXF1LVMwQVpMdXJHNk5jSmc4TzdDNGp5UXl6QVp0REt4eWRrQW91dDA2R01nRjZLVjJKamJKWEVoOUNKUXFJamM2WFNpVFpOTTRIQkpaSlMwLWJYLXM4TVZ6OXhQN3I?oc=5"
+    },
+    {
+      "published": "2026-08-21T11:00:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "The Patrick Clancy Conspiracy Theories Are Rooted in the Harsh Realities of Motherhood - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUXFYSGR1ZkF0ME12NXd4RHlydndyR094X2dSLXE2OFdPMnlnV290T1RnRUdMTWlHMU1QUU9oeGhPTnY5cUtZYmZCcFV1VlBUOXZJVXdlcW9SdnVRa25yQXU2eDJtSHdkRDJrUk14QXBUVEk0aGdnMEp2SHFMSlFIcGVheG51bFZIaDhoUm9JaVlWZzhCX3hwSHdzLXd2Qk9oUUViY1h6UFFSUlI4V2EzMXFDXzhBUQ?oc=5"
+    },
+    {
+      "published": "2026-08-21T15:00:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "Meta’s Big Reckoning Is Here - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93dG9rSzFLbkt1S3hKc1hKRUxEZm0xYnhxckt5ZDZqTEhFZWNiSHNIUW1xMUZRQ25HTkQ5d3FLOGNwSjlVN1J2Q2p4U2VxNkRpekg1NG1fZmhkYTVpWUxQbWxyalNVVnc?oc=5"
+    }
+  ],
+  "date": "2026-08-21",
+  "generated_at_utc": "2026-08-21T21:06:44Z",
+  "items": [
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "Nvidia เปิดเผยงานวิจัยใหม่ระบุว่าโครงสร้างซอฟต์แวร์รอบตัวโมเดลหรือ Harness มีบทบาทสำคัญอย่างยิ่งต่อการทำงานแบบอัตโนมัติในระยะยาว โดยการปรับแต่งระบบจัดการหน่วยความจำช่วยให้โมเดลทำคะแนนบนชุดทดสอบ ARC-AGI-3 ได้สูงถึง 100% การค้นพบนี้ส่งผลให้นักพัฒนาหันมาให้ความสำคัญกับการสร้างระบบควบคุมและเครื่องมือเสริมแทนการพึ่งพาตัวโมเดลเพียงอย่างเดียว",
+      "title_th": "Nvidia เผยงานวิจัยชี้ระบบ Harness มีผลต่อความสำเร็จของ AI Agent มากกว่าตัวโมเดล",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "why_it_matters": "ชี้ให้เห็นว่าทิศทางการสร้าง AI Agent ที่ทำงานซับซ้อนได้จริงจะขึ้นอยู่กับการออกแบบสถาปัตยกรรมระบบควบคุมมากกว่าแค่ขนาดของโมเดล"
+    },
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "Starcloud สตาร์ทอัพผู้พัฒนาศูนย์ข้อมูลในอวกาศระดมทุนส่วนขยายเพิ่ม 250 ล้านดอลลาร์ ดันมูลค่าบริษัทแตะ 2.3 พันล้านดอลลาร์ เงินทุนก้อนใหม่นี้จะนำไปใช้ขยายโรงงานผลิตและจัดซื้อโควตาการปล่อยดาวเทียมประมวลผล AI Inference ขึ้นสู่วงโคจร",
+      "title_th": "Starcloud ระดมทุนเพิ่ม 250 ล้านดอลลาร์ ขยายศูนย์ข้อมูล AI บนวงโคจรอวกาศ",
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "why_it_matters": "สะท้อนความพยายามหาทางเลือกใหม่ในการสร้างโครงสร้างพื้นฐาน AI นอกโลก เพื่อก้าวข้ามข้อจำกัดด้านพลังงานและพื้นที่บนภาคพื้นดิน"
+    },
+    {
+      "source": "Bloomberg Tech",
+      "summary_th": "DeepSeek ผู้พัฒนา AI ชั้นนำจากจีนเปิดตัวโมเดลรุ่นทดลองตัวใหม่ที่ออกแบบมาเพื่อแข่งขันด้านประสิทธิภาพกับ Claude Opus 4.8 ของ Anthropic ความเคลื่อนไหวดังกล่าวส่งผลให้การแข่งขันระหว่างแล็บ AI ฝั่งสหรัฐฯ และจีนทวีความเข้มข้นยิ่งขึ้นในกลุ่มโมเดลระดับแนวหน้า",
+      "title_th": "DeepSeek เปิดตัวโมเดลทดสอบรุ่นใหม่ ท้าชน Claude Opus 4.8",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR3dGaDI3T2lNQ3pHUExzeUpvYkN1a1ZLaXpQY0xSeXBBOFZFalR1RHI0VGg1R2ZuODRmaDZkc01PS0dENHNDSmQ5SXlnY3ZIWV95MFl5OGh4bi1NcEw1WWJQVzlxbWEwbC1JQldZY0NlaHpjTGUwajJzdGVXc3dvdjl5d1N3Mkl2Z09qM0VLRG4zd0ZHN21fc0piZTZPMGY1WFhHeUI3b28zYm1P?oc=5",
+      "why_it_matters": "ตอกย้ำความเร็วในการพัฒนาของ DeepSeek ที่สามารถปล่อยโมเดลรุ่นใหม่ขึ้นมาประกบโมเดลแถวหน้าของฝั่งตะวันตกได้อย่างต่อเนื่อง"
+    },
+    {
+      "source": "Automotive World",
+      "summary_th": "Samsung ประกาศปรับขึ้นราคาชิปประมวลผลและหน่วยความจำสูงสุดถึง 15% เพื่อตอบรับความต้องการจากศูนย์ข้อมูล AI ที่เติบโตอย่างรวดเร็ว การปรับขึ้นราคานี้ส่งผลกระทบโดยตรงต่อต้นทุนของผู้ผลิตเซิร์ฟเวอร์และอุปกรณ์ฮาร์ดแวร์ทั่วโลก",
+      "title_th": "Samsung ปรับขึ้นราคาชิปสูงสุด 15% ตามแรงหนุนของตลาด AI ทั่วโลก",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMUpxc295c3h0MGJSSjU0X1JBNUxOdFhCR2F2SkJKMkdhb0ZXaWN2d3JIOC05MmN4eFR2OWNtQWtNRFJvY0d4emVZaGRmd1BlRmlzTWRzdVM5clNvLVdLYzI3eEZWZVBCZkFCMHhBb2RKZEtjUEpVZTZsS21kalZwbm44OFZJU0NJako2akJfYU9vcm5P?oc=5",
+      "why_it_matters": "สะท้อนว่าภาวะดีมานด์ฮาร์ดแวร์ AI ที่พุ่งสูงกำลังส่งแรงกดดันด้านต้นทุนไปยังห่วงโซ่อุปทานเซมิคอนดักเตอร์ในภาพรวม"
+    },
+    {
+      "source": "x.ai",
+      "summary_th": "xAI ประกาศเปิดตัวโมเดล Grok 4.6 บนแพลตฟอร์ม Vertex AI ของ Google Cloud อย่างเป็นทางการ การร่วมมือนี้ช่วยให้ลูกค้าระดับองค์กรและนักพัฒนาสามารถนำโมเดลของ xAI ไปเชื่อมต่อและประยุกต์ใช้งานบนระบบคลาวด์ได้ทันที",
+      "title_th": "xAI นำโมเดล Grok 4.6 เปิดให้บริการบน Google Cloud Vertex AI",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE45VkJvRlBPSEdIQUt5VmNpT3k5cU1kNkQyblByT2lHTDlDLUVsanVFV0hGM0NQTDcwMGZyalYwZWI1bHRYUS03NDZ2NVA?oc=5",
+      "why_it_matters": "ช่วยเร่งการขยายฐานผู้ใช้งานโมเดลตระกูล Grok สู่ตลาดระดับองค์กรผ่านระบบนิเวศคลาวด์ขนาดใหญ่ของ Google"
+    }
+  ],
+  "model_used": "google/gemini-3.7-flash"
+}
