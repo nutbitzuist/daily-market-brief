@@ -1,0 +1,284 @@
+{
+  "articles": [
+    {
+      "published": "2026-08-22T02:51:25+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "ธอส. บุก Thailand Smart Money สุราษฎร์ฯ ติดโซลาร์รูฟท็อป ผ่อนเริ่มต้น 1,100 บาท",
+      "url": "https://www.prachachat.net/finance/news-2055998"
+    },
+    {
+      "published": "2026-08-22T05:15:00+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "สมรภูมิเทรดทอง USD เดือด 3 แบงก์ใหญ่ชิงนักลงทุนใช้บริการแอป",
+      "url": "https://www.prachachat.net/finance/news-2055763"
+    },
+    {
+      "published": "2026-08-22T10:56:57+00:00",
+      "publisher": "RYT9",
+      "source": "RYT9 Economy (Google News)",
+      "title": "KBANK คาดกรอบบาทสัปดาห์หน้า 32.30-33.00 จับตากนง.-ตัวเลขส่งออกไทย-ถ้อยแถลงประธานเฟด - RYT9",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpeFVRYTNEZ1ZLSGVfRjJYbHpMTEhMV0VfLVBTXzNQQ2YwZlNiOUc5VG5NNTJiZXRMc2FmV0g2d2ptb21NaTAtLVRB?oc=5"
+    },
+    {
+      "published": "2026-08-22T13:45:00+00:00",
+      "publisher": "Bangkok Post Business",
+      "source": "Bangkok Post Business",
+      "title": "Anthropic IPO could break SpaceX record",
+      "url": "https://www.bangkokpost.com/business/general/3306204/anthropic-ipo-could-break-spacex-record"
+    },
+    {
+      "published": "2026-08-22T09:15:17+00:00",
+      "publisher": "InfoQuest",
+      "source": "InfoQuest",
+      "title": "รัฐบาลลุยฟื้น “เมืองปัว” ตั้งเป้าจบใน 7 วัน อัดงบ 100 ลบ.เร่งเยียวยาชาวน่าน",
+      "url": "https://www.infoquest.co.th/2026/635969"
+    },
+    {
+      "published": "2026-08-22T11:07:00+00:00",
+      "publisher": "Bangkok Post Business",
+      "source": "Bangkok Post Business",
+      "title": "Thai ice-cream brand for sale: Here’s the scoop",
+      "url": "https://www.bangkokpost.com/business/general/3306168/thai-icecream-brand-for-sale-heres-the-scoop"
+    },
+    {
+      "published": "2026-08-22T03:45:00+00:00",
+      "publisher": "Bangkok Post Business",
+      "source": "Bangkok Post Business",
+      "title": "South Korea to send first container ship via Arctic",
+      "url": "https://www.bangkokpost.com/business/general/3306109/south-korea-to-send-first-container-ship-via-arctic"
+    },
+    {
+      "published": "2026-08-22T10:15:53+00:00",
+      "publisher": "InfoQuest",
+      "source": "InfoQuest",
+      "title": "“ปาล์ม” ราคาดีต่อเนื่องกว่า 25 สัปดาห์ พลังงานหนุนราคาฟื้น",
+      "url": "https://www.infoquest.co.th/2026/635915"
+    },
+    {
+      "published": "2026-08-22T09:29:56+00:00",
+      "publisher": "InfoQuest",
+      "source": "InfoQuest",
+      "title": "เตือนไปญี่ปุ่นระวังหมี! นักท่องเที่ยวต่างชาติถูกทำร้ายใกล้ทะเลสาบโทวาดะ",
+      "url": "https://www.infoquest.co.th/2026/635972"
+    },
+    {
+      "published": "2026-08-22T08:23:17+00:00",
+      "publisher": "InfoQuest",
+      "source": "InfoQuest",
+      "title": "อิหร่านไฟเขียวเรือบรรทุกน้ำมันอิรักผ่านช่องแคบฮอร์มุซ หลังแบกแดดยื่นคำขอหลายครั้ง",
+      "url": "https://www.infoquest.co.th/2026/635962"
+    }
+  ],
+  "date": "2026-08-22",
+  "generated_at_utc": "2026-08-22T23:35:57Z",
+  "items": [
+    {
+      "category": "ค่าเงิน-FX",
+      "impact": "high",
+      "key_numbers": [
+        "32.30-33.00 บาทต่อดอลลาร์"
+      ],
+      "rank": 1,
+      "sectors": [
+        "Banking",
+        "Export",
+        "Commerce"
+      ],
+      "sentiment": "neutral",
+      "source_name": "RYT9 Economy (Google News)",
+      "summary_th": "ธนาคารกสิกรไทยประเมินกรอบการเคลื่อนไหวของค่าเงินบาทในสัปดาห์หน้าไว้ที่ 32.30-33.00 บาทต่อดอลลาร์สหรัฐ ความผันผวนของค่าเงินส่งผลโดยตรงต่อการบริหารความเสี่ยงอัตราแลกเปลี่ยนของภาคส่งออกและนำเข้าของไทย ทั้งนี้ ตลาดอยู่ระหว่างรอติดตามผลการประชุม กนง. ทิศทางตัวเลขส่งออกไทย และสัญญาณนโยบายการเงินจากประธานเฟด",
+      "tickers": [
+        "KBANK"
+      ],
+      "time_horizon": "short-term",
+      "title_th": "KBANK ประเมินกรอบเงินบาทสัปดาห์หน้า 32.30-33.00 บาทต่อดอลลาร์ จับตาดอกเบี้ยและส่งออกไทย",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpeFVRYTNEZ1ZLSGVfRjJYbHpMTEhMV0VfLVBTXzNQQ2YwZlNiOUc5VG5NNTJiZXRMc2FmV0g2d2ptb21NaTAtLVRB?oc=5",
+      "watch_next": "จับตาผลการประชุม กนง. ตัวเลขส่งออกไทยประจำเดือน และถ้อยแถลงของประธานเฟด"
+    },
+    {
+      "category": "ธนาคาร-การเงิน",
+      "impact": "medium",
+      "key_numbers": [
+        "5% ต่อปี",
+        "10 ดอลลาร์สหรัฐ"
+      ],
+      "rank": 2,
+      "sectors": [
+        "Banking",
+        "Financial Services"
+      ],
+      "sentiment": "bullish",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "ธนาคารพาณิชย์รายใหญ่รุกเปิดฟีเจอร์ซื้อขายทองคำสกุลเงินดอลลาร์สหรัฐผ่านแอปพลิเคชันและบัญชีเงินฝากเงินตราต่างประเทศ โดย SCB ชูดอกเบี้ยเงินฝาก e-FCD สูงสุด 5% ต่อปี ขณะที่ KBANK เริ่มต้นเทรดขั้นต่ำ 10 ดอลลาร์สหรัฐ การแข่งขันนี้ช่วยเพิ่มความคล่องตัวให้นักลงทุนบริหารความเสี่ยงค่าเงินบาทและพอร์ตสินทรัพย์ปลอดภัยได้โดยตรง",
+      "tickers": [
+        "SCB",
+        "KBANK",
+        "KTB"
+      ],
+      "time_horizon": "short-term",
+      "title_th": "สมรภูมิเทรดทองคำสกุล USD ดุเดือด 3 แบงก์ใหญ่เปิดศึกชิงฐานนักลงทุนบนแอปพลิเคชัน",
+      "url": "https://www.prachachat.net/finance/news-2055763",
+      "watch_next": "จับตาการขยายตัวของมูลค่าธุรกรรม FCD และการเชื่อมโยงบริการบริหารความมั่งคั่งของกลุ่มธนาคาร"
+    },
+    {
+      "category": "เศรษฐกิจมหภาค",
+      "impact": "medium",
+      "key_numbers": [
+        "7 บาทต่อกิโลกรัม",
+        "8.45 บาทต่อกิโลกรัม"
+      ],
+      "rank": 3,
+      "sectors": [
+        "Agribusiness",
+        "Energy"
+      ],
+      "sentiment": "bullish",
+      "source_name": "InfoQuest",
+      "summary_th": "กรมการค้าภายในรายงานราคาผลปาล์มน้ำมันที่เกษตรกรจำหน่ายได้ทรงตัวในระดับดีต่อเนื่องไม่ต่ำกว่า 7 บาทต่อกิโลกรัม และแตะระดับสูงสุด 8.45 บาทต่อกิโลกรัม นานกว่า 25 สัปดาห์ การรักษาสมดุลสต็อกและการผลักดันการใช้พลังงานหนุนให้รายได้เกษตรกรกลุ่มพืชน้ำมันมีเสถียรภาพและส่งผลบวกต่อกำลังซื้อในต่างจังหวัด",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ราคาผลปาล์มน้ำมันยืนสูงเกิน 7 บาทต่อกิโลกรัม ต่อเนื่อง 25 สัปดาห์ หนุนรายได้เกษตรกร",
+      "url": "https://www.infoquest.co.th/2026/635915",
+      "watch_next": "จับตาระดับสต็อกน้ำมันปาล์มดิบและการดำเนินนโยบายผสมไบโอดีเซลของภาครัฐ"
+    },
+    {
+      "category": "ธนาคาร-การเงิน",
+      "impact": "medium",
+      "key_numbers": [
+        "2.32% ต่อปี",
+        "1,100 บาทต่อเดือน"
+      ],
+      "rank": 4,
+      "sectors": [
+        "Banking",
+        "Energy",
+        "Property Development"
+      ],
+      "sentiment": "neutral",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "ธนาคารอาคารสงเคราะห์เปิดตัวผลิตภัณฑ์สินเชื่อเพื่อที่อยู่อาศัยประหยัดพลังงาน ชูสินเชื่อติดตั้ง Solar Rooftop อัตราดอกเบี้ยเฉลี่ยปีแรก 2.32% ต่อปี ผ่อนชำระเริ่มต้นเดือนละ 1,100 บาท สำหรับวงเงินกู้ 300,000 บาท มาตรการนี้ช่วยกระตุ้นความต้องการปรับปรุงที่อยู่อาศัยด้านพลังงานทดแทนและลดภาระค่าไฟฟ้าของภาคครัวเรือน",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ธอส. รุกสินเชื่อติดตั้ง Solar Rooftop ผ่อนเริ่มต้น 1,100 บาท ดอกเบี้ยเฉลี่ยปีแรก 2.32%",
+      "url": "https://www.prachachat.net/finance/news-2055998",
+      "watch_next": "จับตาอัตราการเติบโตของสินเชื่อเพื่อสิ่งแวดล้อมและยอดติดตั้งโซลาร์ภาคครัวเรือน"
+    },
+    {
+      "category": "นโยบายรัฐ-การคลัง",
+      "impact": "medium",
+      "key_numbers": [
+        "100 ล้านบาท",
+        "7 วัน"
+      ],
+      "rank": 5,
+      "sectors": [
+        "Commerce",
+        "Tourism & Leisure",
+        "Construction Materials"
+      ],
+      "sentiment": "neutral",
+      "source_name": "InfoQuest",
+      "summary_th": "ภาครัฐระดมกำลังและเครื่องจักรหนักเข้าฟื้นฟูโครงสร้างพื้นฐานและบ้านเรือนที่อำเภอปัว จังหวัดน่าน โดยตั้งเป้าหมายแล้วเสร็จภายใน 7 วัน พร้อมจัดสรรงบประมาณ 100 ล้านบาท เพื่อเร่งจ่ายเงินเยียวยาประชาชนภายใน 3-5 วัน การเร่งฟื้นฟูช่วยจำกัดผลกระทบต่อกิจกรรมทางเศรษฐกิจและเส้นทางคมนาคมในพื้นที่ภาคเหนือ",
+      "tickers": [],
+      "time_horizon": "immediate",
+      "title_th": "รัฐบาลจัดงบเยียวยา 100 ล้านบาท เร่งฟื้นฟูพื้นที่น้ำท่วมเมืองปัวภายใน 7 วัน",
+      "url": "https://www.infoquest.co.th/2026/635969",
+      "watch_next": "ติดตามความรวดเร็วในการเบิกจ่ายงบเยียวยาและการบริหารจัดการความเสี่ยงอุทกภัยในพื้นที่ภาคเหนือ"
+    },
+    {
+      "category": "ต่างประเทศกระทบไทย",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 6,
+      "sectors": [
+        "Energy",
+        "Transportation & Logistics"
+      ],
+      "sentiment": "neutral",
+      "source_name": "InfoQuest",
+      "summary_th": "ทางการอิหร่านอนุญาตให้เรือบรรทุกน้ำมันของอิรักบางส่วนสามารถเดินทางผ่านช่องแคบฮอร์มุซได้แล้วหลังได้รับการประสานงานอย่างเป็นทางการ ความเคลื่อนไหวนี้ช่วยลดแรงกดดันต่อเส้นทางเดินเรือขนส่งพลังงานหลักของโลกและช่วยบรรเทาความผันผวนของค่าระวางเรือขนส่งน้ำมันระหว่างประเทศ",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "อิหร่านอนุญาตเรือบรรทุกน้ำมันอิรักผ่านช่องแคบฮอร์มุซ ผ่อนคลายความตึงเครียดขนส่งพลังงาน",
+      "url": "https://www.infoquest.co.th/2026/635962",
+      "watch_next": "จับตาสถานการณ์ความมั่นคงทางทะเลในตะวันออกกลางและทิศทางราคาน้ำมันดิบโลก"
+    },
+    {
+      "category": "ต่างประเทศกระทบไทย",
+      "impact": "low",
+      "key_numbers": [
+        "7,000 กิโลเมตร",
+        "10 วัน"
+      ],
+      "rank": 7,
+      "sectors": [
+        "Transportation & Logistics",
+        "Export"
+      ],
+      "sentiment": "neutral",
+      "source_name": "Bangkok Post Business",
+      "summary_th": "เกาหลีใต้เริ่มทดสอบการส่งเรือบรรทุกตู้คอนเทนเนอร์เดินทางสู่อوروبผ่านเส้นทางมหาสมุทรอาร์กติกเพื่อหลีกเลี่ยงความเสี่ยงทางภูมิรัฐศาสตร์ในตะวันออกกลาง เส้นทางดังกล่าวสามารถลดระยะทางได้ประมาณ 7,000 กิโลเมตร และประหยัดเวลาเดินเรือลงราว 10 วัน การพัฒนาเส้นทางทางเลือกนี้เป็นกรณีศึกษาสำคัญต่อต้นทุนและระยะเวลาขนส่งของห่วงโซ่อุปทานการค้าระหว่างเอเชียกับยุโรป",
+      "tickers": [],
+      "time_horizon": "long-term",
+      "title_th": "เกาหลีใต้ทดสอบเส้นทางเดินเรือขนส่งสินค้าผ่านอาร์กติก หวังลดเวลาเดินทาง 10 วัน",
+      "url": "https://www.bangkokpost.com/business/general/3306109/south-korea-to-send-first-container-ship-via-arctic",
+      "watch_next": "ติดตามความคุ้มค่าเชิงพาณิชย์ กฎระเบียบระหว่างประเทศ และผลกระทบต่ออัตราค่าระวางเรือโลก"
+    },
+    {
+      "category": "บริษัท-M&A",
+      "impact": "low",
+      "key_numbers": [],
+      "rank": 8,
+      "sectors": [
+        "Food & Beverage",
+        "Commerce"
+      ],
+      "sentiment": "neutral",
+      "source_name": "Bangkok Post Business",
+      "summary_th": "มีรายงานกระแสข่าวการเปิดรับข้อเสนอซื้อขายกิจการแบรนด์ไอศกรีมในประเทศไทย ซึ่งสะท้อนการปรับโครงสร้างธุรกิจของอุตสาหกรรมอาหารและเครื่องดื่ม การควบรวมหรือเปลี่ยนมือผู้ถือหุ้นในกลุ่มสินค้าอุปโภคบริโภคสะท้อนถึงการแข่งขันที่เข้มข้นและการมองหาพันธมิตรเพื่อขยายช่องทางจำหน่าย",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ตลาดอาหารและเครื่องดื่มจับตาความเคลื่อนไหวการเสนอขายกิจการแบรนด์ไอศกรีมไทย",
+      "url": "https://www.bangkokpost.com/business/general/3306168/thai-icecream-brand-for-sale-heres-the-scoop",
+      "watch_next": "ติดตามการยืนยันข้อมูลทางการและมูลค่าการทำธุรกรรมจากผู้ถือหุ้นของแบรนด์"
+    },
+    {
+      "category": "ต่างประเทศกระทบไทย",
+      "impact": "low",
+      "key_numbers": [],
+      "rank": 9,
+      "sectors": [
+        "Information & Communication Technology",
+        "Electronic Components"
+      ],
+      "sentiment": "bullish",
+      "source_name": "Bangkok Post Business",
+      "summary_th": "บริษัทผู้พัฒนาเทคโนโลยีปัญญาประดิษฐ์ Anthropic มีกระแสข่าวเตรียมการเข้าจดทะเบียนซื้อขายหุ้นต่อสาธารณะเป็นครั้งแรกในตลาดหลักทรัพย์ การระดมทุนขนาดใหญ่ของผู้นำด้านเทคโนโลยี AI อาจสร้างบรรยากาศเชิงบวกและกำหนดเกณฑ์การประเมินมูลค่าหุ้นกลุ่มเทคโนโลยีทั่วโลกรวมถึงหุ้นที่เกี่ยวข้องกับดาต้าเซ็นเตอร์ในเอเชีย",
+      "tickers": [],
+      "time_horizon": "long-term",
+      "title_th": "Anthropic เตรียมความพร้อมเดินหน้ากระบวนการ IPO ในตลาดหุ้นสหรัฐฯ",
+      "url": "https://www.bangkokpost.com/business/general/3306204/anthropic-ipo-could-break-spacex-record",
+      "watch_next": "ติดตามการยื่นเอกสารไฟลิ่งและมูลค่าการประเมินกิจการอย่างเป็นทางการ"
+    },
+    {
+      "category": "ต่างประเทศกระทบไทย",
+      "impact": "low",
+      "key_numbers": [],
+      "rank": 10,
+      "sectors": [
+        "Tourism & Leisure"
+      ],
+      "sentiment": "neutral",
+      "source_name": "InfoQuest",
+      "summary_th": "เกิดเหตุนักท่องเที่ยวต่างชาติถูกหมีทำร้ายได้รับบาดเจ็บบริเวณใกล้จุดชมวิวทะเลสาบโทวาดะ จังหวัดอาโอโมริ ประเทศญี่ปุ่น ส่งผลให้มีการแจ้งเตือนความปลอดภัยในพื้นที่ท่องเที่ยวทางธรรมชาติ เหตุการณ์ดังกล่าวเป็นประเด็นด้านความปลอดภัยที่บริษัทนำเที่ยวและนักท่องเที่ยวชาวไทยในพื้นที่ชนบทของญี่ปุ่นต้องเพิ่มความระมัดระวัง",
+      "tickers": [],
+      "time_horizon": "immediate",
+      "title_th": "เตือนภัยนักท่องเที่ยวในญี่ปุ่นหลังเกิดเหตุหมีทำร้ายใกล้ทะเลสาบโทวาดะ",
+      "url": "https://www.infoquest.co.th/2026/635972",
+      "watch_next": "ติดตามมาตรการดูแลความปลอดภัยของหน่วยงานท้องถิ่นญี่ปุ่นในแหล่งท่องเที่ยวธรรมชาติ"
+    }
+  ],
+  "model_used": "google/gemini-3.7-flash"
+}
