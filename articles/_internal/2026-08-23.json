@@ -1,0 +1,219 @@
+{
+  "articles": [
+    {
+      "published": "2026-08-23T09:54:46+00:00",
+      "publisher": "NVIDIA Docs",
+      "source": "NVIDIA AI",
+      "title": "RAG Ingestion Sizing - NVIDIA Docs",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYlFXaU03eU95RTl5S2JYTTNZRVg0WHE4aFRpcHBhZlhMUGNVbTJpM08xVmk2RmpVeHQ5QmZaTExaSFRScGJTSjE4ZEYxVE5DaWliS0RCRGQ3ektSd2xEbjBzTTFmTmt4YVpHRFY0ZHh4WGd4amFGRTh3bzVNVVJpTll5eWtKN3l6c29lOU4yU202VVE3czFPbGk2TGZqVGFfcWVjNm0yRVlRNlpLaW9ULU5sRlhrc1pFd0xObU5acFlNZnR3RXVVbVN3?oc=5"
+    },
+    {
+      "published": "2026-08-23T09:54:47+00:00",
+      "publisher": "NVIDIA Docs",
+      "source": "NVIDIA AI",
+      "title": "Summary - Enterprise RAG Retrieval - NVIDIA Docs",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeERqRlhoNVZYM3ltSWtveHVSY2liSFB1VExqX1RJZ1RsdGo3UjdyaHo5LWR0M0hMUGJ1LXlzamo1ZnpTNlpwckZ1UXpuWUQ0eFI0Q3RsVWdhdzhickdrQVBfWVRkb3h4SnVPeGRYN3hKR1hpYlRiblBwVjVKQmVkVGRjVVBCU1Bnb2VEeVQ1RlQ3S2lVZ2dsekxsVzNsWi1pNlVYbUZEenpmMDBnV3BXNTd5QVFTaXc4bVlmUGJDam5aV2Y4ZEFr?oc=5"
+    },
+    {
+      "published": "2026-08-23T08:13:02+00:00",
+      "publisher": "조선일보",
+      "source": "AMD / TSMC AI",
+      "title": "Anthropic, OpenAI Build Chips as NVIDIA, AMD Develop AI Models - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZC1Ja1dicnplRVVXV240ZUZUSjd4cjBESHhJLWI3ejI5UFVlWHl5S2FnM04ycXBYdjk3NUxvZm9QZFoxa2ZhM19FdFlWUHZyUmpMNl9aNFhyQzhhbmN1azBWVDdGZWotTkhMcXRIRTlHNzZ2cEFuOFc5WTIyZ21IUjRNc2pzWXk0?oc=5"
+    },
+    {
+      "published": "2026-08-23T20:32:52+00:00",
+      "publisher": "blog.google",
+      "source": "Google AI Blog",
+      "title": "Start the academic year with one year of Gemini, on us - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON1JsSFlCN2t3dnVTS3VXdmhTODZnaUlKQ04tMDV0YS02NEZnM0Z3S1V5QU5GMkRudmJUUmtGZlhXaXo2d1IzRFFjNEtDMEhXSHpwTXJocm8wTVpIMm9LNnQtV3BBX2FrU2VxSElWaHplbElCTi1nenBVMll5R2FtcG1zN1Uzd1dlQ0ZmQVB0c1RsQUZVWU9najd3?oc=5"
+    },
+    {
+      "published": "2026-08-23T15:00:00+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/"
+    },
+    {
+      "published": "2026-08-23T20:01:36+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/"
+    },
+    {
+      "published": "2026-08-23T00:26:55+00:00",
+      "publisher": "tech-insider.org",
+      "source": "xAI / Grok",
+      "title": "Grok 4.6 vs Qwen3.8-Max vs DeepSeek V4 Flash: 21x Price Gap [2026] - tech-insider.org",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUC1kdnFlTWV1b2VMQ1V5Q2tvV2RDd194Qlhuczl6N2JXQ1RORzEyME1SWUs1RmFSd2h0ckF3MTM0cTVncU9EaDB0Wm0tZHRIak0wbm9wR3VDZFJIdk5WZ2xUZk5SSGgxZ2JUSlgwN3Z2Qk8tNnFhY3JocVE0QVpYdzhqWkI?oc=5"
+    },
+    {
+      "published": "2026-08-23T17:00:04+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "Alibaba to Raise $10 Billion by Selling Shares for AI Expansion - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU3duTE1FdlVBUFZLNDRQZzByclktNWhNSmtKc2QxcUU1ZnNuSlBvOHlLS0wxMVFsYkNMaG1aMDVFbFY0WGUtTWF1X2JaVlRwcDVKZERCNFlRdTllTjZ1ak90SExFNGFNd3Z1amt1SzJmNTE4eG5sS0xaeGpvWnBvV1ktTUZBbVRKZm83dTVPLWMtd2ZQU0dTVlQ2cHAtV0RGZXBYcndpV0JyaUR4UGwtSDNxWQ?oc=5"
+    },
+    {
+      "published": "2026-08-23T08:23:24+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQldWM1lpRFZ5SjhkcXQxalo3S3p0RWw2RHR1Rm5vaXlONzU5a1dSM0VoWGJ6dVJQYWE2Q2VlU0QxT0V2OVpsWDE1ZlJDeE90cEl5TDNrQUxZNWlEMVNkczNGWHVJVmNVQ3c5Ym9GQnp5V2gxSG5Hc0NpNHhRSFFHS3kxZ08?oc=5"
+    },
+    {
+      "published": "2026-08-23T16:30:00+00:00",
+      "publisher": "The Motley Fool",
+      "source": "AMD / TSMC AI",
+      "title": "AMD Is Investing More Than $10 Billion in Taiwan to Build Advanced Chip Packaging With TSMC. Here's What Lisa Su Is Actually Buying With That Money. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeW1DSUlhZXc5NFNVbE04NG51VU51WnJZM2hhWnBNUG5GcVRSS3ZGTTFFTzVsOG0wcEVGY3E2dFhWcmEyWDBISHU0M2dKVFRncHlzYzVXQ29mcHBJVnZoSFQxSk5GdmZnQWJuaGFERld1enRIWTQ2T2JrSmJJaDJ1MHBFemhDSUhSMHZJSk9ZNW1aYzlwTno3dw?oc=5"
+    },
+    {
+      "published": "2026-08-23T11:15:07+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "Government can bring robotics to life - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUzFKTlJwQllnVnNPUXR1YnJsRjFIdkJjN082emUyaXhkN004RXV4b3c4ZFRmdXpfc1JmZHB5N1lWNVFodWI2NnkySmpXanllcU5jUExmdldSMGRya0xha0ItREExeGFJOE5XVmxqamg4Y1czdl9ONU5VUlZGMkZnbzU0Y28?oc=5"
+    },
+    {
+      "published": "2026-08-23T12:00:00+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "Grand Theft Auto VI exists in its own universe - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObW81MEZDSnhhNnZEYWxfQ1lFYlJnbW0tdmpmSzhzMmNHSnJ3cVgta1RPV19GWHpvY1ZMbkVTRTFiWFFUVEl1VjNnOU56eEh0c3dYbG43cEJIaDRFZ3RWUzVOQmpJUjhoZ005N2VzMm1Sdm53bllkdExQMl9kVHduSUpJMGxmWTJjbDF2akZR?oc=5"
+    },
+    {
+      "published": "2026-08-23T15:00:00+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaHFtZjctRUdMYVRTZVFnOWd6YVFCQ3ZGcklLcERTM0VZRHlrZENwY0NMaFZYWUx3NkFYZTNvWXd6NnFNX2N6c1RsV3hGNFhVMFhMbHNSZ3g0V0NtZW5YUGJUeXFSanRzR3owZFpYWmsxcUM4LUFEcHgxQ2FpZndSNS1SRWJjMEZUN09jaTN4ZHB0VS1ZZ1ZPUWYtNkpoRVAzWW1QaGYwM2h6dXNSYkFUQUk1RzJZUQ?oc=5"
+    },
+    {
+      "published": "2026-08-23T11:00:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "Transistors Changed Everything. Here’s How They Work - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2Z1clFCUjVldnhLRndvZ2xzemc3YWgyNEE4bzlwV0NLcGpvd0N4anJvUWF6UTdFWVE3bUdiWnJEM1FjUXRjMjE5Mm03UTVNY2N6U0FKXzdrZ1ZyYlFiclhZMEJlUTlDLVVTajZ2MjVMYnI4dEpXQkJDa3NfYnRoMEtMbXBoZw?oc=5"
+    },
+    {
+      "published": "2026-08-23T09:30:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWG9PSl9DS01sbVg0RWxHaEF1WkZSRndWa19ZeC1yVjIyN0p2YnNmNWhPdENLZGpZOC1BSFdaZm80WEhCRlVFZExNVnFnZzhjS1dHZlVPdkNHdjBHVGx0Vlk3cUxFb2gyWEpuRmFyOHhLTVk1LVBUNHNvTU5rbFl6LV8zcEs2aDBSanRmUEk1end1Rm0zNW1CVUNB?oc=5"
+    },
+    {
+      "published": "2026-08-23T04:47:00+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSHJGOUFEMWhrdjlTbk5JelZ2Zl9jNWZ3UjRUTFVZX3hyTmx2bnZ2Qi1Ob3FPZGdBNkoyOHpfRXk3YzFpYXMwNkZHb09uX01jWDRVZ3lJSi1rM2ZGbldMV1J1d0lLUWFTS1FLcHowTXNobENIUkxody01eDItOHZucHRUV0xjME80UkxscjVNX1dnRUlHY1BCN3o5TV9CMFNzcnlobjJBVWdyMHNiQjNtT090bEV6WXQyUU5SdQ?oc=5"
+    },
+    {
+      "published": "2026-08-23T05:55:00+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "Mystery AI Model Ox Alpha Draws Developers With Free Access - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc29aQ2VnX2hNVmtsOENoUWVtRW8wcm82MUt4Uld4SWlzZzM2R1lsTnhWbk9qbUtzcXhfMGV4dlFWT3BlWEVjdF9yNzlLS1JBSTRrMEgtaXhBaFFGVG9rX0NrTk9ZLXF6bUVRTWl5ejlHTWx1b2FlTEVoWkNUR2VvVGNMd1p5T3JnalpKU003LVFHbk1YX3ZPNWM1SWNzQy1mb0xsRHJCTXp0QU1qLWpn?oc=5"
+    },
+    {
+      "published": "2026-08-23T07:31:08+00:00",
+      "publisher": "Security Affairs",
+      "source": "xAI / Grok",
+      "title": "Zero-Click Grok Chat History Theft: Adversa AI Demonstrates Cryptographic Context Injection - Security Affairs",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTF9QWmdMNG1jZnkzTE9zLVlRUk16Z3h1eTBSMzhDaE5GYTRBWFJ0UnNaMEQ5YkRQWmlpQ2NFMkxaYkhnWHVrMkxTNmVxTXpqZWttSWQ4THpfajNXTVFLVE9SVTRvTmZ6bkJqcHpnVTBfbmo5RTJjNkVHZjMzaXR6emFSajhJVnNNMEN4Q2I5SUc1UWZZdExFTFFVblZJM3MzYU1OTGZObWltTGdINnI4SHh2RFlQdG5mY3VzclpoUGQwQk1NZTZXeFc0Q3BqcVZKUS12ctIB2gFBVV95cUxPVUt1bFRORmtZRUlSUDJlRld0M1NVdlNyS3FLckR0Ymg2V0xjVm5zMHJrQVhjMTh3Vm5Zb01BYmhYbmtpdGdEdWZ3RVpqT2J4TjRobVZiOUYwUG0xdnpGaG5TdnluX0N5ajJCSGZfaEg0Qmd1clVidTZtM2tiX1gwTnQ3Z1FmbHJOQ0ttVzJ6OXpzNHFjSHpmc0tDUWVEaW92UExfZzd5WXcxTXF0SGdfcjE0WmRBeU1rWUZaNkJ5MnBIR1U0dk1QdWFWc2VCSEtEVjNhV3A1UkZsUQ?oc=5"
+    },
+    {
+      "published": "2026-08-22T22:14:34+00:00",
+      "publisher": "tech-insider.org",
+      "source": "AWS AI",
+      "title": "How to Build Amazon Bedrock AI Agents: 12 Steps [2026] - tech-insider.org",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XcFg2eGxlQVZ2bjlROWtXbVQ5MnhjZ1R3OHhjVV92Q0g0bm1OU01jOHVjZWU2ZFhzVU84WURqaC1oZl90R29OVWVDTEgwZ0VNa2FjN0hQMGQ1RUhlZ1Z4TmRFeEI4R3gzMWs3ZHk4NUl5dlQ5UkFj?oc=5"
+    },
+    {
+      "published": "2026-08-23T13:26:00+00:00",
+      "publisher": "foreignpolicyjournal.com",
+      "source": "Quantum Computing",
+      "title": "IonQ (NYSE: IONQ) Emerges As The Standout Pure-Play Quantum Computing Stock To Watch - foreignpolicyjournal.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY09nZktkbklPU1U1bUhWZDZ2MlRiUkdQYWotbU84b2Z0Xzg5N2NyemhhYTJIWnJyTVNHSjFpY2xrOGoxcU1aS1MtUy1MdFJKV01JX0t3Zl9SZnF3ZGVhS0JCdi1ZdHN0MHZ3TEkxNUxTMjZpYlo5cTVRcmtrOTVVYWIyQkx0TUJPU0xuT0xPU2daTmRQeExNNE1JM29ualJTZWFKbzNMWEFiM0tQcHotakJocVlxaS12T2thYW9aNElfVkhpU2Y1b2Jn?oc=5"
+    },
+    {
+      "published": "2026-08-23T12:22:23+00:00",
+      "publisher": "TechStock²",
+      "source": "Quantum Computing",
+      "title": "Quantum Computing Stock Jumps 9.6% as Cash Covers 64% of Its Market Value - TechStock²",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRm5kOHRCc0V1Umtxdld1VW53bjJUR0g4NDZFalBNTXY3WHh5bTJqeXVpUXNCSFJPTnBFZV9NY1VGS3d0Z25QY0FqdUQ1bTY4WURkZk1GdDJWd05uTF90bTc1cTlWNnItcnJvY0N1Q0Iycjh1d1RqdTN1UmlQV1pYeW93OFY5eFQzaDhMR2s5dnZNX1lNcU5F?oc=5"
+    },
+    {
+      "published": "2026-08-23T09:54:46+00:00",
+      "publisher": "NVIDIA Docs",
+      "source": "NVIDIA AI",
+      "title": "Enterprise RAG Deployment Guide - NVIDIA Docs",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdXAzSGd1dHlhcEpGblkydC1LN1BfVHl0MktTZ2F3RnFrNnRHTU5tNWcxWmkwWFdwUEQySzkydHJra2xRb0NxS3RHX3dnckVRVXdpTXQxRmlXWVYyamtYOUJ5Z1JfaVpJQWlkMUFrRjkzMFhjTldDOGhOTGVfUlc4Tk5oeUdYWDhwQzh6U3B4QWhGR1FwSVZWcGZJVXp3TkdaR3RsNzdHalloQTFJ?oc=5"
+    },
+    {
+      "published": "2026-08-23T09:54:47+00:00",
+      "publisher": "NVIDIA Docs",
+      "source": "NVIDIA AI",
+      "title": "RAG Ingestion Deployment - NVIDIA Docs",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNW5jblNZNlgzX2ZHZFVOUFJjaEJ0dGFTSnI0SXBPVkViU2tCaTVvNW84RDVBLV80WnhKc3N5YlJlaHVqQXdCczZvZjVOTzlfY3VhZkwtUjRueTdGLWdzTnZ6ZmZYQVFhU0J6ZGc0VHVHZXVMT0pqLVhOcXBjaF9uQXBlRFlyX0ZZMHA2WFVKUHJVRmp6c1dyRlRlMUlaMmpjZFNTamdDUTR6Tmt5X3VITEtfZi1pZTA0S3NjelZkZUl3d3ZCVXc?oc=5"
+    },
+    {
+      "published": "2026-08-23T09:54:47+00:00",
+      "publisher": "NVIDIA Docs",
+      "source": "NVIDIA AI",
+      "title": "Enterprise RAG Retrieval - Accuracy, Performance and Cost Efficiency - NVIDIA Docs",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRUZqMl9PM3BudUFlSUpzSURWbmhwVkRrbUVCV2VDcnhremtYYjZiaFdvUXhmeGZIbUZMZWtINlNtR0tqMDJmQnNYUGVBUmpBTEd1UnNOZmxRamd5emhXcEwzVE15ZXlrV0FScTVOQWJHdEI1TUF2bnVwdGFuVFdnYUtOSmVsYVM5elpPOF9PWndmOFpUVEw3ME1FTk1hRV9Hc2JiYVI3eWxKRl82QThrMDNTb3NTREwyMnNocGo3OEtVbXJodHg2MnlOVDZnMXBjcm93TmlkcUNlQmU4M0RKcDRWZ2tnbHRaZ0xn?oc=5"
+    },
+    {
+      "published": "2026-08-23T09:54:47+00:00",
+      "publisher": "NVIDIA Docs",
+      "source": "NVIDIA AI",
+      "title": "RAG Benchmarking methodology - NVIDIA Docs",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeHJ1UVRnWWVTQVdPVXk1SmxwNmZPLVlrQUVaMWVTSFhPVjlmTkRZdkhpYWZCdlE5LXp4bTlRT3JEUEZDQk0xUHVtMW5GMzR2a2tvS3ZnMGdLOUlkd1VCbHJUcENtMHUtZktYVFZCcmJkYzc3Si1FZmlteXF0bG5qeXpxd09oelhra2ppWUFoUmUzRWNXV0hFZm1sbnFieEpNLTdTS2daM194dV9RdlhtaTJTWWp4UGNISFFmNzJSdU1nbERSNkVZcXpEV1dwT2hUdmNFVFZMcHk5aGxNbHd0Nzh3RQ?oc=5"
+    }
+  ],
+  "date": "2026-08-23",
+  "generated_at_utc": "2026-08-23T21:05:46Z",
+  "items": [
+    {
+      "source": "Reuters Tech",
+      "summary_th": "Alibaba เดินหน้าขายหุ้นมูลค่า 10,000 ล้านดอลลาร์สหรัฐในตลาดหลักทรัพย์ฮ่องกงเพื่อระดมทุนสนับสนุนงบประมาณด้านปัญญาประดิษฐ์ การลงทุนมหาศาลนี้จะถูกนำไปขยายดาต้าเซ็นเตอร์และระบบคลาวด์สำหรับรองรับการพัฒนาโมเดล AI ของบริษัททั่วโลก",
+      "title_th": "Alibaba เตรียมระดมทุน 1 หมื่นล้านดอลลาร์ในฮ่องกงเพื่อเร่งขยายโครงสร้างพื้นฐาน AI",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSHJGOUFEMWhrdjlTbk5JelZ2Zl9jNWZ3UjRUTFVZX3hyTmx2bnZ2Qi1Ob3FPZGdBNkoyOHpfRXk3YzFpYXMwNkZHb09uX01jWDRVZ3lJSi1rM2ZGbldMV1J1d0lLUWFTS1FLcHowTXNobENIUkxody01eDItOHZucHRUV0xjME80UkxscjVNX1dnRUlHY1BCN3o5TV9CMFNzcnlobjJBVWdyMHNiQjNtT090bEV6WXQyUU5SdQ?oc=5",
+      "why_it_matters": "สะท้อนสงครามการแข่งขันด้านโครงสร้างพื้นฐาน AI ระหว่างบิ๊กเทคจีนและสหรัฐฯ ที่ยังคงต้องใช้เม็ดเงินมหาศาลเพื่อช่วงชิงความได้เปรียบ"
+    },
+    {
+      "source": "AMD / TSMC AI",
+      "summary_th": "AMD ทุ่มเงินลงทุนมากกว่า 10,000 ล้านดอลลาร์สหรัฐในไต้หวันเพื่อพัฒนาศักยภาพด้าน Advanced Chip Packaging ร่วมกับพันธมิตรหลักอย่าง TSMC ความเคลื่อนไหวนี้มุ่งแก้ปัญหาคอขวดด้านการผลิตชิปประมวลผล AI รุ่นถัดไปเพื่อส่งมอบให้ลูกค้าองค์กรได้ทันความต้องการ",
+      "title_th": "AMD ทุ่มงบกว่า 1 หมื่นล้านดอลลาร์ในไต้หวัน ร่วมมือ TSMC ยกระดับเทคโนโลยีแพ็กเกจชิปขั้นสูง",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeW1DSUlhZXc5NFNVbE04NG51VU51WnJZM2hhWnBNUG5GcVRSS3ZGTTFFTzVsOG0wcEVGY3E2dFhWcmEyWDBISHU0M2dKVFRncHlzYzVXQ29mcHBJVnZoSFQxSk5GdmZnQWJuaGFERld1enRIWTQ2T2JrSmJJaDJ1MHBFemhDSUhSMHZJSk9ZNW1aYzlwTno3dw?oc=5",
+      "why_it_matters": "เทคโนโลยีบรรจุชิปขั้นสูงกลายเป็นหัวใจสำคัญเทียบเท่ากระบวนการผลิตในการเพิ่มประสิทธิภาพชิป AI และแย่งส่วนแบ่งจาก NVIDIA"
+    },
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "การวิเคราะห์คดีลิขสิทธิ์ชี้ให้เห็นความซับซ้อนของการนำหนังสือและผลงานที่มีลิขสิทธิ์มาเทรนโมเดล AI ซึ่งกฎหมายยุคเก่าอาจยังตีความไม่ครอบคลุม ส่งผลกระทบโดยตรงต่อนักเขียนและบริษัทพัฒนา AI ที่ต้องเผชิญความเสี่ยงทางคดีความและข้อตกลงชดเชยมูลค่ามหาศาล",
+      "title_th": "ข้อพิพาทกฎหมายลิขสิทธิ์กับการเทรนโมเดล AI ชี้จุดเปลี่ยนสำคัญของอุตสาหกรรมสร้างสรรค์",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "why_it_matters": "แนวคำตัดสินของศาลในประเด็นนี้จะเป็นบรรทัดฐานกำหนดต้นทุนและความชอบธรรมทางกฎหมายในการเทรนโมเดล AI รุ่นต่อไปทั่วโลก"
+    },
+    {
+      "source": "Bloomberg Tech",
+      "summary_th": "โมเดล AI ลึกลับในชื่อ 'Ox Alpha' กำลังได้รับความสนใจอย่างกว้างขวางในหมู่นักพัฒนาหลังปล่อยให้ทดสอบใช้งานโดยไม่มีค่าใช้จ่าย ชุมชนนักพัฒนาและนักวิจัยกำลังจับตามองประสิทธิภาพระดับสูงพร้อมคาดเดาผู้พัฒนาเบื้องหลังโมเดลตัวนี้",
+      "title_th": "โมเดล AI ปริศนา 'Ox Alpha' เปิดให้ใช้งานฟรีและกำลังดึงดูดนักพัฒนาทั่วโลก",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc29aQ2VnX2hNVmtsOENoUWVtRW8wcm82MUt4Uld4SWlzZzM2R1lsTnhWbk9qbUtzcXhfMGV4dlFWT3BlWEVjdF9yNzlLS1JBSTRrMEgtaXhBaFFGVG9rX0NrTk9ZLXF6bUVRTWl5ejlHTWx1b2FlTEVoWkNUR2VvVGNMd1p5T3JnalpKU003LVFHbk1YX3ZPNWM1SWNzQy1mb0xsRHJCTXp0QU1qLWpn?oc=5",
+      "why_it_matters": "การปล่อยโมเดลประสิทธิภาพสูงแบบ Stealth สะท้อนกลยุทธ์ใหม่ของแล็บ AI ในการทดสอบและสร้างฐานผู้ใช้ก่อนเปิดตัวอย่างเป็นทางการ"
+    },
+    {
+      "source": "xAI / Grok",
+      "summary_th": "ทีมนักวิจัยความปลอดภัย Adversa AI เปิดเผยการค้นพบช่องโหว่ประเภท Zero-Click บนแชตบอต Grok ผ่านเทคนิคแทรกคำสั่งเข้ารหัส ผู้ใช้งาน Grok อาจมีความเสี่ยงที่ประวัติการพูดคุยและข้อมูลสำคัญจะถูกดึงออกไปโดยที่เหยื่อไม่ต้องกดลิงก์ใดๆ",
+      "title_th": "พบช่องโหว่ Zero-Click ใน Grok เปิดทางแฮกเกอร์ขโมยประวัติการสนทนาได้โดยไม่ต้องคลิก",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTF9QWmdMNG1jZnkzTE9zLVlRUk16Z3h1eTBSMzhDaE5GYTRBWFJ0UnNaMEQ5YkRQWmlpQ2NFMkxaYkhnWHVrMkxTNmVxTXpqZWttSWQ4THpfajNXTVFLVE9SVTRvTmZ6bkJqcHpnVTBfbmo5RTJjNkVHZjMzaXR6emFSajhJVnNNMEN4Q2I5SUc1UWZZdExFTFFVblZJM3MzYU1OTGZObWltTGdINnI4SHh2RFlQdG5mY3VzclpoUGQwQk1NZTZXeFc0Q3BqcVZKUS12ctIB2gFBVV95cUxPVUt1bFRORmtZRUlSUDJlRld0M1NVdlNyS3FLckR0Ymg2V0xjVm5zMHJrQVhjMTh3Vm5Zb01BYmhYbmtpdGdEdWZ3RVpqT2J4TjRobVZiOUYwUG0xdnpGaG5TdnluX0N5ajJCSGZfaEg0Qmd1clVidTZtM2tiX1gwTnQ3Z1FmbHJOQ0ttVzJ6OXpzNHFjSHpmc0tDUWVEaW92UExfZzd5WXcxTXF0SGdfcjE0WmRBeU1rWUZaNkJ5MnBIR1U0dk1QdWFWc2VCSEtEVjNhV3A1UkZsUQ?oc=5",
+      "why_it_matters": "ตอกย้ำถึงความท้าทายด้านความปลอดภัยไซเบอร์ของโมเดล AI ที่การโจมตีทางอ้อม (Indirect Injection) สามารถสร้างผลกระทบต่อความเป็นส่วนตัวได้อย่างร้ายแรง"
+    }
+  ],
+  "model_used": "google/gemini-3.7-flash"
+}
