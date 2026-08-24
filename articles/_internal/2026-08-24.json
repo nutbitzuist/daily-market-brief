@@ -1,0 +1,219 @@
+{
+  "articles": [
+    {
+      "published": "2026-08-24T15:27:01+00:00",
+      "publisher": "NVIDIA Developer",
+      "source": "NVIDIA AI",
+      "title": "NVIDIA Vera Rubin and Blackwell Set a New Standard for Agentic AI Performance per Watt - NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUkxRME9EZ0RJQ2JhVmgtaGRWTTNtdDl3SGt1NDllTGVJS1ZkQjBYZ0VhUXFVR1VpUUY4bHJ4bUpucGxrT3hsOU9SZ3FyZVpBUmVtLW1sYmRLZ2Q5MEh3eVEyVldlUm8zZkVaUzZZMExPMGlIVEU2LTdtOGdPQ2lzWmI1MkV2cy1xdTJZRlFxLVFmQnRyTHNGMWpjNEJ4cXhiRk8taWYyazM3NmNISGRUSlZHeDE1ai1jaGJ6NlNn?oc=5"
+    },
+    {
+      "published": "2026-08-24T18:37:06+00:00",
+      "publisher": "NVIDIA",
+      "source": "NVIDIA AI",
+      "title": "NVIDIA BlueField-4 Powers New Scale-In Network Infrastructure for Agentic AI Factories - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOeWNzYTh4cEpleTgyd3JNS3hRYk5GZU1GNmMwcjI3elVWRU13WXFDcmpsY09YSWxkejZ6R0ExcjNYakRzV2V6NWJYcGgwX21WZ01oQk9HYkFVOGxNbmk1b3pRcEJnd2RaSmY3Vkt4Wlk4cmZVUndnSzBWUVRLMkVQQ3dUSXhTZnAxT2otZlM0SDliaTl1czB3dnFWSVlCY3haOTVWM1llTXhCdG9sYjZlV1V6a1pxV2xNWFJ2VEsxVXhXQVBKWm13V3FkTF9Qd2RnM3ozeEp4ZDVzOXozWkUtcG83andOWjJPaW1FMzdQeVpUWVZiUmgxVU9ZcV9QR0Zs?oc=5"
+    },
+    {
+      "published": "2026-08-24T15:24:18+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/"
+    },
+    {
+      "published": "2026-08-24T15:00:00+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/"
+    },
+    {
+      "published": "2026-08-24T13:38:06+00:00",
+      "publisher": "OpenAI Help Center",
+      "source": "OpenAI",
+      "title": "File storage and Library in ChatGPT - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQmlGZEt5OENVOGNHektRbXlGQnpRTEkxU0ZVMU11T3g4T0Y5VkJQLWttakhXV0g4clR5WUN0QlZidDN6VDNHR0dLbnRoUjlCUVRqZkthdUprdFViczBmQnoxU1cwQ2kzc3hjVlJQcUVCQlFWTFRDcGVjc1d5Z0Q0RXJGdGJ4UWc?oc=5"
+    },
+    {
+      "published": "2026-08-24T20:36:45+00:00",
+      "publisher": "blog.google",
+      "source": "Google AI Blog",
+      "title": "Start the academic year with one year of Gemini, on us - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON1JsSFlCN2t3dnVTS3VXdmhTODZnaUlKQ04tMDV0YS02NEZnM0Z3S1V5QU5GMkRudmJUUmtGZlhXaXo2d1IzRFFjNEtDMEhXSHpwTXJocm8wTVpIMm9LNnQtV3BBX2FrU2VxSElWaHplbElCTi1nenBVMll5R2FtcG1zN1Uzd1dlQ0ZmQVB0c1RsQUZVWU9najd3?oc=5"
+    },
+    {
+      "published": "2026-08-24T17:21:16+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "Broadcom Credit Risk Soars on Mega AI Debt Financing Backstops - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc0hWNk5nRXVKaThHODNaR1hKOWdrSkZ0X0JBd3YtdDYzVkV5NUxVMnZSQ2FxN2dOZDRrTkZ0aUw5WmtlZy1wSm5zcTBMNXJ3blRQWGM1RExHazBTV2dBWmEtUUJmOGRxZjNfMnZqcE9vNGhDYnNPWExQN09pVHdvRDFkYVFNcG1aRS1vRXJ5NlVhcUpNV19PSl9icmpVc3g4MV9QWUhGY0MtazF1X3NsUkt1cw?oc=5"
+    },
+    {
+      "published": "2026-08-24T19:24:50+00:00",
+      "publisher": "blog.google",
+      "source": "Google AI Blog",
+      "title": "How developers build AI for good with Gemma 4 - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb2l2N3lEYmQwN2VnY0NJN1hNdWxjTW5reUVHSmZ6T1ZlbERMam9IckFfMHZHa012SGVOOFRBTGh3ZnJGYkd6bWxyNTFjaFMxTlRqbzhya216MTJOcGZvbmMzUU8tSzdWSk92Rm5PSndtUkJIYmNVRkdTLXFPU2pwdmNIdFlJakpZaE5SN3VuUTJrQWRoREE1Z3h3WkUwd3NCVEYtYUl6cVg?oc=5"
+    },
+    {
+      "published": "2026-08-24T11:31:32+00:00",
+      "publisher": "Pluang",
+      "source": "Oracle / Datacenter AI",
+      "title": "Bloom Energy grows 166% in Q2, backed by Oracle and Brookfield for AI data center power solutions. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdzRWdUJCeGx0TjR6SWp6TmlhS0YwQ2N1cjJUNmcxZTkyZVhKR251bDREVTJxdExtU2Y5ZU4xbG9tLXE3MlJ1c1RGUTFUeks5Wl9tSVFRbkpReWV1QmstSHczRzhNd3NVbHRzZC1WRHp1QlpGWjh5bk9CTFNkSkszMGdWU2xtM195TFpXVjZ5RFpqZFZK?oc=5"
+    },
+    {
+      "published": "2026-08-24T17:10:33+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "UK, Ukraine sign AI defence partnership linked to battlefield technology - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMk1vd2pFVnJwQWNUbVJRS1A0WDRCXzBuVVBMN0hlTFJtNDhSZDVnSkdaMmZTSXRhSWlOTjNvYTBSVU9KM1NSdE9OWTFIVXJKWEdEU0ZfaTBMbGV6WHlkWkdEWGdMNEE3WVFoNnRQdVZNamRlc3cxakRMbkxXd3JSYnFYMXlDVUJXZC1nOW9ONTVseXlCRGNxUExhOUhCb2E3aVpPWmRjYmpoUnFmNG5WMGRJV0lGelBQRjk3emF2MTdaSmF3eTE3UXZ3QQ?oc=5"
+    },
+    {
+      "published": "2026-08-24T20:52:16+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "nVent Electric to buy Maverick Power for $1.75 billion to expand data center offerings - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORXpFa2x0RVowNmtGb2FxZEdQbDVTeTBsLUt3eXRzcUJ2UVluNi1DajZ5dFU5ZjBJNk02UU55R3JVSDhwb2NGcFZ1dzNTcjMzYmVPejNpS3QzZVJlOXY2ekNjb3dxQUZmZzRGNUJxbnhVLWxpY05GbXFrc3ZYMGt5WU9LZEdhT2hBMHdTYnB0Ulo1Q1lEaW1iT2FhXzdyNEN3cW9yb0lGUUNEN01KQTZpVWRrOHEzTVJ1NGZzNVd3?oc=5"
+    },
+    {
+      "published": "2026-08-24T17:00:00+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "UK Taps Ukrainian Combat Data in AI Push To Shape Battlefield - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMXA2VEFpTWFfLVFzR3U5eXduRjRrZEJQb2p1UG5MY1UyMWRrWWYxQTZZb3lqR2VxTlVhN1kzeXZxZkdjX3RCYmkydy1HU3c2RmV4OC1fUzFMNUdGckJwQ2duZjVQSHlLSHlfY3U2RVZtaHZHZkpQNDlSc29PaTdfOGJiYkFzX0c5RnpickRLRUpPVUNWbVE1alZEMjlwX0x4Q2Myd0FCUGx6MF9aX0FEMVFR?oc=5"
+    },
+    {
+      "published": "2026-08-24T17:00:03+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "Britain gains access to Ukraine battlefield data - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONUNCM1UybFY1TENHQlhfSnVsRHNVMW94bzdFcU4tbTFZdkV5dld2OFAwS0lSU2Jla1FIeFVrMnpJY3lYcmFhcG92Q3lMYlJ4UFVjc2FfeHVWNjh5MjNScFE3X1pXd3FNTXdpcjhQVnhQT2FWRmdtM19WNnFHVVZXb3EwMDI?oc=5"
+    },
+    {
+      "published": "2026-08-24T17:13:31+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "UK seeks to tighten security of supply chains after Iran-linked cyber attack - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcUczaUxaZ1NmdDdFVlZxcjlyWmpjR3BYZndPYnk4ZWtpdk55OEhWRnFRYjc2UlFwZ2JRamhhZjU0d1JwZDFPSGZDcTFwNkhBOXlWN1lrYkF5R3RFOXZYZmdQdlI0TnpLdDhqNkp4UFB2NGxGbzFlVXJtbV9icWRpdWNkMVo?oc=5"
+    },
+    {
+      "published": "2026-08-24T17:01:05+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "Zillow and Redfin settle FTC antitrust case over their rental listings partnership - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBraGxXLXRWMkozNndFb3RTRjF2VnJiOG0zR0VJdE1TR1A4VTBOSmdVTjloeXo5SDM4cGJVbGJxS2M4dE80aWU3MlJjMm14XzlkX0xzRzBuVnNCbjRFeXZkVGNOajRHclNNVHU2S2FFc3hYQ09heUE?oc=5"
+    },
+    {
+      "published": "2026-08-24T16:42:37+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "Robotaxis are real now — so is the pushback - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT1FKcWw1VnIxUWJkY1BnWWVXTS1QVjdaOU5sd2p0WGk1MTdYeHc4MWtCMUFqSDgxMmdUMFJUVG9oZEZGYXdtaEN6ckxuSzVQMFpoTnRHQnRRZW92ell6a3FnN2hTdTJVQ3hqSXpXLUwtNmg5OTBseE4tUGVuYS1udlBXRU5qUGxQMW5uTU10bEYzWFRuZTJ4YQ?oc=5"
+    },
+    {
+      "published": "2026-08-24T19:04:00+00:00",
+      "publisher": "The Information",
+      "source": "xAI / Grok",
+      "title": "Inside Musk’s First Address to Cursor: Grok Is Falling Behind - The Information",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZRGtMZDNmVUlUYUpSdmdidzRNdm1xcy15cGc2cy1kdGdXX1k2WjBVSV9CVTNSTGFfUDNGT0g5MElKTXk1cHNvcVBHYTZVMTJBSlZfTG53SXo1NE14RktqQlB5dXdiWmRnMVhwbWpqTkR2U1pFRlpucU1RMlpDdw?oc=5"
+    },
+    {
+      "published": "2026-08-24T19:49:32+00:00",
+      "publisher": "TradingView",
+      "source": "AMD / TSMC AI",
+      "title": "TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcVk2bXdvVjlUZ3NJOElmdGxPZlg5SW5wM0hGVG9UY3ZTTWhudnA3bzZaQkFfTC1yUW1GbGlkUnFtWlhqR0JyYTF0QnZmLXVTVFJNVzFvclFJOGFMOWVYcWl5OHZISnN5OHV5eFJsaHFoamctWlV1MU5MQXd2NzBiLTdEX3BxbWFQdjFVWWZzNnZrVW5GLUxXNG5wMTZLM3hSWXdJYjdGODd0bEpURS1tY2ZuWQ?oc=5"
+    },
+    {
+      "published": "2026-08-24T05:53:18+00:00",
+      "publisher": "Ad-hoc-news.de",
+      "source": "AMD / TSMC AI",
+      "title": "AMD stock steady as AI efficiency targets lift long-term data center story - Ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSzhKQzZOYXNWamZtMXJteERKTWs0SEpPeW5xUTJTMEhuZ0RrV2dIMWNEaGUxTk1ScDhSLWh4ajA2U3NaeFMzU25sZVpMX3ZodEZkTlBOWF9mXzZnRzc4VDJFX0xsdFYySGVqck9rdnQ3a3NLWF90aDN3ekNGeDdiNlBIdndUM1RsLUJ2bENENTF2SGZnc2JEZzZ2MXZHTXhxX1J2YW9mTDBNTDk2OEVENnhvR2xpeGdlTi1UUlFvSFprYnFwRzJRZU9jdU5kVl96bFJF?oc=5"
+    },
+    {
+      "published": "2026-08-24T09:30:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjdXdnay1kRWtnRGxoUE03WjR2WDBlYlJpdWxnX3dHckw5dWNNQldWcDNhUjRfVXRVSFBRYld3NlRyU0xUaUJmd1dfNHdjdFNVSWc3VUdPeGJnQ2JfQnAyTWJPZkxiNkJUMjJVM1dVdENRM3dI?oc=5"
+    },
+    {
+      "published": "2026-08-24T10:30:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "Forget Meta Ray-Bans. These Dorky-Looking Virtual Display Glasses Are Way More Useful - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQTDh3cVVJNi1scjEteGdzM0wzb0RkZ096bTZOOUdkREhXbDRXcENtZ0JnWF9xMmNVYklqR1pTVktidzU4bGViUEFqWWM3TE1rMzlkLUxVOEwxWjMtMTB6UEM5dU92RjhTNUJLRkVoa1c4LUJtLWlCeWtoZHc?oc=5"
+    },
+    {
+      "published": "2026-08-24T14:05:34+00:00",
+      "publisher": "KDnuggets",
+      "source": "xAI / Grok",
+      "title": "Build an End-to-End Data Science Project with Grok Build and Grok 4.6 - KDnuggets",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ29IZTg2Ul8tdHdjY2oxMlF6UTJ2NFprRjFqOWxvVmJyRG5uSFh0YkRTMVV4WXJBR2JXRDlHVW1zazIzaU5adDZObUROaEJQdDNhN2I5N0o1SlV3UmtWckxubHhNRDZ1MkY5UFpaZmlJekpZcm1Td3hfTVF4aUhxdHJpQW0zelVtX05DWEpYWVNnQ3NmWHZRc2gzbw?oc=5"
+    },
+    {
+      "published": "2026-08-24T08:44:41+00:00",
+      "publisher": "The Quantum Insider",
+      "source": "Microsoft AI",
+      "title": "Microsoft’s Skala AI Model Joins CP2K to Improve Quantum Mechanical Simulations - The Quantum Insider",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQnllVWJyQ21ZSTYwSV9MU3lqZkJ2bk1nbEhUdkNBSjd5NFNjX3VFNVYtb1RXZXpGRGV2ZEJyN3VOcU1vR1Uxb0NpMDhOc3F6OGF4VFE2UDVqUUYxY0NlNjQ2OXFHZVFJS180Y2RJQzBHOGpPYjRiSnVtcDVkZ2NDYU5EeHdydnNHS1FFVEVWblRUeTg1MS1idVM5SDYzbVRnSzFCbHF3ZjE0cERmenZ6WEo1SG5XUFFnQnRZcg?oc=5"
+    },
+    {
+      "published": "2026-08-24T14:20:19+00:00",
+      "publisher": "MIT Technology Review",
+      "source": "MIT Tech Review AI",
+      "title": "How to encourage smarter AI use in the classroom - MIT Technology Review",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQajAzMmpjdXVhMXBVeGdVLVFzU3ZMX2N0Z1VsNHNaelhZT0VGY0U3MzRJQUM3QnJVX2RVc0tyaHZIYXgwNXFLcEpSR3MzY2tGVWNyUjZacHJsTGI0eU1uNzlFc3RaSW1lWms0S19aczE0c3VpVTNYZXdvcno1VEZfZWdnOTRnVWgw0gGOAUFVX3lxTFBTRThrTXpZM2ZIWDd0MEtWX0dKZGJxZXR2SVBrT0pHVWt4Wnk3b05HTW9VQURuV3FuYkdtRXV5c1hXdzA1MGxyRWZZTnI5eDBGZW5EMTJ0eG1vNGZ6bzRySEVoZDh3TzdtSU9ocEFYWXdRZzVLZ3NXNHRyWERldjdMc1NqUUozVVR2cnJIRmc?oc=5"
+    },
+    {
+      "published": "2026-08-24T12:10:00+00:00",
+      "publisher": "MIT Technology Review",
+      "source": "MIT Tech Review AI",
+      "title": "The Download: kids outlearning AI, and space travel agents - MIT Technology Review",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYTRQY08xNllsdXFqQ1kyRkVmVHVhQkp3VFFFdEc4YnJvS0c1MDFqaHAxT0JaM2g0MUlnTTFVN1BLWkx3c0pmcWY1WDV4R1dBbXZLUG9PS1E0a0dacDBHUEJGRzdVMWU0U2NRTklYaUtrbXA1RnNnVFkzMjJBMkxXVTloRjZ0aW1WVGVyNHExRENTb0ZGQ1RjUmZIVFQzalY4T0F6OERkSEE?oc=5"
+    }
+  ],
+  "date": "2026-08-24",
+  "generated_at_utc": "2026-08-24T21:08:44Z",
+  "items": [
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "OpenAI เปิดตัว ChatGPT Work ที่ให้เอเจนต์ AI ทำงานหลายขั้นตอนแทนผู้ใช้ในอีเมล Slack และแอปอื่น ๆ ผลิตภัณฑ์มุ่งเป้านักวิชาชีพทั่วไปนอกเหนือจากนักพัฒนาซอฟต์แวร์",
+      "title_th": "OpenAI เปิดตัว ChatGPT Work เน้นเอเจนต์ AI อัตโนมัติ",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "why_it_matters": "เอเจนต์ AI อัตโนมัติจะเพิ่มรายได้ต่อผู้ใช้และขยายการใช้งาน AI สู่ภาควิชาชีพอื่น"
+    },
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "สตาร์ทอัพ AI ด้านหุ่นยนต์ General Intuition กำลังระดมทุนรอบใหม่ที่มูลค่า 6 พันล้านดอลลาร์จาก Valor Point72 และ Seven Seven Six โมเดลพื้นฐานฝึกเอเจนต์ให้เคลื่อนที่ในอวกาศและเวลาได้ทั่วไป",
+      "title_th": "General Intuition ระดมทุนที่มูลค่า 6 พันล้านดอลลาร์",
+      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "why_it_matters": "การระดมทุนระดับสูงแสดงถึงความเชื่อมั่นใน AI ด้านหุ่นยนต์และเอเจนต์ทั่วไป"
+    },
+    {
+      "source": "NVIDIA AI",
+      "summary_th": "NVIDIA เปิดตัว BlueField-4 เพื่อขยายโครงสร้างเครือข่ายแบบ scale-in สำหรับโรงงาน AI แบบเอเจนต์ ผลิตภัณฑ์ช่วยเพิ่มประสิทธิภาพการเชื่อมต่อในศูนย์ข้อมูลขนาดใหญ่",
+      "title_th": "NVIDIA เปิดตัว BlueField-4 สำหรับโครงสร้างเครือข่าย AI",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOeWNzYTh4cEpleTgyd3JNS3hRYk5GZU1GNmMwcjI3elVWRU13WXFDcmpsY09YSWxkejZ6R0ExcjNYakRzV2V6NWJYcGgwX21WZ01oQk9HYkFVOGxNbmk1b3pRcEJnd2RaSmY3Vkt4Wlk4cmZVUndnSzBWUVRLMkVQQ3dUSXhTZnAxT2otZlM0SDliaTl1czB3dnFWSVlCY3haOTVWM1llTXhCdG9sYjZlV1V6a1pxV2xNWFJ2VEsxVXhXQVBKWm13V3FkTF9Qd2RnM3ozeEp4ZDVzOXozWkUtcG83andOWjJPaW1FMzdQeVpUWVZiUmgxVU9ZcV9QR0Zs?oc=5",
+      "why_it_matters": "โครงสร้างเครือข่ายใหม่จะเป็นพื้นฐานสำคัญสำหรับโรงงาน AI ขนาดใหญ่ในอนาคต"
+    },
+    {
+      "source": "Reuters Tech",
+      "summary_th": "สหราชอาณาจักรและยูเครนลงนามข้อตกลงความร่วมมือ AI ด้านการป้องกันประเทศที่เชื่อมโยงกับเทคโนโลยีสนามรบ ข้อตกลงช่วยให้สหราชอาณาจักรเข้าถึงข้อมูลการรบของยูเครนเพื่อพัฒนา AI",
+      "title_th": "สหราชอาณาจักรและยูเครนลงนามความร่วมมือ AI ด้านการป้องกัน",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMk1vd2pFVnJwQWNUbVJRS1A0WDRCXzBuVVBMN0hlTFJtNDhSZDVnSkdaMmZTSXRhSWlOTjNvYTBSVU9KM1NSdE9OWTFIVXJKWEdEU0ZfaTBMbGV6WHlkWkdEWGdMNEE3WVFoNnRQdVZNamRlc3cxakRMbkxXd3JSYnFYMXlDVUJXZC1nOW9ONTVseXlCRGNxUExhOUhCb2E3aVpPWmRjYmpoUnFmNG5WMGRJV0lGelBQRjk3emF2MTdaSmF3eTE3UXZ3QQ?oc=5",
+      "why_it_matters": "ความร่วมมือนี้จะเร่งการพัฒนา AI ทางทหารและกำหนดมาตรฐานการใช้ข้อมูลสนามรบ"
+    },
+    {
+      "source": "Reuters Tech",
+      "summary_th": "nVent Electric ประกาศซื้อ Maverick Power มูลค่า 1.75 พันล้านดอลลาร์เพื่อขยายธุรกิจโซลูชันศูนย์ข้อมูล การซื้อกิจการช่วยเสริมความสามารถด้านโครงสร้างพื้นฐาน AI",
+      "title_th": "nVent เข้าซื้อ Maverick Power มูลค่า 1.75 พันล้านดอลลาร์",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORXpFa2x0RVowNmtGb2FxZEdQbDVTeTBsLUt3eXRzcUJ2UVluNi1DajZ5dFU5ZjBJNk02UU55R3JVSDhwb2NGcFZ1dzNTcjMzYmVPejNpS3QzZVJlOXY2ekNjb3dxQUZmZzRGNUJxbnhVLWxpY05GbXFrc3ZYMGt5WU9LZEdhT2hBMHdTYnB0Ulo1Q1lEaW1iT2FhXzdyNEN3cW9yb0lGUUNEN01KQTZpVWRrOHEzTVJ1NGZzNVd3?oc=5",
+      "why_it_matters": "การควบรวมกิจการครั้งนี้สะท้อนความต้องการโครงสร้างพื้นฐานศูนย์ข้อมูล AI ที่เพิ่มขึ้นอย่างรวดเร็ว"
+    }
+  ],
+  "model_used": "x-ai/grok-4.3"
+}
