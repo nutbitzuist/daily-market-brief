@@ -1,0 +1,391 @@
+{
+  "articles": [
+    {
+      "published": "2026-08-24T14:45:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "Key Events This Week: Jackson Hole. Nvidia Earnings And Core PCE",
+      "url": "https://www.zerohedge.com/economics/key-events-week-jackson-hole-nvidia-earnings-and-core-pce"
+    },
+    {
+      "published": "2026-08-24T17:40:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "Gold: From DC's \"Enemy\" To Its Last Hope?",
+      "url": "https://www.zerohedge.com/precious-metals/gold-dcs-enemy-its-last-hope"
+    },
+    {
+      "published": "2026-08-24T21:25:32+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Top News",
+      "title": "Trump’s oil and gas stocks gained up to $15.5 million amid Iran war, congressional Democrats say",
+      "url": "https://www.cnbc.com/2026/08/24/trump-oil-gas-stocks-iran-war-investments-democrats.html"
+    },
+    {
+      "published": "2026-08-24T19:35:00+00:00",
+      "publisher": "Wall Street Journal",
+      "source": "WSJ Markets (Google News)",
+      "title": "Oil Snaps Winning Streak As U.S. Widens Iran Sanctions - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbnFqT3hpUmxhWm9CZ1o0RVlfRUw5NVBxYmItMXg3QTJrQllqMXhjVG9UdXQ4UXRWVjItMDV3N19RTy02dk1HT2VRMXY3dG0zUGd6NnlFOV82ak5nSTFxaXZGeHFib1FYVmhDeWhqWk1VbzAyY0M2c3BuRkV2OTBtTEVrUkN4cUVDNm0wakJDRHlpTHhFaV81UTdWX2UyaTVnSUwwTXhINEp2NmxoMlJWWFhNVWxRQzBadlFrX25qcDVlWnBlZmp5UXZuYWRLYmZtdEJDSA?oc=5"
+    },
+    {
+      "published": "2026-08-24T18:32:36+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Top News",
+      "title": "Trump admin unveils anti-Iran global sanctions plan, signals China not exempt",
+      "url": "https://www.cnbc.com/2026/08/24/trump-iran-economy-sanctions-china-bessent.html"
+    },
+    {
+      "published": "2026-08-24T19:40:00+00:00",
+      "publisher": "MarketWatch",
+      "source": "MarketWatch Top Stories",
+      "title": "Bessent’s sweeping sanctions against Iran send oil prices to their biggest drop in 3 weeks, while fueling hopes of de-escalation",
+      "url": "https://www.marketwatch.com/story/oil-trades-lower-even-as-bessent-promises-economic-d-day-announcement-on-iran-a90d862e?mod=mw_rss_topstories"
+    },
+    {
+      "published": "2026-08-24T11:14:56+00:00",
+      "publisher": "Financial Times",
+      "source": "Financial Times Companies",
+      "title": "Iran threatens 46 ships in Strait of Hormuz transit crackdown",
+      "url": "https://www.ft.com/content/9ebcd1d7-9959-468b-af96-987ef5bf83a8?syn-25a6b1a6=1"
+    },
+    {
+      "published": "2026-08-24T15:29:51+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Markets (Google News)",
+      "title": "US Eyes China Overcapacity Tariffs of 7.5% Before Xi-Trump Talks - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1cySzg1bmVQS2h5QnlFSllIV3VwWWNnQzRTVURxSjlhNnlRd3lvTmtOcE83dWs4UVQ3S05sUVZiR1h1dENiWU9hWnZXeVh4SjRDbzFTX1lrUVRROTNIUTdXNGJlcFVqbGs4Q3RCRUFaWHpSNkxreTZkYnNCYWIxbEg3V19WdURwamwxaU83TllhdWQ5X0lRQ1VXd1MwUzB1WVUyTmNaU2xzbzlxZVNDTndlWEk?oc=5"
+    },
+    {
+      "published": "2026-08-24T17:05:36+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Markets (Google News)",
+      "title": "US Tells Iran’s Trade Partners to Cut Ties or Face Sanctions - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMDBjUWhER2FqdU1MVFF6MVR6QWZEY194a29CcWRvZUtjQUtzcUM3M1RqRlpDbTFjRXVSTGZ6d3RQb3JZanNieDRMSS1qRHRqQ29PVzk2bUdob1RmX2ZXRXZITnVxb2ktNnA2WXRWVVZWRmthY1lLeWwxOTJobDhXV2pWZ0JvUUNKQkJpUUtjN2NYQXNySi1nSWdtSi1wVDY4SFdNdA?oc=5"
+    },
+    {
+      "published": "2026-08-24T17:13:31+00:00",
+      "publisher": "Financial Times",
+      "source": "Financial Times Companies",
+      "title": "UK seeks to tighten security of supply chains after Iran-linked cyber attack",
+      "url": "https://www.ft.com/content/3d46e4cb-4dee-4f49-adc1-0bb0f63d4c49?syn-25a6b1a6=1"
+    },
+    {
+      "published": "2026-08-24T18:46:00+00:00",
+      "publisher": "Wall Street Journal",
+      "source": "WSJ Markets (Google News)",
+      "title": "Dollar Edge Higher as Bessent Announces New Iran Sanctions - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN1FCbF8tMGp1Nm9sTWNVRlZ6UzhuRmxPTmZSZ2MtMFdFLXpMY1JyZHY5cjcweXlYVlpPWk5BUkRoTFk1em1pRllfd2tiRHZVbUk3ektpSXJWTnVfYW8zdjVhNDVKNDlDVHNzbE40aF9pdTZjOC1EdmVKMkVEVUhlRXpHY3FOa1VRSXEwSkdtS1BlQnRmb1JpNWNmX2htTTJBd3I2YmZXdDY4YjRhVjVrTnUwbTRaUQ?oc=5"
+    },
+    {
+      "published": "2026-08-24T20:22:00+00:00",
+      "publisher": "MarketWatch",
+      "source": "MarketWatch Top Stories",
+      "title": "Ford’s $3 billion Canadian bet is getting caught in trade-war crosshairs",
+      "url": "https://www.marketwatch.com/story/u-s-automakers-and-home-builders-are-among-the-big-losers-as-trump-launches-a-trade-war-against-canada-063c1d4c?mod=mw_rss_topstories"
+    },
+    {
+      "published": "2026-08-24T11:49:32+00:00",
+      "publisher": "The New York Times",
+      "source": "NYT US Business (Google News)",
+      "title": "Iran Cracks Down on One Luxury Left to Its Youth: Coffee Shops - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPektZTWw1TWF5Um1TVWxCTlYyODdPUndKeHR3dC1GRTRDM1hLbGFnS0dMcUxEQ045YTZHbHVPajlIVjMwLWN2cDYtcm5xTHFQUGlFNUc0NUMxNU1hRmNxblFoZmtZcFE1WEZsYnI1NjB0NHZtOC0wMmdfeWlybXNHcA?oc=5"
+    },
+    {
+      "published": "2026-08-24T21:12:00+00:00",
+      "publisher": "AP News",
+      "source": "AP US Economy",
+      "title": "Preservationists are working to extend the life of a rare Revolutionary War ‘witness tree’ - AP News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTzRXa2hOUnE2VE8xZ3BnUVZYaU1hMG03cnRyVE5vaWc5RTYxRjAtT2FobWk0X240MC0tUHFUZFBCMWwyVEVpbzhPVUh4RkszNVBPVUg5dTU1VEQtNFVGYUZqdDViTXpmcDFnc1I2RDhJZGZxODNxclZYMXF2MjRPR183YXBKakJKa2pib2xGSVE2U2lOVzEzelZVVWp5dw?oc=5"
+    },
+    {
+      "published": "2026-08-24T19:21:00+00:00",
+      "publisher": "The New York Times",
+      "source": "NYT US Business (Google News)",
+      "title": "Transportation Secretary Sean Duffy’s ‘Road Trip’ Highlights America, and Some of Its Sponsors - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTFZKREFNeDViLWJoRFR3ZGtMbmJtNl84M3QzQWxLV3BnNUM2MlpZWXJ3TkNmWmZJRnl5VVo4RU5HVUhnTGh4RWN0TWF4SEVqUEZCLWVRUURHYm0zanRGb0J6Q1p0eDRyUWxCTy10bmxmMUtwSVllbWNMVTFvZTJfYldyel9qRjJo?oc=5"
+    },
+    {
+      "published": "2026-08-24T13:35:08+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Economy",
+      "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
+      "url": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html"
+    },
+    {
+      "published": "2026-08-24T13:05:38+00:00",
+      "publisher": "Yahoo Personal Finance",
+      "source": "Yahoo Finance",
+      "title": "Bitcoin and ethereum prices today, Monday, August 24, 2026: Prices rising, as investors look for more Fed clues this week",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-august-24-2026-prices-rising-as-investors-look-for-more-fed-clues-this-week-130538704.html"
+    },
+    {
+      "published": "2026-08-24T05:24:43+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Economy",
+      "title": "Singapore inflation hits highest in nearly two years, but undershoots expectations",
+      "url": "https://www.cnbc.com/2026/08/24/singapore-inflation-budget-iran-war.html"
+    },
+    {
+      "published": "2026-08-24T21:35:58+00:00",
+      "publisher": "Seeking Alpha Market News",
+      "source": "Seeking Alpha Market News",
+      "title": "Strattec Security Q4 2026 Earnings Preview",
+      "url": "https://seekingalpha.com/news/4636367-strattec-security-q4-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+    },
+    {
+      "published": "2026-08-24T22:56:57+00:00",
+      "publisher": "Seeking Alpha Market News",
+      "source": "Seeking Alpha Market News",
+      "title": "TotalEnergies says profitably moving heavily discounted oil through Strait of Hormuz",
+      "url": "https://seekingalpha.com/news/4636423-totalenergies-says-profitably-moving-heavily-discounted-oil-through-strait-of-hormuz?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+    },
+    {
+      "published": "2026-08-24T20:12:11+00:00",
+      "publisher": "AP News",
+      "source": "AP US Economy",
+      "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5"
+    },
+    {
+      "published": "2026-08-24T10:26:27+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters US Politics (Google News)",
+      "title": "For Republicans, Dallas convention is both rally and rescue mission - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaXRlYmVqYmp5SHBWaWZFTWMzVFI0VGpMdFNpZlloM3NOV3FLU0NBbm9zanp4RHFlUU1NLVd4bkI4TTE4cTRzMUl6dG1oT3RBZl85UGhpVElTbktBZGY2NWxxT20yZVdocFk2UnJvN3ZJeGE1U1JLWTNLZ3dTVWV2bi1jQ1lkM0RRaE1nZUFxNHppdUJNT1Fuc2hQZ2FHcWdTMnV2MUpn?oc=5"
+    },
+    {
+      "published": "2026-08-24T10:00:00+00:00",
+      "publisher": "Yahoo Personal Finance",
+      "source": "Yahoo Finance",
+      "title": "Mortgage and refinance rates today, Monday, August 24, 2026: Purchase and refi rates prove shopping matters",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-august-24-2026-purchase-and-refi-rates-prove-shopping-matters-100000358.html"
+    },
+    {
+      "published": "2026-08-24T17:28:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "\"Operation Economic Outcast\" Begins: Bessent Warns Countries Helping Iran Face Expulsion From Dollar System",
+      "url": "https://www.zerohedge.com/geopolitical/entering-endgame-bessent-unveil-economic-d-day-assault-isolate-iran"
+    },
+    {
+      "published": "2026-08-24T22:25:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "Regulation: Protecting Incumbents And Suppressing Competition",
+      "url": "https://www.zerohedge.com/political/regulation-protecting-incumbents-and-suppressing-competition"
+    }
+  ],
+  "date": "2026-08-24",
+  "generated_at_utc": "2026-08-24T23:07:36Z",
+  "items": [
+    {
+      "category": "Geopolitics",
+      "impact": "high",
+      "key_numbers": [
+        "60 entities"
+      ],
+      "rank": 1,
+      "sectors": [
+        "Energy",
+        "Financials",
+        "Industrials"
+      ],
+      "sentiment": "bearish",
+      "source_name": "ZeroHedge",
+      "summary_th": "กระทรวงการคลังสหรัฐฯ ประกาศเปิดตัว 'Operation Economic Outcast' คว่ำบาตรเครือข่ายที่เกี่ยวข้องกับอิหร่านเกือบ 60 แห่ง ครอบคลุมทั้งน้ำมัน ขีปนาวุธ และเทคโนโลยี พร้อมเตือนว่าประเทศหรือสถาบันการเงินที่ยังคงสนับสนุนอิหร่าน โดยเฉพาะจีน อาจเผชิญการตัดขาดจากระบบดอลลาร์สหรัฐ มาตรการนี้เพิ่มแรงกดดันทางภูมิรัฐศาสตร์อย่างหนักและส่งผลโดยตรงต่อการค้าพลังงานโลก",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "สหรัฐฯ เปิดตัวมาตรการคว่ำบาตรอิหร่านชุดใหญ่ ขู่ตัดประเทศคู่ค้าออกจากระบบดอลลาร์",
+      "url": "https://www.zerohedge.com/geopolitical/entering-endgame-bessent-unveil-economic-d-day-assault-isolate-iran",
+      "watch_next": "ติดตามท่าทีตอบโต้จากทางการจีนและผลกระทบต่อสถาบันการเงินระหว่างประเทศ"
+    },
+    {
+      "category": "Macro/Fed",
+      "impact": "high",
+      "key_numbers": [
+        "50%",
+        "$20 billion"
+      ],
+      "rank": 2,
+      "sectors": [
+        "Consumer Discretionary",
+        "Materials",
+        "Industrials"
+      ],
+      "sentiment": "bearish",
+      "source_name": "CNBC Economy",
+      "summary_th": "การเจรจาการค้าระหว่างสหรัฐฯ และแคนาดาประสบความล้มเหลว ส่งผลให้สหรัฐฯ เริ่มเก็บภาษีนำเข้า 50% คิดเป็นมูลค่าสินค้าประมาณ 20,000 ล้านดอลลาร์สหรัฐ นายกรัฐมนตรีแคนาดาประกาศเตรียมเก็บภาษีตอบโต้แบบดอลลาร์ต่อดอลลาร์ตั้งแต่วันที่ 8 กันยายนนี้ ซึ่งกระทบต่อห่วงโซ่อุปทานยานยนต์ ไม้แปรรูป และสินค้าเกษตรข้ามพรมแดนอย่างมีนัยสำคัญ",
+      "tickers": [
+        "F"
+      ],
+      "time_horizon": "short-term",
+      "title_th": "สงครามการค้าสหรัฐฯ-แคนาดาปะทุ หลังเจรจาล้มเหลวและเริ่มบังคับใช้ภาษี 50%",
+      "url": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html",
+      "watch_next": "จับตารายละเอียดรายการสินค้าตอบโต้จากแคนาดาที่จะประกาศก่อนวันที่ 8 กันยายน"
+    },
+    {
+      "category": "Macro/Fed",
+      "impact": "high",
+      "key_numbers": [
+        "4.69%",
+        "5.22%"
+      ],
+      "rank": 3,
+      "sectors": [
+        "Financials",
+        "Real Estate",
+        "Tech"
+      ],
+      "sentiment": "bullish",
+      "source_name": "ZeroHedge",
+      "summary_th": "อัตราผลตอบแทนพันธบัตรรัฐบาลสหรัฐฯ อายุ 10 ปีปรับลดลงสู่ระดับ 4.69% และอายุ 30 ปีลดลงสู่ 5.22% หลังกระทรวงการคลังส่งสัญญาณเตรียมใช้เงินสดเพื่อซื้อคืนพันธบัตรระยะยาว ตลาดเริ่มคลายความกังวลด้านต้นทุนการกู้ยืมระยะสั้นก่อนการประชุม Jackson Hole และรายงานตัวเลขเงินเฟ้อ Core PCE ปลายสัปดาห์นี้",
+      "tickers": [],
+      "time_horizon": "immediate",
+      "title_th": "บอนด์ยีลด์สหรัฐฯ ชะลอตัวหลังคลังส่งสัญญาณซื้อคืนพันธบัตร ขณะตลาดจับตา Jackson Hole",
+      "url": "https://www.zerohedge.com/economics/key-events-week-jackson-hole-nvidia-earnings-and-core-pce",
+      "watch_next": "ติดตามถ้อยแถลงของประธานเฟดในการประชุม Jackson Hole และรายงาน Core PCE"
+    },
+    {
+      "category": "Regulation",
+      "impact": "medium",
+      "key_numbers": [
+        "7.5%"
+      ],
+      "rank": 4,
+      "sectors": [
+        "Industrials",
+        "Materials",
+        "Tech"
+      ],
+      "sentiment": "neutral",
+      "source_name": "Bloomberg Markets (Google News)",
+      "summary_th": "รัฐบาลสหรัฐฯ อยู่ระหว่างพิจารณาเก็บภาษี 7.5% สำหรับสินค้าที่มีกำลังการผลิตส่วนเกินจากจีนก่อนการหารือระดับผู้นำ มาตรการนี้สะท้อนความพยายามในการปกป้องอุตสาหกรรมในประเทศและเพิ่มอำนาจต่อรองทางการค้า ซึ่งอาจเพิ่มความผันผวนต่อความสัมพันธ์ทางการค้าระหว่างสองมหาอำนาจ",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "สหรัฐฯ เล็งตั้งกำแพงภาษีสินค้ากำลังการผลิตส่วนเกินจากจีน 7.5% ก่อนการเจรจาผู้นำ",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1cySzg1bmVQS2h5QnlFSllIV3VwWWNnQzRTVURxSjlhNnlRd3lvTmtOcE83dWs4UVQ3S05sUVZiR1h1dENiWU9hWnZXeVh4SjRDbzFTX1lrUVRROTNIUTdXNGJlcFVqbGs4Q3RCRUFaWHpSNkxreTZkYnNCYWIxbEg3V19WdURwamwxaU83TllhdWQ5X0lRQ1VXd1MwUzB1WVUyTmNaU2xzbzlxZVNDTndlWEk?oc=5",
+      "watch_next": "ติดตามความคืบหน้ากำหนดการประชุมระหว่างผู้นำสหรัฐฯ และจีน"
+    },
+    {
+      "category": "Geopolitics",
+      "impact": "medium",
+      "key_numbers": [
+        "46 ships"
+      ],
+      "rank": 5,
+      "sectors": [
+        "Energy",
+        "Industrials"
+      ],
+      "sentiment": "bearish",
+      "source_name": "Financial Times Companies",
+      "summary_th": "อิหร่านออกคำเตือนและขึ้นบัญชีดำเรือบรรทุกสินค้า 46 ลำที่สัญจรผ่านช่องแคบฮอร์มุซ ท่ามกลางความตึงเครียดทางทหารที่ยกระดับขึ้น สถานการณ์ดังกล่าวสร้างความเสี่ยงต่อค่าระวางเรือ ค่าประกันภัยทางทะเล และเส้นทางขนส่งพลังงานหลักของโลกอย่างต่อเนื่อง",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "อิหร่านขู่ปิดกั้นเรือบรรทุกสินค้า 46 ลำในช่องแคบฮอร์มุซ เพิ่มความเสี่ยงโลจิสติกส์",
+      "url": "https://www.ft.com/content/9ebcd1d7-9959-468b-af96-987ef5bf83a8?syn-25a6b1a6=1",
+      "watch_next": "ติดตามมาตรการคุ้มกันการเดินเรือพาณิชย์ของกองทัพเรือชาติตะวันตกในช่องแคบฮอร์มุซ"
+    },
+    {
+      "category": "Regulation",
+      "impact": "medium",
+      "key_numbers": [
+        "39%"
+      ],
+      "rank": 6,
+      "sectors": [
+        "Energy"
+      ],
+      "sentiment": "neutral",
+      "source_name": "CNBC Top News",
+      "summary_th": "คณะกรรมาธิการเศรษฐกิจร่วมของรัฐสภาสหรัฐฯ รายงานการประเมินมูลค่าหุ้นกลุ่มน้ำมันและก๊าซที่ปรับตัวขึ้นเฉลี่ย 39% ในปีนี้ โดยหุ้นบริษัทพลังงานขนาดใหญ่อย่าง Exxon Mobil และ Chevron ปรับตัวขึ้นตามทิศทางราคาพลังงานโลก ประเด็นนี้อาจเพิ่มแรงกดดันทางการเมืองด้านนโยบายพลังงานและภาษีลาภลอยในสหรัฐฯ",
+      "tickers": [
+        "XOM",
+        "CVX",
+        "VLO",
+        "MPC"
+      ],
+      "time_horizon": "short-term",
+      "title_th": "สภาคองเกรสจับตากำไรหุ้นกลุ่มพลังงานสหรัฐฯ ท่ามกลางความขัดแย้งอิหร่าน",
+      "url": "https://www.cnbc.com/2026/08/24/trump-oil-gas-stocks-iran-war-investments-democrats.html",
+      "watch_next": "ติดตามการเคลื่อนไหวทางนิติบัญญัติเกี่ยวกับมาตรการควบคุมผลกำไรภาคพลังงาน"
+    },
+    {
+      "category": "Macro/Fed",
+      "impact": "medium",
+      "key_numbers": [
+        "6.64%",
+        "5.88%"
+      ],
+      "rank": 7,
+      "sectors": [
+        "Real Estate",
+        "Financials"
+      ],
+      "sentiment": "neutral",
+      "source_name": "Yahoo Finance",
+      "summary_th": "อัตราดอกเบี้ยสินเชื่อบ้านแบบคงที่ 30 ปีในสหรัฐฯ ทรงตัวอยู่ที่ระดับ 6.64% ขณะที่แบบคงที่ 15 ปีอยู่ที่ 5.88% ต้นทุนการกู้ยืมที่ยังอยู่ในระดับสูงส่งผลให้กิจกรรมการรีไฟแนนซ์และการซื้อบ้านใหม่ชะลอตัว ผู้บริโภคยังคงระมัดระวังการก่อหนี้ระยะยาว",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "อัตราดอกเบี้ยกู้ซื้อบ้านสหรัฐฯ ทรงตัวที่ 6.64% ชะลอความร้อนแรงตลาดที่อยู่อาศัย",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-august-24-2026-purchase-and-refi-rates-prove-shopping-matters-100000358.html",
+      "watch_next": "ติดตามรายงานยอดขายบ้านมือสองและดัชนีราคาบ้านประจำเดือน"
+    },
+    {
+      "category": "Geopolitics",
+      "impact": "low",
+      "key_numbers": [],
+      "rank": 8,
+      "sectors": [
+        "Tech",
+        "Industrials"
+      ],
+      "sentiment": "neutral",
+      "source_name": "Financial Times Companies",
+      "summary_th": "สหราชอาณาจักรและพันธมิตรเร่งยกระดับมาตรการความปลอดภัยทางไซเบอร์ในระบบห่วงโซ่อุปทานและโครงสร้างพื้นฐาน หลังพบความเชื่อมโยงกับการโจมตีทางไซเบอร์ที่เกี่ยวข้องกับอิหร่าน เหตุการณ์นี้ทำให้ภาคธุรกิจและอุตสาหกรรมเทคโนโลยีต้องเพิ่มงบประมาณด้านความปลอดภัยของระบบโครงข่าย",
+      "tickers": [],
+      "time_horizon": "long-term",
+      "title_th": "พันธมิตรตะวันตกยกระดับความปลอดภัยห่วงโซ่อุปทานหลังการโจมตีทางไซเบอร์",
+      "url": "https://www.ft.com/content/3d46e4cb-4dee-4f49-adc1-0bb0f63d4c49?syn-25a6b1a6=1",
+      "watch_next": "ติดตามแนวปฏิบัติใหม่ด้านความปลอดภัยไซเบอร์สำหรับบริษัทคู่สัญญาภาครัฐ"
+    },
+    {
+      "category": "Sector-specific",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 9,
+      "sectors": [
+        "Tech",
+        "Financials",
+        "Energy"
+      ],
+      "sentiment": "neutral",
+      "source_name": "ZeroHedge",
+      "summary_th": "Gold: From DC's \"Enemy\" To Its Last Hope? Authored by Matthew Piepenburg via VonGreyerz.gold, As headlines from the Iranian “conflict” continue to leave the world guessing as to what, if any, military, political and financial solutions lie ahead, we can at least know this much: The approaching autumn looks a bit scary . A Market Fall in the Fall? The macro setting for our collective transition from summer to fall in",
+      "tickers": [],
+      "time_horizon": "immediate",
+      "title_th": "Gold: From DC's \"Enemy\" To Its Last Hope?",
+      "url": "https://www.zerohedge.com/precious-metals/gold-dcs-enemy-its-last-hope",
+      "watch_next": "ติดตามความคืบหน้าและผลกระทบที่ยืนยันได้จากข้อมูลรอบถัดไป"
+    },
+    {
+      "category": "Sector-specific",
+      "impact": "low",
+      "key_numbers": [],
+      "rank": 10,
+      "sectors": [
+        "Energy"
+      ],
+      "sentiment": "neutral",
+      "source_name": "WSJ Markets (Google News)",
+      "summary_th": "Oil Snaps Winning Streak As U.S. Widens Iran Sanctions WSJ Oil Snaps Winning Streak As U.S. Widens Iran Sanctions WSJ",
+      "tickers": [],
+      "time_horizon": "immediate",
+      "title_th": "Oil Snaps Winning Streak As U.S. Widens Iran Sanctions - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbnFqT3hpUmxhWm9CZ1o0RVlfRUw5NVBxYmItMXg3QTJrQllqMXhjVG9UdXQ4UXRWVjItMDV3N19RTy02dk1HT2VRMXY3dG0zUGd6NnlFOV82ak5nSTFxaXZGeHFib1FYVmhDeWhqWk1VbzAyY0M2c3BuRkV2OTBtTEVrUkN4cUVDNm0wakJDRHlpTHhFaV81UTdWX2UyaTVnSUwwTXhINEp2NmxoMlJWWFhNVWxRQzBadlFrX25qcDVlWnBlZmp5UXZuYWRLYmZtdEJDSA?oc=5",
+      "watch_next": "ติดตามความคืบหน้าและผลกระทบที่ยืนยันได้จากข้อมูลรอบถัดไป"
+    }
+  ],
+  "model_used": "google/gemini-3.7-flash"
+}
