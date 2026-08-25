@@ -1,5 +1,172 @@
 [
   {
+    "date": "2026-08-25",
+    "top_buy": [
+      {
+        "symbol": "DELTA",
+        "buy_value": 2087220052.0,
+        "sell_value": 1101713700.0,
+        "net_value": 985506352.0,
+        "total_value": 3188933752.0,
+        "percent_of_underlying": 30.219334580225595
+      },
+      {
+        "symbol": "BDMS",
+        "buy_value": 582558920.0,
+        "sell_value": 352698390.0,
+        "net_value": 229860530.0,
+        "total_value": 935257310.0,
+        "percent_of_underlying": 19.19288131504734
+      },
+      {
+        "symbol": "CBG",
+        "buy_value": 186390800.0,
+        "sell_value": 43689825.0,
+        "net_value": 142700975.0,
+        "total_value": 230080625.0,
+        "percent_of_underlying": 22.504485556631206
+      },
+      {
+        "symbol": "BCP",
+        "buy_value": 329236775.0,
+        "sell_value": 203034200.5,
+        "net_value": 126202574.5,
+        "total_value": 532270975.5,
+        "percent_of_underlying": 18.598862988425005
+      },
+      {
+        "symbol": "BBL",
+        "buy_value": 491221657.0,
+        "sell_value": 367695550.0,
+        "net_value": 123526107.0,
+        "total_value": 858917207.0,
+        "percent_of_underlying": 33.31894157680051
+      },
+      {
+        "symbol": "SCB",
+        "buy_value": 532970000.0,
+        "sell_value": 427087482.0,
+        "net_value": 105882518.0,
+        "total_value": 960057482.0,
+        "percent_of_underlying": 30.344419486484302
+      },
+      {
+        "symbol": "SCGP",
+        "buy_value": 168645175.0,
+        "sell_value": 75361525.0,
+        "net_value": 93283650.0,
+        "total_value": 244006700.0,
+        "percent_of_underlying": 24.125787746766008
+      },
+      {
+        "symbol": "BH",
+        "buy_value": 381775755.0,
+        "sell_value": 288975400.0,
+        "net_value": 92800355.0,
+        "total_value": 670751155.0,
+        "percent_of_underlying": 29.802337217401828
+      },
+      {
+        "symbol": "TISCO",
+        "buy_value": 97436950.0,
+        "sell_value": 51975900.0,
+        "net_value": 45461050.0,
+        "total_value": 149412850.0,
+        "percent_of_underlying": 25.122236069537724
+      },
+      {
+        "symbol": "STECON",
+        "buy_value": 65163770.0,
+        "sell_value": 20317380.0,
+        "net_value": 44846390.0,
+        "total_value": 85481150.0,
+        "percent_of_underlying": 13.329545668410988
+      }
+    ],
+    "top_sell": [
+      {
+        "symbol": "TTB",
+        "buy_value": 737765032.12,
+        "sell_value": 1708279219.1,
+        "net_value": -970514186.9799999,
+        "total_value": 2446044251.22,
+        "percent_of_underlying": 29.52457060165477
+      },
+      {
+        "symbol": "KBANK",
+        "buy_value": 529682585.0,
+        "sell_value": 975390000.0,
+        "net_value": -445707415.0,
+        "total_value": 1505072585.0,
+        "percent_of_underlying": 30.691257553723855
+      },
+      {
+        "symbol": "GULF",
+        "buy_value": 201581263.5,
+        "sell_value": 551989700.0,
+        "net_value": -350408436.5,
+        "total_value": 753570963.5,
+        "percent_of_underlying": 18.33844293124083
+      },
+      {
+        "symbol": "KKP",
+        "buy_value": 115775900.0,
+        "sell_value": 443110400.0,
+        "net_value": -327334500.0,
+        "total_value": 558886300.0,
+        "percent_of_underlying": 34.22494461402928
+      },
+      {
+        "symbol": "PTT",
+        "buy_value": 663064575.0,
+        "sell_value": 987672241.0,
+        "net_value": -324607666.0,
+        "total_value": 1650736816.0,
+        "percent_of_underlying": 41.823891846248465
+      },
+      {
+        "symbol": "AOT",
+        "buy_value": 277662475.0,
+        "sell_value": 573766175.0,
+        "net_value": -296103700.0,
+        "total_value": 851428650.0,
+        "percent_of_underlying": 27.83416080657838
+      },
+      {
+        "symbol": "PTTGC",
+        "buy_value": 416340317.25,
+        "sell_value": 653265700.0,
+        "net_value": -236925382.75,
+        "total_value": 1069606017.25,
+        "percent_of_underlying": 30.264136229998
+      },
+      {
+        "symbol": "SCC",
+        "buy_value": 131696900.0,
+        "sell_value": 349830000.0,
+        "net_value": -218133100.0,
+        "total_value": 481526900.0,
+        "percent_of_underlying": 34.510368041852686
+      },
+      {
+        "symbol": "HANA",
+        "buy_value": 118036175.0,
+        "sell_value": 330726300.0,
+        "net_value": -212690125.0,
+        "total_value": 448762475.0,
+        "percent_of_underlying": 27.8998814656983
+      },
+      {
+        "symbol": "TRUE",
+        "buy_value": 737391788.3,
+        "sell_value": 813860660.0,
+        "net_value": -76468871.70000005,
+        "total_value": 1551252448.3,
+        "percent_of_underlying": 45.33414806045504
+      }
+    ]
+  },
+  {
     "date": "2026-08-24",
     "top_buy": [
       {
@@ -4839,173 +5006,6 @@
         "net_value": -107370037.0,
         "total_value": 222620413.0,
         "percent_of_underlying": 15.627694387169816
-      }
-    ]
-  },
-  {
-    "date": "2026-07-14",
-    "top_buy": [
-      {
-        "symbol": "PTT",
-        "buy_value": 2099036350.0,
-        "sell_value": 1617978675.0,
-        "net_value": 481057675.0,
-        "total_value": 3717015025.0,
-        "percent_of_underlying": 37.95677584412153
-      },
-      {
-        "symbol": "SCC",
-        "buy_value": 1060483500.0,
-        "sell_value": 663576761.0,
-        "net_value": 396906739.0,
-        "total_value": 1724060261.0,
-        "percent_of_underlying": 38.10895019494648
-      },
-      {
-        "symbol": "KBANK",
-        "buy_value": 1438391000.0,
-        "sell_value": 1082451080.0,
-        "net_value": 355939920.0,
-        "total_value": 2520842080.0,
-        "percent_of_underlying": 33.483397861733785
-      },
-      {
-        "symbol": "ADVANC",
-        "buy_value": 801136700.0,
-        "sell_value": 517875280.0,
-        "net_value": 283261420.0,
-        "total_value": 1319011980.0,
-        "percent_of_underlying": 40.95042145340794
-      },
-      {
-        "symbol": "SCB",
-        "buy_value": 1800297600.0,
-        "sell_value": 1587156450.0,
-        "net_value": 213141150.0,
-        "total_value": 3387454050.0,
-        "percent_of_underlying": 30.475929190076084
-      },
-      {
-        "symbol": "GULF",
-        "buy_value": 600079450.0,
-        "sell_value": 440099125.0,
-        "net_value": 159980325.0,
-        "total_value": 1040178575.0,
-        "percent_of_underlying": 26.40481557500098
-      },
-      {
-        "symbol": "KTC",
-        "buy_value": 288904900.0,
-        "sell_value": 142210625.0,
-        "net_value": 146694275.0,
-        "total_value": 431115525.0,
-        "percent_of_underlying": 33.34090207455975
-      },
-      {
-        "symbol": "SAWAD",
-        "buy_value": 225740275.0,
-        "sell_value": 85123310.0,
-        "net_value": 140616965.0,
-        "total_value": 310863585.0,
-        "percent_of_underlying": 26.06878881581936
-      },
-      {
-        "symbol": "BTS",
-        "buy_value": 219320046.96,
-        "sell_value": 81897188.0,
-        "net_value": 137422858.96,
-        "total_value": 301217234.96000004,
-        "percent_of_underlying": 21.941426576680456
-      },
-      {
-        "symbol": "KKP",
-        "buy_value": 375598950.0,
-        "sell_value": 242150349.5,
-        "net_value": 133448600.5,
-        "total_value": 617749299.5,
-        "percent_of_underlying": 34.4088310210387
-      }
-    ],
-    "top_sell": [
-      {
-        "symbol": "KTB",
-        "buy_value": 1046851950.0,
-        "sell_value": 1860732850.0,
-        "net_value": -813880900.0,
-        "total_value": 2907584800.0,
-        "percent_of_underlying": 37.64818254050368
-      },
-      {
-        "symbol": "PTTEP",
-        "buy_value": 707394141.5,
-        "sell_value": 1371988969.0,
-        "net_value": -664594827.5,
-        "total_value": 2079383110.5,
-        "percent_of_underlying": 30.739172322394968
-      },
-      {
-        "symbol": "GUNKUL",
-        "buy_value": 55224188.0,
-        "sell_value": 270066140.0,
-        "net_value": -214841952.0,
-        "total_value": 325290328.0,
-        "percent_of_underlying": 24.868107116049615
-      },
-      {
-        "symbol": "TRUE",
-        "buy_value": 604580943.6,
-        "sell_value": 780678790.0,
-        "net_value": -176097846.39999998,
-        "total_value": 1385259733.6,
-        "percent_of_underlying": 46.31695163447747
-      },
-      {
-        "symbol": "STECON",
-        "buy_value": 19664330.0,
-        "sell_value": 150958750.0,
-        "net_value": -131294420.0,
-        "total_value": 170623080.0,
-        "percent_of_underlying": 18.95222218638054
-      },
-      {
-        "symbol": "CK",
-        "buy_value": 18303040.0,
-        "sell_value": 118298590.0,
-        "net_value": -99995550.0,
-        "total_value": 136601630.0,
-        "percent_of_underlying": 35.2502647219423
-      },
-      {
-        "symbol": "WHA",
-        "buy_value": 100115362.0,
-        "sell_value": 193462810.0,
-        "net_value": -93347448.0,
-        "total_value": 293578172.0,
-        "percent_of_underlying": 23.832307929317285
-      },
-      {
-        "symbol": "BBL",
-        "buy_value": 1030903723.0,
-        "sell_value": 1111133588.0,
-        "net_value": -80229865.0,
-        "total_value": 2142037311.0,
-        "percent_of_underlying": 34.95185581576104
-      },
-      {
-        "symbol": "CPF",
-        "buy_value": 197096130.0,
-        "sell_value": 264233490.0,
-        "net_value": -67137360.0,
-        "total_value": 461329620.0,
-        "percent_of_underlying": 34.63270526424303
-      },
-      {
-        "symbol": "SGC",
-        "buy_value": 9264711.0,
-        "sell_value": 76026914.0,
-        "net_value": -66762203.0,
-        "total_value": 85291625.0,
-        "percent_of_underlying": 20.148037595041284
       }
     ]
   }
