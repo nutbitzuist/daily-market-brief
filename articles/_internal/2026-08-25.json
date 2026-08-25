@@ -1,0 +1,219 @@
+{
+  "articles": [
+    {
+      "published": "2026-08-25T21:06:20+00:00",
+      "publisher": "NVIDIA Developer",
+      "source": "NVIDIA AI",
+      "title": "Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo - NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYlhpQmFPeVVKMXNNTDY3MnkxdjlFd3hiT2I0TVFUMFdUYlJybWhPMFVTQ2xvRkNhc3RLc2dXT1M5VkhvVkhDZm5xSml5MWVqMkxQWXJpOUdlbmxKWE55NG9BOFViWjNvM2hBOFZJNWtVcm1qVnJzcGhQdVJ3V0docHNRaFQyWVhyaVdTOTFySml3UzFSaHI3Y1RRQ3RCajhrOC1lamhUTnRLTlpZVWh4NFcxVC1EVThpbEswMnZR?oc=5"
+    },
+    {
+      "published": "2026-08-25T17:50:33+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
+    },
+    {
+      "published": "2026-08-25T07:24:05+00:00",
+      "publisher": "NVIDIA Investor Relations",
+      "source": "NVIDIA AI",
+      "title": "SpaceXAI Adopts NVIDIA Vera CPU to Accelerate Agentic AI at Massive Scale - NVIDIA Investor Relations",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOF82cHRHekEzZzhGc3FGZ3pBOVhpa3FYMGhad291NjlDU0Y1M1hRS3p3RmVFaWxPdmhZQzZpV3k4Q3BYUUZ3T1hEUWRwNEJuQWxPVDVkZm5DRXlWc1dWV3VUTWFmY0JaMFRhczNNNjlpeUdmd1RBOVpPSHZVWllSQWZPNHVnV0JwV01SQlVEOThKOUc2QncwcWhXWktyTWR1Wk1NYXAwQ1ZKaF9zSEZFOGtOZVNQLUNOU2d4eTg2OVdIaGZiLTBiUURGZTFkeGZTRGQ1QUhmQzNveWxZbEk0?oc=5"
+    },
+    {
+      "published": "2026-08-25T14:00:38+00:00",
+      "publisher": "SemiAnalysis",
+      "source": "AMD / TSMC AI",
+      "title": "OpenAI Jalapeño: Better Than Nvidia Blackwell - SemiAnalysis",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wUWNzQzNua3BlcVlyRkQ3cVAza2pXdjNZLWZVVWFyakZqWmhXVnlYYXFvbzA5d2VmNVpyeTdlY29SSEFJZ3VQWVl1YmtGcERjS01MR1ljM1ZiN3d0UWFhVDNsQUZLUmIyaUNlT1Vya3N6SV8wZjRrMzhLR2c?oc=5"
+    },
+    {
+      "published": "2026-08-25T10:35:54+00:00",
+      "publisher": "Wccftech",
+      "source": "AMD / TSMC AI",
+      "title": "NVIDIA’s CoWoS AI Chip Packaging Demand To Be Foreshadowed In 2027 By AMD Due To Agentic AI CPU Ramp, Says Morgan Stanley - Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUTluSUNGZXpmQVY2cHlzMkR0ckZIeUIwdHl0Um12QzdraHFsV2MxR0lZQjJQdi1PcTZmeExyTUdCZ3A5cHl2YklzQWRvWFZiaVV6SXhySW5WSTNjeEptMFJqRjZVS3g5cFdCWnpJZmIxTlZOcmhWTzEyOWVvejZBTmVHZHFEb2NlSVVNWGFjdUY4QWxpNHo2ZGRoOFExWVdUZmNXemZVWG1yMExibjJYMmZCT1Q2UVA0MnNtOXFGdGp3SG1IdUI2ZGctZUxnWU9xYnFydTlfMXLSAd4BQVVfeXFMTkNvb0JkWlVxZ1dUSTdPdXlMRjlhS3Z1RUJjOUxKd19oNDRVYnh2YUhyTGctd2NHcUcteDdlZVJnMFVKVmN6V292S0llemkxYTFMUDdkcWNGZy1YRkx6VjRfM0Zsd3FOX3RxampzNld0QkVTZVlxdEE0cTZHWExWWXhwUVN5ZWtwVXVraW5mUk52OGxSTHRzcU1xbTFXSHJXVmdxYkV4T3U2M1FQYm8wUXYxYU1kVXhITFlPaWlBMjFBRUVCV3M2aWE4UmM2YW4zRElwXzBub3hTcHBFZ01B?oc=5"
+    },
+    {
+      "published": "2026-08-25T16:19:39+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS0xINWRaSDFhQkxzcWtKd3Q4ZmNhUndScGdaQWl4U0J6dURXY1J0UmJ6aE96ajBIdzZHa3hGWUE2dktKYjJkdE44N05YZ1E3MmR1WXJ5Wm1xTWNFQW5oUHl0bEZXZklvd1RhaFFTSFBmcXFNX3pFYWRkLXpIQ1FleW4xdlhmTXcwdUlCQUZkUFpYWl9mSnA2cTFGWGtsT1Jad1RsaGRVYTdyREpiSUtXemx4djJHNkhrS1lUMw?oc=5"
+    },
+    {
+      "published": "2026-08-25T17:50:42+00:00",
+      "publisher": "blog.google",
+      "source": "Google AI Blog",
+      "title": "Start the academic year with one year of Gemini, on us - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON1JsSFlCN2t3dnVTS3VXdmhTODZnaUlKQ04tMDV0YS02NEZnM0Z3S1V5QU5GMkRudmJUUmtGZlhXaXo2d1IzRFFjNEtDMEhXSHpwTXJocm8wTVpIMm9LNnQtV3BBX2FrU2VxSElWaHplbElCTi1nenBVMll5R2FtcG1zN1Uzd1dlQ0ZmQVB0c1RsQUZVWU9najd3?oc=5"
+    },
+    {
+      "published": "2026-08-25T15:33:58+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "Google expands Gemini Enterprise AI platform for law firms, lawyers - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZk81aGh3d2lJX0FucWpwclltdnRJd3RqNVpTWnhMeGNBU3FUeWRIby1lcEpQQ3NOT1VaWjRlU19vT1lmVzdMTEpjbm16eTh4MTdvbGRtN1ZQb243eVZ2aF9Sd19PMEtzd2ZpbGV2R0p5SzZRTGJLNkE4TGNZUmtxVnlvVGx1NlVYQkIwMmEwRnV6RGxEQ1BvTGIzNGE?oc=5"
+    },
+    {
+      "published": "2026-08-25T13:00:00+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Accel-backed Keenable is indexing the web for AI agents",
+      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/"
+    },
+    {
+      "published": "2026-08-25T13:00:00+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "AI Security Startup Working With Anthropic and Google Raises $140 Million - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa3ZQWHh3TzAxM0Y4QWRYUjlwWUp4aHEzcXRDbEQ5dXo4V2RoX1Vud3E0SzFQeVM2V1o0SHJyeUx3bmVNeDNrTWg3N244cG1wSno4OUIzWXR4NFZOZzVHMWVLMHVIa3hVRVFqN2FkNXFyV3VWb0dDenhiZGZNblRUWHJtNy1sN1p3czc0U3lHTVFqMEVEZURENTFGbGFrdEVUTHNhY1NlckJQUFNZTzJnR3lhWTVfX1Vrbkl5X3hR?oc=5"
+    },
+    {
+      "published": "2026-08-25T16:52:30+00:00",
+      "publisher": "24/7 Wall St.",
+      "source": "Microsoft AI",
+      "title": "Microsoft MAI-Image-2.6-Preview takes the top image editing rank - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tTFZWcDRXd3V2bXFuc18xMVI1V3NjclhKajNPQWNkZWFScnF2YVpvQzRsTDJPR0lZdU5JNHBBUy1Ya1ZwZ3hCZWJ0TElHZ0RieFlwQ3Q1OFRiSVVXWjI3cGh6SXBRUVhWM1k4RUFyV2o4cUE?oc=5"
+    },
+    {
+      "published": "2026-08-25T15:24:49+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "Apple launches faster Mac mini, Mac Studio to tap AI boom - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeVVUY3ROUk9aNVQyaWVSYzhTUGNkeWEzZlk5ZmJaUmd1U3NtdHlIQVdUWDNFOXhmcm9rV0FNRzBTWERJdlpKS2QtSGJEdF8zbWgwSk03cy1iUVRHcDZtVG52cDY0RXRmZXdaNGNaVXVaOHUzSGEweFJlRW5QOTRGTG1WWjJ6ZHc4VWxJX1BmaENzRFBSTE5Ldm80TkNMQjVZSHRwbGR3eE1mNHM0eGVJbi1xaFE?oc=5"
+    },
+    {
+      "published": "2026-08-25T18:00:06+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "AI to fuel global growth as investment spreads beyond US, IMF says - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYjVqYlJmblRVS253SzJoQklaZ3Q2bkNIaC1vWC1paFBTVThOcG55NTZzZmhBZjBxU2dhUUxMTFdjTnlyRTJZbG1JRGt0bENqZFVpeEJjaW5BdXQ4dFBKbnBXUGFocWk5MkZveDBEWVl1dmx3anZKTjRMdFUtVml4cW80V0M?oc=5"
+    },
+    {
+      "published": "2026-08-25T16:58:53+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Ud3o3eDFJQXVmUVdVVTVkNUh2YXYxUkpRaGNHTHpoOUM5d1pSVkZEeHZrX2FtTXlRS29EYVNvR2J5NktIdHZYZGhCV3YxWTIzMDEzLXd0amJPTnZEbGZjU25IUnFac0ZfR2lRY1FpQ01ZcjNCaFdPOTFn?oc=5"
+    },
+    {
+      "published": "2026-08-25T18:52:53+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "Dreame’s dream of a rocket-powered car is dead - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JbjVnUnNZSVlNNVNDdTYzLUFObVdGc2dIODFhUElpX2liRWgzSDl1Qzk3RUt6TnVpOC1JZGtnNjNlUHJ1VlQya2J4XzVMY05sRzdNdDc2a0Nfb3poYTQ1aEdCV2hqSnRqUzFCVXJOQ0ZiT3EwNWgxS2tGZFdTejQ?oc=5"
+    },
+    {
+      "published": "2026-08-25T04:01:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "Data Centers Are Driving an Alarming Gas Power Expansion in the US - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrX0dEclRHR2R4TWNEUzdyN0EtLVNQeWZyMFQ5U1FySVBMOVRqRHdUMmFsUzd2NXRaRjZNc29haXBXTG96cjhHOEZLeUk1UWNRMTBmTGZXa2UzUU9kclBXeEhUV19OanhWRzRsTFNuUl81a3ZEb2hvdllB?oc=5"
+    },
+    {
+      "published": "2026-08-25T15:16:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "The Supreme Court’s Mail-In Ballot Ruling Is a Step Toward Chaos in the Midterms - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU0pvM0lkNzRlYWlSblBXSnpwcGpFMDZPalJobXExc0hDVzdJM0Jfay14bU1HaHltYzBCTnhGTERoSFNFeVowNnNFNWRmb3ptMmI4Q2QtYmZnZXI3SHMycVZQeVNNTW9FcVVlc25LaUtrYVFPeUU2NzI5M3ZuUFIwSjlhOWxHVS1aTHdiakxEM0tLdVNEZ3QtQ1NFVTZWVEhRRS1tUjl6QUNXNEVm?oc=5"
+    },
+    {
+      "published": "2026-08-25T18:15:00+00:00",
+      "publisher": "finance.biggo.com",
+      "source": "xAI / Grok",
+      "title": "SpaceX Climbs as JPMorgan Reaffirms $240 Target on Orbital AI Push - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16M1JfWm5tSkZnNEdnbnpxMlR3SndFUzgxcFVWT3RJVEprTjlIZFNCdUFmdDVfdU5Sa2loMElETEVxeXNHU3c5ZVJmZEFpRUJaRDllWFRzVnRDT1J4X2VxWGtYYWtXbXByNzd4b1hac1c2b2RXc0E?oc=5"
+    },
+    {
+      "published": "2026-08-25T14:00:00+00:00",
+      "publisher": "Washington Examiner",
+      "source": "Microsoft AI",
+      "title": "Copilot is the new Internet Explorer: Inside Microsoft’s plan to force AI lock-in - Washington Examiner",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFhlMnJfTVk1QjEzRlU0UklUODNGOTNYd05lMkhpc0lEd2FnMzVsekZtOE9PRlVMbC0wX3dqcmphUUV5dnhxQURSek8yQUJuQzRqSWxIX1RsZDFmRzhZZkdXMkdPVmw0MksxbHloYVJ6NVg2b3o2azJBdUZDcnJjSzdCazFlbFo5M2ZVS1JLMDN0ZXM?oc=5"
+    },
+    {
+      "published": "2026-08-25T14:01:14+00:00",
+      "publisher": "tech-insider.org",
+      "source": "AWS AI",
+      "title": "Westpac Plugs 5 AWS AI Agents Into Core Lending [2026] - tech-insider.org",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xUjRoTWVSZUJLWnpUV0JUMTBuTWptTUZUQ0ZnOUNGaTF3el96MzBiMkxmTEdVU0U5MkdGcXhBQ282VENsd08tanFPVmhXeVhLd1JaZFZ0SlhmRUUwd1Exb2JHdWs1MUxXdnN0aEU5bU1hakRaaFpxSm8xQQ?oc=5"
+    },
+    {
+      "published": "2026-08-25T04:01:29+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "JPMorgan eases approach on lending against shares to court AI’s new wealth - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTVV5dVJIRVg1VnlFaWFvRExFOFAzSDJjYW52QWlLN2xGM2ZCS092VktaM3NTOTBHb3Q1X1JMbEhQeVRFUHh5bkFGVWtpaTZ4NXZvMU1uQ1F4TlBlWnUwQ0thZWhDdmpvbmIyLU04X2pFX1VIWFY4aVZqa3dnUkk4dExhcG4?oc=5"
+    },
+    {
+      "published": "2026-08-25T15:14:14+00:00",
+      "publisher": "Hugging Face Blog",
+      "source": "Hugging Face Blog",
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2"
+    },
+    {
+      "published": "2026-08-25T07:04:55+00:00",
+      "publisher": "TradingKey",
+      "source": "Oracle / Datacenter AI",
+      "title": "Bloom Energy: In the AI Era, the Most Expensive Thing Isn't Power, But Waiting for It - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUmtjZkF5TENJQ2hFQ0Vfbm5hX2I4cmp3T2FTMEVraF9WS1c5Y0Y3SHdQMENMaUpMOHN6TmRpbXQwVTd3YlJrbVZLVFRzMGdmZ1ZiSTMzeEhRZkFCQktLbnlIVzZBTmxvbWRZSm9NWTh6Mll1RUk4WTNITEFEN3ZrZzFQZ3IzTWozX0FfUUdVbUY2bG41MTdYVFowMTNSNEx6RVhPT095ODFqd0dxMDJTNUtYVzBMUjBKcHJuakFNbFM1bVFp?oc=5"
+    },
+    {
+      "published": "2026-08-25T21:00:00+00:00",
+      "publisher": "MIT Technology Review",
+      "source": "MIT Tech Review AI",
+      "title": "Humans aren’t electronics - MIT Technology Review",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTFNaZWRyQ2VsXzRuZDgyM1pBWTNtLUQ5TmhTTENsQzVja3psQ0xHSUdiOE5ralluekxsRXljNEVQNmxTcEhDd25TbmloRTktY240eVNoMFktUkE4cVRrQ0lqRl9VY3NQUDlnV0ZZNlkwUVdmZGlwOGRoaWxOQlh4UHFza9IBiAFBVV95cUxPZWhzaGhJelpZVW10ZEc0V21KcWxTWHlxNkNfTUtxQXdkZHAxX2FNbi1sREFOQ05EdGpqRlZ0SG1xR2FZNHVpZkg1ZjgzOE9PTENjSXlIOUtCU0tHT3Fyek1kbjFwZ2tzdTRkeTMyTzRNTUhjbGtUaUdCSXZWMzhmYmZwQTdpbVhk?oc=5"
+    },
+    {
+      "published": "2026-08-25T21:00:00+00:00",
+      "publisher": "MIT Technology Review",
+      "source": "MIT Tech Review AI",
+      "title": "Your brain on AI - MIT Technology Review",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JUHEydzhiS2R2QUpEbjVjX3p3RU1semJfUS1qVXhZM3NncGdhMnlWZVl2WURNYmg5bmFpSXVjMmNTWUhfV2NETkxDT0kwUmtXWlN6Y1RlalJQc1d6blR5V0ltSnRReUNDa0RBSnkwdmpQUlMzZXd4SNIBfkFVX3lxTE83d01WUWRpSDhmTlBnUGdTd0h6eDU2UHFzYnNZUmtPS21yWDZtUFNUVWRmNU1ndUtuS3JmemxYaUdULXB6VEI5b0VlY01vYXpCNG02elJnRV9EazhvN1gwVTE4amZYZVIyT2c5TTZ2Zkl2ZTBFM3Fic21tekFSZw?oc=5"
+    }
+  ],
+  "date": "2026-08-25",
+  "generated_at_utc": "2026-08-25T21:08:12Z",
+  "items": [
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "Anthropic ผสานระบบหน่วยความจำระหว่างแชทและ Claude Cowork ให้ AI จดจำข้อมูลจากพื้นที่หนึ่งไปใช้อีกพื้นที่ได้ต่อเนื่อง ผู้ใช้สามารถอ่าน แก้ไข หรือลบข้อมูลที่บันทึกได้ และระบบอัปเดตหน่วยความจำแบบเรียลไทม์ขณะสนทนา",
+      "title_th": "Anthropic รวมระบบหน่วยความจำ Claude Chat และ Cowork",
+      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "why_it_matters": "ทำให้ตัวแทน AI ใช้งานต่อเนื่องเหมือนผู้ช่วยตัวเดียว ลดการป้อนข้อมูลซ้ำและเพิ่มประสิทธิภาพงานจริงจัง"
+    },
+    {
+      "source": "Bloomberg Tech",
+      "summary_th": "OpenAI ประกาศชิป AI ภายในที่ผ่านการทดสอบแล้วเร็วกว่าโปรเซสเซอร์ Nvidia ในบางงาน ชิปนี้เป็นส่วนหนึ่งของกลยุทธ์ลดการพึ่งพาผู้ผลิตภายนอก",
+      "title_th": "OpenAI เปิดตัวชิปใหม่อ้างประสิทธิภาพเหนือ Nvidia",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa3ZQWHh3TzAxM0Y4QWRYUjlwWUp4aHEzcXRDbEQ5dXo4V2RoX1Vud3E0SzFQeVM2V1o0SHJyeUx3bmVNeDNrTWg3N244cG1wSno4OUIzWXR4NFZOZzVHMWVLMHVIa3hVRVFqN2FkNXFyV3VWb0dDenhiZGZNblRUWHJtNy1sN1p3czc0U3lHTVFqMEVEZURENTFGbGFrdEVUTHNhY1NlckJQUFNZTzJnR3lhWTVfX1Vrbkl5X3hR?oc=5",
+      "why_it_matters": "สัญญาณชัดเจนว่าแล็บชั้นนำเริ่มพัฒนาชิปเอง ส่งผลต่อห่วงโซ่อุปทานชิป AI ทั่วโลก"
+    },
+    {
+      "source": "Hugging Face Blog",
+      "summary_th": "IBM เปิดตัวตระกูลโมเดล Granite 4.2 ขนาด 3B-30B ที่ผ่านการฝึกด้วย RL แบบหลายขั้นตอนและรองรับ agentic tool calling ทุกโมเดลเผยแพร่ภายใต้ Apache 2.0 พร้อมโหมดคิดและไม่คิด",
+      "title_th": "IBM ปล่อย Granite 4.2 โมเดลโอเพนซอร์สเน้นการใช้เหตุผล",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "why_it_matters": "เสริมความแข็งแกร่งให้ชุมชนโอเพนซอร์สด้วยโมเดล reasoning ขนาดกลางที่พร้อมใช้งานจริง"
+    },
+    {
+      "source": "AMD / TSMC AI",
+      "summary_th": "นักวิเคราะห์ชี้ AMD กำลังเร่งผลิตชิป agentic AI CPU ที่ต้องใช้แพ็กเกจจิ้ง CoWoS ส่งผลให้ดีมานด์แพ็กเกจจิ้งของ Nvidia อาจถูกแย่งในปีหน้า",
+      "title_th": "Morgan Stanley คาด AMD จะแย่งดีมานด์ CoWoS จาก Nvidia ปี 2027",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUTluSUNGZXpmQVY2cHlzMkR0ckZIeUIwdHl0Um12QzdraHFsV2MxR0lZQjJQdi1PcTZmeExyTUdCZ3A5cHl2YklzQWRvWFZiaVV6SXhySW5WSTNjeEptMFJqRjZVS3g5cFdCWnpJZmIxTlZOcmhWTzEyOWVvejZBTmVHZHFEb2NlSVVNWGFjdUY4QWxpNHo2ZGRoOFExWVdUZmNXemZVWG1yMExibjJYMmZCT1Q2UVA0MnNtOXFGdGp3SG1IdUI2ZGctZUxnWU9xYnFydTlfMXLSAd4BQVVfeXFMTkNvb0JkWlVxZ1dUSTdPdXlMRjlhS3Z1RUJjOUxKd19oNDRVYnh2YUhyTGctd2NHcUcteDdlZVJnMFVKVmN6V292S0llemkxYTFMUDdkcWNGZy1YRkx6VjRfM0Zsd3FOX3RxampzNld0QkVTZVlxdEE0cTZHWExWWXhwUVN5ZWtwVXVraW5mUk52OGxSTHRzcU1xbTFXSHJXVmdxYkV4T3U2M1FQYm8wUXYxYU1kVXhITFlPaWlBMjFBRUVCV3M2aWE4UmM2YW4zRElwXzBub3hTcHBFZ01B?oc=5",
+      "why_it_matters": "ชี้ให้เห็นการแข่งขันแพ็กเกจจิ้งชิป AI ที่รุนแรงขึ้น อาจกระทบต้นทุนและอุปทานของอุตสาหกรรม"
+    },
+    {
+      "source": "Reuters Tech",
+      "summary_th": "Google เปิดตัวฟีเจอร์เฉพาะสำหรับทนายความและบริษัทกฎหมายในแพลตฟอร์ม Gemini Enterprise ช่วยวิเคราะห์เอกสารและงานวิจัยทางกฎหมายได้แม่นยำยิ่งขึ้น",
+      "title_th": "Google ขยาย Gemini Enterprise สำหรับสำนักงานกฎหมาย",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZk81aGh3d2lJX0FucWpwclltdnRJd3RqNVpTWnhMeGNBU3FUeWRIby1lcEpQQ3NOT1VaWjRlU19vT1lmVzdMTEpjbm16eTh4MTdvbGRtN1ZQb243eVZ2aF9Sd19PMEtzd2ZpbGV2R0p5SzZRTGJLNkE4TGNZUmtxVnlvVGx1NlVYQkIwMmEwRnV6RGxEQ1BvTGIzNGE?oc=5",
+      "why_it_matters": "แสดงถึงการเจาะตลาดองค์กรเฉพาะทางของโมเดลขนาดใหญ่ เพิ่มการนำ AI ไปใช้ในอุตสาหกรรมกฎหมาย"
+    }
+  ],
+  "model_used": "x-ai/grok-4.3"
+}
