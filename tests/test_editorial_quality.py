@@ -1,3 +1,4 @@
+import json
 from datetime import datetime, timezone
 
 import pytest
@@ -24,6 +25,31 @@ def test_default_model_chain_is_current_and_synchronous():
         "x-ai/grok-4.3",
     ]
     assert all(":batch" not in model for model in summarizer.DEFAULT_MODELS)
+
+
+def test_direct_openai_model_uses_openai_endpoint(monkeypatch):
+    seen = {}
+
+    class Response:
+        status_code = 200
+
+        @staticmethod
+        def json():
+            return {"choices": [{"message": {"content": "OK"}}]}
+
+    def fake_post(url, headers, data, timeout):
+        seen.update(url=url, headers=headers, payload=json.loads(data), timeout=timeout)
+        return Response()
+
+    monkeypatch.setattr(summarizer.requests, "post", fake_post)
+    monkeypatch.setenv("OPENAI_API_KEY", "test-key")
+    assert summarizer._call_model(
+        "openai:gpt-4.1-mini", [{"role": "user", "content": "hi"}], 25
+    ) == "OK"
+    assert seen["url"] == summarizer.OPENAI_URL
+    assert seen["payload"]["model"] == "gpt-4.1-mini"
+    assert seen["payload"]["max_completion_tokens"] == 25
+    assert "max_tokens" not in seen["payload"]
 
 
 def test_us_scope_penalizes_unrelated_foreign_domestic_story():

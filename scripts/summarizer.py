@@ -13,6 +13,8 @@ import requests
 log = logging.getLogger(__name__)
 
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
+OPENAI_URL = "https://api.openai.com/v1/chat/completions"
+OPENAI_MODEL = os.environ.get("OPENAI_FALLBACK_MODEL", "gpt-4.1-mini").strip()
 
 DEFAULT_MODELS = [
     "google/gemini-3.7-flash",
@@ -24,6 +26,8 @@ MODELS = [
     for model in os.environ.get("OPENROUTER_MODELS", ",".join(DEFAULT_MODELS)).split(",")
     if model.strip()
 ]
+if os.environ.get("OPENAI_API_KEY") and OPENAI_MODEL:
+    MODELS.append(f"openai:{OPENAI_MODEL}")
 
 REPO_URL = os.environ.get("REPO_URL", "https://github.com/USERNAME/REPO")
 
@@ -89,28 +93,40 @@ def _headers() -> dict[str, str]:
     }
 
 
+def _openai_headers() -> dict[str, str]:
+    return {
+        "Authorization": f"Bearer {os.environ.get('OPENAI_API_KEY', '')}",
+        "Content-Type": "application/json",
+    }
+
+
 def _call_model(model: str, messages: list[dict], max_tokens: int = 8000,
                 temperature: float = 0.3) -> str | None:
+    direct_openai = model.startswith("openai:")
+    provider = "OpenAI" if direct_openai else "OpenRouter"
+    provider_model = model.removeprefix("openai:") if direct_openai else model
     payload = {
-        "model": model,
+        "model": provider_model,
         "messages": messages,
         "temperature": temperature,
-        "max_tokens": max_tokens,
     }
+    payload["max_completion_tokens" if direct_openai else "max_tokens"] = max_tokens
+    url = OPENAI_URL if direct_openai else OPENROUTER_URL
+    headers = _openai_headers() if direct_openai else _headers()
     for attempt in range(3):
         try:
-            r = requests.post(OPENROUTER_URL, headers=_headers(),
+            r = requests.post(url, headers=headers,
                               data=json.dumps(payload), timeout=120)
             if r.status_code == 200:
                 data = r.json()
                 return data["choices"][0]["message"]["content"]
-            log.warning("OpenRouter %s → HTTP %s: %s", model, r.status_code, r.text[:300])
+            log.warning("%s %s → HTTP %s: %s", provider, provider_model, r.status_code, r.text[:300])
             if r.status_code in (429, 500, 502, 503, 504):
                 time.sleep(2 ** attempt * 2)
                 continue
             return None
         except requests.RequestException as e:
-            log.warning("OpenRouter request error (%s): %s", model, e)
+            log.warning("%s request error (%s): %s", provider, provider_model, e)
             time.sleep(2 ** attempt)
     return None
 
