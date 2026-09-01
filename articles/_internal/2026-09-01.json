@@ -1,0 +1,219 @@
+{
+  "articles": [
+    {
+      "published": "2026-09-01T17:02:52+00:00",
+      "publisher": "blog.google",
+      "source": "Google AI Blog",
+      "title": "Introducing agentic video understanding with Gemini - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYnNBZEhrNTRRREhoaG5BSGhQMUM2dUU4WWpHQ1gyZTdWQUZMNVlqZk5jV0lMTEl5Ujduby1XOHhTZjB6aXNLQlkxeWdzcDhRUkVQQnRTbzVPalZfYUwzNUF2VGpCTWZHV3lYUWg2cWVrejhhN1NTeDNBV1Zza2lVeERqeFFWQmFkRG5uLWxyY2MwVHFvdDRKa2tyUl9Kb19Oa2Y3UUhMUkdXWW4y?oc=5"
+    },
+    {
+      "published": "2026-09-01T17:27:20+00:00",
+      "publisher": "NVIDIA Developer",
+      "source": "NVIDIA AI",
+      "title": "Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron - NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYUlvQ0hSbzJEQnFkTjFBTGFOMVRUSVY0TVhnZXE3WXRkMDUtU3VkcjJaSnhGTlZ1NUZ1b0JyT01VVUhtMFpUOFZ2dWVlNGJEQ0hYcENQVm1WWmpqTUtkbDh3c0hrNDZTUnZLcVM5b3RhQWtyZWtsQVR6TEE4MXZYMXdOV3ZsclNpaWVrSFRkSkxsT2paT1FOV1ZlZmlnVThXZG5yc1VKT2Q?oc=5"
+    },
+    {
+      "published": "2026-09-01T21:06:24+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Open AI’s Astra model is on the way—and very good at breaking into computer systems",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/"
+    },
+    {
+      "published": "2026-09-01T17:00:00+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/"
+    },
+    {
+      "published": "2026-09-01T18:51:08+00:00",
+      "publisher": "NVIDIA Docs",
+      "source": "NVIDIA AI",
+      "title": "Building Triton Inference Server for RHEL / manylinux - NVIDIA Docs",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb3RBX3kyNzlrZHFLcElkZTlIejFmUF9yemZtdk9VOFZmdzA2eDUybGo1bkhXSlVvTTNwNjNNZG5uSGtXQm1HNVNKX2lIMkoxZUJHNkRmeVhxeW16NjRXU0Rqc1YzVnlIOUFIc1lHLXE0Y09LZWVWQ3N4ajRHSldpVEw3Sk9WZkZMaEVaOVdGUHppNy05QmJHeW1JTENBblhOQ2Y4Z3ZtcUNYU29fd25fU3JzZktLRW4xQlhUSEJJeW5qbFU?oc=5"
+    },
+    {
+      "published": "2026-09-01T15:39:39+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "US urges hands-off approach to AI regulation at G20 tech meeting - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbmFFcTlLcU1BTjFTOXBjTE80ZGFzSUc5ZUtPREdXX2tDcTJZODd4UTNwekU1M3JFdXlZdUhPcFl6Z0RqcWhjQ3VvLW92cmtZMHlLY0ZmTktxNlUtVXJLRlFfTXhWWXpvbGRBTU1Vb0FEY0dVNWE1Y3VNZTJ5SVhoU19hU0lsU0xmUnpoSkJrMVY5T1ZIaHlzTHRBS2JRTjdRU0U0R0tB?oc=5"
+    },
+    {
+      "published": "2026-09-01T18:01:02+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "Anthropic Says New Fable AI Model Is Cheaper, Better at Coding - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU3g1eFNCNGd1ZlFka19DSDl3Y0pfdDJudFFfaTZzdHkySlB6WDhvMTlPbkVCLXVWMDdqYjNCWGk5UGEwTGZ4MTBNUkFBdTFfVndrbzY0bHN3VzhzWEV2N1RPYml2ZnAyOE5mQ3JPSWdhb0NFWFg3WGdoVnNEZmRlMEEtTTdtWlpuaHdGVk9tUGhoTEx6V2NsUnRlazFkZE1idlBCMmRyam9MWS05aTJDUTdhWUZINVE?oc=5"
+    },
+    {
+      "published": "2026-09-01T16:46:08+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "GoPro has been acquired and is getting into ‘defense, government, robotics and aerospace’ - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ0lLQ0lhSnY1aFJGQXdsVno2TlNzblRac0s1NGp5SS1qZF9zb185M2dUNG0ydC02dXJHRy1CbFNqLTVLV3ZXNTJ2SHgwbXk5REVSWGZHTlhSaXNRRVg2dWtEeE5zSFRMb0RNMlluVUZ4bFVtb1k5YUF4bGdZVmxncVBR?oc=5"
+    },
+    {
+      "published": "2026-08-31T23:09:16+00:00",
+      "publisher": "blog.google",
+      "source": "Google AI Blog",
+      "title": "Pairing Google Antigravity with Gemini 3.7 Flash solves notable multi-agent math and engineering problems. - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNzk5YWdNWFNEcnBlcjlIQVJ5TVBITnRNOGVlZlAtNS0yV000eHdhcWFBLVJmTzhuVHpQSHlNYXVoZ2d1a0Nyd1pzemVSc2lucXI3Nl9tZzd6LWpXaWt4LWdUelM3RVpXZU9zTTV4ZGM2cThKZFJ5cVpmRFUtWVFqNVpBVzFVbVNzUkZOcE9sSE9aRzQ2bEltMkFaTlM0Ynpk?oc=5"
+    },
+    {
+      "published": "2026-09-01T15:20:46+00:00",
+      "publisher": "TechRadar",
+      "source": "xAI / Grok",
+      "title": "Pentagon rolls out ChatGPT and Grok built for 'warfighter needs' - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR085X0Z6UXhGTEpBdXotSkNCM05JYzg2VUxXNmpsWFVMb1RJQjhKLU80QzFONFlHVk5mbFVtQk41ZnR1T0I4eFNWT0xxb3JWOEFCYURnQ0hKbFNHWG9sWUppaUJTN1JjR010SXkzUWR6dHhNazZEQlVURmxoN0ZxNzc4UldVMElmbDlQcENlRkdxSnZHZ3JVZUlHRENXYllyZHc?oc=5"
+    },
+    {
+      "published": "2026-09-01T16:17:54+00:00",
+      "publisher": "Amazon Web Services (AWS)",
+      "source": "AWS AI",
+      "title": "From theory to delivery: How Atos upskilled 400 engineers in agentic AI - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaHhraHplN25xbHhtcWozTFBFX0o3T2c0bVg0clQyTXRlcDROMUtxQkhEeUpwY3hwNVdPMnc1cm5WNUVZUHNDbS1CRk5mRWMtSGE5eDJrclpuam9OcnA2Nkw2T3c3MzZ2ZUJRdktmYzBRTnlEaGF3dWp1UTJsV2xaYmloX0pfeS1tcTFYRGZiT08tX1hSVXYzWnJCVGdZWnlUQ1ZiNTdLanBoajFXU2xJaTR1MEVPeDQ3?oc=5"
+    },
+    {
+      "published": "2026-09-01T16:16:29+00:00",
+      "publisher": "Microsoft Azure",
+      "source": "Microsoft AI",
+      "title": "Introducing Azure Multicloud Interconnect for AWS - Microsoft Azure",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQWl1SVNnd0Y2UW9uUjdEYWRqcFlsVDZ3OUlfVDVUTWc1UkpiNnN2d3FHRF9pMDd1SzI2dzhIeHZHczg3WXRHZjgzUG8yMlNPVmEybDJ1dno5UU9YVEszWEF5MnNwVFRNUkxfaTZub3dYY0Y1UFljaklmTC0yaWNMakxYYmFJRjBFUjNjbmt0QnN3cEk?oc=5"
+    },
+    {
+      "published": "2026-09-01T19:19:00+00:00",
+      "publisher": "Proactive financial news",
+      "source": "Microsoft AI",
+      "title": "Microsoft's AI strategy accelerates cloud growth and efficiency: analysts - Proactive financial news",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSVFRYllvRnFsYWVoX2RBcmVXNkRSWGQ1TTNhTW5DX0R5VFJtM243UjF2SEd5eEVIamtXSHdEMnhmOUoxckhGbHhFMlBoTjdfZVltdW85UDh3SUNXVmdGWUJBckZ4ellrYTBQeV92aGtUMnpoRDBGaU9saVkyZHkwNFlqa29XOFFEdThFVndRcnlxNFg0TU1mM0tUUWtQNmhYLUJ6c0piSmN0aFYzbFo1U2ZCcms4MHFIZUtLUnJtR19XVGZzc2xqTDBPVmlHMWNBUUh0X3NQNlFmalU?oc=5"
+    },
+    {
+      "published": "2026-09-01T20:36:36+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "Dell again lifts forecasts as AI demand powers record results - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUU1OMGo5VlZVaWotQl9vRjdzaHMyZ2tyRjdyMVpDMEFlcFhjNk5TWHZybTJGLUJENDRBR0QzZHVJSjU0LW5vMk1qNERCLTZyZnpJTUd3b0g4dmg0NHVZaXNaSFVTeU9LcGFQYkpucExVaWpFXzNOMjdXVUVJcXAyUUpib3VFODU0aVFnLTU0UXdHX3BXNjd2U2VKODI5dlNpdGRwVGFn?oc=5"
+    },
+    {
+      "published": "2026-09-01T19:28:21+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "Bond Traders Snap Up Protection Against Soaring Treasury Yields - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOGp3eEN6bklNel9FMUlEanU0dWphbjBSczFNbUZ6QkFaUF9Jbm80dlFZSERGSnlIVUlySWJfT29MclhMbzZjSkdmdFFYMGZCMk5WVG9pazhIT2QxRmp6YllwamJGVTZ6dlpUa2h3Ukl5TjZ1NHk5WHMtVGxKeF8tVXA2UElGaWFRMUVsbXZ4UVc0enVrTGYyZG5zQ0JleFozam85Q05CX05XY2F5VkZpWUh4ZUQ?oc=5"
+    },
+    {
+      "published": "2026-09-01T18:28:24+00:00",
+      "publisher": "ft.com",
+      "source": "FT Tech",
+      "title": "AI hits college graduates in the heart of America’s data centre boom - ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRlJDQkstb0stWmRPbmNzdXNwT1NjSHRLcXQyaTJwZFVfOFlVRU9lc096dUpfcWJuOGtGaEtwU1JSTV9nSlFwaTBLTlhCaW1mTFZ5STFTQ2xISmEycHlKd29LOXozajN1eHhONDQyQUotbmsxRVZ1d0NnNzVfQVhNZGdFSW4?oc=5"
+    },
+    {
+      "published": "2026-09-01T16:06:12+00:00",
+      "publisher": "ft.com",
+      "source": "FT Tech",
+      "title": "America can’t win the AI race if the rollout lacks public support - ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0cmFERVpMSWszU3ZVSmg4UmJxNDJicklHd0V5c2JVdWMxSHN0YmhER1lpN3VUUFJKZlhWeVhSVFh1bE9yZGhsM0RIb3hoSlpneVR6RmpEdzdXaWRvVGEwOV9RZTQ1Q3Vsa292c2FJZ1Q?oc=5"
+    },
+    {
+      "published": "2026-09-01T16:00:52+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "John Deere launched an AI chatbot for farmers - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNjFFRnA2cEg3eHpxa2ktX2JFamhBeGxVazFTaFVzd2ljZml2b3h3ZWdoQXhhOTVNWlFod0hNQk5kOVZrR29UN1MyeTRSUDZjNXBsRDdwbFNEUFlJVktBMXNpNWdoV2pJZzR2ekJVbHYtc08tMVZIN21KcjdfeFZQMkcwelo2OWhtaXY4?oc=5"
+    },
+    {
+      "published": "2026-09-01T18:01:04+00:00",
+      "publisher": "Anthropic",
+      "source": "Anthropic",
+      "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1 - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wODA3NURfTHVDbUZnSE12Q3A0TFpvYjhDLU1rT1NVZ2xmM2Z0VWJPc1ZRM0RVVkpIckh6b0ROcXIxTHgzODZWYV9yekV1dTJiMk1KbkVWcThSeUYxcUpDUy1KZw?oc=5"
+    },
+    {
+      "published": "2026-09-01T16:11:32+00:00",
+      "publisher": "X.ai",
+      "source": "xAI / Grok",
+      "title": "Biosecurity at the frontier - X.ai",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HcGwzQnZHUW4tMzRqNUpBMHJLSXVjT1VNSTVpRjhuSURLX29ZNkVnTmdRSGNpQV9vdkwyMEh2NV95enI4VHdWeVpicjVDRG1UZUU1aWt3?oc=5"
+    },
+    {
+      "published": "2026-09-01T17:38:25+00:00",
+      "publisher": "simplywall.st",
+      "source": "AMD / TSMC AI",
+      "title": "AMD Stock And 2 AI Infrastructure Picks For Investors Watching Chip Demand - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTVc0TXZfQ0VSYXlqY1BNSzVTRnAxbGdGMDB2YURxdWdIOEdqQnk0d3NQUXA1YWlTUUtLVkl1YjdvM290Zzh4VzVJaHpEVzYwRlpYTHhiVm5MY0JDa0lHZ09jNWJIN1BXOTBNcW4wN3pnZGRfZDN0NlY1c1NyN19IdlN3eXdsX3JWWkZ6OTI4SFZXY2p1bW1rNUFuZzJwdTNTb2NjY0EyZ0dKOUVWa2hQd2FweUFEUHpRaHZ3VUtZelkxWVJNQ3AyOFNrbW8wYnho0gHWAUFVX3lxTE1heUFzUWVPc3l0TERrUjdUajJUNmlfNWN0V2tWaFBSejJzZGhkdHZsNFFqeWI4UU9MTUVDcHMtV3JxYVp0NjI5SmRtRXpxRmgzUHR5N0FQNERqVk1BcnI3ZHVqZE4wSS1IV185SFR5T1FOYUZNdEZPOWw2WkRJSVJ0eFBRRGJDWW9wa3M4RGk3YV9QQWEyVUpwSkc5c2lpcUQxWWg3T2pMV25ycTJIeGlCdTdhUTV6clFDekNlSkZDWEc2QnR0ME1WZmJsYWRmQlNKOHFzQWc?oc=5"
+    },
+    {
+      "published": "2026-09-01T17:57:37+00:00",
+      "publisher": "AD HOC NEWS",
+      "source": "AMD / TSMC AI",
+      "title": "TSMC stock gains as AI chip demand lifts margins and expansion plans - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYWFjaTc3QW1BRVE5ajRsejVZUG1wdzJPZm9mU0kzeUNaWnkwZ1M2MFFMWENrNXJBZVphS2JYTkc1V0g5WFhxN0dUdHRYNUhibnhFUkNlaVVZeHhnSnBYekwzX1ZSbXFrU2lxdGg5Q0NsdVRsbzJUT09YOW0wZHVzRXhDcHpqeXFWWHk5UFJidV9NakdLcXN0VzFNTHVyNkFnbFVkNUFtZG1vdHhGdk84bFdRUkY5RHdzLW9tc1pwTWU2cUxXMFE?oc=5"
+    },
+    {
+      "published": "2026-09-01T15:50:00+00:00",
+      "publisher": "Amazon Web Services (AWS)",
+      "source": "AWS AI",
+      "title": "How t54 built a trust layer with Amazon Bedrock AgentCore payments - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN3AtYlZ4eUxTSUMzWlAyRzNldEtXdnVVQWRQRlNHTWhQdHJiSlFkaWlieEpyLTlUSkVkQ0xveGtmdlpwVFlSZU5jTnVCc0hiS3ZIdGtOTU5UQWFzUnpKWVlLTE5DNV9MbHRhYlpQdnE2QTQwODd2emx1QXAwYV9VWGIxWm50SG1ReFVIbWRYTmtDQTd5amhFQ0lFd2tKTC1BSUNDTWNpcHhWOERobGdsb1dJaw?oc=5"
+    },
+    {
+      "published": "2026-09-01T14:40:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "Sonos Has New Devices, a New OS, and Yes, a New App - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0MxWEpBc010SlhrSTVkbXpOOTdtcFBkeklDTDlFYkxfQ0JqaDc3dkp1Q0d3UHhpZGtGRWFLbDZlcFhtc1VXZHVZeXZtRlgwTzZ6aVZvT2dWN252S0szSVB4V1Jfa29rVzI5QW1aV0Jrbmo0V0FveGdUc2lpQUN3M1NCaw?oc=5"
+    },
+    {
+      "published": "2026-09-01T09:30:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "Dyson’s Next Act Is an Electric Toothbrush With a Camera - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT0ZIS1RDRjBnQTN0cmpQMlo5TzFsM2VHTnBFT3gzTUVNYUs4NEotZTVTX3RnbUJwUUNESngtcFpHb01SaWtnM0pxTTBZUncyLXYwTEFuaFg5NkZxSXNWcHI2d2VFZEVzT3VmMDNBSi1sdUZScjlTQk1zc05fSldqNmZn?oc=5"
+    }
+  ],
+  "date": "2026-09-01",
+  "generated_at_utc": "2026-09-01T21:10:25Z",
+  "items": [
+    {
+      "source": "Google AI Blog",
+      "summary_th": "กูเกิลเปิดตัวฟีเจอร์ใหม่ Agentic Video Understanding ในโมเดล Gemini 3.7 Flash ที่ช่วยลดการใช้โทเคนลงถึง 88% และลดต้นทุนการวิเคราะห์วิดีโอได้ถึง 66% พร้อมเพิ่มความแม่นยำสูงสุด 7% ฟีเจอร์นี้รองรับการวิเคราะห์วิดีโอยาวและซับซ้อนได้ดีขึ้น เหมาะกับนักพัฒนาและองค์กรที่ต้องการประสิทธิภาพสูงในการประมวลผลวิดีโอ",
+      "title_th": "กูเกิลเปิดตัวฟีเจอร์ Agentic Video Understanding ในโมเดล Gemini ช่วยวิเคราะห์วิดีโอได้แม่นยำขึ้นและลดต้นทุน",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYnNBZEhrNTRRREhoaG5BSGhQMUM2dUU4WWpHQ1gyZTdWQUZMNVlqZk5jV0lMTEl5Ujduby1XOHhTZjB6aXNLQlkxeWdzcDhRUkVQQnRTbzVPalZfYUwzNUF2VGpCTWZHV3lYUWg2cWVrejhhN1NTeDNBV1Zza2lVeERqeFFWQmFkRG5uLWxyY2MwVHFvdDRKa2tyUl9Kb19Oa2Y3UUhMUkdXWW4y?oc=5",
+      "why_it_matters": "ช่วยลดต้นทุนและเพิ่มประสิทธิภาพการวิเคราะห์วิดีโอในวงกว้าง ทั้งภาคธุรกิจและนักพัฒนา"
+    },
+    {
+      "source": "NVIDIA AI",
+      "summary_th": "NVIDIA ร่วมกับ CrowdStrike พัฒนาระบบ AI Agentic ที่สามารถจำลองการโจมตีและป้องกันในสภาพแวดล้อมจำลองได้อย่างอัตโนมัติ ช่วยให้ทีมรักษาความปลอดภัยสามารถทดสอบและปรับปรุงระบบป้องกันได้รวดเร็วและต่อเนื่องโดยไม่ต้องใช้แรงงานคนมาก ระบบนี้ใช้โมเดล Nemotron ที่มีประสิทธิภาพสูงและต้นทุนต่ำ",
+      "title_th": "NVIDIA และ CrowdStrike สาธิตระบบ AI Agentic สำหรับความปลอดภัยไซเบอร์ที่เรียนรู้และปรับตัวได้เอง",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYUlvQ0hSbzJEQnFkTjFBTGFOMVRUSVY0TVhnZXE3WXRkMDUtU3VkcjJaSnhGTlZ1NUZ1b0JyT01VVUhtMFpUOFZ2dWVlNGJEQ0hYcENQVm1WWmpqTUtkbDh3c0hrNDZTUnZLcVM5b3RhQWtyZWtsQVR6TEE4MXZYMXdOV3ZsclNpaWVrSFRkSkxsT2paT1FOV1ZlZmlnVThXZG5yc1VKT2Q?oc=5",
+      "why_it_matters": "ปฏิวัติการรักษาความปลอดภัยไซเบอร์ด้วย AI ที่เรียนรู้และปรับปรุงตัวเองได้อย่างอัตโนมัติ"
+    },
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "OpenAI เผยรายละเอียดโมเดล Astra ที่มีความสามารถในการค้นหาช่องโหว่ความปลอดภัยในระบบคอมพิวเตอร์และโจมตีโดยไม่ต้องมีคำสั่งจากมนุษย์ พร้อมมาตรการควบคุมความปลอดภัยเข้มงวดก่อนปล่อยใช้งานจริง โมเดลนี้ผ่านการทดสอบ ExploitBench ด้วยคะแนนเต็มและค้นพบช่องโหว่ zero-day ได้สองรายการ",
+      "title_th": "OpenAI เตรียมเปิดตัว Astra โมเดล AI ที่สามารถค้นหาและเจาะช่องโหว่ระบบคอมพิวเตอร์ได้เอง",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "why_it_matters": "แสดงถึงความก้าวหน้าของ AI ในด้านความปลอดภัยไซเบอร์ที่อาจเป็นดาบสองคม ต้องมีการควบคุมและกำกับดูแลอย่างเข้มงวด"
+    },
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "OpenAI ประกาศรวม ChatGPT Health เข้ากับระบบ EHR ของ Epic ที่เก็บข้อมูลผู้ป่วยกว่า 325 ล้านคน ทำให้แพทย์สามารถนำเข้าข้อมูลผู้ป่วยและใช้ AI ถามตอบข้อมูลสุขภาพได้อย่างรวดเร็วและปลอดภัย โดย AI จะอ่านข้อมูลอย่างเดียวและไม่เขียนกลับไปยังระบบ ช่วยเพิ่มประสิทธิภาพการทำงานในวงการแพทย์",
+      "title_th": "OpenAI ผนวก ChatGPT Health กับระบบบันทึกสุขภาพ Epic ช่วยแพทย์เข้าถึงข้อมูลผู้ป่วยและสรุปข้อมูลด้วย AI",
+      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "why_it_matters": "เร่งการนำ AI มาใช้ในวงการแพทย์เพื่อช่วยวิเคราะห์ข้อมูลผู้ป่วยและสนับสนุนการตัดสินใจทางคลินิก"
+    },
+    {
+      "source": "Anthropic",
+      "summary_th": "Anthropic เปิดตัวโมเดล Claude Fable 5.1 ที่มีประสิทธิภาพสูงขึ้นและราคาถูกลงประมาณ 25% พร้อมระบบความปลอดภัยใหม่ที่ลดการแจ้งเตือนผิดพลาดและให้ความเป็นส่วนตัวสูงสุดสำหรับลูกค้าองค์กร ส่วน Claude Mythos 5.1 มีมาตรการควบคุมเข้มงวดสำหรับงานด้านไซเบอร์และวิทยาศาสตร์ชีวภาพ พร้อมเปิดให้เข้าถึงผ่านโปรแกรมพิเศษ",
+      "title_th": "Anthropic เปิดตัว Claude Fable 5.1 และ Mythos 5.1 โมเดล AI สำหรับงานเขียนโค้ดและงานความรู้ที่ประหยัดและปลอดภัยขึ้น",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wODA3NURfTHVDbUZnSE12Q3A0TFpvYjhDLU1rT1NVZ2xmM2Z0VWJPc1ZRM0RVVkpIckh6b0ROcXIxTHgzODZWYV9yekV1dTJiMk1KbkVWcThSeUYxcUpDUy1KZw?oc=5",
+      "why_it_matters": "ยกระดับโมเดล AI สำหรับงานโค้ดและงานวิจัยด้วยความปลอดภัยและต้นทุนที่ลดลง ตอบโจทย์องค์กรและงานเฉพาะทาง"
+    }
+  ],
+  "model_used": "openai:gpt-4.1-mini"
+}
