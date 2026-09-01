@@ -1,5 +1,110 @@
 [
   {
+    "date": "2026-08-31T00:00:00+07:00",
+    "rows": [
+      {
+        "symbol": "GULF",
+        "short_value": 352660950.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "AOT",
+        "short_value": 213136575.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "KTB",
+        "short_value": 171962150.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "ADVANC",
+        "short_value": 165248400.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "KCE",
+        "short_value": 122524525.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "KBANK",
+        "short_value": 105217500.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "CPF",
+        "short_value": 104457630.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "IVL",
+        "short_value": 96957450.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "BH",
+        "short_value": 96141700.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "BDMS",
+        "short_value": 84979480.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "PTTEP",
+        "short_value": 81118300.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "TRUE",
+        "short_value": 74312040.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "CPALL",
+        "short_value": 71761500.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "SCC",
+        "short_value": 69931200.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "MINT",
+        "short_value": 69054040.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "DELTA",
+        "short_value": 66058300.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "TTB",
+        "short_value": 56184738.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "BBL",
+        "short_value": 52154750.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "CPN",
+        "short_value": 45051200.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "SCB",
+        "short_value": 44817500.0,
+        "short_volume": null
+      }
+    ]
+  },
+  {
     "date": "2026-08-28T00:00:00+07:00",
     "rows": [
       {
@@ -3040,111 +3145,6 @@
       {
         "symbol": "HANA",
         "short_value": 26004525.0,
-        "short_volume": null
-      }
-    ]
-  },
-  {
-    "date": "2026-07-15T00:00:00+07:00",
-    "rows": [
-      {
-        "symbol": "DELTA",
-        "short_value": 227531000.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "KTB",
-        "short_value": 197624475.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "ADVANC",
-        "short_value": 145188600.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "AOT",
-        "short_value": 124173075.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "PTTEP",
-        "short_value": 123237900.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "SCB",
-        "short_value": 79151950.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "CPF",
-        "short_value": 74582750.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "BBL",
-        "short_value": 67401200.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "PTT",
-        "short_value": 65970350.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "CPALL",
-        "short_value": 53805225.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "BEM",
-        "short_value": 51340435.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "TRUE",
-        "short_value": 47425070.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "TOP",
-        "short_value": 45955625.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "KBANK",
-        "short_value": 40178700.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "PTTGC",
-        "short_value": 37318200.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "BH",
-        "short_value": 36766100.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "GULF",
-        "short_value": 36307300.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "MINT",
-        "short_value": 35879990.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "CRC",
-        "short_value": 33126840.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "BDMS",
-        "short_value": 28977000.0,
         "short_volume": null
       }
     ]
