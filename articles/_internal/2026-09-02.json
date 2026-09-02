@@ -1,0 +1,219 @@
+{
+  "articles": [
+    {
+      "published": "2026-09-02T17:09:06+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/"
+    },
+    {
+      "published": "2026-09-01T22:01:36+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTEJMNThLbnRBLWRoRlBnUnI0bmZ1WlVLLS0ydzhpUUVWYUZQbUtYM3I2eGRRWXhwM2kyNVdTREFQeHpxWjNJR2ZUYk5mQkFMOG5idkt3VDVvUC03bFE2UjhlRENaNTRBMnc5M0xQUHA3c0RfV2lMSTk3bzBKbDNGdHZ0MUJZSk1WODllLTBiRTdYZndGbTJ3?oc=5"
+    },
+    {
+      "published": "2026-09-02T20:19:14+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/"
+    },
+    {
+      "published": "2026-09-02T16:01:43+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "Anthropic launches AI agent blueprints for retailers ahead of holiday shopping season - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZnpYSkJQNF9FY2pHYXBETVkzdkdMRGhfLVU4ZVZ6MmhRSkRxSGlhYUktc0RpOFhxMEZ4NG4yaW9TdGZJMU80OG9UVG9xc0JKRzVCb21UZTJJZjZoMi1ONWdVT2dCUXNRRi1QZ3RFVnp2QnZRa3hNUFB0QnNGNV9fUGxmckttdXFjX2JSUEljSjFMRnNoSmFoT2Z4U3ctUHoweWVnQnlCYUhaZ1FCd1c5TXBHZUVEUTdGRXlQcFVhZ1lwZTRMYjk2QXRpbE5wU1pWeC1YS2NB?oc=5"
+    },
+    {
+      "published": "2026-09-01T21:23:14+00:00",
+      "publisher": "NVIDIA Blog",
+      "source": "NVIDIA AI",
+      "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier - NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFT2J4czliTUlxb1RWc3cwc3NXWDZ2dWF5aUcwcDZzazJUelROdlBSLWpZUWltLXNaLTB5WW02UFZUeldiYUtFbW5pU0tkTjhXYzBYUG5SZUkzdGlOM0RqbUtHODNuNlRiS3dRVm9SQQ?oc=5"
+    },
+    {
+      "published": "2026-09-02T12:06:12+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "Spain's iPronics raises $125 million from Nvidia, others for data center networking chips - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONWNTUEdhbXlieXN4SXpiOExicUxZU3JlOTVDZzF0OXVwM2hkbThXOTVlRTNheDBtSWdPMlFJaGhFQ1IwWDFlUWU3LUNfZW9RVlNjZ3JtakJoSU83clhvVzBmejlTb25fOGJKcW5XTGE2WGtXUnNiZHJCQ1BFaTlCdHh4eG1oNE9RRUE3Z3pHX3pwaExWNG10OVEyVE1hNUdKNlk1TUg3ZHBrWElFSVBWd0xYdllMTkhHejZHdHM5SQ?oc=5"
+    },
+    {
+      "published": "2026-09-02T15:47:16+00:00",
+      "publisher": "blog.google",
+      "source": "Google AI Blog",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPam1wVmhCUF9BYU11WDFMS1ZOSmlIQUpiTlF6a1RLQlpQZ0R0Y3M5M0hoTExZN0t5Q0FwbTZ5c3B3T2pzWFdZTnp1ZWVfdi1QZmdQeHlHcEFYUFhvbWw4TEdJamNqT3pYZnM3VGU1ckRYVXJWTzRyeXIzb21XT0NscnBqUXZzRW1HcS1lT05IODJOWGp2eC02bDd0ejRIRXRYTXMtbQ?oc=5"
+    },
+    {
+      "published": "2026-09-02T17:18:22+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "Napster Shifts Course to Penny-a-Minute AI Agents Via Microsoft - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcTlaWnIwc2tRdzZ5NHR4b2JORVlKZGxaTUFrOFJycTNGTFowUEpyTm04QzBkcGp1VDA5RGtmcmRZY2hQTDVkazVXWFJwMjhuUzdueEpJQWNBSmI2ZlY2N1ZqdVhVSkljRzVZNlhtOW0wVTZPTVR2T25oTDVkemN0dkwtWk9NZ3A1TW9aWlplSlBfaVZZdDVWOHFNNUlmR1RCMjRzTTd0eXlpVkdUaG80cW9fVXM?oc=5"
+    },
+    {
+      "published": "2026-09-02T20:11:40+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZGZOd1k3V2lUSk9raG9XeDg4dm9Fd0N4blA2LWZSUFNHOWVZY1FHSWpNU2JXSXl6VGhmU2tiUlhka19FbFh0TVBiU1V0QkNnMGE2VHNpWWhuamlwMXhlOEpIc3RPV1V4UlpVTzFRUVdJRW5uY2FnTXVuNi1GQmV2UHMtN3hLWjRxMnc?oc=5"
+    },
+    {
+      "published": "2026-09-02T18:18:47+00:00",
+      "publisher": "Amazon Web Services",
+      "source": "AWS AI",
+      "title": "From code to diagrams: Agentic architecture documentation with Amazon Bedrock AgentCore - Amazon Web Services",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYTEya25pQll6X3hGTGN0aVpYWjg0bnlPNVNUMG5wb2dfYXBONG1NSTR6b0tNU3ltcUtJR3JPbE85YjJTenFvb3JLYjBLa0Vial8yZHhQZ3J2d28tWFRjZWVGU0ZsWHFWVTBLc2VYYmlIQnk2Q2swbGJFX2dkYnB4c1BEMDhyQWxuYk01OTlhNkVJLVplVmtyYzJOVmFFdkIxNTVEZURRZks4M2RNMkF0UU13OW5aVExSak83RGx5aXZFem9iT3EzSmdvSmxJdw?oc=5"
+    },
+    {
+      "published": "2026-09-02T19:00:00+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "Meta Releases More Powerful AI Model, Edging Closer to Rivals - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRW9CQ1BtQmN6aTQ1QTBqYnl6UGtQdkdnc01ObElOU0V1NkttNkc4dVIzeDNmOXpzdHBGdVF0dDRMTEc4VmFSYi1nRjNfNFBJTVJ5ZVlPOWlhMWNCQjRCNG9PSm5MejJldXZvRHc4cVNtWlRMYUtxT1c0YnZXa2p3VlRBbU1GajY5STF5QkRQd0oxSXZoeTNvTHYyZlROTnBDNldKQm1wZ3o4XzdZbWNXUQ?oc=5"
+    },
+    {
+      "published": "2026-09-02T18:20:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU05PeW14UGVmaGxSU1BxdmFHNnVKOFZwMFNHNWF6cXA0ZjBOa3JsZnIzbzZKY2h6a1k1Yk9Sd3F5VnlNMkhpa0c4T0R3aTJaZ2NpTGpkTjMzWGV4dVRuU21RM2JneURwZUtNUjNFV3NFSXJuZFhWMkZjX0hGel9VZg?oc=5"
+    },
+    {
+      "published": "2026-09-02T15:51:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85dEZrazM5V0JEaGFGQTdjZzhFaHhyczFQYnNpeDMyN0R4WWx4dW5OMk1ZWlMzUjJ6elMwSEZxSl9iRGlkNUI3UkxvWHZ2Wkx3Zm1LQ1YxLXR0dTU5T0J0WWY2QVNHdWM?oc=5"
+    },
+    {
+      "published": "2026-09-02T04:00:00+00:00",
+      "publisher": "igor´sLAB",
+      "source": "AMD / TSMC AI",
+      "title": "AMD Ryzen 7 449 in the Mechrevo Wing Dragon 15 Air - igor´sLAB",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSFVwSjNyZmVqVzVxTlFlR0RBcE40by1kMGZiNElQX1JLQzdXc0pjdFRtTG1HOUt3amJfeW82MmFJUG8tOUI1WGJhY283T1BzWWJ2OXpCTEFuaHV0djBCNzVTTjQ2ZGd5MFd3RDk5Skw0bEttcElOSzZRSU81bDY2a3phdDF0c01xbkJ2ODFfOV9KeTFjTzBrSXZDUQ?oc=5"
+    },
+    {
+      "published": "2026-09-02T11:13:34+00:00",
+      "publisher": "AI Magazine",
+      "source": "Microsoft AI",
+      "title": "Microsoft, Azure & AI Tech Combat California Wildfire Risks - AI Magazine",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcDMtSUhVbWRwdWJORFM5OXEzeVY1ZUdLNHpMYVprX1huZ1AtOEtUc3UyT1BERzFLbHB6cnk5UUhOQ3dNQzV6VnpoNHdOX2VTMXNhb0MzVlFNY2I1ajlEZWhEYmhfeHZCVXVZY0lGcnUxd1FiTXp3Z1hvX2lFOHVCN1E0QkxmTXJyRW5TTw?oc=5"
+    },
+    {
+      "published": "2026-09-02T10:00:11+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "The best, worst and strangest ways AI is really being used at work - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeGVMQjg1TGxGWm5JekVROVhxa3ZIWlhFR2tSTjRLNEptc2ZVYkxoeUpGUnREQm5ETUxya3FLZWVBeHZzQVZXYmJHM1JTUFVBUVdkLWVZcFU4SlRVaW1GMElTZmVQWHNia1p3QTVnTGpIODNUUkwzUWt1UnpLaXVnTnRzR2s?oc=5"
+    },
+    {
+      "published": "2026-09-02T13:05:58+00:00",
+      "publisher": "Private Internet Access",
+      "source": "xAI / Grok",
+      "title": "Is Grok AI Safe? What to Know About Privacy & Safety - Private Internet Access",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03eHVCTUpKLVozYThfd3ZoYjZabVVKUXMwZ0oxU0pLNnc2S0dzWHhCUTFwRWdEazhOSGliU0ptVjZ2cWpNaUtVXzZHc0ptMTZrSFdsMUlaMHRQTEFfd2dhOWlWZFIwdW8?oc=5"
+    },
+    {
+      "published": "2026-09-02T13:32:20+00:00",
+      "publisher": "techtimes.com",
+      "source": "AMD / TSMC AI",
+      "title": "NVLink Fusion vs UALink: Why Alphabet Is Funding Both Sides of AI Chip Interconnect War - techtimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd0NkeTRyd1cxbVNTamRJZWxUeTdCVmtCbFlRT2ZOaUprdEwwdHhxX2lsZm0waXAwZlpJdEFXWUlOT2RmUFUwUHItTW8yaVRVMDcwcXZqVjZCY3c1S3FVc1BxWVY4M29laVpyckY1ZDZuVnBhNVR5dEVhVTdyRG15eEgzMjhpdG9lMkp6UWhhTnVCbVJQdnd3YlRQakh3UFpfQUJENDMyYmw4SURyMFBwVUVGWkNTZkl4QmdabVBPUDgyRU8zbkVmeVMwOTJkTm5Y?oc=5"
+    },
+    {
+      "published": "2026-09-02T04:00:09+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "National data centre projects are consolidating America’s AI lead - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZTm9CMHltWnBiRVp1cmVNdUZRaFNjUmZMeC1rMmZ0T0dCRkJRd1BnNGZKbW5LbjRwVDdERHk0Q01Cb1FSdFBoeTBsZlc3d0d2Q0xaMEhCZzNDNW53eFFmbDVZRWJLc0RFYUo2dGRrMkI?oc=5"
+    },
+    {
+      "published": "2026-09-02T04:33:00+00:00",
+      "publisher": "BeInCrypto",
+      "source": "xAI / Grok",
+      "title": "Elon Musk Says Grok 4.7 Lands in 10 Days and Will Beat Every Model - BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84YzJ0WUd6THBWcFFicnhOWnVkaU9IYjF6ZktOSm1sbm5Xb0p3Y0cwc0c5ekZHZjR6dnRyeGtGazQtbXVYTHZScDlOeTNqMnpmTmh2WGNKaGJsR2FGYS1jTm9n?oc=5"
+    },
+    {
+      "published": "2026-09-02T18:21:20+00:00",
+      "publisher": "Amazon Web Services",
+      "source": "AWS AI",
+      "title": "How an AWS team detects dashboard content failures at scale using Amazon Bedrock - Amazon Web Services",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU1VERmJPaU1iNHR1bFJpQ0d6UlJPbmlPZEZva0hxcEZtcjhrVksxZjhVSzQzQ2VFU2lYSk9oRHRPa19RZUxVTXlISFh6Q0ZLQTFXclI2NHVNOFFDSmNGQkhHWTRSUmRZbGl3d2N6MWwxN0hyeW9RU2VfOEF2dUhrZTN5VjNfNC1ZNDdOcHVsUGFUa2JnMGt5TWd3Qi1FdVJVbFI1Vnhnczh3X3lWbEc0bGZoUEpiWlZyeVpZVmRwX1hsaG9Qdnc?oc=5"
+    },
+    {
+      "published": "2026-09-02T20:25:00+00:00",
+      "publisher": "MIT News",
+      "source": "Quantum Computing",
+      "title": "From MIT to IBM, expediting AI and quantum deployment - MIT News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZVg3bnRSMmlzZ1lPSUFIYWxSb1ZpWE01MkpOSW80NWRMRURYYWl3Q1ZISGFkMkFWVDRqMVZ4RHg4blFkY0VPbk5yM0tFMHRtLUZRMTVCSjV1S2ozZHhfLUk3S1l2TTBlNHhBS1d2WkxqeGtwSF9kWF9Wbk1hcUxROXFEX3dENkxZc1VV?oc=5"
+    },
+    {
+      "published": "2026-09-02T01:08:26+00:00",
+      "publisher": "Al Jazeera",
+      "source": "AI Regulation / Legal",
+      "title": "US pushes looser approach to AI regulation, while EU pushes new law - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEtDUkt0MmpsaVJwUzhNX0NWMkxid2hUN2M5TlpFUmVGakw0VXRhdzFacU5DOVRqc2N1c2kxQThmTkphOHFOQ2VuSUJXZ1psRHc5VllISEVkRkptSXRhUzl1Mmo3QjFUb0NWZmo0UGE3X3dzdE5semlwQkxBY0dzdWItbWF1S0MtN1JZUXNzWDFsR0FpWS1oM2dtUWJzMXl5SC1yMU1qNkZPUdIBrwFBVV95cUxNUE1ES3VydkJuZWU2WXc0dW5VUm1UMlBILXhPa1lFaEJpNHQ3ellYbmdDZWNLM2dkUktkdlM0Xzh6bjVCOFpwM0hGamZNUl96SF9fRktLZXdReTdRV2NLS3oxU3lPUDR3aWhEZ3JNdXlKT3V1ZnRtU3dxZF9GcHNrODhVOFpMelktWWtvb1BWTWs1cG1LZ0FwNndVT2VEaFpQV0sxTkxDd1FKcmN2MVZN?oc=5"
+    },
+    {
+      "published": "2026-09-02T14:00:00+00:00",
+      "publisher": "MIT Technology Review",
+      "source": "MIT Tech Review AI",
+      "title": "Facilitating AI integration with simplicity at scale - MIT Technology Review",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdmk1ZUJ3VVRYZzdqTy1vbGRhTG12cTh5WWdWT1V2VUNlRTl2dnJaeEJyN1lEWEwzYUJadEUyNExzTkQ1Z2tXLVhESDZxTjRIbkQ3WlA2bmI4UU5PTkxJSERPRHFZak11QWRQYndqaHRqbk1UNnV0ZjFoS3p2c3Q0UVZpTWUyVVpDRVRodGVpc3hwNm53RzlRWTdNVG1FeTFaQzEybEp3SmbSAa4BQVVfeXFMUEltM1FYUnphZGZKQ0hBcmU0cE82NlJnNGFhbWFiN0RnNXFIMUxPTTFNRnAzNC1CZ0l5YjlDM3dVdDBseUtMem52NWhDUVlJSGdsMlg5a0hreV9HQkpnYk5JTmRPOFpHWU9yb2pvc0t4QXFjcW5VeTBVZ3VoSm9DM1R2T2NYN2tXUEtNOHBZbVd5S2JCMU4tT0FtV1A5STF3ZENxdUJaamI2c2s1aHpB?oc=5"
+    },
+    {
+      "published": "2026-09-02T12:10:00+00:00",
+      "publisher": "MIT Technology Review",
+      "source": "MIT Tech Review AI",
+      "title": "The Download: AI puzzles and a path to our nearest star system - MIT Technology Review",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQczVybUlfajZRbldmeTlsZmVoaXhoLVhKV1QtUGJya0hjTUk3c0FzRVNJX2pLaERoZzlEdE1hMnJRRXIycHJQbm5iaWczeTJWR0FHNlJaZE01WWpGajMzY0xfUnZ1ZjVoX1NtU3NUTUlqSHM4UFdQb3hDS3oyN0ZCX3B3RzZJUk1QbmRuTnhkNlNXZlBPTG4zLXFpcE9laGtU?oc=5"
+    }
+  ],
+  "date": "2026-09-02",
+  "generated_at_utc": "2026-09-02T21:09:48Z",
+  "items": [
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "รัฐบาลสหรัฐฯ ให้การสนับสนุน OpenAI ในคดีที่เกี่ยวกับการใช้สื่อที่มีลิขสิทธิ์โดยไม่ได้รับอนุญาตเพื่อฝึกสอนโมเดลภาษาใหญ่ (LLM) โดยเน้นความสำคัญของการรักษาความเป็นผู้นำด้าน AI ของสหรัฐฯ ซึ่งส่งผลต่อบริษัท AI และวงการกฎหมายลิขสิทธิ์ทั่วโลก",
+      "title_th": "รัฐบาลสหรัฐฯ สนับสนุน OpenAI ในคดีฝึกสอน AI ด้วยงานที่มีลิขสิทธิ์",
+      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "why_it_matters": "ตัดสินใจทางกฎหมายนี้จะกำหนดทิศทางการพัฒนา AI และการใช้ข้อมูลที่มีลิขสิทธิ์ในอนาคต"
+    },
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "OpenAI เปิดตัวโมเดล Astra ที่ใช้เทคนิค 'recurrent depth' ซึ่งทำให้การติดตามกระบวนการคิดของ AI ยากขึ้น ส่งผลให้ผู้เชี่ยวชาญด้านความปลอดภัย AI กังวลเกี่ยวกับการตรวจสอบและควบคุมพฤติกรรมของโมเดล",
+      "title_th": "OpenAI เปิดตัวเทคนิคการให้เหตุผลใหม่ที่ก่อให้เกิดความกังวลด้านความปลอดภัย AI",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "why_it_matters": "เทคนิคนี้อาจทำให้การตรวจสอบความปลอดภัยของ AI เป็นเรื่องยากขึ้น ส่งผลต่อการควบคุมและความน่าเชื่อถือของ AI"
+    },
+    {
+      "source": "Financial Times",
+      "summary_th": "โครงการสร้างศูนย์ข้อมูลขนาดใหญ่ในสหรัฐฯ กำลังช่วยเสริมความได้เปรียบในการแข่งขันด้าน AI ของประเทศ โดยเน้นการพัฒนาโครงสร้างพื้นฐานที่รองรับการประมวลผล AI ระดับสูง",
+      "title_th": "โครงการศูนย์ข้อมูลแห่งชาติช่วยเสริมความเป็นผู้นำด้าน AI ของสหรัฐฯ",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZTm9CMHltWnBiRVp1cmVNdUZRaFNjUmZMeC1rMmZ0T0dCRkJRd1BnNGZKbW5LbjRwVDdERHk0Q01Cb1FSdFBoeTBsZlc3d0d2Q0xaMEhCZzNDNW53eFFmbDVZRWJLc0RFYUo2dGRrMkI?oc=5",
+      "why_it_matters": "โครงสร้างพื้นฐานที่แข็งแกร่งเป็นหัวใจสำคัญในการรักษาความเป็นผู้นำด้าน AI ของประเทศ"
+    },
+    {
+      "source": "Reuters Tech",
+      "summary_th": "บริษัท iPronics ของสเปนได้รับเงินลงทุน 125 ล้านดอลลาร์จาก NVIDIA และนักลงทุนรายอื่น เพื่อพัฒนาชิปเน็ตเวิร์กที่ช่วยเพิ่มประสิทธิภาพศูนย์ข้อมูลสำหรับ AI ส่งผลให้ตลาดชิป AI มีการแข่งขันและนวัตกรรมเพิ่มขึ้น",
+      "title_th": "สเปนระดมทุน 125 ล้านดอลลาร์จาก NVIDIA และพันธมิตรเพื่อพัฒนาชิปเน็ตเวิร์กสำหรับศูนย์ข้อมูล",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONWNTUEdhbXlieXN4SXpiOExicUxZU3JlOTVDZzF0OXVwM2hkbThXOTVlRTNheDBtSWdPMlFJaGhFQ1IwWDFlUWU3LUNfZW9RVlNjZ3JtakJoSU83clhvVzBmejlTb25fOGJKcW5XTGE2WGtXUnNiZHJCQ1BFaTlCdHh4eG1oNE9RRUE3Z3pHX3pwaExWNG10OVEyVE1hNUdKNlk1TUg3ZHBrWElFSVBWd0xYdllMTkhHejZHdHM5SQ?oc=5",
+      "why_it_matters": "การพัฒนาชิปเน็ตเวิร์กใหม่จะช่วยเพิ่มประสิทธิภาพและลดต้นทุนการประมวลผล AI ในศูนย์ข้อมูล"
+    },
+    {
+      "source": "Bloomberg Tech",
+      "summary_th": "Meta เปิดตัวโมเดล AI ใหม่ที่มีประสิทธิภาพสูงขึ้น ทำให้บริษัทสามารถแข่งขันกับผู้เล่นรายใหญ่ในตลาด AI ได้ดีขึ้น ส่งผลต่อทิศทางการแข่งขันและนวัตกรรมในวงการ AI",
+      "title_th": "Meta เปิดตัวโมเดล AI ที่ทรงพลังยิ่งขึ้น ใกล้เคียงกับคู่แข่งรายใหญ่",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRW9CQ1BtQmN6aTQ1QTBqYnl6UGtQdkdnc01ObElOU0V1NkttNkc4dVIzeDNmOXpzdHBGdVF0dDRMTEc4VmFSYi1nRjNfNFBJTVJ5ZVlPOWlhMWNCQjRCNG9PSm5MejJldXZvRHc4cVNtWlRMYUtxT1c0YnZXa2p3VlRBbU1GajY5STF5QkRQd0oxSXZoeTNvTHYyZlROTnBDNldKQm1wZ3o4XzdZbWNXUQ?oc=5",
+      "why_it_matters": "การพัฒนาโมเดล AI ที่แข็งแกร่งขึ้นของ Meta จะกระตุ้นการแข่งขันและเร่งนวัตกรรมในตลาด AI ระดับโลก"
+    }
+  ],
+  "model_used": "openai:gpt-4.1-mini"
+}
