@@ -1,0 +1,364 @@
+{
+  "articles": [
+    {
+      "published": "2026-09-03T15:20:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "That Don't Repress Me Much",
+      "url": "https://www.zerohedge.com/markets/dont-repress-me-much"
+    },
+    {
+      "published": "2026-09-03T22:50:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "Biden Judge Blocks Trump's Latest Birthright Citizenship Order",
+      "url": "https://www.zerohedge.com/political/biden-judge-blocks-trumps-latest-birthright-citizenship-order"
+    },
+    {
+      "published": "2026-09-03T19:38:09+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Top News",
+      "title": "The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer",
+      "url": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html"
+    },
+    {
+      "published": "2026-09-03T21:41:25+00:00",
+      "publisher": "Wall Street Journal",
+      "source": "WSJ Markets (Google News)",
+      "title": "Middle East Conflict Sends Oil Up, Bonds Down - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNXowTGpiSmZYbWx3MGt2VE5nYVFnYk04NDhQS0VXZkF4bGpCWWFKYkpEVmtDUTV1Y2J1bHc3V09lSC03UG9ZbE90RGhhZ2N4VFY4QzJaMkx1clItY2pxc2FOSGlNV180Nk1vUFpvR2xPbksxQWhHMUlNS3BwUnZIa3A3elRLanI2WVJUUnpiU1Y3X0l1Zmc?oc=5"
+    },
+    {
+      "published": "2026-09-03T19:14:06+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Top News",
+      "title": "Oil prices little changed after Iran fires missiles at Kuwait",
+      "url": "https://www.cnbc.com/2026/09/03/oil-price-today-iran-war-strait-hormuz.html"
+    },
+    {
+      "published": "2026-09-03T19:45:27+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Markets (Google News)",
+      "title": "Vance Plays Down Iran Conflict, Says ‘Wouldn’t Call It a War’ - bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRld5dEJVTDFHNldkSHI3VjFjMUJzWHJ5TmNfSTlPRXc5a3k1VGFSN1dLX25YMlJBdmJwZENoYXBOaWJfcy1NQjNOQUJDZy12Q244WXFfSjNnTHNFdTN5OFZRQm1NTm4tLTc2Yk1ncTFiWkJoSHYwUWVNOGJ5SkVVTHhkRHVMUjBjWUdTamJJWHk4cTVBX1YxczVjRFI3TGVkZ2xkUWtZRnk0alZHYUE?oc=5"
+    },
+    {
+      "published": "2026-09-03T01:11:41+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Economy",
+      "title": "South Korea's semiconductor exports just tripled year-over-year. Is it too much of a good thing?",
+      "url": "https://www.cnbc.com/2026/09/03/south-korea-semiconductor-exports-surging-concerns.html"
+    },
+    {
+      "published": "2026-09-03T12:50:32+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Markets (Google News)",
+      "title": "US Stock Futures Rise as Traders Parse Fedspeak, Earnings - bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ0hBLWVPSkVXQlFEblFqT3dOWnNyalVvQ0JSY1p5SFVVSi1SWVc3NTVnbFhZaVRyWGJPOUUxdGllMy1uQk81cWtvUjY3SEN5cHVIeTNsbHNoQXdQNmNuZjdRaklVMXdrTHNGMndSdnRJeF9VdEtULU5TR01YZnZ0aExDZUdwb2E1aDV6bTVOMzJvandJRW5qdEZvNHVmeFlkX3NCTjVPaWstc00?oc=5"
+    },
+    {
+      "published": "2026-09-03T14:06:52+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Economy",
+      "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
+      "url": "https://www.cnbc.com/2026/09/03/fed-governor-waller-indicates-he-will-support-holding-rates-steady-at-september-meeting.html"
+    },
+    {
+      "published": "2026-09-03T17:29:32+00:00",
+      "publisher": "Financial Times",
+      "source": "Financial Times Companies",
+      "title": "Star Citadel energy trader to step down amid tumult in energy markets",
+      "url": "https://www.ft.com/content/b4c17a07-f684-44c7-b334-8b7bcb1a21d6?syn-25a6b1a6=1"
+    },
+    {
+      "published": "2026-09-03T09:43:05+00:00",
+      "publisher": "Wall Street Journal",
+      "source": "WSJ Markets (Google News)",
+      "title": "Treasury Yields Extend Decline as Odds of Fed Hike Fall - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeDdVdDUwWVFObHJ0OVRIUlZqQmVKVmdSQkpyeUZWTlozWDI3Wk8wSGpycnJLNmFLeDhQd2xjenNDQlYwZnBQV055Rk16dWVxMWMzMGxUT0xSNTJxelhWcEQ0VWNEUy10bkRHTG5sOWJIUGJsR0xtdzdvRFIzTVBzMXp6YVFaWHY5SmZZODFWTjdjR3FXUEJVSUFzNDFEZw?oc=5"
+    },
+    {
+      "published": "2026-09-03T11:00:02+00:00",
+      "publisher": "Financial Times",
+      "source": "Financial Times Companies",
+      "title": "How US oil companies are expanding as Trump reshapes global energy",
+      "url": "https://www.ft.com/content/59b1a168-7636-4a23-84e5-b31439b6018d?syn-25a6b1a6=1"
+    },
+    {
+      "published": "2026-09-03T20:30:00+00:00",
+      "publisher": "SEC Press Releases",
+      "source": "SEC Press Releases",
+      "title": "SEC Proposes Rescission of Political Contribution Rule for Investment Advisers",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-85-sec-proposes-rescission-political-contribution-rule-investment-advisers"
+    },
+    {
+      "published": "2026-09-03T14:27:49+00:00",
+      "publisher": "SEC Press Releases",
+      "source": "SEC Press Releases",
+      "title": "SEC Investor Advisory Committee to Host Sept. 10 Meeting",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-84-sec-investor-advisory-committee-host-sept-10-meeting"
+    },
+    {
+      "published": "2026-09-03T13:21:33+00:00",
+      "publisher": "apnews.com",
+      "source": "AP US Economy",
+      "title": "Will Federal Reserve hike rates later this month? Waller muddies the outlook - apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGNqanQzNkZWQXM4U1Q5SlhOR1pxckVDSXd5TDI2OWxndXlocno2WEpMalYtWjFROWJEU1duNmRmQk9qbUdBVEpjck5mSEJuRmt6Rlh1d3JwME5IVFJRczd2aVRpZUJuZWJXQ2FaeTl1UTJzQ0NUVHYyS2JOaE9nQzM5bklqdmlxU0d5RnpFZXJwckhPbnRJ?oc=5"
+    },
+    {
+      "published": "2026-09-03T18:19:18+00:00",
+      "publisher": "The New York Times",
+      "source": "NYT US Business (Google News)",
+      "title": "Rate Rise in Play as Fed Officials Await Inflation Data - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa0xMWWJMdUtQMXdlQVVXcF85dWpCX1BSTDNPNG5yVXhYUVowc2xCamNwc245WW91b0NRa1c5OXRoRkxhb08xWFRlanpBd3dJZGNMSjZ2WlJKVGt4T21reE4tckRqbkNLNTV6SGcwdmdjTEVBOVJNYXQ1R0JVS0p5V0JYYUk1YnMwcnZ1SFdyUFRyNjQ?oc=5"
+    },
+    {
+      "published": "2026-09-03T21:49:00+00:00",
+      "publisher": "MarketWatch",
+      "source": "MarketWatch Top Stories",
+      "title": "Oura files for IPO amid Americans’ obsession with tracking their sleep, steps and heart rates",
+      "url": "https://www.marketwatch.com/story/oura-files-for-ipo-amid-americans-obsession-with-tracking-their-sleep-steps-and-heart-rates-093f85c4?mod=mw_rss_topstories"
+    },
+    {
+      "published": "2026-09-03T21:21:23+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters US Politics (Google News)",
+      "title": "US diesel prices hit record high as conflicts intensify supply crunch - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZHF2Z29UenJROHZ5YlJpTFBHM1pmWmdNaWROSnhyNlhDVVZmVGVXTkRaT1k4N1NBY1B1YUhDbmE2SGQ2TllTNExHWk9JT1JCWHRKQnVpZEx5SVVNZHdhc2tsbEEtWG01Ty1QUXpMSWdWR3NuQTVQaWNhLUViMXkzRl9WNk81bDdiVk5tb1hPeVBMczFGaWVmaTNzWEdYZ29P?oc=5"
+    },
+    {
+      "published": "2026-09-03T22:23:00+00:00",
+      "publisher": "MarketWatch",
+      "source": "MarketWatch Top Stories",
+      "title": "Adobe just announced its next CEO. Here’s why its stock is dropping.",
+      "url": "https://www.marketwatch.com/story/adobe-just-announced-its-next-ceo-heres-why-its-stock-is-dropping-bad9ed8a?mod=mw_rss_topstories"
+    },
+    {
+      "published": "2026-09-03T17:26:22+00:00",
+      "publisher": "The New York Times",
+      "source": "NYT US Business (Google News)",
+      "title": "Leon Black Sues Congressional Panel Investigating Epstein - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUFVpSnFTTkVsUDhWZEFXMHhzWlR3czhsdEdnRG5wTzM1MzExdFU3WFFIb3hXcU15LTRYSk84VDY1VUdYdTJGNTQ3VVpwaWRjQjZuLVhfU0NxNVJJbERJcGJKRmlnYlAxMUp6SkR2cjVYQXlDaWhqYkprVGdRaFkxY1pqbFVXNkI3SnZtZGZQRHY3NWJpQi1zamJiYjY4VzJYUE1kZFAzV0dFZw?oc=5"
+    },
+    {
+      "published": "2026-09-02T23:56:43+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Markets",
+      "title": "Broadcom guides to big numbers but investors wanted more. Why we're OK to hold for now",
+      "url": "https://www.cnbc.com/2026/09/02/broadcom-guides-to-big-numbers-but-investors-wanted-more-why-were-ok-to-hold-for-now.html"
+    },
+    {
+      "published": "2026-09-03T09:00:00+00:00",
+      "publisher": "Politico",
+      "source": "Politico Economy Policy",
+      "title": "How a coming Supreme Court clash over prediction markets could reshape American betting - Politico",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVVYycHBSQlB6Rzh4NDluQmJhUVBBdk9IOG1wc0czU2FqMUtsQzNSNm5JbDF4VnNzNlJzdzc0VkpudTBhZzZwbWtFX1lFWE9GanpYb1ZkVjlhLWhQNVhTcUJkMjE3dVY4ZGVYQlVIdktsY3NvSXluMXc3T0ZKdE9WeDRuMnN4TnpMU3lDbkgzZkczbC1XTU9ZeXJtbEV0YnVHek9MdnVUc0Q4WkVEU01FSzVDQ19DWlFFQngzMVB6Z3lPdw?oc=5"
+    },
+    {
+      "published": "2026-09-03T02:39:48+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Markets",
+      "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs",
+      "url": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html"
+    },
+    {
+      "published": "2026-09-03T07:15:27+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters US Politics (Google News)",
+      "title": "Chinese e-commerce moves to next phase after delivery price war changes shopping habits - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR1drbGN3cGlMZTA4aTFsbExzSmc5X0cwM1lYdFFtdnQyckJqdHQzZUpvNkcxWHVBczM3c0xqN2RBOFc1NEc0WUhWVFlRcmVjeVBWYUNIaTYwZFZvN3UzT09yeGVNMlU2bWRxOGVFOTlDbk1JV3ozQ3FxOTR3Nld0MDkyLXI1bTNBNTlpREdNOW5ZcHJPRmRWWE1oR01YREpqVEdWYlQ2RjRFdHBDSThCcFFMUGI1TEozYTFPLXRGUDlFX3dsU2VkY2NzMVNzRUEzWXhVMg?oc=5"
+    },
+    {
+      "published": "2026-09-03T22:00:53+00:00",
+      "publisher": "Seeking Alpha Market News",
+      "source": "Seeking Alpha Market News",
+      "title": "Here are the major earnings before the open Friday",
+      "url": "https://seekingalpha.com/news/4639976-here-are-the-major-earnings-before-the-open-friday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+    }
+  ],
+  "date": "2026-09-03",
+  "generated_at_utc": "2026-09-03T23:11:26Z",
+  "items": [
+    {
+      "category": "Macro/Fed",
+      "impact": "high",
+      "key_numbers": [],
+      "rank": 1,
+      "sectors": [
+        "Financials",
+        "Tech"
+      ],
+      "sentiment": "neutral",
+      "source_name": "CNBC Economy",
+      "summary_th": "เจ้าหน้าที่ Fed อย่าง Waller ระบุว่าจะสนับสนุนการคงอัตราดอกเบี้ยในที่ประชุมเดือนกันยายน ซึ่งสะท้อนความระมัดระวังต่อภาวะเศรษฐกิจและเงินเฟ้อที่ยังไม่ชัดเจน ส่งผลให้ตลาดพันธบัตรและหุ้นมีความผันผวนน้อยลง",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "เจ้าหน้าที่ Fed สนับสนุนคงดอกเบี้ยในเดือนกันยายน",
+      "url": "https://www.cnbc.com/2026/09/03/fed-governor-waller-indicates-he-will-support-holding-rates-steady-at-september-meeting.html",
+      "watch_next": "ติดตามรายงานเงินเฟ้อและการประชุม Fed เดือนกันยายน"
+    },
+    {
+      "category": "Commodity",
+      "impact": "high",
+      "key_numbers": [
+        "4",
+        "4.5",
+        "3",
+        "1.2"
+      ],
+      "rank": 2,
+      "sectors": [
+        "Energy"
+      ],
+      "sentiment": "bearish",
+      "source_name": "ZeroHedge",
+      "summary_th": "ความตึงเครียดในตะวันออกกลางส่งผลให้ราคาน้ำมันและราคาดีเซลในสหรัฐฯ พุ่งสูงขึ้น โดยราคาน้ำมันยังคงเหนือ 4 ดอลลาร์ต่อแกลลอนในเดือนสิงหาคม ขณะที่ปริมาณน้ำมันดิบในคลังลดลงและโรงกลั่นทำงานเต็มกำลัง ส่งผลกระทบต่อซัพพลายเชนและราคาสินค้าโดยรวม",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ราคาน้ำมันและราคาดีเซลพุ่งสูงจากความขัดแย้งในตะวันออกกลาง",
+      "url": "https://www.zerohedge.com/markets/dont-repress-me-much",
+      "watch_next": "ติดตามสถานการณ์ความขัดแย้งในตะวันออกกลางและผลกระทบต่อตลาดพลังงาน"
+    },
+    {
+      "category": "Macro/Fed",
+      "impact": "high",
+      "key_numbers": [],
+      "rank": 3,
+      "sectors": [],
+      "sentiment": "neutral",
+      "source_name": "CNBC Top News",
+      "summary_th": "รายงานการจ้างงานเดือนสิงหาคมจะเผยแพร่ในวันศุกร์นี้ หลังจากช่วงฤดูร้อนที่ตลาดแรงงานมีความเงียบเหงา ข้อมูลนี้จะเป็นตัวชี้วัดสำคัญสำหรับทิศทางนโยบายการเงินของ Fed และสภาพเศรษฐกิจโดยรวม",
+      "tickers": [],
+      "time_horizon": "immediate",
+      "title_th": "รายงานการจ้างงานสหรัฐฯ เดือนสิงหาคมใกล้เผยแพร่",
+      "url": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html",
+      "watch_next": "ติดตามรายงานการจ้างงานเดือนสิงหาคมและผลกระทบต่อนโยบาย Fed"
+    },
+    {
+      "category": "Regulation",
+      "impact": "medium",
+      "key_numbers": [
+        "15"
+      ],
+      "rank": 4,
+      "sectors": [
+        "Financials"
+      ],
+      "sentiment": "neutral",
+      "source_name": "SEC Press Releases",
+      "summary_th": "คณะกรรมการกำกับหลักทรัพย์และตลาดหลักทรัพย์ (SEC) เสนอให้ยกเลิกกฎ 'pay-to-play' ที่จำกัดการให้บริการที่ปรึกษาการลงทุนแก่ลูกค้ารัฐบาลหลังจากบริจาคการเมือง เนื่องจากกฎนี้ก่อให้เกิดผลกระทบที่ไม่ตั้งใจและความยุ่งยากในการปฏิบัติ",
+      "tickers": [],
+      "time_horizon": "long-term",
+      "title_th": "SEC เสนอเลิกกฎ 'pay-to-play' สำหรับที่ปรึกษาการลงทุน",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-85-sec-proposes-rescission-political-contribution-rule-investment-advisers",
+      "watch_next": "ติดตามความคิดเห็นสาธารณะและการตัดสินใจขั้นสุดท้ายของ SEC"
+    },
+    {
+      "category": "Regulation",
+      "impact": "medium",
+      "key_numbers": [
+        "2025",
+        "2026"
+      ],
+      "rank": 5,
+      "sectors": [],
+      "sentiment": "neutral",
+      "source_name": "ZeroHedge",
+      "summary_th": "ผู้พิพากษาศาลแขวงแมริแลนด์ได้สั่งระงับคำสั่งประธานาธิบดีทรัมป์ที่พยายามยุติการให้สัญชาติอัตโนมัติแก่เด็กที่เกิดในสหรัฐฯ จากการท่องเที่ยวคลอดบุตร โดยอ้างว่าขัดต่อคำตัดสินของศาลสูงสุดและรัฐธรรมนูญ",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ศาลสหรัฐฯ สกัดคำสั่งประธานาธิบดีทรัมป์เรื่องสัญชาติเด็กเกิดในสหรัฐ",
+      "url": "https://www.zerohedge.com/political/biden-judge-blocks-trumps-latest-birthright-citizenship-order",
+      "watch_next": "ติดตามความเคลื่อนไหวทางกฎหมายและนโยบายสัญชาติในสหรัฐฯ"
+    },
+    {
+      "category": "Earnings",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 6,
+      "sectors": [
+        "Tech"
+      ],
+      "sentiment": "bullish",
+      "source_name": "CNBC Markets",
+      "summary_th": "Broadcom ประกาศแนวโน้มผลประกอบการที่แข็งแกร่ง โดย CEO เน้นย้ำการเติบโตผ่านการลงทุนในห้องปฏิบัติการ AI ซึ่งสะท้อนถึงความสำคัญของเทคโนโลยี AI ต่อการเติบโตของบริษัทและตลาดเทคโนโลยีโดยรวม",
+      "tickers": [
+        "AVGO"
+      ],
+      "time_horizon": "short-term",
+      "title_th": "Broadcom รายงานผลประกอบการแข็งแกร่ง พร้อมแผนขยายธุรกิจ AI",
+      "url": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
+      "watch_next": "ติดตามผลประกอบการและแผนลงทุน AI ของบริษัทเทคโนโลยีอื่นๆ"
+    },
+    {
+      "category": "Macro/Fed",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 7,
+      "sectors": [
+        "Financials"
+      ],
+      "sentiment": "bullish",
+      "source_name": "WSJ Markets",
+      "summary_th": "อัตราผลตอบแทนพันธบัตรรัฐบาลสหรัฐฯ ปรับลดลงต่อเนื่อง เนื่องจากตลาดลดความคาดหวังที่ Fed จะขึ้นอัตราดอกเบี้ยในการประชุมครั้งถัดไป ส่งผลให้ต้นทุนการกู้ยืมและความผันผวนในตลาดลดลง",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "อัตราผลตอบแทนพันธบัตรสหรัฐฯ ลดลง ขณะที่โอกาสขึ้นดอกเบี้ย Fed ลดลง",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeDdVdDUwWVFObHJ0OVRIUlZqQmVKVmdSQkpyeUZWTlozWDI3Wk8wSGpycnJLNmFLeDhQd2xjenNDQlYwZnBQV055Rk16dWVxMWMzMGxUT0xSNTJxelhWcEQ0VWNEUy10bkRHTG5sOWJIUGJsR0xtdzdvRFIzTVBzMXp6YVFaWHY5SmZZODFWTjdjR3FXUEJVSUFzNDFEZw?oc=5",
+      "watch_next": "ติดตามการประชุม Fed และข้อมูลเศรษฐกิจใหม่ๆ"
+    },
+    {
+      "category": "Commodity",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 8,
+      "sectors": [
+        "Energy"
+      ],
+      "sentiment": "neutral",
+      "source_name": "CNBC Top News",
+      "summary_th": "ราคาน้ำมันปรับตัวเล็กน้อยหลังเหตุการณ์อิหร่านยิงขีปนาวุธใส่คูเวต แม้ความตึงเครียดยังคงสูง แต่ตลาดน้ำมันยังคงรอดูสถานการณ์อย่างระมัดระวัง เนื่องจากซัพพลายเชนและความต้องการน้ำมันยังได้รับผลกระทบจากความขัดแย้ง",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ราคาน้ำมันนิ่งหลังอิหร่านยิงขีปนาวุธใส่คูเวต",
+      "url": "https://www.cnbc.com/2026/09/03/oil-price-today-iran-war-strait-hormuz.html",
+      "watch_next": "ติดตามสถานการณ์ในช่องแคบฮอร์มุซและผลกระทบต่อตลาดน้ำมัน"
+    },
+    {
+      "category": "Commodity",
+      "impact": "high",
+      "key_numbers": [],
+      "rank": 9,
+      "sectors": [
+        "Energy",
+        "Consumer"
+      ],
+      "sentiment": "bearish",
+      "source_name": "Reuters US Politics",
+      "summary_th": "ราคาน้ำมันดีเซลในสหรัฐฯ ทะยานสู่ระดับสูงสุดเป็นประวัติการณ์ เนื่องจากความขัดแย้งในหลายพื้นที่ส่งผลให้ซัพพลายเชนพลังงานตึงตัวมากขึ้น ส่งผลกระทบต่อราคาสินค้าและบริการที่ใช้ดีเซลเป็นเชื้อเพลิงหลัก",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ราคาน้ำมันดีเซลในสหรัฐฯ ทุบสถิติสูงสุด amid ความขัดแย้งที่เพิ่มขึ้น",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZHF2Z29UenJROHZ5YlJpTFBHM1pmWmdNaWROSnhyNlhDVVZmVGVXTkRaT1k4N1NBY1B1YUhDbmE2SGQ2TllTNExHWk9JT1JCWHRKQnVpZEx5SVVNZHdhc2tsbEEtWG01Ty1QUXpMSWdWR3NuQTVQaWNhLUViMXkzRl9WNk81bDdiVk5tb1hPeVBMczFGaWVmaTNzWEdYZ29P?oc=5",
+      "watch_next": "ติดตามราคาพลังงานและผลกระทบต่อเศรษฐกิจผู้บริโภค"
+    },
+    {
+      "category": "Regulation",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 10,
+      "sectors": [
+        "Financials"
+      ],
+      "sentiment": "bearish",
+      "source_name": "NYT US Business",
+      "summary_th": "Leon Black อดีตผู้บริหารบริษัทการลงทุนชื่อดัง ยื่นฟ้องคณะกรรมการสภาคองเกรสที่กำลังสอบสวนเกี่ยวกับความสัมพันธ์กับ Jeffrey Epstein ซึ่งอาจส่งผลต่อภาพลักษณ์และความเชื่อมั่นในวงการธุรกิจและการเมืองสหรัฐฯ",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "Leon Black ฟ้องคณะกรรมการสภาคองเกรสสอบสวนคดี Epstein",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUFVpSnFTTkVsUDhWZEFXMHhzWlR3czhsdEdnRG5wTzM1MzExdFU3WFFIb3hXcU15LTRYSk84VDY1VUdYdTJGNTQ3VVpwaWRjQjZuLVhfU0NxNVJJbERJcGJKRmlnYlAxMUp6SkR2cjVYQXlDaWhqYkprVGdRaFkxY1pqbFVXNkI3SnZtZGZQRHY3NWJpQi1zamJiYjY4VzJYUE1kZFAzV0dFZw?oc=5",
+      "watch_next": "ติดตามความคืบหน้าคดีและผลกระทบต่อตลาดการเงิน"
+    }
+  ],
+  "model_used": "openai:gpt-4.1-mini"
+}
