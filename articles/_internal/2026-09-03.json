@@ -1,0 +1,219 @@
+{
+  "articles": [
+    {
+      "published": "2026-09-03T18:19:56+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/"
+    },
+    {
+      "published": "2026-09-03T15:35:14+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "ChatGPT, Grok, and Claude all went down at the same time - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUTQzRmk3d2JRWHoyeWtHelBmM0tiMnZKX2lKcDhrYWF3TzBEa2pHVUtxcENQanZGVU9remJ1OVNMa0wxNVBOUkdtdE9fVERuSHE2M2hHbnI3V3pwNUFxTTB4ZjR2YWZ2akFfaGZTRmNrQmg3VUJuZlpFbDRVV3NjaE1XSkNVckw2T2U1ZEJKTmVGN3RL?oc=5"
+    },
+    {
+      "published": "2026-09-03T16:19:42+00:00",
+      "publisher": "LADbible",
+      "source": "xAI / Grok",
+      "title": "ChatGPT, Gemini, Grok and Claude down as AI services experience outage - LADbible",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS19KX3B4T3NZdzhQZURjWDR0N0ZWaGJZNEFUcGt2Sld2bHhWLUFlVjhhLTRjSnVhWGxmUHFNcWpndnI0Q09qakFzX3NDRGZ4blMwLXc2eGlvdUlXR3VOaGtrLXp5MGJuMThPWXpoX0VjZ0hsSFpVWWg1ZkJmRzhzamF1YUNFT2Y2QWRSN3ZPUQ?oc=5"
+    },
+    {
+      "published": "2026-09-03T16:08:32+00:00",
+      "publisher": "developer.nvidia.com",
+      "source": "NVIDIA AI",
+      "title": "NVIDIA PAIR Virtual Inference Router Expands Available Compute on Your Local Network - developer.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM0FtcjkyUWhUaW5OQ3IzVFc0elRBSUUzakwwdnhJRndGLTVKT0YtaTNhMURwanRiVFQtNEhybHpzMDg5c1VUX2dfc0xxMEJLUGpJSTVnZDdmNTJTMzg0LUxWdDFheGkwNU5xVVBTb0NNT2dveUliMmRsSWxQQXpKRGVsZFY4cm1jT0RhNmpvdGY3OTJVN0ZpMWczQ3NOR2ZDbFhCc1JsM0ExUjlyRlhUVTgxMXltQkhvdVJv?oc=5"
+    },
+    {
+      "published": "2026-09-03T18:38:42+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "OpenAI launches new Astra model amid growing scrutiny over agents' safety - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbEhVLUYyaUZ3dDB0UGpFemVFREl1RkE0Q2FldS0zQmNQVVNudlNULXg3RXlVdjBId2lKSUJSdGllakNFNzJTMUstb2R1Nm1NQ2R6UEQxZkw1dzRoRG5NLWE0WlJWVGw3Y3VWUkQ3WHNOd1h3YndNZ0FNQ2NmX0JHZnBjakRjemhjWEtvN1RnbUdRdWtSUGpWTkRnTG1ncmQ3Mk5fTmEycGgxemROWDBMNzZaYnlyUVpsYXVLNnNpMHJVV2s?oc=5"
+    },
+    {
+      "published": "2026-09-03T18:10:50+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "OpenAI, Anthropic, SpaceXAI Hit by Outages for AI Models - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeHgtQ212elYwVVRndlZ0dGI2bWc0N1NNcUFtbU1ieGxLUHFrMWpwRzNlaDBTcG0zd0NpNXhLakxqZ2xKTWo3OENnaGw5LUNXRGVyeGpiTTVDQm5GdWFzbURyT0Q4bE9nN1kzNF9Rb3BpM3VCZTU4S19IYVZKemt1cER4R0J6WXhZMTJLcHktT0dNTVg5THlfR0hFdmZOX3ZaWm41X3ZMN1ZGY0tOY1NSX2Vmbw?oc=5"
+    },
+    {
+      "published": "2026-09-03T16:00:00+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "Nvidia launches free tool that links idle computers into a personal AI data center - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbmp5eHc2N0xxcE8teFNJUlFPeTRzTEJBME9kSV92dG5NVndPTElFcDNHek1INGhoc2tSQl9Jemk5WEdDVnJPN014dmpOUzEweENpVzRIekVaOVhpY1lsZlZna0NOVzE5WVpBNlNHYkQ1N1U3ajE3U3lOSW5ZMVp0UFVleW5kcXdBcXpkY25HMVAzU3FOTHBqN1BDWjV2WGRIcVp5VTVVY2Zvc0tseGJpZmlKSkhfamxhMjdkMllfVWpiUG9JWFFNag?oc=5"
+    },
+    {
+      "published": "2026-09-03T15:55:00+00:00",
+      "publisher": "finance.biggo.com",
+      "source": "xAI / Grok",
+      "title": "Three Major Global AI Platforms Suffer Simultaneous Outages: ChatGPT, Claude, and Grok All Go Down - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IMFVlV2NQOHFRam1MaDZXYml6bFdGY0R1OU1tbUdQSXhWalFuaEF2aXhjQWRlblJ4Y0p6bEVwYTh6QzctdzhQMVNqREp1MUZSUWxEZXhlUjJLV21icDl1emRNQXU4aGRmU1lVUDl3WWlxNXU3WWc?oc=5"
+    },
+    {
+      "published": "2026-09-03T16:01:41+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "Texas Republicans turn against data centers, putting big tech on notice - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnVVV1JaaGRibzZ2d1o5ckdSUWN6RjMxTll5LTBDcGhvUjlTWko3dWJzaTQzX29iOFNqenRwSUg2MkR4UkpjMjJHQzBlZVFOUWk4bXJLNmwxWmhVRW5vWlZUbEl4N3FvbXFoeU4ta1o3UG5wYXZhVk5Sd0JWQUVhZWRTaGRjSDdzbENFNmJodnZmV01SUVhtR1pWeGFQUnBKQWp6cU5lUUZhM3l0ZFBZbGlZX2x3Z2hMSXZXUg?oc=5"
+    },
+    {
+      "published": "2026-09-03T15:00:00+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/"
+    },
+    {
+      "published": "2026-09-03T15:52:38+00:00",
+      "publisher": "Data Center Dynamics",
+      "source": "AMD / TSMC AI",
+      "title": "Bull selected to deliver AMD-powered Lumi-AI supercomputer - Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS1dhdFNRQVc5ZlgwVWRzQk5yc2xncGRQd0M3cE4xcE9NaXdadERSRldsZnNtZHVsdzVINUpFWWxuZEdHa3ZfampMRFFtVjhEbTVGMEN4Y0RLZU9kdHdsTTJVaUNabG91ckJTUEtzaWZkOUtlaURCYzFEVWxmRnhqcU9wYTBfRGp0NWpKdlE0enVtbElvZEo4aUl5YWFxdjR4MVNSYQ?oc=5"
+    },
+    {
+      "published": "2026-09-03T15:00:00+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "DeepMind’s New AI Weather Model Goes Hourly for Power Markets - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdi13LW5fNWs3UXJ5OTVGbmFLcWQ1MjhxbEpITlJ4Z0JZdHY3bTlGZERIMkljUndEOGpiR1ZQLUlrVjNPSWM1bTdlZENUMmZTM3duWjBmV0hZYXhGalYxZUtGLTk3SjdPZ3JjOEpfWWNPMzdzeGs5aERndE5udGpjZWRqZ0M2NGdYUVZPNFpmVnVoRnNnT1RsRmdadXZPNVJkOWs0WkJxMmFzZFBWdTluTEtB?oc=5"
+    },
+    {
+      "published": "2026-09-03T16:04:55+00:00",
+      "publisher": "blog.google",
+      "source": "Google AI Blog",
+      "title": "Use your voice to get more done in Gmail, Docs, and Keep - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ1ladVJQOEdFbEpDekU2WDZmb21PYW5qSkZWNnNRRjNoV1JEM0NBUjQ3TDlfNVdQX1JlVEkxQUc5aW5zVFlMRFhZV3Q3WXczN0V0UWJjWjZ5UEFtakRlQ3V3LWt1TUg2RzVCb0ZOWDRWZkxqQ2lJNWhwZXQzZk4zdDkyU1ZIWWQxMFhub2N0Q3FLVU9sZXBrbg?oc=5"
+    },
+    {
+      "published": "2026-09-03T13:22:36+00:00",
+      "publisher": "Pluang",
+      "source": "AMD / TSMC AI",
+      "title": "AMD posts strong data center growth while Nvidi... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBbThUc0F6T3dmRFZYR0s1Nm5pQy1GaTBMNzcxMnFDZHRoMExESWhjN0lrTUdHS1lTVW9WbjB6U2tnUVVEOHRSYVlrNDN0VWNzbFJIc2pGSzFMeEhNOHdfZDJpWmxBZFBMQ05SMHRENXl0ZHpoSGpBRkk3dDROQQ?oc=5"
+    },
+    {
+      "published": "2026-09-03T16:00:00+00:00",
+      "publisher": "Microsoft",
+      "source": "Microsoft AI",
+      "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX1lySXFOZDRveklMdlJwY3pNcXQ1NVhiZEFJbktacklPZFZ1N1VkSTBNUnI4bXRENFF5MHBQcVNoVkctX0k3c0k0bm5EdXFfMWZNZ0hnRld2M1BHaXdDZUJmeVJrVWlaelN0bWVVRnVtMGxfZE1uZkItNDJpaS1Id2xxRTc5YzZfUExXbmEtX1ZGbzA3N1plckctWUZ4eEZvZ1lEcDdLcnYzSTJvSTczYXBTcW95TDJKZTV0S29fU0tTWEdNeGpPdklScw?oc=5"
+    },
+    {
+      "published": "2026-09-03T17:15:01+00:00",
+      "publisher": "Unite.AI",
+      "source": "Microsoft AI",
+      "title": "MAI-Transcribe-2 Tops FLEURS Benchmark Across 60 Languages, Microsoft Says - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVGNHRWlWTGZwYnVkU01aNVpScEluaTR3NDB6dFRhS3F2dDhBZi1wVzlaYVNSbVYzRUxRenRuR25RRmpXUVkyX1Y5SFVSVkdyZjItejkyaGNkcWUwd1NUZm1rSkZMb2EzQlVYUTlOcGg0eWswNFY2WFdEbTdmeUJZV0NRa3dMV0FGdDhqQndQdmN1aE0tV0dCS2VZTQ?oc=5"
+    },
+    {
+      "published": "2026-09-03T16:54:46+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "Hugging Face attack is a wake-up call about the risks of AI - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaXVwSzdWSF9RZ3dRYmtRSTJYY1NkVmdRUmMyc1JockFyZm5fZ214Nkl2SHk1cVFvaDlsQ01Pei1mNHk2OXRpSXRaVGlrSVloVENWSl9NbE1tY3RxSHlrOGJlS2lwZTBHX3hodTZRMGFfUjM5eFg3OEthVEJLNEstSnFMMXc?oc=5"
+    },
+    {
+      "published": "2026-09-03T09:30:32+00:00",
+      "publisher": "technologyreview.com",
+      "source": "MIT Tech Review AI",
+      "title": "Scaling agentic AI pilots across the enterprise - technologyreview.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdm9nZWEwQmhJSWdKTWVFMEZiTkhkSnBpckdTRmwzYjFoMFVYRldMVFhiQkkxVFYzR25mSkhlVmZ2cGlpbjNMWmltMS0zc1ZzVTJVVlVPd0dpbzdLa1JMNlJzMmN2YjY0aEYwd3Z2UzA4SkdVOU9PWm9lYzJ6SDU2eTExOTlvWGhINlo0OHhTdy1ocnY1dElRX3MxaW12c3djb2fSAacBQVVfeXFMUHlyUGpUUllxWXZXZC1HTnJ0ZDVzWkhoR1NTQURpZFlxWVc3aUpvUWRuRm5seHAwWTM3eklWRW9nMDh5b1hhTFQzVWI3dVQ4V2h6YkhYTExzYXFPUV8tMi1GX010WXdDQWowbDMtRTZfVXVTSXNIa1U1Q0JUZEphOWhBTGFGRG9QaVFsTkJ5T3k3a3V4R1hlc2E1U1FkdmNJYS1lMm5fUlE?oc=5"
+    },
+    {
+      "published": "2026-09-03T16:00:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "Lenovo’s Project AeroBlade Fanless Laptop Takes Thin and Light to the Extreme - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QeVBIdV9WYzgzOC11aFRZNnNBN1R5VXJFeU1PaEJEbnJrUTdvbkdsX2lrOHg2dlhuT2gyZk1QbXV4Wk5pNmFKYVpZcHc1UkxYUWRJdmNIYW5LYUZPTG9NWjNjd3dvUmFOVk5QQWtJRQ?oc=5"
+    },
+    {
+      "published": "2026-09-03T11:30:01+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "Is AI affecting what people choose to study? - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUUFqT3pVWnJPQVpEckRBbkg5Z2FHaWVaanRPaVY3UUhsYVRYNzA4ejBiWlRMOFFBMFpJeEs2TlA1TzJ1azczNGx0ZUlDdnNwekt4ak04bEU3NTE0ZzlQSDFwa0NnLVk4N0hMTmdFTFdNYUpCb2stSl9SRGxmdmw1dXh2Q0s?oc=5"
+    },
+    {
+      "published": "2026-09-03T11:00:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "Ugly AI Food Photos Are Only the Beginning - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QSFdOTjVCOUZvRFB3MXhXVUpvODNjNmRDcmUxTFRaa2VxcUNXbV9NNkxCZDluYlNXX3Z2YlNDTnNfZ0xjUHRxQ1RuMzI1SVhqeU5CQVdPSVU1dVliX2VwVTU3Q1pRRFJvaUxYa1dZY0xIU0Q2RzFhWE5TOA?oc=5"
+    },
+    {
+      "published": "2026-09-03T15:56:15+00:00",
+      "publisher": "Quantum Zeitgeist",
+      "source": "Quantum Computing",
+      "title": "IBM Hires MIT Grads To Speed Up AI And Quantum Work - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JWFhxamFHN0h1YW5wOWsxM0tPZUdnZUtjdzROWW9xdm5ESzNRbkxPZUhQZ19KX1dtRDdlM3JUeVJZbzR6S3g5amdDalJlMTZZS2pHVkJoaGZjWHo1VTJmSU9oMXdzSDQ?oc=5"
+    },
+    {
+      "published": "2026-09-03T17:07:47+00:00",
+      "publisher": "Macau Business",
+      "source": "Quantum Computing",
+      "title": "Quantinuum Signs Non-binding MOU with Aramco to Explore Synergies Leveraging Industrial Quantum Computing Research, Applications, and Expertise - Macau Business",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxON1RiR2hRck9DTVFMSjhITEtDNkxYd21zQ2prX3gwcmdpZVlXdW5pZDMtT0JVVEdDek9sV0RtWnY0RlB2dTV3TktPNkJ2S08tQ2MxbzQ0TmJFX2VfWDlRbE9oTUkxMTA4RGVja1A3WDYwRHZPeFVOd1MxRVhRcWgzdi1LaVk0VEVvMmROUjVkd0tyeVNEY04tZGk1VGUtSjRrbkVhdWZpdUlDNmF5djJWa1NSQzRVWFFRTE5hZEdMZW9SbnRDY3NRc1FXNXNpc2hYcG1IbmlqNlc5cTlWa3pLQkwybXZaZTI0V2dscmdDU09FYmd1Z3hhU1NqNFFENWE3?oc=5"
+    },
+    {
+      "published": "2026-09-03T13:13:48+00:00",
+      "publisher": "Hugging Face Blog",
+      "source": "Hugging Face Blog",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "url": "https://huggingface.co/blog/Hcompany/neomme"
+    },
+    {
+      "published": "2026-09-03T12:10:00+00:00",
+      "publisher": "technologyreview.com",
+      "source": "MIT Tech Review AI",
+      "title": "The Download: rethinking child safety and fossil-fueled farming - technologyreview.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWJpZTdDMnFyU0RvTDVrcWUzYmxpNC1rR3h6WVZuVGRfX0kyaEJVdWNCb2w4TnBZbVd4WGFiMVRCdVh3bFZvenczNm9mdWw0MjVWMzVWTEdRV0ZXS2IxNHFUTDg2LW1WSkhoOTY2aUoxZ3I0eDZuUnpSbk5kSkZiR3dqM3JmNTQxd0ZxdkxOWUxGclJfZXd3YWM1U3YyaW4xdDZxNGFzbGptTFp5YzV3OC1ydzRYSW13?oc=5"
+    }
+  ],
+  "date": "2026-09-03",
+  "generated_at_utc": "2026-09-03T21:10:29Z",
+  "items": [
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "Meta เปิดตัวโมเดล Muse Spark พร้อมแผนราคาพิเศษที่ลดสูงถึง 95% สำหรับผู้ใช้ที่ยินยอมแชร์คำสั่งและผลลัพธ์กับบริษัทเพื่อช่วยฝึกสอนโมเดลในอนาคต ส่งผลกระทบต่อผู้ใช้และองค์กรที่ใช้ AI ของ Meta โดยตรง",
+      "title_th": "Meta เสนอส่วนลดใหญ่สำหรับผู้ใช้ที่แชร์ข้อมูลการใช้งาน AI เพื่อพัฒนารุ่นใหม่",
+      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "why_it_matters": "เป็นแนวทางใหม่ในการแลกเปลี่ยนข้อมูลผู้ใช้กับราคาที่ถูกลง ช่วยเร่งพัฒนา AI และอาจเปลี่ยนวิธีที่องค์กรใหญ่จัดการข้อมูล"
+    },
+    {
+      "source": "LADbible / xAI / Grok",
+      "summary_th": "แพลตฟอร์ม AI ยักษ์ใหญ่ OpenAI, Anthropic และ xAI รายงานเหตุขัดข้องพร้อมกัน ส่งผลกระทบต่อผู้ใช้ทั่วโลกและชี้ให้เห็นความเปราะบางของโครงสร้างพื้นฐาน AI ที่พึ่งพากันและกัน",
+      "title_th": "บริการ AI ชั้นนำระดับโลก ChatGPT, Claude และ Grok ประสบปัญหาขัดข้องพร้อมกัน",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS19KX3B4T3NZdzhQZURjWDR0N0ZWaGJZNEFUcGt2Sld2bHhWLUFlVjhhLTRjSnVhWGxmUHFNcWpndnI0Q09qakFzX3NDRGZ4blMwLXc2eGlvdUlXR3VOaGtrLXp5MGJuMThPWXpoX0VjZ0hsSFpVWWg1ZkJmRzhzamF1YUNFT2Y2QWRSN3ZPUQ?oc=5",
+      "why_it_matters": "แสดงให้เห็นความท้าทายด้านความเสถียรและความน่าเชื่อถือของบริการ AI ที่ผู้คนและองค์กรพึ่งพาอย่างมาก"
+    },
+    {
+      "source": "NVIDIA AI",
+      "summary_th": "NVIDIA PAIR ช่วยกระจายงานประมวลผล AI ไปยังคอมพิวเตอร์หลายเครื่องในเครือข่ายภายในบ้าน เพิ่มประสิทธิภาพและความเร็วของงาน AI โดยไม่ต้องเปลี่ยนแปลงซอฟต์แวร์ของเอเจนต์เดิม ผู้ใช้ทั่วไปและนักพัฒนาสามารถเข้าถึงได้",
+      "title_th": "NVIDIA เปิดตัว PAIR เครื่องมือเชื่อมต่อคอมพิวเตอร์ในบ้านเป็นศูนย์คำนวณ AI ส่วนตัว",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM0FtcjkyUWhUaW5OQ3IzVFc0elRBSUUzakwwdnhJRndGLTVKT0YtaTNhMURwanRiVFQtNEhybHpzMDg5c1VUX2dfc0xxMEJLUGpJSTVnZDdmNTJTMzg0LUxWdDFheGkwNU5xVVBTb0NNT2dveUliMmRsSWxQQXpKRGVsZFY4cm1jT0RhNmpvdGY3OTJVN0ZpMWczQ3NOR2ZDbFhCc1JsM0ExUjlyRlhUVTgxMXltQkhvdVJv?oc=5",
+      "why_it_matters": "นวัตกรรมนี้ช่วยเพิ่มพลังประมวลผล AI ในบ้าน ลดคอขวดและขยายขีดความสามารถของ AI agent โดยไม่ต้องลงทุนฮาร์ดแวร์ใหม่"
+    },
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "Google DeepMind และ Google Research เปิดตัว WeatherNext 3 โมเดล AI สำหรับพยากรณ์อากาศที่มีความละเอียดสูงถึง 5 กิโลเมตร และสามารถพยากรณ์รายชั่วโมงได้แม่นยำกว่ารุ่นก่อนและระบบพยากรณ์แบบดั้งเดิม ส่งผลต่อผู้ใช้ทั่วไป นักวิจัย และอุตสาหกรรมที่ต้องการข้อมูลอากาศแม่นยำ",
+      "title_th": "Google DeepMind เปิดตัวโมเดลพยากรณ์อากาศ AI ใหม่ที่แม่นยำและรวดเร็วขึ้น",
+      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "why_it_matters": "เป็นก้าวสำคัญของ AI ในการทำนายสภาพอากาศที่เร็วและแม่นยำขึ้น ช่วยลดความเสี่ยงและวางแผนได้ดีขึ้นในหลายภาคส่วน"
+    },
+    {
+      "source": "Microsoft AI",
+      "summary_th": "Microsoft AI เปิดตัวโมเดลถอดเสียง MAI-Transcribe-2 ที่ทำคะแนนสูงสุดในมาตรฐาน FLEURS ครอบคลุม 60 ภาษา ด้วยความแม่นยำสูงและความเร็วในการประมวลผลที่เหนือคู่แข่ง เหมาะสำหรับงานถอดเสียงทางการแพทย์ กฎหมาย และการช่วยเหลือผู้พิการ",
+      "title_th": "Microsoft เปิดตัว MAI-Transcribe-2 โมเดลถอดเสียงพูดที่แม่นยำและรวดเร็วที่สุดใน 60 ภาษา",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVGNHRWlWTGZwYnVkU01aNVpScEluaTR3NDB6dFRhS3F2dDhBZi1wVzlaYVNSbVYzRUxRenRuR25RRmpXUVkyX1Y5SFVSVkdyZjItejkyaGNkcWUwd1NUZm1rSkZMb2EzQlVYUTlOcGg0eWswNFY2WFdEbTdmeUJZV0NRa3dMV0FGdDhqQndQdmN1aE0tV0dCS2VZTQ?oc=5",
+      "why_it_matters": "โมเดลนี้ช่วยลดต้นทุนและเวลาในการถอดเสียงหลายภาษา เพิ่มประสิทธิภาพงานด้านเสียงในหลายอุตสาหกรรมทั่วโลก"
+    }
+  ],
+  "model_used": "openai:gpt-4.1-mini"
+}
