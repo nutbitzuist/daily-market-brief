@@ -1,0 +1,219 @@
+{
+  "articles": [
+    {
+      "published": "2026-09-08T07:50:58+00:00",
+      "publisher": "NVIDIA",
+      "source": "NVIDIA AI",
+      "title": "Agentic Inference: What It Is & Examples - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12S1FKNzU0MVc1bUtwaFQ0aHRPWVJidzNCYmluSk43R25DQWV0bDdxZVhwX2JwbmcyYndGbU5uS05YSkQ4TkhWWU9aY2RLM3kxNzN6bTUzWEFBbWNGZi1IdEo1RVhnWHNw?oc=5"
+    },
+    {
+      "published": "2026-09-08T14:10:37+00:00",
+      "publisher": "NVIDIA",
+      "source": "NVIDIA AI",
+      "title": "RTX PRO 5500 Blackwell Workstation GPU - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTUFUTndWZ1hPU0tWcVJpRzkxQkRuRUVfQm5QdktiTjdNQnlmSU8xa3ZKUlJzTmZ4NkY3dmdBcFdfY1hWVEdHd3JoSGFab1ZfNzRBckd5ZmViVjJIRGFLbXdOSGNmOFNWZTY3ckRqSkVlZTBrRE1STHN6ZlFyVXNabzR5QnlPWC0xOWtOQ1p0T1RvNTFB?oc=5"
+    },
+    {
+      "published": "2026-09-08T21:03:35+00:00",
+      "publisher": "OpenAI",
+      "source": "Microsoft AI",
+      "title": "GPT-6 Astra: A new generation of intelligence - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5"
+    },
+    {
+      "published": "2026-09-08T16:32:48+00:00",
+      "publisher": "SD Times",
+      "source": "Microsoft AI",
+      "title": "OpenAI’s GPT-6 Astra now available in Microsoft applications - SD Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUXJyQjYwTTFhZ2padzBuUldBcGJETm5XMkFDQjRCbmU5UklQZUoxUWJ2VHpCOFd3Z1hRcEthejBuOGcxVFV5NHBlblgzRVlCMlVVQnctNnlNTE56UzRNN0NUSGFRSTdpSGxIZVBFYTRNRkYyS2hEVlUtcGRuVkJ3VHc3NnR5ZG1HbW9uS3pndmljMkY1?oc=5"
+    },
+    {
+      "published": "2026-09-08T19:00:00+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
+    },
+    {
+      "published": "2026-09-08T19:37:24+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "Meta launches AI agent that can access other apps to send emails, make payments - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS195TVZPeEJJbzNYTEZ0dnI4WGxOWXF2ZlRmbDEyU1VtWnFsd012VXVDd01mRHY3Y3lDOW9pRXRYSXR6R2NqYVM3R0xwMURjZElSZHVkckZidjNoWTh5OWlNWkZGUGJpWnpDSUhUOUxBUEZDTVpwZjFXemxIdTlvanpSMXF2MXo1UkNtN2UtZVdfX3J2ZTdCekREbUxkaFo1MVpLakxOT0ZaeUVoMlhlb2E0Y0dfV2g0bXRNbw?oc=5"
+    },
+    {
+      "published": "2026-09-08T17:27:31+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN1lmRzFiZGlzRmd5T3A2aUxkUF9hSWN2dFE5MmtOYTVmek1ZeFdLNGQ2M1hYOTllVllwcmM0T21Yc0VOOV9HNlJNQTZoWnFRWTR0RHFOWTB5T19yUDBtR2RsRHlfc2ZBZ3ZHX29mTl9qOGJ4T1pTNUozeHdJbWpxYlF1MmMxOXRkOC13OHBxQklVaHFWR1d5d0UzRk9RZzVkNWtjRzF0ak9wRmc1XzVwQVJEOUtsV3M?oc=5"
+    },
+    {
+      "published": "2026-09-08T20:16:09+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUGJBTkE4dDB6MVE5QTBVMWROS0phak5ORm1EU0V6U3JtTE5JcFRoTUNnc0RXMG9KRTR6Zm16V1haSWV6bnM3dXNYYm5YM2pJT1FwclZoVEFLdnhLNFVkZ3BTcjBtcFdMb0xvSnM1SVJ3VlVaSFYySjl1OFJlUHZvM1FsQUdETTJzXzA4bUFCank0YnlKdkE?oc=5"
+    },
+    {
+      "published": "2026-09-08T14:17:48+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
+    },
+    {
+      "published": "2026-09-08T06:57:09+00:00",
+      "publisher": "深潮TechFlow",
+      "source": "xAI / Grok",
+      "title": "GPT-6, Claude, and Grok roll out successive upgrades as the AI model war enters its second half. - 深潮TechFlow",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fTjRSRlVaXzA4U0J6eG5lVDF4Q3prdGd2NjljNU5ibVUzWkFBb2VTVWZTcnVFLUVxX2Q4eFVVbzROcGk4dXlvQXkyUU95blQtMFVXLV9VT2I0UQ?oc=5"
+    },
+    {
+      "published": "2026-09-08T15:21:03+00:00",
+      "publisher": "blog.google",
+      "source": "Google AI Blog",
+      "title": "Missouri and Google partner on AI and career training - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcTluMjQ0V1hlYjg0VC1iRlFwTU93NVk0QkQwdUxBeWgwUUdEU0ZZdTJtV3hRMHRIc1hPT0ZpODhqOThyRDdwOGJ6cGJ0TVk2cHZ0QVRsT0xmQ2hvbDRHVUNDQll1VW9qZm8zVTVHMjZlYUdJWjNhYjJnYVlIbWczS1lCMFRFRUJhaXVQWGFtRG5nN2l4UzYwWHFDSXZJTFJw?oc=5"
+    },
+    {
+      "published": "2026-09-08T15:21:03+00:00",
+      "publisher": "blog.google",
+      "source": "Google AI Blog",
+      "title": "We’re helping put 25 new electric semi trucks on the road in Texas. - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOekhPSGhjX1BwTExYV3hZZ3hMZW9HMHFhWjdOanZkN2ltdHNXMXp1Vk5QN2ZMVVE5aE9pLVNDMERCWDA2X3BDdmtEZGdfSExXQV9FY05zdXV6TkNwU3k3YXgzTk0wb05fZklnRFh6NEVWTDBqOWswc1FIMzBiemtRMGh6bzZCRFdmZVpoOFFNWElpOS1FNm1sSFgyd2s1Z3ZFOXc?oc=5"
+    },
+    {
+      "published": "2026-09-08T19:35:43+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "US accuses Chinese AI firms of 'malicious' copying of AI technology - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFVxbU42ZUIyUVJ3Zlc4QWJsV1h6bDIzSjBTcHRJX2ZqSXF6SHhacGZsUnR4Z1p5UE1zcWZEY09zN0Y1RFpnVlByU281QWNTeS1KTDhIMUlMU2tCVFZKUU1fUjBsck0yWGpNUTA3dXY0LTV6bG90X2VGanJkbmstOGEzMkhYVC1vOTM2Vzh4OWJieEFkWUVQNUVZVks0OW96OGhWTjBhZldSUlNxcGh4LQ?oc=5"
+    },
+    {
+      "published": "2026-09-08T17:32:00+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "AI Startup Cognition Raises $2 Billion at a $48 Billion Value - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX1ljLXNmeGJFRWE1ZXcyYXRvZlFTcjE1aUxEZTZUV2JJVDFReVhZYWlwUHBTckRjV18yOG5DQUVjcnJTQ2dqVTVfQVZDaTMxbnJXUGV2WDNzOWFZSGpNbHNJdURUWkQxNV9xQ2Y2aVFiX0lrUXZoMnlpclpISF81c3B1Sm5rRXNrTVcwd0E3aWNScWhmeHNZVjNOcXY4V19MX1Y4SDlvSjkteTVJWDU4?oc=5"
+    },
+    {
+      "published": "2026-09-08T05:00:00+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "Mistral AI Boosts Valuation to €21 Billion in Samsung-Led Round - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUC04eHBZSndveGdwcG9EdUdhRkxyNTBvZ1JYbXNqak9nekdLWW8tMDMxalh2eW9DejdkRWZtMWlGVDM1X3c2YlM1RHFnc21sNTFFLVRLZU81NzdpcjBtTl96MXExY3hEbS1MTjlRTkpDM0FLUnVQRi1ZNEM5dk1lX0p6OUpnWnd4OWI5VDhjaUlfN1loSVVYRUNRSTg1dXY1YUFONkRqVjlLczFuWkdyYllBUQ?oc=5"
+    },
+    {
+      "published": "2026-09-08T16:00:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "Here’s Samsung’s Advice for Apple and Its Upcoming Folding iPhone - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNWZ3UTJFZDZFaEVyYUJRLTZGRDJNS2ljbnRaYU9jV1hZRFRhUXUzcWFTSzlMaTg1Vy1sMXZzMXhvMXB2a1E1RzA3UXY4NWM0SlV3aXVvWkkwR1dFNV8yUDd1YXBEbmdXektVa3BseWhORVpBRzM4UTlSQ1ZsZjdlWTQyQXJpM2ZpWGNSd1hR?oc=5"
+    },
+    {
+      "published": "2026-09-08T20:29:00+00:00",
+      "publisher": "Investor's Business Daily",
+      "source": "AMD / TSMC AI",
+      "title": "TSMC, IBD Stock Of The Day, Rises Above Early Buy Point As Chip Stocks Rally - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTEl2SnlnbnFRcUxfVDF4RGlPQUFNZkN1WHJSbE5LOWwwWEJSOHFkSUgxUm95ZHlFc2VlNXpJQW51MEVzSXVTTXo3d1FBY05uTzlja1JuMDNDZGlXUlhfdTE3dmppTHc5WVcwbHBQM1ZrcnEtMS01Uy0xVC03WWxaUXlxZzZxVnR1VldrVC0xZFQtUQ?oc=5"
+    },
+    {
+      "published": "2026-09-08T20:29:35+00:00",
+      "publisher": "GuruFocus",
+      "source": "AMD / TSMC AI",
+      "title": "AMD Jumps 6.7% While Amazon Opens a $60 Billion AI-Chip Door - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUTBMY1ZxT1N2cEcxMVVENHBlZkRWUXZXaVRSS3J1SUVJVEE3bEJSWmJfR1Z4SFotb3JBejU1eHFPcFZwRWJRUk5OanluZUtsTzJ5c0oyVThhT2swa001LUlfMTUzNWtvXy15NGRBUmpYZF9PX3dZUjA0eHRvb0RGLTVMRzAzbmJTcmtoU0xfTEZwVno3T3F0UmUwRQ?oc=5"
+    },
+    {
+      "published": "2026-09-08T16:23:21+00:00",
+      "publisher": "Amazon Web Services (AWS)",
+      "source": "AWS AI",
+      "title": "Automated agent evaluation with Amazon Bedrock AgentCore and GitHub Actions - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNakNMQjFCZzNoR2t3VXVySFlwMWJ0RzVYeThlTkJuUWZKT2xrN2pDWW1YZVZpS1JIaDl4QlFqNC1obERxLThqRHQ4ODVOLVBnRUhqaFpESVRqMGxGaWd2eDhHNmpkLVNUR0xjMjNHczNhWFRWT2FqcGV4VmwxRmpkUzYzeTZ0ODZZRjhoY2tzdmxZbjkwdjNIUFR6SkZTS0ZWaUE2VVFLZGRXUGFZeTVDSm01eDhtQjJVOGZQQXd1dw?oc=5"
+    },
+    {
+      "published": "2026-09-08T10:41:41+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "Innovation is the answer to Britain’s elusive growth problem - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mVHdZV3oxN0V6REFyZDdpN0dYNkZlSE02T0M5Tk9QdDBmYWZxMl82NzFHYjdTQ056QTNweTdnLUpESVN1N2dXaW1zMy14MlJTb2NvbEtjTWwyZUJRQzdNMTE4b3JKTHJmNDlrajBQZWs?oc=5"
+    },
+    {
+      "published": "2026-09-08T10:00:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "Gen AI Tools Are Now Being Used to Push ‘Slop Jihad’ - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTlV5OEVnRXBuZVZHSVNIUDc5cUdzTHhycHFGZkNiU0UtZV9xLU9zUTU0anEwQjFiZDlVaktROEtVX0FTUTVTZmcwYUpkdW43aFlIMWkwLTlvQk84bW5ZdjczNWpLT3pxckhZV2luY0l6UHVjWmVVVFJFSHdONVNHTmhDbGpuUQ?oc=5"
+    },
+    {
+      "published": "2026-09-08T13:27:35+00:00",
+      "publisher": "Qualcomm",
+      "source": "AWS AI",
+      "title": "Qualcomm Announces Multi-Generational Product Collaboration with Amazon to Build Next-Generation AI Data Center Infrastructure - Qualcomm",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaEg3TlU0dE54MjJpRk1OelViNFJud2hjUnJiOWhnTHVVVjRQUmhKOGcwY0NrZFBndG5fb3ZBRFk4RkZ0eU9VdXNfM3NvZk5SWWdJX0MwTC1UX2N6dzg2dEN5Y3UzVFJyN1hWZUZiWmpHQlNQU1dacG5jLXhJMHBCZmNMcXlfQVJWenhmUHpNMkRYWlpEZXM5OWdoUkIwXzBsQ1lqUlNBM1hhV0xCZDY0TQ?oc=5"
+    },
+    {
+      "published": "2026-09-08T04:00:27+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "AI is ushering in an era of mass toe-treading at work - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcFM3ajFoZ1hCWjlSVmtYUXdXN2tDVWxCMU5XcE1OZURYdHp6ckZmQUljREJKWmNPX1dnTjFMTl9LZ1VWUmk5cVdkVGkwWjdrd1YxWDZLbjRfUDVCLUY1VFV5WHdMdUpoNVZVMjdRQXpOR0lTdktPbjdIbHViQ1NXM3ZncWI?oc=5"
+    },
+    {
+      "published": "2026-09-08T10:34:00+00:00",
+      "publisher": "MIT Technology Review",
+      "source": "MIT Tech Review AI",
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected - MIT Technology Review",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbEg1TmNxM3RmQnJvS3FjT1BESVJfYmdVeVRVMHc0M2RGNmxvX2ttZFZJMHhsbVlVNWVIdFlLYWZOVWpoMFVkdWNteFhaUERWWXhzWktnc19leklqWkxRakIwOERrUE4yOFNGQlRsZ1lRSTFyR2pTVHFNZXZ5Y0hJS1NoZnFKUzBMd1lmWWpRNlgzMzlTNGJqazVLZkzSAaIBQVVfeXFMT1Z4MU9zUHhPVElQQzVlS253M0EwazIxYXp0RHRQUDVMYmxlMnVNMXExWEc4dmdsTUZpY1pGRFFLVlZqcGpFUjRsd081X1BwMGJqZHUwY1NOZmR1cEx1d1gwVEFYeG0wM2M3OUc0WEZhNVd3UW9jUWd1TlRTdGh0Q2tZWWM5R0ZTdTJldGRGQzdTVXRkaGRZRU1YUnRZdlVIMFBB?oc=5"
+    },
+    {
+      "published": "2026-09-08T19:17:17+00:00",
+      "publisher": "The Quantum Insider",
+      "source": "Quantum Computing",
+      "title": "IonQ Uses Investor Day to Detail Superion Roadmap, SkyWater Strategy and Quantum Security Plans - The Quantum Insider",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYUVOdVliSVJEOVBaRGJDbm1aMkdyV3JTRkR1RVdvSzhveEtycGtoMmtZMGRibG5QTHFiaGZxWkpCZHhqc1ZfMmxZT1pjQmVfYUt5a1NCXzAxR3B2Rjg5OG90bzEzaHB0R3RrREZwb2RPaDNLVHZ2b2FKQnJKdlZtVFRzS0J5Tzc5T045UFZLX3NzcUo2MmZ2cTFFSGdoRENoSlJTLVI1dHdQU3FDWnhBY0hla09xOElJUE14dzZiZks2dzM5Z0x4RHFrUTlWc2oyMEE?oc=5"
+    }
+  ],
+  "date": "2026-09-08",
+  "generated_at_utc": "2026-09-08T21:08:56Z",
+  "items": [
+    {
+      "source": "Microsoft AI",
+      "summary_th": "OpenAI เปิดตัว GPT-6 Astra โมเดล AI รุ่นใหม่ที่มีความแม่นยำสูงและความปลอดภัยดีขึ้น เหมาะสำหรับงานด้านคอมพิวเตอร์ วิทยาศาสตร์ และงานมืออาชีพ พร้อมให้บริการผ่าน ChatGPT และ API ในหลายแพลตฟอร์มใหญ่ เช่น Microsoft Azure และ AWS Bedrock",
+      "title_th": "OpenAI เปิดตัว GPT-6 Astra โมเดล AI อัจฉริยะและแม่นยำสูงสุด",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
+      "why_it_matters": "GPT-6 Astra เป็นก้าวสำคัญของ AI ที่เพิ่มประสิทธิภาพและความปลอดภัยสำหรับการใช้งานในระดับมืออาชีพและองค์กร"
+    },
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "Meta เปิดตัว Muse AI ตัวแทน AI ที่ช่วยผู้ใช้ทำงานประจำวัน เช่น ส่งอีเมล จองทริป และชำระเงิน โดยเชื่อมต่อกับแอปและบริการต่างๆ ผ่าน API หรือเบราว์เซอร์ พร้อมให้บริการบนเว็บ แอปมือถือ และ WhatsApp",
+      "title_th": "Meta เปิดตัว Muse AI ตัวแทน AI ส่วนตัวที่เชื่อมต่อแอปต่างๆ เพื่อช่วยงานประจำวัน",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "why_it_matters": "Muse AI เป็นการลงทุนครั้งใหญ่ของ Meta ที่ต้องการสร้างความเชื่อมั่นและเปลี่ยนรูปแบบการใช้ AI จากแชทบอทเป็นผู้ช่วยอัจฉริยะที่ทำงานแทนผู้ใช้ได้จริง"
+    },
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "บริษัท AI ฝรั่งเศส Mistral ระดมทุน 3 พันล้านยูโรในรอบ Series D เพื่อขยายกำลังการประมวลผลและโครงสร้างพื้นฐาน พร้อมเน้นให้ลูกค้าควบคุมการใช้ AI และเลือกภูมิภาคประมวลผลข้อมูลได้เอง เพื่อลดการพึ่งพาเทคโนโลยีจากสหรัฐฯ",
+      "title_th": "Mistral ระดมทุน 3 พันล้านยูโร เสริมแกร่ง AI อธิปไตยในยุโรป",
+      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "why_it_matters": "การระดมทุนครั้งใหญ่ของ Mistral สะท้อนความสำคัญของ AI ที่มีความเป็นอิสระและควบคุมได้ในยุโรป ท่ามกลางความตึงเครียดทางการเมืองและกฎระเบียบ AI"
+    },
+    {
+      "source": "AWS AI",
+      "summary_th": "Qualcomm ประกาศความร่วมมือหลายรุ่นกับ Amazon เพื่อพัฒนาชิป AI สำหรับโครงสร้างพื้นฐานศูนย์ข้อมูลรุ่นใหม่ที่รองรับการประมวลผล AI ขนาดใหญ่และซับซ้อนมากขึ้น",
+      "title_th": "Qualcomm ร่วมมือกับ Amazon พัฒนาชิป AI สำหรับศูนย์ข้อมูลยุคหน้า",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaEg3TlU0dE54MjJpRk1OelViNFJud2hjUnJiOWhnTHVVVjRQUmhKOGcwY0NrZFBndG5fb3ZBRFk4RkZ0eU9VdXNfM3NvZk5SWWdJX0MwTC1UX2N6dzg2dEN5Y3UzVFJyN1hWZUZiWmpHQlNQU1dacG5jLXhJMHBCZmNMcXlfQVJWenhmUHpNMkRYWlpEZXM5OWdoUkIwXzBsQ1lqUlNBM1hhV0xCZDY0TQ?oc=5",
+      "why_it_matters": "ความร่วมมือระหว่าง Qualcomm และ Amazon ช่วยขยายขีดความสามารถของฮาร์ดแวร์ AI สำหรับศูนย์ข้อมูลที่รองรับการเติบโตของ AI ระดับองค์กร"
+    },
+    {
+      "source": "Quantum Computing",
+      "summary_th": "IonQ เปิดตัว Superion แพลตฟอร์มควอนตัม 256-qubit พร้อมแผนการส่งมอบลูกค้าในปี 2027 และเพิ่มประมาณการรายได้ปี 2026 หลังควบรวมกิจการ SkyWater เสริมความแข็งแกร่งด้านการผลิตและความปลอดภัยควอนตัม",
+      "title_th": "IonQ เปิดตัวแพลตฟอร์มคอมพิวเตอร์ควอนตัม Superion 256-qubit พร้อมแผนธุรกิจใหม่",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYUVOdVliSVJEOVBaRGJDbm1aMkdyV3JTRkR1RVdvSzhveEtycGtoMmtZMGRibG5QTHFiaGZxWkpCZHhqc1ZfMmxZT1pjQmVfYUt5a1NCXzAxR3B2Rjg5OG90bzEzaHB0R3RrREZwb2RPaDNLVHZ2b2FKQnJKdlZtVFRzS0J5Tzc5T045UFZLX3NzcUo2MmZ2cTFFSGdoRENoSlJTLVI1dHdQU3FDWnhBY0hla09xOElJUE14dzZiZks2dzM5Z0x4RHFrUTlWc2oyMEE?oc=5",
+      "why_it_matters": "IonQ กำลังผลักดันขอบเขตของคอมพิวเตอร์ควอนตัมและความปลอดภัยไซเบอร์ด้วยฮาร์ดแวร์และกลยุทธ์ใหม่ที่ผสานรวมการผลิตในประเทศ"
+    }
+  ],
+  "model_used": "openai:gpt-4.1-mini"
+}
