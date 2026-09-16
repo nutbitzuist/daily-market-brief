@@ -1,0 +1,219 @@
+{
+  "articles": [
+    {
+      "published": "2026-09-16T17:00:00+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Your AI agents can now control your Google Home devices",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/"
+    },
+    {
+      "published": "2026-09-16T15:00:00+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "published": "2026-09-16T17:04:22+00:00",
+      "publisher": "qz.com",
+      "source": "Microsoft AI",
+      "title": "Mustafa Suleyman warns Anthropic Claude training risks AI control - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORHp3Tl84Rlh6WmxlSHRjRkpacUItdVQ1Y1NmQU5JQjMteWNBTnlYMFBzSXhUSHNfVjYwZmVZM3N2b2R5QVNaNHBORmtSQ0VSS29Fa1ZUWUxLNnNVU1VzS3pid0F5dFEtN0Rlc0lkRGVSODJ4QS1lWkRiMHpIamFZaXZSd1ZyZnc4ZG1LTzZYNkhiZw?oc=5"
+    },
+    {
+      "published": "2026-09-16T16:02:01+00:00",
+      "publisher": "Unite.AI",
+      "source": "Microsoft AI",
+      "title": "Microsoft AI CEO Warns Anthropic’s Claude Training Risks Disaster - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMzdKb3BQekNRdEdoNEdvRG80SEZ2am0yaFAtMXdCUno5eG5QUXJKaHlvT2NHcEFFRjR2YW14emRSZU93WXFlX0ktaW1RZy1OWHlRRk53Q1NDQTBveXRGQ01ndEI2Y3A3UHlrc19FSF9GTEdwdXNLMEMwWEpTTEJUTFQyWVV3ZVg1RnAzRWd0VQ?oc=5"
+    },
+    {
+      "published": "2026-09-16T17:49:35+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "EXCLUSIVE: OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2RNOFJnNVFtSUxoYTBUczVlemRjdHUtYndvcEc0MEF5QTRiRWxSOTFXU1ZqLUFKSjU1QXN2Tnh1TEhWQ195M0dUSTM3WEN3eTVxUlRja2liZmNyYXlrZGpOY2FTMUVzMmxZWkxISHZ1RFVTNUhGdUl6R3o3Y284b0l1VXZyVU9CMlIwLXVRTzVwUG8zSG1lOG4yTFJTQm9mLUFKQWREU08zVFI0VDY3NGNJNEtfQTcwdUtSa0Y5aS1OdUZQZ2czWi1nWFVhdw?oc=5"
+    },
+    {
+      "published": "2026-09-16T17:00:00+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "Google Home is unlocking the agentic smart home — which is great, right? - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdUJlQkVtU1NCNXVYbEFsdVUtd2hsNVJQek5aenpaZ2d6NUoxT0JNdzBlcjRpRW8xTzllaTNyMjBBZktOakFiaVFaTUxKdmZKbUZRM1JyNDdBajZZVXM3UEdDem1CQm13bUdGanlpZjQ0TlFDTDlXaUF0SVIzQ04xOGc5RUFKSFV2S2FUeFB5NUYzUWJUY3ZoMENVaWt1b3dyLU8zMk1aNWM?oc=5"
+    },
+    {
+      "published": "2026-09-16T16:30:00+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "Claude comes for Gemini with its own take on Docs and Slides - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT1hTOUtSanZoNVlpS2tDUF9ydW5XaG5uNjI4NVhlZ0FvcUw4bHYyM21CT1lPeGpjTTFNVmozcnQ1TGZLM2ZuLUlZWkQwSnBpd3JlMnREcW5TWll0UjhLZ1JoMFFmdk44SmpTWEhHV1oteXdUNXg3VW9iZmF6dHVpNHlRaElMa2hBb3I0cVBzWWxxSlI4NzZQV1VVTjExVzA?oc=5"
+    },
+    {
+      "published": "2026-09-16T15:07:09+00:00",
+      "publisher": "NVIDIA Blog",
+      "source": "NVIDIA AI",
+      "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut - NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EQnRiYTgzdlJNMk10Z01wY3daTFRjRm5NWjZ6aUw4X0NhZkZtdWlqMWxMc3ZqeVVUX0MtMl9pTFI0X0pTdEZWenB5NHg1VVpVQi1RSE5tOF82REJGMUFjbUx5WVg3RUxxY0VKa2tSMHp5UQ?oc=5"
+    },
+    {
+      "published": "2026-09-16T12:00:05+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "AI bosses’ safety push sparks rift inside OpenAI and Anthropic - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcHd3YlVDTGFvVHQ3SXY4ZjBBREZ5d1N0YVp4UlBRaVZLRGZhek5kdFlDSlF4UWJXbEpqNVBVMC04RVMwLWZrLWoxaUZ3S0E5eGJLamtBSmdPXzVLU2haamN3YTZFSXc0bHdrcUhtU215aURzVXJMY2tmSW1RRTZhUTJhYW8?oc=5"
+    },
+    {
+      "published": "2026-09-16T12:59:45+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "China's Huawei forecasts billions of agents will dominate AI traffic by 2035 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUmNZcnR3ajkwaEx6LWxLSElZU3o0R3ZsZ0F2QWxNYVlCMWR1R2hmTl9ycm55dEVrSzdreGZ5MTdPNHF1WGJtaFpVczJBei1qLWI4R2NSWjdGWldQNnZXTWQtT1dnVTQtbzFuZnpvMllxRTM1UlJxRnlDOG4tdFJVTEJJUFROSXQwM2s4V0pWZ1NiUmNMZkZpVWtZeVJWZzFVNlJwV1hiRTlfa1A4OFNnOXY5ZU1BQ0JwdWduOFJ1RmhnQXc?oc=5"
+    },
+    {
+      "published": "2026-09-16T14:00:05+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "AI must not outrun safety controls, DeepMind co-founder warns - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbjBfRkhWTFFEYTlOLU56eUkzc2lrT1pCVUVlclZLYWVic3RVaHBQdzEtMENQaFFGa29NNUVJR3NMT0Ita0tUakpfVWY0d1Q2eE1WWGItVFNaYkFXUzJMNEsyYWZKRVVCb0FoWDJEakpabThtYlByRHNBSF8xV3g3X0paWFA?oc=5"
+    },
+    {
+      "published": "2026-09-16T10:42:48+00:00",
+      "publisher": "TrendForce",
+      "source": "AMD / TSMC AI",
+      "title": "[News] Meta Targets 1H27 Deployment for New TSMC-Made AI Chip, Claims Efficiency Edge Over NVIDIA - TrendForce",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMWRZYjJaSmpWLTFva3ZLcV9LMTB0TzlGUU9nMFdwczd4YS1RQktBMzJEOEdSV29uX0wxNVZlNnhaaklkZXVaVTNwV3VVTjV4ZVplaVVNZHlvYnRXSGNHODVyempkeWF0Z3AwWHpTUU5mTDcxUmRNNkZIUk5MdWVGNlZCX0lsSldEVDU5ZGVteWgwMk9ZLUcwaWFRNGFHamhGekdfMmg0ZXJaNUZWRjdPdU9FU1l0RkhsbFEyeklzSV9rSEJuZ1g4Vk4wWlppbmVvSVdUeQ?oc=5"
+    },
+    {
+      "published": "2026-09-16T19:00:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "I Trained a Fly’s Brain to Generate WIRED Story Ideas - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pQ1F6UU15TWZESlFqQ2NKOVFEdXlnUUgxQzRYZGFUOHp5WUphU29HbmtycmFDcFJOMklUdFY2UkhuVEk3b01vdU1TTS1KYjU3Tmlqa3pBN0o2MzBJTE5TNVVIdWhGX1dLa3BDbnBtY3F1ZkE?oc=5"
+    },
+    {
+      "published": "2026-09-16T16:05:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "Chipotle Is Working With Palantir to Track Food Safety Risks - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRjZ2WFF6NTVKSk1aejZlaXJWNi1wUmoxdHBVYnBfWnZmYkF6Ung0YV9fYk1VLXl4dEtXQll2OFJjNGcwclVScl9LblFOeGdOb25oRE1xQ0hPTFY3TU1jc0NUZmppTExSbnRvRHlicXJWa1M5UUxXQnpyMHA0R1dYa3ZFcw?oc=5"
+    },
+    {
+      "published": "2026-09-16T17:26:02+00:00",
+      "publisher": "tech-insider.org",
+      "source": "xAI / Grok",
+      "title": "Grok Imagine Image 2.0 API: 12 Steps [2026] - tech-insider.org",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hVmVRVENXMzlYVmlTZVdKNGdma3I0OHNNQzVuaHg4WlZRYXdzTTV6bEpRNzZaQmdIdGQ2bHIzOWlsaEg3ZkNUbE10M09xRzl2RGR5WGxIbmJQLVpKd0Z6Z2tvVl9SWVNkSUt0a0VR?oc=5"
+    },
+    {
+      "published": "2026-09-16T18:43:26+00:00",
+      "publisher": "TradingView",
+      "source": "AMD / TSMC AI",
+      "title": "Bank of America Makes Massive Call on AI Chip Market - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVjU2YThIS002ZG9oM0VyRGJyUGxfOHBEYTNoWUk5RDVDRGpJaDJIRk1JaW1LeVVCWlBDc3JkXzlZYkNZaUFLMXVQYnk2WjhuZkwxS1FXaktobnZnWkdEaC1kdEpubjFVV1JZbXhlMWdWZExORXlUc1ZFT0Y0YlNabmNPYWJLMnZJcllnWFpiNzVDcEE3eDRkN2ZGTlQ4V3dCZWpOeHZUdmk2REpTRmtYalF3?oc=5"
+    },
+    {
+      "published": "2026-09-16T15:47:39+00:00",
+      "publisher": "Amazon Web Services (AWS)",
+      "source": "AWS AI",
+      "title": "Optimizing agent system prompts with Amazon Bedrock AgentCore - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYWpXNVNRZEpRLW44UncyT0d3NS1vVVFyaXk1TTNuVDdKdG5kTUZiTFVuaE54Mlg3Mks4X1pfUTNpR0ZOaFVrTnE2MXZCWFBpN3M1YW1ZQlFSaDQtUWtZZlpXYjRNc19YQkRLWUYyQkpiekZ3eG5OaE9TM2xuS1IwNmgxYkVPS1VsUWFfTXY2ZkFWOXdCM0pOOTNkd2tXMHhseTVHdFdmNkFRbVNi?oc=5"
+    },
+    {
+      "published": "2026-09-16T10:00:00+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "Zuckerberg Has an AI Empire to Build. Meet the Adviser Who Handles the Details - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWkNFYnhUQnFYempwS0puWklDWUZfazJES0RXVmRoUkEtSmRhTk83ZzZQSHBrVHdnbV9PZXFzclZVYmVkVDFfbXIzSlVTRU9rQXo0Ml9aY0dFaTAzUm9nZW10VVZoQUJoekE1RDBwSXV5S2FPTlpOcHRROEJOYnpXN3ZXMktiMWxwQXNidW9JU0VNU3lwWmotUkRyMUE5M0otWGNtOEtWUjZQZDZUWFNXWDZuNm1nUDZFcWFlYy1TWQ?oc=5"
+    },
+    {
+      "published": "2026-09-16T11:30:08+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "AI-Fueled Profit Growth Set to Flow Through Every S&P 500 Sector - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS1pVbUxHTVJ5TEJ0bE0tUm90c19nLUMzSW0wWDFRRUI3Q09pTmJDSzVjdTdXUE5RSWU5SVZhd21tZm5XZHRXYkc3TzJabWJGQ19oOHN2ZDc1YlRYX1pwVmZzYThIbVc2MWRvR3o3N3VhQ21wMm1hSm02Z3NoVHNLcFhHMHpZRTl3X0FVMUVjQVJ0NllUTXoydGxzU1doZEZzdXZZQkRWTzg4a0hwX2E0TE9OelRuQQ?oc=5"
+    },
+    {
+      "published": "2026-09-16T20:48:45+00:00",
+      "publisher": "shattered.io",
+      "source": "AWS AI",
+      "title": "Bedrock vs Azure Foundry vs Vertex AI: $50 Gap [2026] - shattered.io",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sVzBGUE5COU8zdXlKdGtvUmFHTUpnamRBWjdWWVVYeW1TNzhxcll5QmFZdXVQNGQ3RHRuZElXSUlDT183SjJZellCVkxFY3dCcDZqR0I0VUlNZGFtNGdPXzFYWlVTX0RlVXRwNk9nWlZ3WGd1WkE?oc=5"
+    },
+    {
+      "published": "2026-09-16T17:59:53+00:00",
+      "publisher": "The Quantum Insider",
+      "source": "Quantum Computing",
+      "title": "IonQ and ORNL Demonstrate Generative AI for Quantum Optimization - The Quantum Insider",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWJqQlc1dGdXZm95ZlprUFVPQzJfRzRpbkVtcjF0c3BEMnoweUJXMS1ObndnNnprMlV6WGFiUWhnWnB3dVBLaHAwWHpyY2F2czFtLWtTVDFxclR5aVBDenduSF9iQVRfLUROZnNLVHZQLWVhczhVX1YzQk5sSVdjXy05Wm9iaGN1ZENJUS1DNzQ0RXVzeFh5OHdIcjZpWWtXbWVB?oc=5"
+    },
+    {
+      "published": "2026-09-16T12:46:00+00:00",
+      "publisher": "TradingView",
+      "source": "Quantum Computing",
+      "title": "IonQ Gains Recognition in QCE26 Across Multiple Technical Tracks - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUEd1dUtGR0U1TjU4ZnNzMVZKcDBmSDhXdWhRdHMzTXBCSkZSYkY0azdTS29pUkxqbFVEM0lvNXIycUtMX3ZtQlNhUUNqMXl2aXY1dEMxdXY5Vm8wWlJjNzJoWmdDY0RHSEtYeHhhdHNaeS1LUGIxRjljaXZaTXZKQXJncTdMWkppM3dLYXBoS1BtQVNuNi1DX2pHWUN6WnY5NWhPdFBlbmNEVUVFV0xIMGU3Zzg0WVZ4ZlFmQQ?oc=5"
+    },
+    {
+      "published": "2026-09-16T15:00:00+00:00",
+      "publisher": "MIT Technology Review",
+      "source": "MIT Tech Review AI",
+      "title": "Meet a mouse whose brain cortex is made up of human cells - MIT Technology Review",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT3lXZF9pbDFDNDBIT1NMeTl0TEJEX2tNUVg1cTlyZDBxYWw1c2tVa1VqTG5WcFlJVXA5QU5PNk9LU0ZkcDFRYU1NRVpuMVJGel9QUXBNekRENmhoMThnNVVwcmc1VG4yVkZKbkRCMk1XNDZ5Qnl3VGpyX3dhSzdubFFTVVdxNm9zd1JfS2lUNnBQVjdmWGZiQ29CY2R6elY4YnVFMVlUbk1LOW1zcHE40gG0AUFVX3lxTFA4QkdSQk9JQ0VGSUlJdURPRS1jeVF4V3VnbGdmWHQ4M092YXhjV1d0SjNkclRjVTlNUTdHOVhhN1hUR2FLSUlUdE9PMDBjT053ZjVwdEo3d2V6SEdNVmY0SFp6ckJreG5kWGw2a3VNcmdDS19jYzRVV3gwb0dDRnNtcVdZTFZnSFlsbjNXZERNcTUtMGM0MTBlOEdUSXNfRFA1WjNWaUpiaHNzYl9aOE0weGFwQg?oc=5"
+    },
+    {
+      "published": "2026-09-16T12:47:34+00:00",
+      "publisher": "MIT Technology Review",
+      "source": "MIT Tech Review AI",
+      "title": "Building the materials foundation for AI - MIT Technology Review",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQemNiREZFQ1BTNFMxT3M4eEQxMVJ3cGNRQ0RsbW5kYXAyekVlb3UxN00wTmNhQ3FGbDNtYWdpcXFYX3Iyb1dEbW9BX1czOE90NC1mOFNFQ243RjJHR3lVbF9mQUIxTUE1SHgzMjZoRnpTYnVLVy1HMFh4NTVoTWhOU0Z6M0tRWDI1eU5vSFlGNko1OTIzdDg1ZdIBngFBVV95cUxOUkhiMThseWwzamFhazEtTV9KZllGNXhTN3lpbHZMTWxIam9uOFN0ZWlmdXpPN3hrV0lVc3lfSWdMZEM5al9RSnQxUFpwUjBwaGxYd2lXNlZSeDVINVN3T3hTTFVGVXNfS3ZZZERUeUVVR3BmRDE2Sk1CU1NvNUt3Qk1FTWhvYU5DT01VcjdoVkJWN1A5aGNiTmtCODlHQQ?oc=5"
+    },
+    {
+      "published": "2026-09-16T21:07:24+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/"
+    }
+  ],
+  "date": "2026-09-16",
+  "generated_at_utc": "2026-09-16T21:10:43Z",
+  "items": [
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "Google เปิดตัว Model Context Protocol (MCP) สำหรับ Google Home ทำให้ AI agents อย่าง Claude, ChatGPT และ Google Antigravity สามารถควบคุมอุปกรณ์สมาร์ทโฮมและเข้าถึงประวัติกิจกรรมได้ ผู้ใช้ต้องสมัคร Google Home Premium Advanced เพื่อใช้งานฟีเจอร์นี้ในสหรัฐฯ",
+      "title_th": "Google เปิดให้ AI ควบคุมอุปกรณ์ Google Home ผ่านโปรโตคอล MCP",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "why_it_matters": "การเปิดทางให้ AI agents ควบคุมสมาร์ทโฮมผ่านโปรโตคอลมาตรฐานจะเร่งการนำ AI มาใช้ในชีวิตประจำวันและขยายระบบนิเวศสมาร์ทโฮม"
+    },
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "Nvidia ชี้ว่าหุ่นยนต์ยังขาดข้อมูลขนาดใหญ่และแพลตฟอร์มที่เหมือนกับที่ ChatGPT มีในด้านภาษา ทำให้ยังไม่มีจุดเปลี่ยนสำคัญในวงการหุ่นยนต์ การแก้ไขปัญหานี้ต้องอาศัยการสร้างข้อมูลสังเคราะห์และโมเดลฐานที่ครอบคลุม",
+      "title_th": "ความท้าทายของหุ่นยนต์ในการรอ 'ChatGPT Moment' ที่จะพลิกวงการ",
+      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+      "why_it_matters": "การเข้าใจอุปสรรคของหุ่นยนต์จะช่วยเร่งพัฒนา AI ทางกายภาพและขยายการใช้งานในโลกจริง"
+    },
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "Anthropic และ OpenAI เสนอให้มีการฝังผู้ประเมินความปลอดภัยอิสระในบริษัท AI เพื่อรายงานเหตุการณ์ความปลอดภัยและตรวจสอบความสอดคล้องของโมเดลอย่างโปร่งใส โดยยังต้องมีการกำหนดรายละเอียดและกฎหมายรองรับเพื่อความเป็นอิสระแท้จริง",
+      "title_th": "Anthropic และ OpenAI เสนอแนวทางฝังผู้ประเมินความปลอดภัยอิสระในบริษัท AI",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "why_it_matters": "การเปิดทางให้ผู้ประเมินอิสระเข้าถึงระบบ AI ตั้งแต่การฝึกสอนจะเพิ่มความน่าเชื่อถือและความปลอดภัยของ AI ระดับแนวหน้า"
+    },
+    {
+      "source": "TrendForce via Google News",
+      "summary_th": "Meta วางแผนเปิดตัวชิป AI ที่ผลิตโดย TSMC ในครึ่งปีแรกของปี 2027 โดยอ้างว่ามีประสิทธิภาพและความคุ้มค่าดีกว่าชิปของ NVIDIA ซึ่งจะช่วยเสริมศักยภาพด้าน AI ของ Meta ในอนาคต",
+      "title_th": "Meta เตรียมเปิดตัวชิป AI ใหม่ผลิตโดย TSMC ชูจุดเด่นด้านประสิทธิภาพเหนือ NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMWRZYjJaSmpWLTFva3ZLcV9LMTB0TzlGUU9nMFdwczd4YS1RQktBMzJEOEdSV29uX0wxNVZlNnhaaklkZXVaVTNwV3VVTjV4ZVplaVVNZHlvYnRXSGNHODVyempkeWF0Z3AwWHpTUU5mTDcxUmRNNkZIUk5MdWVGNlZCX0lsSldEVDU5ZGVteWgwMk9ZLUcwaWFRNGFHamhGekdfMmg0ZXJaNUZWRjdPdU9FU1l0RkhsbFEyeklzSV9rSEJuZ1g4Vk4wWlppbmVvSVdUeQ?oc=5",
+      "why_it_matters": "ชิป AI ใหม่จาก Meta จะเพิ่มการแข่งขันในตลาดฮาร์ดแวร์ AI และอาจเปลี่ยนสมดุลอำนาจในอุตสาหกรรมชิป AI"
+    },
+    {
+      "source": "Microsoft AI",
+      "summary_th": "Mustafa Suleyman warns Anthropic Claude training risks AI control qz.com Mustafa Suleyman warns Anthropic Claude training risks AI control qz.com",
+      "title_th": "Mustafa Suleyman warns Anthropic Claude training risks AI control - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORHp3Tl84Rlh6WmxlSHRjRkpacUItdVQ1Y1NmQU5JQjMteWNBTnlYMFBzSXhUSHNfVjYwZmVZM3N2b2R5QVNaNHBORmtSQ0VSS29Fa1ZUWUxLNnNVU1VzS3pid0F5dFEtN0Rlc0lkRGVSODJ4QS1lWkRiMHpIamFZaXZSd1ZyZnc4ZG1LTzZYNkhiZw?oc=5",
+      "why_it_matters": "ประเด็นนี้อยู่ในชุดข่าวสำคัญที่ต้องติดตามต่อ"
+    }
+  ],
+  "model_used": "openai:gpt-4.1-mini"
+}
