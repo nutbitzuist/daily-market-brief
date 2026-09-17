@@ -1,0 +1,726 @@
+{
+  "articles": [
+    {
+      "published": "2026-09-17T15:05:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "No Laughing Matter",
+      "url": "https://www.zerohedge.com/markets/no-laughing-matter"
+    },
+    {
+      "published": "2026-09-17T21:55:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "IRGC Announces Attack On Another Tanker In Hormuz, As Trump Mulls 'Annihilate Them Or Not' Decision",
+      "url": "https://www.zerohedge.com/energy/crude-eases-china-reportedly-presses-iran-rein-houthis"
+    },
+    {
+      "published": "2026-09-17T08:46:04+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Top News",
+      "title": "Trump gains a tariff weapon against China and India. Will he use it?",
+      "url": "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html"
+    },
+    {
+      "published": "2026-09-17T08:04:58+00:00",
+      "publisher": "Financial Times",
+      "source": "Financial Times Companies",
+      "title": "US passes bill targeting importers of Russian oil",
+      "url": "https://www.ft.com/content/42ab32f0-8c22-4912-a928-c73552305b7e?syn-25a6b1a6=1"
+    },
+    {
+      "published": "2026-09-17T22:17:56+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Top News",
+      "title": "Stock futures are little changed after Thursday's post-Fed bounce: Live updates",
+      "url": "https://www.cnbc.com/2026/09/17/stock-market-today-live-updates.html"
+    },
+    {
+      "published": "2026-09-17T19:48:00+00:00",
+      "publisher": "Wall Street Journal",
+      "source": "WSJ Markets (Google News)",
+      "title": "Treasury Yields Ease as Markets React to Hawkish Fed - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR193OWVpMWNCZXhtUzY1UldpeXJpU0x3ckJjYlBaNGxzb3A1V1dLYUZRc1k2RGVrN2hYX25uakRFYU5NWGFxU01pS0hsNFZ4VG5PRnNoMVQ2ajFCMkpTYUdOMnhnUmNhVU1lOXVUSks0ZkQ4Tk1lcUJrWHJGNE1Ja1JLRGN1U0RxbjQ0TjE1eDdkdXdQaXd1aVJiQ1NlUFlMMERteQ?oc=5"
+    },
+    {
+      "published": "2026-09-17T12:46:05+00:00",
+      "publisher": "Financial Times",
+      "source": "Financial Times Companies",
+      "title": "Leading Iranian airline cuts flights as US sanctions hit",
+      "url": "https://www.ft.com/content/a65f3f5d-e8ec-44b1-8529-24651e6254c3?syn-25a6b1a6=1"
+    },
+    {
+      "published": "2026-09-17T18:16:42+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Markets (Google News)",
+      "title": "JPMorgan Analysts Unsure How to Model Oil as Iran War Drags On - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdmF2bU1sbEtTVko4NVJOR0NaUlVRMDlpcWxxM25pakFfODZHd3NTYVZpTUw3NmpmYl81UExFLXZ3V2M1NURfUHFzY1hpSUU5SHlDZE5IM3NsOURBVV81TGRkODRGQ3g5VWxvalFFWHRSaXVLczdoWDVpYzlQN0ZkLWIzQnV2ZXgwaUdBSzE3cW9xRV9jTmRhMTJ6Z1VYbVVNWHAtUXVoZkxHdzNBOGwxQk9MNGo?oc=5"
+    },
+    {
+      "published": "2026-09-17T09:48:42+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Markets (Google News)",
+      "title": "India Warns US Oil Sanctions Bill Could Hurt Bilateral Ties - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMHBvQ1FLM3FpUlA2VmpWMFpVbm0xWEdqZ0U3MnBwZVJzbnlEN1ZhSEtxaEdsbWJ6MmZRZE1ib2JXZXZPZk5FeUFXb2tNaS1VeS11TDB6QlE1Uks5cnpfRzNHQmNQa1U4aThkVHIxRjBmeWU2NFBvazFYMWdqUVlSN0lNT2U5Y29xTEdpa0ZaYXpYb3RhcFJMckpuUVhfRG9EVGRlOEFhQlRmRWNTSElR?oc=5"
+    },
+    {
+      "published": "2026-09-17T14:49:00+00:00",
+      "publisher": "Wall Street Journal",
+      "source": "WSJ Markets (Google News)",
+      "title": "U.S. Treasury Yields Fall as Fed Regains Trust, BOE Leaves Rates Unchanged - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVER1UFJ0ZVpGNjRWcnkxSU96Z01OUHY4MVVqQmcyZDYwZVhkNFdpMWlyU1NnNjhSQmZpSG5FODhMLXktd1laTjRESnhfc2pLenBvckhkWmRSNDFxMEw0Yi1DenJEc3l0bzExaGVZaDc3RDFUT3FkN2dmZGEzOVI4WkxadmZ4ZGtaaFVNUGFPeHhlNnQ5UkZXQkx0OVFPcWdVWWtVR0FISmRXb0s5dUI4aThxSmQ2dGktYTdySlJFcldQMEhOWkE?oc=5"
+    },
+    {
+      "published": "2026-09-17T19:34:10+00:00",
+      "publisher": "The New York Times",
+      "source": "NYT US Business (Google News)",
+      "title": "Russia and China Veto U.S. Bid to Renew U.N. Monitoring of Iran Nuclear Program - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRERvMGRHeXpGeWd0eGRfdlVTa2NEbm1mS1BvMXpnNXcwc01WWERBNkRPMGVLcWNuUmQ3RFlzdl8wbGZ5NTFEdnZzWWJuRWN5Vk1VQUVlSG4zNzZXZ0YtS2I2WWt6QXR4T0Zza3pfT3NxdUJHT3hjTjNuVS1Vb0hWR2RoX2xPTXQ5SWRXN0l4MDNKYV9RamVYRQ?oc=5"
+    },
+    {
+      "published": "2026-09-17T19:52:00+00:00",
+      "publisher": "MarketWatch",
+      "source": "MarketWatch Top Stories",
+      "title": "Saudi Arabia is now pushing to export more oil through the Strait of Hormuz",
+      "url": "https://www.marketwatch.com/story/saudi-arabia-is-now-pushing-to-export-more-oil-through-the-strait-of-hormuz-bcce044b?mod=mw_rss_topstories"
+    },
+    {
+      "published": "2026-09-17T03:16:00+00:00",
+      "publisher": "AP News",
+      "source": "AP US Economy",
+      "title": "US Federal Reserve raises key interest rate for the first time since 2023 to quell high inflation - AP News",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdlRrcjAxMldlSHFmcmdhUTEwRDlvQjUyWUp1LTZ1aGpPWENpZGhzSHc3djhlaHFuUlVkTnpPNTNnZXhVV2tUbzVnNlJIME5BZlpHSldpVzdQcTQwdGdROHVZYTd0TG1NOUpOYzN5YzZwUHZVRk1ycXdmUm1pUnpSUFFQb25vT3lFd2I4OTE0LU1iMFRJbUdxQ3M4SXYwVC1hcW1QOS1nbTFNTWVuUGQyRnR6elVJOUZYVzdQRzU0bGl1ZHZzSHlUMWNPcTVZVkRmWUJSeE1xRjJnOHA1Y2pMWnBWN3VuaElwM25V?oc=5"
+    },
+    {
+      "published": "2026-09-17T21:22:00+00:00",
+      "publisher": "MarketWatch",
+      "source": "MarketWatch Top Stories",
+      "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
+      "url": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories"
+    },
+    {
+      "published": "2026-09-17T17:16:13+00:00",
+      "publisher": "The New York Times",
+      "source": "NYT US Business (Google News)",
+      "title": "Trump Blasts the Fed But Spares Kevin Warsh After Interest Rate Hike - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTFZCXzFnaXFpSVpXQVBQTF82U3kyYUhiRjY5SWExd1JKdktCMGlDenc0cE9zeFRVQkJ5RDY1ajJVWWFpY2xaMzJpNG9mNzJUaGtCaWswVFl0LW9CS1JGVHNDeUVjc19CRW9rOVR3SUhKTEdUOEZXRDd3bjhrX2EtUl9Wa3ZLdw?oc=5"
+    },
+    {
+      "published": "2026-09-17T12:55:00+00:00",
+      "publisher": "SEC Press Releases",
+      "source": "SEC Press Releases",
+      "title": "SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment"
+    },
+    {
+      "published": "2026-09-16T23:42:00+00:00",
+      "publisher": "AP News",
+      "source": "AP US Economy",
+      "title": "Federal Reserve hikes key rate for 1st time in 3 years, defying Trump demands for a cut - AP News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVlB2TmNqY1dILUtfRTFBQ0JPSk53elRnU1QzdmhIQ3VvTWlkelRTd3haWHJ4bmxiY2ZOcGhvd09wMTllVkVLQzk5NkdKZzNPeHpaZTRHQ242Ynd2Q1ZIUU50cUp1N2JYd1lCQndZQlhMUTZFekFZWWNueUxNbmRiUHdBZ2dWbDgzNlhmejZneHptaFhGbDI1M0JPbk8zZw?oc=5"
+    },
+    {
+      "published": "2026-09-17T14:38:23+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters US Politics (Google News)",
+      "title": "As Canadian tariffs bite, Republicans search for a winning message - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSVhnekctZ2hvV3gzNllkMEl6ZG1kSWtScDJTNFl2azh0ZGI1dTR1ZzVrTW5ydERBWXBTUmhYaHBWdldiTG05Rnh6Tk1CUE8yUDZfMElHSHNfZElSdm84QTB3M2VMMGFiUWo4R0xjdy00VVdDV3RfOFNtZDN3TWh2LTF3T0dYVVQzY2U4MkJYZk4ydm1WSWZNQ21MTk5VZi1BQ2VpVTRySkZpM0ZQY1E?oc=5"
+    },
+    {
+      "published": "2026-09-17T18:08:18+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters US Politics (Google News)",
+      "title": "'I'm not a doomer': US Senator Mark Warner makes the case for acting fast on AI guardrails - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN1lEN29UQk1ESlNaOTRHVzFSVktUWExVNzdlYUt0TW1YcnZXbG42QjhreHdnd1NWVTZOdmtNclk5VlJibzc2ODkzSUI3cFJyNWdsSll4aTZDT1BzUExrZ0dkdG5zRmJBdXpJNTlPOTc1NmlGMzVDcVR6dE9uUTN6dUN6RW1qYkQ5ZjV2Q2xEdVQxMVoyWHRCOTNFTDMwWm9HUXRpa3BLT2RscW9iMkZjZFMweEdaRUtKUHpmSUZxMC1UME5F?oc=5"
+    },
+    {
+      "published": "2026-09-17T21:25:01+00:00",
+      "publisher": "Seeking Alpha Market News",
+      "source": "Seeking Alpha Market News",
+      "title": "Gold futures turn higher as yields and oil prices decline",
+      "url": "https://seekingalpha.com/news/4644124-gold-futures-turn-higher-as-yields-and-oil-prices-decline?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+    },
+    {
+      "published": "2026-09-17T19:15:39+00:00",
+      "publisher": "Axios",
+      "source": "Axios US Policy",
+      "title": "Fear and loathing in Trump's Miami backyard over immigration crackdown - Axios",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTGZBbXItaEVNQVRrekFDYTQxdmg3emc4SGJQYXhRSkgzRE5kWnIzMjRRUVhhR2gyQU0yekItWGszb0ppcHczRlVra28wOW1xWmdJWm5vNUZmRlc0bks2WGVsNC1UeTNLV0hoUHVJWnlqMTFGTDdDZ0lCMHF0dkR6ZFozUQ?oc=5"
+    },
+    {
+      "published": "2026-09-17T11:08:52+00:00",
+      "publisher": "Yahoo Personal Finance",
+      "source": "Yahoo Finance",
+      "title": "Gold price today, Thursday, September 17, 2026: Gold prices relatively stable following Fed rate increase",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-thursday-september-17-2026-gold-prices-relatively-stable-following-fed-rate-increase-110852391.html"
+    },
+    {
+      "published": "2026-09-17T11:23:08+00:00",
+      "publisher": "Yahoo Personal Finance",
+      "source": "Yahoo Finance",
+      "title": "Silver price today, Thursday, September 17, 2026: Silver prices stay steady post Fed decision",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-thursday-september-17-2026-silver-prices-stay-steady-post-fed-decision-112308053.html"
+    },
+    {
+      "published": "2026-09-17T22:12:06+00:00",
+      "publisher": "Seeking Alpha Market News",
+      "source": "Seeking Alpha Market News",
+      "title": "Nucor, Steel Dynamics slide after-hours on below-consensus Q3 earnings guidance",
+      "url": "https://seekingalpha.com/news/4644140-nucor-steel-dynamics-slide-after-hours-on-below-consensus-q3-earnings-guidance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+    },
+    {
+      "published": "2026-09-17T07:36:04+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Economy",
+      "title": "UK inflation jumps to 3.1% as energy costs soar",
+      "url": "https://www.cnbc.com/2026/09/16/uk-august-inflation-energy-gasoline.html"
+    }
+  ],
+  "date": "2026-09-17",
+  "generated_at_utc": "2026-09-17T23:10:58Z",
+  "items": [
+    {
+      "category": "Regulation",
+      "impact": "high",
+      "key_numbers": [],
+      "rank": 1,
+      "sectors": [
+        "Energy"
+      ],
+      "sentiment": "bearish",
+      "source_name": "CNBC, Financial Times",
+      "summary_th": "สภาผู้แทนราษฎรสหรัฐผ่านกฎหมายใหม่ที่ให้ประธานาธิบดีทรัมป์มีอำนาจเก็บภาษีนำเข้าน้ำมันจากรัสเซียสูงสุดถึง 100% เพื่อกดดันประเทศที่ซื้อขายน้ำมันรัสเซียโดยเฉพาะจีนและอินเดีย ซึ่งเป็นผู้ซื้อรายใหญ่ของรัสเซีย การใช้มาตรการนี้อาจส่งผลกระทบต่อความสัมพันธ์ทางการค้าระหว่างสหรัฐกับจีนและอินเดีย (แหล่ง: CNBC, Financial Times)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "สหรัฐผ่านกฎหมายอนุญาตเก็บภาษีนำเข้าน้ำมันรัสเซียสูงสุด 100%",
+      "url": "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html",
+      "watch_next": "ติดตามการลงนามกฎหมายและการตอบโต้จากจีนและอินเดีย"
+    },
+    {
+      "category": "Geopolitics",
+      "impact": "high",
+      "key_numbers": [],
+      "rank": 2,
+      "sectors": [
+        "Energy"
+      ],
+      "sentiment": "bearish",
+      "source_name": "ZeroHedge, Axios",
+      "summary_th": "กองกำลังพิทักษ์ปฏิวัติอิหร่าน (IRGC) ประกาศโจมตีเรือน้ำมันที่แล่นผ่านช่องแคบฮอร์มุซอีกครั้ง ซึ่งเป็นจุดยุทธศาสตร์สำคัญของการขนส่งน้ำมันโลก ประธานาธิบดีทรัมป์กำลังตัดสินใจว่าจะใช้มาตรการรุนแรงต่ออิหร่านหรือไม่ สถานการณ์นี้ส่งผลกระทบต่อราคาน้ำมันและความมั่นคงในภูมิภาค (แหล่ง: ZeroHedge, Axios)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ความตึงเครียดในช่องแคบฮอร์มุซ หลังอิหร่านโจมตีเรือน้ำมันอีกลำ",
+      "url": "https://www.zerohedge.com/energy/crude-eases-china-reportedly-presses-iran-rein-houthis",
+      "watch_next": "ติดตามความเคลื่อนไหวของสหรัฐและอิหร่านในภูมิภาค"
+    },
+    {
+      "category": "Macro/Fed",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 3,
+      "sectors": [
+        "Financials",
+        "Tech",
+        "Industrials"
+      ],
+      "sentiment": "neutral",
+      "source_name": "CNBC",
+      "summary_th": "ตลาดหุ้นสหรัฐปรับตัวขึ้นเล็กน้อยในวันพฤหัสบดีหลังจากเฟดประกาศขึ้นอัตราดอกเบี้ยครั้งแรกในรอบ 3 ปี แม้จะมีความกังวลเกี่ยวกับผลกระทบของนโยบายการเงินที่เข้มงวดขึ้นต่อตลาด (แหล่ง: CNBC)",
+      "tickers": [],
+      "time_horizon": "immediate",
+      "title_th": "ตลาดหุ้นสหรัฐฟื้นตัวเล็กน้อยหลังเฟดขึ้นดอกเบี้ย",
+      "url": "https://www.cnbc.com/2026/09/17/stock-market-today-live-updates.html",
+      "watch_next": "ติดตามผลตอบแทนพันธบัตรและรายงานเศรษฐกิจถัดไป"
+    },
+    {
+      "category": "Macro/Fed",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 4,
+      "sectors": [
+        "Financials"
+      ],
+      "sentiment": "neutral",
+      "source_name": "WSJ",
+      "summary_th": "อัตราผลตอบแทนพันธบัตรรัฐบาลสหรัฐลดลงเล็กน้อยหลังจากที่เฟดส่งสัญญาณนโยบายการเงินที่เข้มงวดขึ้น ตลาดยังคงจับตาการเคลื่อนไหวของอัตราดอกเบี้ยและผลกระทบต่อตลาดทุน (แหล่ง: WSJ)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "อัตราผลตอบแทนพันธบัตรรัฐบาลสหรัฐลดลงหลังเฟดส่งสัญญาณเข้มงวด",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR193OWVpMWNCZXhtUzY1UldpeXJpU0x3ckJjYlBaNGxzb3A1V1dLYUZRc1k2RGVrN2hYX25uakRFYU5NWGFxU01pS0hsNFZ4VG5PRnNoMVQ2ajFCMkpTYUdOMnhnUmNhVU1lOXVUSks0ZkQ4Tk1lcUJrWHJGNE1Ja1JLRGN1U0RxbjQ0TjE1eDdkdXdQaXd1aVJiQ1NlUFlMMERteQ?oc=5",
+      "watch_next": "ติดตามรายงานเศรษฐกิจและนโยบายเฟดถัดไป"
+    },
+    {
+      "category": "Commodity",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 5,
+      "sectors": [
+        "Energy"
+      ],
+      "sentiment": "bearish",
+      "source_name": "Bloomberg",
+      "summary_th": "นักวิเคราะห์ JPMorgan แสดงความไม่แน่ใจในการประเมินราคาน้ำมันในสถานการณ์สงครามอิหร่านที่ลากยาว ส่งผลให้ความไม่แน่นอนในตลาดน้ำมันเพิ่มขึ้นและทำให้การคาดการณ์ราคายากขึ้น (แหล่ง: Bloomberg)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "นักวิเคราะห์ JPMorgan ยังไม่แน่ใจวิธีประเมินราคาน้ำมันในสงครามอิหร่าน",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdmF2bU1sbEtTVko4NVJOR0NaUlVRMDlpcWxxM25pakFfODZHd3NTYVZpTUw3NmpmYl81UExFLXZ3V2M1NURfUHFzY1hpSUU5SHlDZE5IM3NsOURBVV81TGRkODRGQ3g5VWxvalFFWHRSaXVLczdoWDVpYzlQN0ZkLWIzQnV2ZXgwaUdBSzE3cW9xRV9jTmRhMTJ6Z1VYbVVNWHAtUXVoZkxHdzNBOGwxQk9MNGo?oc=5",
+      "watch_next": "ติดตามสถานการณ์สงครามและราคาน้ำมันโลกอย่างใกล้ชิด"
+    },
+    {
+      "category": "Commodity",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 6,
+      "sectors": [],
+      "sentiment": "bullish",
+      "source_name": "Seeking Alpha",
+      "summary_th": "ราคาทองคำฟื้นตัวขึ้นหลังจากอัตราผลตอบแทนพันธบัตรรัฐบาลและราคาน้ำมันลดลง ซึ่งสะท้อนความกังวลของนักลงทุนที่หันมาถือสินทรัพย์ปลอดภัยมากขึ้น (แหล่ง: Seeking Alpha)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ราคาทองคำปรับตัวขึ้นหลังอัตราผลตอบแทนพันธบัตรและราคาน้ำมันลดลง",
+      "url": "https://seekingalpha.com/news/4644124-gold-futures-turn-higher-as-yields-and-oil-prices-decline?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "watch_next": "ติดตามราคาทองคำและอัตราผลตอบแทนพันธบัตรอย่างต่อเนื่อง"
+    },
+    {
+      "category": "Earnings",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 7,
+      "sectors": [
+        "Tech"
+      ],
+      "sentiment": "bullish",
+      "source_name": "MarketWatch",
+      "summary_th": "หุ้นกลุ่มเซมิคอนดักเตอร์อย่าง Micron และ Intel กำลังฟื้นตัวอย่างแข็งแกร่งต่อเนื่อง สะท้อนความเชื่อมั่นในอุตสาหกรรมชิปและการลงทุนในเทคโนโลยีใหม่ๆ (แหล่ง: MarketWatch)",
+      "tickers": [
+        "MU",
+        "INTC"
+      ],
+      "time_horizon": "short-term",
+      "title_th": "หุ้นกลุ่มชิปฟื้นตัวแข็งแกร่งต่อเนื่องโดยมี Micron และ Intel เป็นผู้นำ",
+      "url": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
+      "watch_next": "ติดตามผลประกอบการและการลงทุนในเทคโนโลยี AI ของกลุ่มชิป"
+    },
+    {
+      "category": "Regulation",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 8,
+      "sectors": [
+        "Tech",
+        "Financials"
+      ],
+      "sentiment": "bullish",
+      "source_name": "SEC",
+      "summary_th": "สำนักงานคณะกรรมการกำกับหลักทรัพย์และตลาดหลักทรัพย์สหรัฐ (SEC) ออกคำสั่งยกเว้นชั่วคราวเพื่อสนับสนุนการซื้อขายหุ้นแบบโทเคน (Tokenized NMS Stock) ซึ่งเป็นการเปิดทางให้เทคโนโลยีบล็อกเชนเข้ามามีบทบาทในตลาดทุนมากขึ้น (แหล่ง: SEC)",
+      "tickers": [],
+      "time_horizon": "long-term",
+      "title_th": "สหรัฐออกคำสั่งยกเว้นนวัตกรรมเพื่อส่งเสริมการซื้อขายหุ้นแบบโทเคน",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
+      "watch_next": "ติดตามความคิดเห็นสาธารณะและการพัฒนากฎระเบียบเพิ่มเติม"
+    },
+    {
+      "category": "Regulation",
+      "impact": "medium",
+      "key_numbers": [
+        "62% ประชากรในไมอามี-เดดเป็นฮิสแปนิก",
+        "76% ของผู้ลงทะเบียนเป็นรีพับลิกันเป็นฮิสแปนิก"
+      ],
+      "rank": 9,
+      "sectors": [],
+      "sentiment": "bearish",
+      "source_name": "Axios",
+      "summary_th": "สมาชิกพรรครีพับลิกันในไมอามีเริ่มแสดงความกังวลว่าการบังคับใช้นโยบายคนเข้าเมืองที่เข้มงวดของประธานาธิบดีทรัมป์อาจทำให้สูญเสียคะแนนเสียงในชุมชนฮิสแปนิก โดยเฉพาะในพื้นที่ที่มีประชากรฮิสแปนิกหนาแน่น เช่น ไมอามี-เดด เคาน์ตี (แหล่ง: Axios)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ความกังวลของพรรครีพับลิกันในไมอามีต่อการเข้มงวดนโยบายคนเข้าเมืองของทรัมป์",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTGZBbXItaEVNQVRrekFDYTQxdmg3emc4SGJQYXhRSkgzRE5kWnIzMjRRUVhhR2gyQU0yekItWGszb0ppcHczRlVra28wOW1xWmdJWm5vNUZmRlc0bks2WGVsNC1UeTNLV0hoUHVJWnlqMTFGTDdDZ0lCMHF0dkR6ZFozUQ?oc=5",
+      "watch_next": "ติดตามผลกระทบต่อคะแนนเสียงพรรครีพับลิกันในรัฐฟลอริดา"
+    },
+    {
+      "category": "Sector-specific",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 10,
+      "sectors": [
+        "Tech",
+        "Financials",
+        "Industrials"
+      ],
+      "sentiment": "neutral",
+      "source_name": "ZeroHedge",
+      "summary_th": "No Laughing Matter By Bas van Geffen, senior macro strategist at Rabobank In her State of the Union speech, European Commission President Von Der Leyen summarized that the European Union is stronger than ever, but that the state of the Union is also as precarious as it has ever been . Speeding up the overhaul of the Single Market is an imperative in this context. She acknowledged that the European Union is under atta",
+      "tickers": [],
+      "time_horizon": "immediate",
+      "title_th": "No Laughing Matter",
+      "url": "https://www.zerohedge.com/markets/no-laughing-matter",
+      "watch_next": "ติดตามความคืบหน้าและผลกระทบที่ยืนยันได้จากข้อมูลรอบถัดไป"
+    }
+  ],
+  "jev_screen": {
+    "brief_kind": "us",
+    "decisions": [
+      {
+        "candidate_id": "candidate_000",
+        "choice": "review",
+        "confidence": 0.61,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.11,
+          "include": 0.15,
+          "review": 0.74
+        },
+        "source": "ZeroHedge",
+        "title": "No Laughing Matter",
+        "url": "https://www.zerohedge.com/markets/no-laughing-matter"
+      },
+      {
+        "candidate_id": "candidate_001",
+        "choice": "include",
+        "confidence": 0.55,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.0,
+          "include": 0.7,
+          "review": 0.3
+        },
+        "source": "ZeroHedge",
+        "title": "IRGC Announces Attack On Another Tanker In Hormuz, As Trump Mulls 'Annihilate Them Or Not' Decision",
+        "url": "https://www.zerohedge.com/energy/crude-eases-china-reportedly-presses-iran-rein-houthis"
+      },
+      {
+        "candidate_id": "candidate_002",
+        "choice": "include",
+        "confidence": 0.59,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.0,
+          "include": 0.73,
+          "review": 0.27
+        },
+        "source": "CNBC Top News",
+        "title": "Trump gains a tariff weapon against China and India. Will he use it?",
+        "url": "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html"
+      },
+      {
+        "candidate_id": "candidate_003",
+        "choice": "include",
+        "confidence": 0.88,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.0,
+          "include": 0.92,
+          "review": 0.08
+        },
+        "source": "Financial Times Companies",
+        "title": "US passes bill targeting importers of Russian oil",
+        "url": "https://www.ft.com/content/42ab32f0-8c22-4912-a928-c73552305b7e?syn-25a6b1a6=1"
+      },
+      {
+        "candidate_id": "candidate_004",
+        "choice": "include",
+        "confidence": 0.61,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.08,
+          "include": 0.74,
+          "review": 0.18
+        },
+        "source": "CNBC Top News",
+        "title": "Stock futures are little changed after Thursday's post-Fed bounce: Live updates",
+        "url": "https://www.cnbc.com/2026/09/17/stock-market-today-live-updates.html"
+      },
+      {
+        "candidate_id": "candidate_005",
+        "choice": "include",
+        "confidence": 0.36,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.02,
+          "include": 0.58,
+          "review": 0.4
+        },
+        "source": "WSJ Markets (Google News)",
+        "title": "Treasury Yields Ease as Markets React to Hawkish Fed - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR193OWVpMWNCZXhtUzY1UldpeXJpU0x3ckJjYlBaNGxzb3A1V1dLYUZRc1k2RGVrN2hYX25uakRFYU5NWGFxU01pS0hsNFZ4VG5PRnNoMVQ2ajFCMkpTYUdOMnhnUmNhVU1lOXVUSks0ZkQ4Tk1lcUJrWHJGNE1Ja1JLRGN1U0RxbjQ0TjE1eDdkdXdQaXd1aVJiQ1NlUFlMMERteQ?oc=5"
+      },
+      {
+        "candidate_id": "candidate_006",
+        "choice": "include",
+        "confidence": 0.27,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.05,
+          "include": 0.51,
+          "review": 0.44
+        },
+        "source": "Financial Times Companies",
+        "title": "Leading Iranian airline cuts flights as US sanctions hit",
+        "url": "https://www.ft.com/content/a65f3f5d-e8ec-44b1-8529-24651e6254c3?syn-25a6b1a6=1"
+      },
+      {
+        "candidate_id": "candidate_007",
+        "choice": "include",
+        "confidence": 0.36,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.02,
+          "include": 0.57,
+          "review": 0.41
+        },
+        "source": "Bloomberg Markets (Google News)",
+        "title": "JPMorgan Analysts Unsure How to Model Oil as Iran War Drags On - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdmF2bU1sbEtTVko4NVJOR0NaUlVRMDlpcWxxM25pakFfODZHd3NTYVZpTUw3NmpmYl81UExFLXZ3V2M1NURfUHFzY1hpSUU5SHlDZE5IM3NsOURBVV81TGRkODRGQ3g5VWxvalFFWHRSaXVLczdoWDVpYzlQN0ZkLWIzQnV2ZXgwaUdBSzE3cW9xRV9jTmRhMTJ6Z1VYbVVNWHAtUXVoZkxHdzNBOGwxQk9MNGo?oc=5"
+      },
+      {
+        "candidate_id": "candidate_008",
+        "choice": "include",
+        "confidence": 0.51,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.01,
+          "include": 0.67,
+          "review": 0.32
+        },
+        "source": "Bloomberg Markets (Google News)",
+        "title": "India Warns US Oil Sanctions Bill Could Hurt Bilateral Ties - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMHBvQ1FLM3FpUlA2VmpWMFpVbm0xWEdqZ0U3MnBwZVJzbnlEN1ZhSEtxaEdsbWJ6MmZRZE1ib2JXZXZPZk5FeUFXb2tNaS1VeS11TDB6QlE1Uks5cnpfRzNHQmNQa1U4aThkVHIxRjBmeWU2NFBvazFYMWdqUVlSN0lNT2U5Y29xTEdpa0ZaYXpYb3RhcFJMckpuUVhfRG9EVGRlOEFhQlRmRWNTSElR?oc=5"
+      },
+      {
+        "candidate_id": "candidate_009",
+        "choice": "include",
+        "confidence": 0.8,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.01,
+          "include": 0.86,
+          "review": 0.13
+        },
+        "source": "WSJ Markets (Google News)",
+        "title": "U.S. Treasury Yields Fall as Fed Regains Trust, BOE Leaves Rates Unchanged - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVER1UFJ0ZVpGNjRWcnkxSU96Z01OUHY4MVVqQmcyZDYwZVhkNFdpMWlyU1NnNjhSQmZpSG5FODhMLXktd1laTjRESnhfc2pLenBvckhkWmRSNDFxMEw0Yi1DenJEc3l0bzExaGVZaDc3RDFUT3FkN2dmZGEzOVI4WkxadmZ4ZGtaaFVNUGFPeHhlNnQ5UkZXQkx0OVFPcWdVWWtVR0FISmRXb0s5dUI4aThxSmQ2dGktYTdySlJFcldQMEhOWkE?oc=5"
+      },
+      {
+        "candidate_id": "candidate_010",
+        "choice": "include",
+        "confidence": 0.82,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.01,
+          "include": 0.88,
+          "review": 0.11
+        },
+        "source": "NYT US Business (Google News)",
+        "title": "Russia and China Veto U.S. Bid to Renew U.N. Monitoring of Iran Nuclear Program - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRERvMGRHeXpGeWd0eGRfdlVTa2NEbm1mS1BvMXpnNXcwc01WWERBNkRPMGVLcWNuUmQ3RFlzdl8wbGZ5NTFEdnZzWWJuRWN5Vk1VQUVlSG4zNzZXZ0YtS2I2WWt6QXR4T0Zza3pfT3NxdUJHT3hjTjNuVS1Vb0hWR2RoX2xPTXQ5SWRXN0l4MDNKYV9RamVYRQ?oc=5"
+      },
+      {
+        "candidate_id": "candidate_011",
+        "choice": "include",
+        "confidence": 0.28,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.01,
+          "include": 0.51,
+          "review": 0.48
+        },
+        "source": "MarketWatch Top Stories",
+        "title": "Saudi Arabia is now pushing to export more oil through the Strait of Hormuz",
+        "url": "https://www.marketwatch.com/story/saudi-arabia-is-now-pushing-to-export-more-oil-through-the-strait-of-hormuz-bcce044b?mod=mw_rss_topstories"
+      },
+      {
+        "candidate_id": "candidate_012",
+        "choice": "include",
+        "confidence": 0.92,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.01,
+          "include": 0.94,
+          "review": 0.05
+        },
+        "source": "AP US Economy",
+        "title": "US Federal Reserve raises key interest rate for the first time since 2023 to quell high inflation - AP News",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdlRrcjAxMldlSHFmcmdhUTEwRDlvQjUyWUp1LTZ1aGpPWENpZGhzSHc3djhlaHFuUlVkTnpPNTNnZXhVV2tUbzVnNlJIME5BZlpHSldpVzdQcTQwdGdROHVZYTd0TG1NOUpOYzN5YzZwUHZVRk1ycXdmUm1pUnpSUFFQb25vT3lFd2I4OTE0LU1iMFRJbUdxQ3M4SXYwVC1hcW1QOS1nbTFNTWVuUGQyRnR6elVJOUZYVzdQRzU0bGl1ZHZzSHlUMWNPcTVZVkRmWUJSeE1xRjJnOHA1Y2pMWnBWN3VuaElwM25V?oc=5"
+      },
+      {
+        "candidate_id": "candidate_013",
+        "choice": "review",
+        "confidence": 0.46,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.27,
+          "include": 0.09,
+          "review": 0.64
+        },
+        "source": "MarketWatch Top Stories",
+        "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
+        "url": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories"
+      },
+      {
+        "candidate_id": "candidate_014",
+        "choice": "include",
+        "confidence": 0.31,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.05,
+          "include": 0.54,
+          "review": 0.41
+        },
+        "source": "NYT US Business (Google News)",
+        "title": "Trump Blasts the Fed But Spares Kevin Warsh After Interest Rate Hike - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTFZCXzFnaXFpSVpXQVBQTF82U3kyYUhiRjY5SWExd1JKdktCMGlDenc0cE9zeFRVQkJ5RDY1ajJVWWFpY2xaMzJpNG9mNzJUaGtCaWswVFl0LW9CS1JGVHNDeUVjc19CRW9rOVR3SUhKTEdUOEZXRDd3bjhrX2EtUl9Wa3ZLdw?oc=5"
+      },
+      {
+        "candidate_id": "candidate_015",
+        "choice": "include",
+        "confidence": 0.37,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.03,
+          "include": 0.58,
+          "review": 0.39
+        },
+        "source": "SEC Press Releases",
+        "title": "SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment",
+        "url": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment"
+      },
+      {
+        "candidate_id": "candidate_016",
+        "choice": "include",
+        "confidence": 0.95,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.0,
+          "include": 0.97,
+          "review": 0.03
+        },
+        "source": "AP US Economy",
+        "title": "Federal Reserve hikes key rate for 1st time in 3 years, defying Trump demands for a cut - AP News",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVlB2TmNqY1dILUtfRTFBQ0JPSk53elRnU1QzdmhIQ3VvTWlkelRTd3haWHJ4bmxiY2ZOcGhvd09wMTllVkVLQzk5NkdKZzNPeHpaZTRHQ242Ynd2Q1ZIUU50cUp1N2JYd1lCQndZQlhMUTZFekFZWWNueUxNbmRiUHdBZ2dWbDgzNlhmejZneHptaFhGbDI1M0JPbk8zZw?oc=5"
+      },
+      {
+        "candidate_id": "candidate_017",
+        "choice": "review",
+        "confidence": 0.45,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.26,
+          "include": 0.1,
+          "review": 0.64
+        },
+        "source": "Reuters US Politics (Google News)",
+        "title": "As Canadian tariffs bite, Republicans search for a winning message - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSVhnekctZ2hvV3gzNllkMEl6ZG1kSWtScDJTNFl2azh0ZGI1dTR1ZzVrTW5ydERBWXBTUmhYaHBWdldiTG05Rnh6Tk1CUE8yUDZfMElHSHNfZElSdm84QTB3M2VMMGFiUWo4R0xjdy00VVdDV3RfOFNtZDN3TWh2LTF3T0dYVVQzY2U4MkJYZk4ydm1WSWZNQ21MTk5VZi1BQ2VpVTRySkZpM0ZQY1E?oc=5"
+      },
+      {
+        "candidate_id": "candidate_018",
+        "choice": "review",
+        "confidence": 0.48,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.32,
+          "include": 0.03,
+          "review": 0.65
+        },
+        "source": "Reuters US Politics (Google News)",
+        "title": "'I'm not a doomer': US Senator Mark Warner makes the case for acting fast on AI guardrails - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN1lEN29UQk1ESlNaOTRHVzFSVktUWExVNzdlYUt0TW1YcnZXbG42QjhreHdnd1NWVTZOdmtNclk5VlJibzc2ODkzSUI3cFJyNWdsSll4aTZDT1BzUExrZ0dkdG5zRmJBdXpJNTlPOTc1NmlGMzVDcVR6dE9uUTN6dUN6RW1qYkQ5ZjV2Q2xEdVQxMVoyWHRCOTNFTDMwWm9HUXRpa3BLT2RscW9iMkZjZFMweEdaRUtKUHpmSUZxMC1UME5F?oc=5"
+      },
+      {
+        "candidate_id": "candidate_019",
+        "choice": "review",
+        "confidence": 0.13,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.21,
+          "include": 0.37,
+          "review": 0.42
+        },
+        "source": "Seeking Alpha Market News",
+        "title": "Gold futures turn higher as yields and oil prices decline",
+        "url": "https://seekingalpha.com/news/4644124-gold-futures-turn-higher-as-yields-and-oil-prices-decline?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "candidate_id": "candidate_020",
+        "choice": "exclude",
+        "confidence": 0.62,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.74,
+          "include": 0.01,
+          "review": 0.25
+        },
+        "source": "Axios US Policy",
+        "title": "Fear and loathing in Trump's Miami backyard over immigration crackdown - Axios",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTGZBbXItaEVNQVRrekFDYTQxdmg3emc4SGJQYXhRSkgzRE5kWnIzMjRRUVhhR2gyQU0yekItWGszb0ppcHczRlVra28wOW1xWmdJWm5vNUZmRlc0bks2WGVsNC1UeTNLV0hoUHVJWnlqMTFGTDdDZ0lCMHF0dkR6ZFozUQ?oc=5"
+      },
+      {
+        "candidate_id": "candidate_021",
+        "choice": "exclude",
+        "confidence": 0.32,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.54,
+          "include": 0.07,
+          "review": 0.39
+        },
+        "source": "Yahoo Finance",
+        "title": "Gold price today, Thursday, September 17, 2026: Gold prices relatively stable following Fed rate increase",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-thursday-september-17-2026-gold-prices-relatively-stable-following-fed-rate-increase-110852391.html"
+      },
+      {
+        "candidate_id": "candidate_022",
+        "choice": "exclude",
+        "confidence": 0.59,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.73,
+          "include": 0.02,
+          "review": 0.25
+        },
+        "source": "Yahoo Finance",
+        "title": "Silver price today, Thursday, September 17, 2026: Silver prices stay steady post Fed decision",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-thursday-september-17-2026-silver-prices-stay-steady-post-fed-decision-112308053.html"
+      },
+      {
+        "candidate_id": "candidate_023",
+        "choice": "include",
+        "confidence": 0.84,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.03,
+          "include": 0.9,
+          "review": 0.07
+        },
+        "source": "Seeking Alpha Market News",
+        "title": "Nucor, Steel Dynamics slide after-hours on below-consensus Q3 earnings guidance",
+        "url": "https://seekingalpha.com/news/4644140-nucor-steel-dynamics-slide-after-hours-on-below-consensus-q3-earnings-guidance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "candidate_id": "candidate_024",
+        "choice": "include",
+        "confidence": 0.18,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.18,
+          "include": 0.45,
+          "review": 0.37
+        },
+        "source": "CNBC Economy",
+        "title": "UK inflation jumps to 3.1% as energy costs soar",
+        "url": "https://www.cnbc.com/2026/09/16/uk-august-inflation-energy-gasoline.html"
+      }
+    ],
+    "high_confidence_excluded": 0,
+    "input_count": 25,
+    "mode": "active",
+    "model": "jev-1.13.0",
+    "output_count": 25,
+    "status": "ok",
+    "usage": {
+      "input_tokens": 8632,
+      "output_tokens": 978
+    }
+  },
+  "model_used": "openai:gpt-4.1-mini"
+}
