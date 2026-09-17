@@ -1,0 +1,759 @@
+{
+  "articles": [
+    {
+      "published": "2026-09-17T12:06:30+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "หุ้นไทยเด้ง 20 จุด ปิด 1,583 รับผลเฟดตามคาด DELTA-บิ๊กแคปหนุน",
+      "url": "https://www.prachachat.net/finance/news-2068179"
+    },
+    {
+      "published": "2026-09-17T03:47:23+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "ซีไอเอ็มบี ไทย เตือนรับมือดอกเบี้ยโลก ‘สูงและนาน’ กว่าที่คิด หลัง ‘เฟด’ ปรับขึ้นครั้งแรกในรอบ 3 ปี",
+      "url": "https://www.prachachat.net/finance/news-2067810"
+    },
+    {
+      "published": "2026-09-17T04:01:07+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "New Normal อันเปราะบางของช่องแคบฮอร์มุซ",
+      "url": "https://www.prachachat.net/finance/news-2066904"
+    },
+    {
+      "published": "2026-09-17T21:49:00+00:00",
+      "publisher": "Bangkok Post Business",
+      "source": "Bangkok Post Business",
+      "title": "Fed rate hike puts spotlight on 2027 view",
+      "url": "https://www.bangkokpost.com/business/general/3321735/fed-rate-hike-puts-spotlight-on-2027-view"
+    },
+    {
+      "published": "2026-09-17T22:44:00+00:00",
+      "publisher": "Bangkok Post Business",
+      "source": "Bangkok Post Business",
+      "title": "Household debt-to-GDP ratio forecast to decline",
+      "url": "https://www.bangkokpost.com/business/general/3321565/household-debttogdp-ratio-forecast-to-decline"
+    },
+    {
+      "published": "2026-09-17T22:15:00+00:00",
+      "publisher": "Bangkok Post Business",
+      "source": "Bangkok Post Business",
+      "title": "Taiwan's ALP to build B10bn smart warehouse in Thailand",
+      "url": "https://www.bangkokpost.com/business/general/3321555/taiwans-alp-to-build-b10bn-smart-warehouse-in-thailand"
+    },
+    {
+      "published": "2026-09-17T10:36:30+00:00",
+      "publisher": "SET",
+      "source": "SET News (Google News)",
+      "title": "SET News :บีโอไอ ตลาดหลักทรัพย์ฯ และ ก.ล.ต. ผนึกกำลังขับเคลื่อนเศรษฐกิจไทย ส่งเสริมผู้ประกอบการอุตสาหกรรม New Economy สู่ตลาดทุน ผ่านโครงการ BOI to IPO - ตลาดหลักทรัพย์แห่งประเทศไทย - SET",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNjVSUThjSHRCYkVWZWNaUEI1ck5XWVI1NlRySmR1SVB4czdNMERzbjJzRmRsc3dZTGN4UWhmcHpESDE4ekg5Xy12ekYtTDBJaGUwa0huUmFEanZMbHZnamc3akt6TTFFaXhzWm1tR1VSbEFJTWM1MC1mcmRLM0JYcHNlRGFVbFU1VWc?oc=5"
+    },
+    {
+      "published": "2026-09-17T04:37:31+00:00",
+      "publisher": "facebook.com",
+      "source": "MoneyChannel TH (Google News)",
+      "title": "#ทันหุ้น #ปันผล #Thailand #ลงทุน #ตลาดหุ้น #SET #BEM +4.58% แตะ 6.85 บาท +0.30 บาท โบรกแนะนำ “ซื้อ” เป้า 9.00 บาท - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMipwVBVV95cUxNNGRVQjFkaVZNemZUNTFqVUZPaXVKU2VYU3k1cUtfeWV0YXZHc2IzT05qWlljZkpHS1F1NFl5X1RRck54eW94X19MUDFOTEJtaElpb3RkNVEtbmxsdWdtZDhYY2lKZTZjZUdscmNDaFRKMFdoYWM2R01nZU84RHpoMU5hcWhaSWdPOTM5ZEtTU2JEN2h1WUlleWlhUzlqd2pndEktU1pkZ29kMTljMEhqNkJOb3Z6Y3pUcVBJRGs0Z3N2NFRMd0ZsTHFOYzRGdFBoZG5JMG9BQjZlTnRVVC1sTWJsMGpRMncybW9VanNYb2Fvd2RrMnpKXy0xekZ6Z20zaHFsWGgxNFhNMWpFRnRGUG02ODJnVk5jbkhiZjhaNlNaLVVRU1ZwOWF5ZDd5UWJKMFpDc0JJV3ZaS3pSYkQtQlBzRDYxQUFtdkNmQVVzS3k2V2ZiNzEzaTRFcTdOQTVZRFhSSklvbG1nXzlUN2owbzRwZ3RlUDV2OXhia284dTNTMENGemJzTWFMLV85c28yZUhfU01RNEpDOVZVSjVaRjNZcnZTS2R6ZnczQ3JFbmhvZTZjR3Vta3B2Y3l2MzJnSXVucF96MGhKTWpYd0RKaElaYXVwYlJNRUNiTHpGNWlfSm1MV1pxdHhYeHlZZUxkd2wtSXM0YnBrVjVSajZSMVdxV1pWTzBQaU1RMVZER3RnWlYwaU9rQi0wdnRJbzh1SzlIbDRpdXZhUml6aGVrdURPMGl6czFWZ3JxZDEzN1ZWbTAydTFjSnlxZnNMTExpSE9MX21PWU1LWkVZUzZrcmNiRFpwRHNfR1dvQmJsSklkcWdkYThibGN0WG8zeUsyNWdqNkR3ZlZYaE9Kczd4ZmFVc0Rld2tIdmduemFLN1BPbDlNcFhN?oc=5"
+    },
+    {
+      "published": "2026-09-17T01:31:17+00:00",
+      "publisher": "media.set.or.th",
+      "source": "SET News (Google News)",
+      "title": "ประกาศเชิญชวนประกวดราคา โครงการ SAP BusinessObjects Upgrade 1. ว - media.set.or.th",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVzVDYTRZQ0xaRWVBRTM4NFdLS21jV2dfb2xMbGJwNi1FTk9RVWxhOFBUbTh5QXdzVzZnVXdZb2EzNHVCNWY3YVVRSHRpTXJqejFoQTI3Nzg2aVRObHVTd2V5MUoyM185NXhYazNxM3g4SXgwVHdxcHZCcWctOW5iUVZUb0IzdlFnTW9kWl9BWnc0SjBCTUdJWEdFRzRlcWhH?oc=5"
+    },
+    {
+      "published": "2026-09-17T11:45:00+00:00",
+      "publisher": "Thansettakij",
+      "source": "MoneyChannel TH (Google News)",
+      "title": "หุ้นไทยปิดบวก 20.61 จุด DELTA นำซื้อขาย ต่างชาติพลิกซื้อสุทธิ - Thansettakij",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEWExsbVJpMTZkaEg2Q2xHejFZOENsaXgxR3ZhcVpCVWRPd245eW5ncHVmQ1I4RTJTallPdzJiUkdsNFZ2cy02Tm1qX3NmLXFickhvSGkwQzNKX0t2WDRPQUI5RG1JQQ?oc=5"
+    },
+    {
+      "published": "2026-09-17T03:01:58+00:00",
+      "publisher": "facebook.com",
+      "source": "MoneyChannel TH (Google News)",
+      "title": "#ทันหุ้น #ปันผล #Thailand #ลงทุน #ตลาดหุ้น #SET #SET เปิดที่ 1,571.66 จุด +8.93 จุด (+0.57%) - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxORVBodTJNaTB4UW5sbVI0Q2FSQXNadzJYM1VfaVdOMDlfN21kZ3dteEhqRTN3MnBNazBaelJkLVJ3aHZzNXdQMlFYbmNwNGVDQ3VLNkt5VUc0MlJkUlZrYU9COVNtU1Vjb0tlNnZsYXRlaklLbDU3eFJhNHdreTI1U2l3d0p0ek9KQk1LcEE2Z1pSWWtYUnRtc19OTmw0OEpjTnFUOWpkcW9hLWszTWt0U3hTdTZSOFpEVmhydTBpU3EtSlo1ZHNqS3lVQ3o2ZlhtMVQ2MlowekRQNnp2enBsUnZaZ3pqOUFkQV9KR1RpLWhlWk5tY3NiaUhBZ2xrUGgydjdUMFd0QTQ1SWJkUWF3WV9qdXhIdTdoeXdCUlU2TGhQZ0ZoTDNURUdGZVBnTDIwbTJ0X1R0OXZfbGxOdTN3ZlBIcUtTSDJtWUtqcHdYYUZ0ZkFjam0wOUlsaDBHX1FkeUJDbFFzYU5MUlgtaHI0V2ZVQU9vdmRBeGJQaDA2UzFpSExZOS05MHFyS2VWbDFqRWZDVno4RnhpQUl4TjVzbU80M05JWFFNQ1dpRjhWTmc3VHZJSFhEVkJkNE5TdFRZZFRGVk5BaDBjNEpkdm9xX1E0WTRkY2cybV9kOTRuYVUzaW5QYW9GdHVEWkZlWml3ODdkT1pZSk9MOTBJQTNWUG1GLVY2MXF6MDFGcDR0X01aZ2VfXzdOUzlMU0NyRjFQYnF4UGhkU0V5QUlrTFJyNkdUNU9neTZlUzVYbWlucEliUS1zQkdqWFFSMV9XeTF4Y3NCMll4aFh2ajBRMlRsWXk4RV84Nm5RbXBJNQ?oc=5"
+    },
+    {
+      "published": "2026-09-17T05:12:34+00:00",
+      "publisher": "RYT9",
+      "source": "RYT9 Economy (Google News)",
+      "title": "อมรเทพ ชี้ 4 จุดเสี่ยง หลังเฟดส่งสัญญาณดอกเบี้ยขาขึ้น กดดันบาทอ่อน-คาดกนง.ฝืนไม่ไหว - RYT9",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8wNWhrZ1A4SWZtN1VnWkJzeWFCd1NqdUJ0eTh4VmNqVGlBOGJUYmtQU2JCZW1FQWRWVWZ4WDktWEVpQlhIbjNhWE9n?oc=5"
+    },
+    {
+      "published": "2026-09-17T23:28:55+00:00",
+      "publisher": "InfoQuest",
+      "source": "InfoQuest",
+      "title": "ภาวะตลาดหุ้นนิวยอร์ก: ดาวโจนส์ปิดบวก 316.14 จุด ขานรับราคาน้ำมัน-บอนด์ยีลด์ชะลอตัว",
+      "url": "https://www.infoquest.co.th/2026/650589"
+    },
+    {
+      "published": "2026-09-17T17:37:30+00:00",
+      "publisher": "InfoQuest",
+      "source": "InfoQuest",
+      "title": "สหรัฐเผยตัวเลขเริ่มต้นสร้างบ้านต่ำกว่าคาดในเดือนส.ค.",
+      "url": "https://www.infoquest.co.th/2026/650626"
+    },
+    {
+      "published": "2026-09-17T06:10:45+00:00",
+      "publisher": "RYT9",
+      "source": "RYT9 Economy (Google News)",
+      "title": "นายกฯ ยันไม่ปิดกั้นลงทุน ดาต้าเซ็นเตอร์ เร่งออกกม.เฉพาะคุมเข้มใช้ทรัพยากร - RYT9",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ndnZ6bmh1M0kxWEhma09wTC1BZl9TNzJzOTdMQUsyNWl4bW8tekxzZUFuZ3VOeV9BYkJzeWd1SFVwWWJ1aFRmcGZ3?oc=5"
+    },
+    {
+      "published": "2026-09-17T06:36:48+00:00",
+      "publisher": "RYT9",
+      "source": "RYT9 Economy (Google News)",
+      "title": "คลังผนึก 3 หน่วยงานคลอด BOI to IPO อัดสิทธิประโยชน์ภาษีดึง 10 New Economy ปักฐานระดมทุนพลิกโฉม - RYT9",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBuZTE2eWdrclZFUTRicGVYOFdTZkRjaHNSdThTd1o2dFh4M3lFTC1kcl9QTXB4UlNQdWp2ekZ4OTF1TUhISmRCdXJR?oc=5"
+    },
+    {
+      "published": "2026-09-17T11:41:39+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "คลังเคาะแล้ว ได้แน่อีก 2 เดือน เงินไทยช่วยไทยพลัส 60/40",
+      "url": "https://www.prachachat.net/finance/news-2068150"
+    },
+    {
+      "published": "2026-09-17T05:00:36+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "เฟดขึ้นดอกเบี้ย 0.25% ส่งสัญญาณมีโอกาสขึ้นอีก จับตาเงินเฟ้อยังไม่คลาย",
+      "url": "https://www.prachachat.net/finance/news-2067869"
+    },
+    {
+      "published": "2026-09-17T09:19:41+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "ตลาดหลักทรัพย์ฯ ลุยจีบ New Economy กว่า 10 ราย ลุ้น IPO แรกปลายปี’70",
+      "url": "https://www.prachachat.net/finance/news-2068031"
+    },
+    {
+      "published": "2026-09-17T02:19:47+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "KKP อ่านเกม ‘เฟด’ มีมติเอกฉันท์ขึ้นดอกเบี้ย 0.25% ในรอบ 3 ปี-ตลาดกังวลเรตสูงนานกว่าคาด",
+      "url": "https://www.prachachat.net/finance/news-2067780"
+    },
+    {
+      "published": "2026-09-17T09:33:53+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "เอกนิติ หยอดเมล็ดพันธ์ุใหม่ใส่ปุ๋ยสูตรพิเศษ BOI to IPO ชูการลงทุนหนุนเศรษฐกิจ",
+      "url": "https://www.prachachat.net/finance/news-2068040"
+    },
+    {
+      "published": "2026-09-17T04:03:59+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "ธปท.เขย่าดอกเบี้ยน็อนแบงก์เข้ม “พีโลน-นาโนไฟแนนซ์-จำนำทะเบียน”",
+      "url": "https://www.prachachat.net/finance/news-2066881"
+    },
+    {
+      "published": "2026-09-17T01:03:45+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "ค่าเงินบาทวันนี้ (17 ก.ย.) เปิดตลาดอ่อนค่า 33.40 บาท บทวิเคราะห์ล่าสุด",
+      "url": "https://www.prachachat.net/finance/news-2067773"
+    },
+    {
+      "published": "2026-09-17T21:29:00+00:00",
+      "publisher": "Bangkok Post Business",
+      "source": "Bangkok Post Business",
+      "title": "Central invests $3bn in Vietnam to fuel growth",
+      "url": "https://www.bangkokpost.com/business/general/3321525/central-invests-3bn-in-vietnam-to-fuel-growth"
+    }
+  ],
+  "date": "2026-09-17",
+  "generated_at_utc": "2026-09-17T23:31:54Z",
+  "items": [
+    {
+      "category": "นโยบายรัฐ-การคลัง",
+      "impact": "high",
+      "key_numbers": [],
+      "rank": 1,
+      "sectors": [
+        "สวัสดิการสังคม",
+        "การบริโภคในประเทศ"
+      ],
+      "sentiment": "neutral",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "กระทรวงการคลังอนุมัติขยายโครงการไทยช่วยไทยพลัส 60/40 ต่ออีก 2 เดือน (ต.ค.-พ.ย.) โดยใช้งบประมาณที่มีอยู่ ไม่โยกงบจากเงินกู้ 2 แสนล้านบาทสำหรับเปลี่ยนผ่านพลังงาน เพื่อสนับสนุนผู้มีรายได้น้อยและกระตุ้นเศรษฐกิจในประเทศ ขณะที่โครงการบัตรสวัสดิการแห่งรัฐปี 2569 จะเริ่มใช้ 1 ต.ค. นี้เป็นทางเลือกเพิ่มเติมสำหรับกลุ่มเป้าหมาย",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "คลังเคาะต่ออายุโครงการไทยช่วยไทยพลัส 60/40 อีก 2 เดือน ไม่โยกงบฯ จากเงินกู้เปลี่ยนผ่านพลังงาน",
+      "url": "https://www.prachachat.net/finance/news-2068150",
+      "watch_next": "ติดตามการอนุมัติโครงการและผลกระทบต่อการบริโภคภายในประเทศ"
+    },
+    {
+      "category": "ธนาคาร-การเงิน",
+      "impact": "high",
+      "key_numbers": [
+        "สินเชื่อน็อนแบงก์ 4.7 แสนล้านบาท",
+        "เติบโตเฉลี่ยปีละ 12%"
+      ],
+      "rank": 2,
+      "sectors": [
+        "สินเชื่อส่วนบุคคล",
+        "การเงิน"
+      ],
+      "sentiment": "neutral",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "ธนาคารแห่งประเทศไทยเตรียมเข้มงวดกำกับดูแลผู้ให้บริการสินเชื่อที่ไม่ใช่สถาบันการเงิน (น็อนแบงก์) กว่า 3,600 ราย หลังสินเชื่อเติบโตสูงถึง 4.7 แสนล้านบาทใน 5 ปีที่ผ่านมา โดยเน้นตรวจสอบการคิดดอกเบี้ยและใบอนุญาต เช่น พีโลน นาโนไฟแนนซ์ และสินเชื่อจำนำทะเบียนรถ เพื่อสร้างมาตรฐานและความเป็นธรรมแก่ผู้บริโภค",
+      "tickers": [
+        "MTC"
+      ],
+      "time_horizon": "short-term",
+      "title_th": "ธปท. เข้มกำกับสินเชื่อน็อนแบงก์ ตรวจสอบดอกเบี้ยและใบอนุญาต หวังเพิ่มความเป็นธรรมและลดความเสี่ยงหนี้เสีย",
+      "url": "https://www.prachachat.net/finance/news-2066881",
+      "watch_next": "จับตาการออกมาตรการกำกับดูแลและผลกระทบต่อตลาดสินเชื่อส่วนบุคคล"
+    },
+    {
+      "category": "นโยบายการเงิน-ธปท.",
+      "impact": "high",
+      "key_numbers": [
+        "ดอกเบี้ยเฟด 3.75-4.00%",
+        "มติเอกฉันท์ 12-0"
+      ],
+      "rank": 3,
+      "sectors": [
+        "ตลาดทุน",
+        "ค่าเงิน-FX"
+      ],
+      "sentiment": "bearish",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "คณะกรรมการนโยบายการเงินของสหรัฐ (FOMC) มีมติเอกฉันท์ 12-0 ปรับขึ้นอัตราดอกเบี้ย 0.25% สู่ระดับ 3.75-4.00% พร้อมส่งสัญญาณว่ามีโอกาสขึ้นอีก 1 ครั้งในปีนี้ เนื่องจากเศรษฐกิจและตลาดแรงงานยังแข็งแกร่ง แต่เงินเฟ้อยังไม่ลดลงตามคาด ส่งผลกดดันเงินบาทอ่อนค่าและตลาดหุ้นไทยต้องจับตาผลกระทบจากนโยบายการเงินสหรัฐ",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "เฟดขึ้นดอกเบี้ย 0.25% ครั้งแรกในรอบ 3 ปี ส่งสัญญาณขึ้นอีก 1 ครั้งในปีนี้ จับตาเงินเฟ้อยังไม่คลาย",
+      "url": "https://www.prachachat.net/finance/news-2067869",
+      "watch_next": "ติดตามการประชุม กนง. และความเคลื่อนไหวค่าเงินบาท"
+    },
+    {
+      "category": "SET/หุ้นไทย",
+      "impact": "high",
+      "key_numbers": [
+        "บริษัทเป้าหมายกว่า 10 ราย",
+        "ระยะเวลาสนับสนุน 5 ปี"
+      ],
+      "rank": 4,
+      "sectors": [
+        "เทคโนโลยี",
+        "อุตสาหกรรมใหม่",
+        "ตลาดทุน"
+      ],
+      "sentiment": "bullish",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "ตลาดหลักทรัพย์แห่งประเทศไทยร่วมกับสำนักงานคณะกรรมการส่งเสริมการลงทุน (BOI) และสำนักงาน ก.ล.ต. เปิดโครงการ BOI to IPO เพื่อสนับสนุนบริษัทในกลุ่ม New Economy และ New S-Curve กว่า 10 ราย ให้เข้าถึงตลาดทุนด้วยมาตรการลดค่าธรรมเนียมและสิทธิประโยชน์ภาษี พร้อมตั้งเป้าหมายให้มีบริษัทเข้าจดทะเบียน IPO ภายในปลายปี 2570",
+      "tickers": [],
+      "time_horizon": "long-term",
+      "title_th": "ตลาดหลักทรัพย์ฯ ผนึก BOI และ ก.ล.ต. เปิดโครงการ BOI to IPO ดึงบริษัท New Economy ระดมทุนในตลาดทุน",
+      "url": "https://www.prachachat.net/finance/news-2067810",
+      "watch_next": "ติดตามความคืบหน้าการเข้าจดทะเบียนของบริษัทกลุ่ม New Economy"
+    },
+    {
+      "category": "นโยบายรัฐ-การคลัง",
+      "impact": "medium",
+      "key_numbers": [
+        "เม็ดเงินลงทุน 1.4 ล้านล้านบาท",
+        "การเติบโตการลงทุนไตรมาส 1 และ 2 ที่ 10% และ 14% ตามลำดับ"
+      ],
+      "rank": 5,
+      "sectors": [
+        "SMEs",
+        "เทคโนโลยี",
+        "อุตสาหกรรมใหม่"
+      ],
+      "sentiment": "bullish",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "รองนายกรัฐมนตรีและรัฐมนตรีว่าการกระทรวงการคลัง ย้ำความสำคัญของนโยบายการลงทุนเพื่อกระตุ้นเศรษฐกิจไทย โดยเฉพาะการสนับสนุนอุตสาหกรรมใหม่ เช่น AI, Wellness และอุตสาหกรรมยานยนต์ใหม่ ผ่านโครงการ BOI to IPO ที่ช่วย SMEs เข้าสู่ตลาดทุนและเพิ่มศักยภาพการแข่งขันในระยะยาว",
+      "tickers": [],
+      "time_horizon": "long-term",
+      "title_th": "เอกนิติ ชู BOI to IPO ดัน SMEs เข้าสู่อุตสาหกรรมใหม่ หนุนเศรษฐกิจไทยโตด้วยการลงทุน",
+      "url": "https://www.prachachat.net/finance/news-2068040",
+      "watch_next": "ติดตามผลตอบรับและการลงทุนในอุตสาหกรรมใหม่"
+    },
+    {
+      "category": "SET/หุ้นไทย",
+      "impact": "medium",
+      "key_numbers": [
+        "SET ปิดที่ 1,583.34 จุด (+20.61 จุด)",
+        "มูลค่าการซื้อขาย 62,461.42 ล้านบาท"
+      ],
+      "rank": 6,
+      "sectors": [
+        "เทคโนโลยี",
+        "สื่อสาร",
+        "พลังงาน",
+        "ธนาคาร"
+      ],
+      "sentiment": "bullish",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "ตลาดหุ้นไทยปิดบวก 1.32% ที่ 1,583.34 จุด ได้แรงหนุนจากหุ้นใหญ่ DELTA, ADVANC, GULF และ KBANK หลังเฟดขึ้นดอกเบี้ย 0.25% ตามคาด พร้อมราคาน้ำมันที่อ่อนตัวช่วยลดความกังวลเงินเฟ้อ ตลาดจับตาโอกาสฟื้นตัวต่อและตัวเลขส่งออกที่จะประกาศในสัปดาห์หน้า",
+      "tickers": [
+        "DELTA",
+        "ADVANC",
+        "GULF",
+        "KBANK"
+      ],
+      "time_horizon": "immediate",
+      "title_th": "SET ปิดบวก 20.61 จุด รับแรงซื้อหุ้นบิ๊กแคป DELTA-ADVANC-GULF-KBANK หลังเฟดขึ้นดอกเบี้ยตามคาด",
+      "url": "https://www.prachachat.net/finance/news-2068179",
+      "watch_next": "ติดตามแนวรับแนวต้านและแรงซื้อในหุ้นบิ๊กแคป"
+    },
+    {
+      "category": "ค่าเงิน-FX",
+      "impact": "medium",
+      "key_numbers": [
+        "เงินบาทเปิดตลาด 33.40 บาท/ดอลลาร์",
+        "นักลงทุนต่างชาติขายสุทธิหุ้น 7,192 ล้านบาท"
+      ],
+      "rank": 7,
+      "sectors": [
+        "ตลาดทุน",
+        "ค่าเงิน"
+      ],
+      "sentiment": "bearish",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "ค่าเงินบาทเปิดตลาดที่ 33.40 บาทต่อดอลลาร์ อ่อนค่าจากระดับปิดตลาดก่อนหน้า 33.25 บาท เนื่องจากเงินดอลลาร์แข็งค่าหลังเฟดขึ้นดอกเบี้ย 0.25% และส่งสัญญาณขึ้นอีกครั้งในปีนี้ ด้านนักลงทุนต่างชาติขายสุทธิหุ้นไทย 7,192 ล้านบาท และพันธบัตร 924 ล้านบาท ตลาดจับตากรอบเงินบาทในช่วง 33.20-33.50 บาทต่อดอลลาร์",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "เงินบาทเปิดตลาดอ่อนค่าแตะ 33.40 บาทต่อดอลลาร์ หลังเฟดขึ้นดอกเบี้ยและเงินดอลลาร์แข็งค่า",
+      "url": "https://www.prachachat.net/finance/news-2067773",
+      "watch_next": "ติดตามความเคลื่อนไหวค่าเงินบาทและแรงขายต่างชาติ"
+    },
+    {
+      "category": "บริษัท-M&A",
+      "impact": "medium",
+      "key_numbers": [
+        "มูลค่าการลงทุน 10,000 ล้านบาท"
+      ],
+      "rank": 8,
+      "sectors": [
+        "โลจิสติกส์",
+        "อสังหาริมทรัพย์"
+      ],
+      "sentiment": "bullish",
+      "source_name": "Bangkok Post Business",
+      "summary_th": "บริษัท Ally Logistic Property (ALP) จากไต้หวันลงทุน 10,000 ล้านบาท สร้างโกดังอัจฉริยะ Omega 1 Bangna ซึ่งเป็นศูนย์โลจิสติกส์ที่ใหญ่ที่สุดในเอเชียของบริษัทในประเทศไทย เพื่อรองรับการเติบโตของตลาดโลจิสติกส์และอีคอมเมิร์ซในภูมิภาค",
+      "tickers": [],
+      "time_horizon": "long-term",
+      "title_th": "Taiwan's ALP ลงทุน 10,000 ล้านบาท สร้างโกดังอัจฉริยะ Omega 1 Bangna ในไทย",
+      "url": "https://www.bangkokpost.com/business/general/3321555/taiwans-alp-to-build-b10bn-smart-warehouse-in-thailand",
+      "watch_next": "จับตาการขยายตัวของตลาดโลจิสติกส์และอีคอมเมิร์ซในไทย"
+    },
+    {
+      "category": "บริษัท-M&A",
+      "impact": "medium",
+      "key_numbers": [
+        "มูลค่าการลงทุน 3 พันล้านดอลลาร์สหรัฐ"
+      ],
+      "rank": 9,
+      "sectors": [
+        "ค้าปลีก",
+        "อสังหาริมทรัพย์"
+      ],
+      "sentiment": "bullish",
+      "source_name": "Bangkok Post Business",
+      "summary_th": "Central Group ประกาศลงทุนเพิ่ม 3 พันล้านดอลลาร์สหรัฐ (ราว 100,000 ล้านบาท) ในเวียดนาม เพื่อขยายธุรกิจค้าปลีกและโครงการพัฒนาอสังหาริมทรัพย์ ตอกย้ำกลยุทธ์การเติบโตในภูมิภาคเอเชียตะวันออกเฉียงใต้ ซึ่งอาจส่งผลต่อการลงทุนและการขยายตัวของกลุ่มธุรกิจในภูมิภาค",
+      "tickers": [],
+      "time_horizon": "long-term",
+      "title_th": "Central Group ลงทุน 100,000 ล้านบาทในเวียดนาม ขยายธุรกิจค้าปลีกและพัฒนาอสังหาริมทรัพย์",
+      "url": "https://www.bangkokpost.com/business/general/3321525/central-invests-3bn-in-vietnam-to-fuel-growth",
+      "watch_next": "ติดตามผลกระทบต่อกลุ่มค้าปลีกและอสังหาริมทรัพย์ในภูมิภาค"
+    },
+    {
+      "category": "ต่างประเทศกระทบไทย",
+      "impact": "high",
+      "key_numbers": [
+        "ราคาน้ำมันดิบ 100-110 ดอลลาร์ต่อบาร์เรล"
+      ],
+      "rank": 10,
+      "sectors": [
+        "พลังงาน",
+        "ต้นทุนการผลิต"
+      ],
+      "sentiment": "bearish",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "วิกฤตช่องแคบฮอร์มุซยังไม่คลี่คลาย ส่งผลให้ตลาดน้ำมันโลกมีความผันผวนสูง แม้มีมาตรการชั่วคราวช่วยฟื้นฟูอุปทานน้ำมันบางส่วน แต่ความขัดแย้งที่ยืดเยื้อและการโจมตีโครงสร้างพื้นฐานพลังงานในตะวันออกกลาง ทำให้ราคาน้ำมันดิบมีแนวโน้มปรับขึ้นสู่ช่วง 100-110 ดอลลาร์ต่อบาร์เรลในระยะสั้น ส่งผลต่อเงินเฟ้อและต้นทุนพลังงานของไทย",
+      "tickers": [
+        "PTTEP"
+      ],
+      "time_horizon": "short-term",
+      "title_th": "สถานการณ์ช่องแคบฮอร์มุซยังเปราะบาง ราคาน้ำมันดิบอาจพุ่งถึง 100-110 ดอลลาร์ต่อบาร์เรล",
+      "url": "https://www.prachachat.net/finance/news-2066904",
+      "watch_next": "ติดตามสถานการณ์ความขัดแย้งในตะวันออกกลางและราคาน้ำมัน"
+    }
+  ],
+  "jev_screen": {
+    "brief_kind": "th",
+    "decisions": [
+      {
+        "candidate_id": "candidate_000",
+        "choice": "include",
+        "confidence": 0.99,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.0,
+          "include": 0.99,
+          "review": 0.01
+        },
+        "source": "ประชาชาติธุรกิจ Finance",
+        "title": "หุ้นไทยเด้ง 20 จุด ปิด 1,583 รับผลเฟดตามคาด DELTA-บิ๊กแคปหนุน",
+        "url": "https://www.prachachat.net/finance/news-2068179"
+      },
+      {
+        "candidate_id": "candidate_001",
+        "choice": "include",
+        "confidence": 0.74,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.03,
+          "include": 0.82,
+          "review": 0.15
+        },
+        "source": "ประชาชาติธุรกิจ Finance",
+        "title": "ซีไอเอ็มบี ไทย เตือนรับมือดอกเบี้ยโลก ‘สูงและนาน’ กว่าที่คิด หลัง ‘เฟด’ ปรับขึ้นครั้งแรกในรอบ 3 ปี",
+        "url": "https://www.prachachat.net/finance/news-2067810"
+      },
+      {
+        "candidate_id": "candidate_002",
+        "choice": "review",
+        "confidence": 0.3,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.2,
+          "include": 0.26,
+          "review": 0.54
+        },
+        "source": "ประชาชาติธุรกิจ Finance",
+        "title": "New Normal อันเปราะบางของช่องแคบฮอร์มุซ",
+        "url": "https://www.prachachat.net/finance/news-2066904"
+      },
+      {
+        "candidate_id": "candidate_003",
+        "choice": "review",
+        "confidence": 0.22,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.04,
+          "include": 0.48,
+          "review": 0.48
+        },
+        "source": "Bangkok Post Business",
+        "title": "Fed rate hike puts spotlight on 2027 view",
+        "url": "https://www.bangkokpost.com/business/general/3321735/fed-rate-hike-puts-spotlight-on-2027-view"
+      },
+      {
+        "candidate_id": "candidate_004",
+        "choice": "include",
+        "confidence": 0.58,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.0,
+          "include": 0.72,
+          "review": 0.28
+        },
+        "source": "Bangkok Post Business",
+        "title": "Household debt-to-GDP ratio forecast to decline",
+        "url": "https://www.bangkokpost.com/business/general/3321565/household-debttogdp-ratio-forecast-to-decline"
+      },
+      {
+        "candidate_id": "candidate_005",
+        "choice": "include",
+        "confidence": 0.75,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.01,
+          "include": 0.83,
+          "review": 0.16
+        },
+        "source": "Bangkok Post Business",
+        "title": "Taiwan's ALP to build B10bn smart warehouse in Thailand",
+        "url": "https://www.bangkokpost.com/business/general/3321555/taiwans-alp-to-build-b10bn-smart-warehouse-in-thailand"
+      },
+      {
+        "candidate_id": "candidate_006",
+        "choice": "include",
+        "confidence": 0.68,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.02,
+          "include": 0.78,
+          "review": 0.2
+        },
+        "source": "SET News (Google News)",
+        "title": "SET News :บีโอไอ ตลาดหลักทรัพย์ฯ และ ก.ล.ต. ผนึกกำลังขับเคลื่อนเศรษฐกิจไทย ส่งเสริมผู้ประกอบการอุตสาหกรรม New Economy สู่ตลาดทุน ผ่านโครงการ BOI to IPO - ตลาดหลักทรัพย์แห่งประเทศไทย - SET",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNjVSUThjSHRCYkVWZWNaUEI1ck5XWVI1NlRySmR1SVB4czdNMERzbjJzRmRsc3dZTGN4UWhmcHpESDE4ekg5Xy12ekYtTDBJaGUwa0huUmFEanZMbHZnamc3akt6TTFFaXhzWm1tR1VSbEFJTWM1MC1mcmRLM0JYcHNlRGFVbFU1VWc?oc=5"
+      },
+      {
+        "candidate_id": "candidate_007",
+        "choice": "include",
+        "confidence": 0.17,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.23,
+          "include": 0.44,
+          "review": 0.33
+        },
+        "source": "MoneyChannel TH (Google News)",
+        "title": "#ทันหุ้น #ปันผล #Thailand #ลงทุน #ตลาดหุ้น #SET #BEM +4.58% แตะ 6.85 บาท +0.30 บาท โบรกแนะนำ “ซื้อ” เป้า 9.00 บาท - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMipwVBVV95cUxNNGRVQjFkaVZNemZUNTFqVUZPaXVKU2VYU3k1cUtfeWV0YXZHc2IzT05qWlljZkpHS1F1NFl5X1RRck54eW94X19MUDFOTEJtaElpb3RkNVEtbmxsdWdtZDhYY2lKZTZjZUdscmNDaFRKMFdoYWM2R01nZU84RHpoMU5hcWhaSWdPOTM5ZEtTU2JEN2h1WUlleWlhUzlqd2pndEktU1pkZ29kMTljMEhqNkJOb3Z6Y3pUcVBJRGs0Z3N2NFRMd0ZsTHFOYzRGdFBoZG5JMG9BQjZlTnRVVC1sTWJsMGpRMncybW9VanNYb2Fvd2RrMnpKXy0xekZ6Z20zaHFsWGgxNFhNMWpFRnRGUG02ODJnVk5jbkhiZjhaNlNaLVVRU1ZwOWF5ZDd5UWJKMFpDc0JJV3ZaS3pSYkQtQlBzRDYxQUFtdkNmQVVzS3k2V2ZiNzEzaTRFcTdOQTVZRFhSSklvbG1nXzlUN2owbzRwZ3RlUDV2OXhia284dTNTMENGemJzTWFMLV85c28yZUhfU01RNEpDOVZVSjVaRjNZcnZTS2R6ZnczQ3JFbmhvZTZjR3Vta3B2Y3l2MzJnSXVucF96MGhKTWpYd0RKaElaYXVwYlJNRUNiTHpGNWlfSm1MV1pxdHhYeHlZZUxkd2wtSXM0YnBrVjVSajZSMVdxV1pWTzBQaU1RMVZER3RnWlYwaU9rQi0wdnRJbzh1SzlIbDRpdXZhUml6aGVrdURPMGl6czFWZ3JxZDEzN1ZWbTAydTFjSnlxZnNMTExpSE9MX21PWU1LWkVZUzZrcmNiRFpwRHNfR1dvQmJsSklkcWdkYThibGN0WG8zeUsyNWdqNkR3ZlZYaE9Kczd4ZmFVc0Rld2tIdmduemFLN1BPbDlNcFhN?oc=5"
+      },
+      {
+        "candidate_id": "candidate_008",
+        "choice": "exclude",
+        "confidence": 0.61,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.74,
+          "include": 0.06,
+          "review": 0.2
+        },
+        "source": "SET News (Google News)",
+        "title": "ประกาศเชิญชวนประกวดราคา โครงการ SAP BusinessObjects Upgrade 1. ว - media.set.or.th",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVzVDYTRZQ0xaRWVBRTM4NFdLS21jV2dfb2xMbGJwNi1FTk9RVWxhOFBUbTh5QXdzVzZnVXdZb2EzNHVCNWY3YVVRSHRpTXJqejFoQTI3Nzg2aVRObHVTd2V5MUoyM185NXhYazNxM3g4SXgwVHdxcHZCcWctOW5iUVZUb0IzdlFnTW9kWl9BWnc0SjBCTUdJWEdFRzRlcWhH?oc=5"
+      },
+      {
+        "candidate_id": "candidate_009",
+        "choice": "include",
+        "confidence": 0.92,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.01,
+          "include": 0.95,
+          "review": 0.04
+        },
+        "source": "MoneyChannel TH (Google News)",
+        "title": "หุ้นไทยปิดบวก 20.61 จุด DELTA นำซื้อขาย ต่างชาติพลิกซื้อสุทธิ - Thansettakij",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEWExsbVJpMTZkaEg2Q2xHejFZOENsaXgxR3ZhcVpCVWRPd245eW5ncHVmQ1I4RTJTallPdzJiUkdsNFZ2cy02Tm1qX3NmLXFickhvSGkwQzNKX0t2WDRPQUI5RG1JQQ?oc=5"
+      },
+      {
+        "candidate_id": "candidate_010",
+        "choice": "include",
+        "confidence": 0.4,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.22,
+          "include": 0.6,
+          "review": 0.18
+        },
+        "source": "MoneyChannel TH (Google News)",
+        "title": "#ทันหุ้น #ปันผล #Thailand #ลงทุน #ตลาดหุ้น #SET #SET เปิดที่ 1,571.66 จุด +8.93 จุด (+0.57%) - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxORVBodTJNaTB4UW5sbVI0Q2FSQXNadzJYM1VfaVdOMDlfN21kZ3dteEhqRTN3MnBNazBaelJkLVJ3aHZzNXdQMlFYbmNwNGVDQ3VLNkt5VUc0MlJkUlZrYU9COVNtU1Vjb0tlNnZsYXRlaklLbDU3eFJhNHdreTI1U2l3d0p0ek9KQk1LcEE2Z1pSWWtYUnRtc19OTmw0OEpjTnFUOWpkcW9hLWszTWt0U3hTdTZSOFpEVmhydTBpU3EtSlo1ZHNqS3lVQ3o2ZlhtMVQ2MlowekRQNnp2enBsUnZaZ3pqOUFkQV9KR1RpLWhlWk5tY3NiaUhBZ2xrUGgydjdUMFd0QTQ1SWJkUWF3WV9qdXhIdTdoeXdCUlU2TGhQZ0ZoTDNURUdGZVBnTDIwbTJ0X1R0OXZfbGxOdTN3ZlBIcUtTSDJtWUtqcHdYYUZ0ZkFjam0wOUlsaDBHX1FkeUJDbFFzYU5MUlgtaHI0V2ZVQU9vdmRBeGJQaDA2UzFpSExZOS05MHFyS2VWbDFqRWZDVno4RnhpQUl4TjVzbU80M05JWFFNQ1dpRjhWTmc3VHZJSFhEVkJkNE5TdFRZZFRGVk5BaDBjNEpkdm9xX1E0WTRkY2cybV9kOTRuYVUzaW5QYW9GdHVEWkZlWml3ODdkT1pZSk9MOTBJQTNWUG1GLVY2MXF6MDFGcDR0X01aZ2VfXzdOUzlMU0NyRjFQYnF4UGhkU0V5QUlrTFJyNkdUNU9neTZlUzVYbWlucEliUS1zQkdqWFFSMV9XeTF4Y3NCMll4aFh2ajBRMlRsWXk4RV84Nm5RbXBJNQ?oc=5"
+      },
+      {
+        "candidate_id": "candidate_011",
+        "choice": "exclude",
+        "confidence": 0.89,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 0.92,
+          "include": 0.02,
+          "review": 0.06
+        },
+        "source": "InfoQuest",
+        "title": "สหรัฐเผยดัชนีการทำสัญญาขายบ้านที่รอปิดการขายสูงกว่าคาดในเดือนส.ค.",
+        "url": "https://www.infoquest.co.th/2026/650624"
+      },
+      {
+        "candidate_id": "candidate_012",
+        "choice": "include",
+        "confidence": 0.63,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.02,
+          "include": 0.75,
+          "review": 0.23
+        },
+        "source": "RYT9 Economy (Google News)",
+        "title": "อมรเทพ ชี้ 4 จุดเสี่ยง หลังเฟดส่งสัญญาณดอกเบี้ยขาขึ้น กดดันบาทอ่อน-คาดกนง.ฝืนไม่ไหว - RYT9",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8wNWhrZ1A4SWZtN1VnWkJzeWFCd1NqdUJ0eTh4VmNqVGlBOGJUYmtQU2JCZW1FQWRWVWZ4WDktWEVpQlhIbjNhWE9n?oc=5"
+      },
+      {
+        "candidate_id": "candidate_013",
+        "choice": "exclude",
+        "confidence": 0.73,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.82,
+          "include": 0.02,
+          "review": 0.16
+        },
+        "source": "InfoQuest",
+        "title": "ภาวะตลาดหุ้นนิวยอร์ก: ดาวโจนส์ปิดบวก 316.14 จุด ขานรับราคาน้ำมัน-บอนด์ยีลด์ชะลอตัว",
+        "url": "https://www.infoquest.co.th/2026/650589"
+      },
+      {
+        "candidate_id": "candidate_014",
+        "choice": "exclude",
+        "confidence": 0.73,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.82,
+          "include": 0.06,
+          "review": 0.12
+        },
+        "source": "InfoQuest",
+        "title": "สหรัฐเผยตัวเลขเริ่มต้นสร้างบ้านต่ำกว่าคาดในเดือนส.ค.",
+        "url": "https://www.infoquest.co.th/2026/650626"
+      },
+      {
+        "candidate_id": "candidate_015",
+        "choice": "include",
+        "confidence": 0.69,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.0,
+          "include": 0.8,
+          "review": 0.2
+        },
+        "source": "RYT9 Economy (Google News)",
+        "title": "นายกฯ ยันไม่ปิดกั้นลงทุน ดาต้าเซ็นเตอร์ เร่งออกกม.เฉพาะคุมเข้มใช้ทรัพยากร - RYT9",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ndnZ6bmh1M0kxWEhma09wTC1BZl9TNzJzOTdMQUsyNWl4bW8tekxzZUFuZ3VOeV9BYkJzeWd1SFVwWWJ1aFRmcGZ3?oc=5"
+      },
+      {
+        "candidate_id": "candidate_016",
+        "choice": "include",
+        "confidence": 0.54,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.01,
+          "include": 0.69,
+          "review": 0.3
+        },
+        "source": "RYT9 Economy (Google News)",
+        "title": "คลังผนึก 3 หน่วยงานคลอด BOI to IPO อัดสิทธิประโยชน์ภาษีดึง 10 New Economy ปักฐานระดมทุนพลิกโฉม - RYT9",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBuZTE2eWdrclZFUTRicGVYOFdTZkRjaHNSdThTd1o2dFh4M3lFTC1kcl9QTXB4UlNQdWp2ekZ4OTF1TUhISmRCdXJR?oc=5"
+      },
+      {
+        "candidate_id": "candidate_017",
+        "choice": "include",
+        "confidence": 0.98,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.0,
+          "include": 0.99,
+          "review": 0.01
+        },
+        "source": "ประชาชาติธุรกิจ Finance",
+        "title": "คลังเคาะแล้ว ได้แน่อีก 2 เดือน เงินไทยช่วยไทยพลัส 60/40",
+        "url": "https://www.prachachat.net/finance/news-2068150"
+      },
+      {
+        "candidate_id": "candidate_018",
+        "choice": "include",
+        "confidence": 0.67,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.09,
+          "include": 0.78,
+          "review": 0.13
+        },
+        "source": "ประชาชาติธุรกิจ Finance",
+        "title": "เฟดขึ้นดอกเบี้ย 0.25% ส่งสัญญาณมีโอกาสขึ้นอีก จับตาเงินเฟ้อยังไม่คลาย",
+        "url": "https://www.prachachat.net/finance/news-2067869"
+      },
+      {
+        "candidate_id": "candidate_019",
+        "choice": "include",
+        "confidence": 0.98,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.0,
+          "include": 0.99,
+          "review": 0.01
+        },
+        "source": "ประชาชาติธุรกิจ Finance",
+        "title": "ตลาดหลักทรัพย์ฯ ลุยจีบ New Economy กว่า 10 ราย ลุ้น IPO แรกปลายปี’70",
+        "url": "https://www.prachachat.net/finance/news-2068031"
+      },
+      {
+        "candidate_id": "candidate_020",
+        "choice": "include",
+        "confidence": 0.49,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.12,
+          "include": 0.66,
+          "review": 0.22
+        },
+        "source": "ประชาชาติธุรกิจ Finance",
+        "title": "KKP อ่านเกม ‘เฟด’ มีมติเอกฉันท์ขึ้นดอกเบี้ย 0.25% ในรอบ 3 ปี-ตลาดกังวลเรตสูงนานกว่าคาด",
+        "url": "https://www.prachachat.net/finance/news-2067780"
+      },
+      {
+        "candidate_id": "candidate_021",
+        "choice": "include",
+        "confidence": 0.66,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.01,
+          "include": 0.77,
+          "review": 0.22
+        },
+        "source": "ประชาชาติธุรกิจ Finance",
+        "title": "เอกนิติ หยอดเมล็ดพันธ์ุใหม่ใส่ปุ๋ยสูตรพิเศษ BOI to IPO ชูการลงทุนหนุนเศรษฐกิจ",
+        "url": "https://www.prachachat.net/finance/news-2068040"
+      },
+      {
+        "candidate_id": "candidate_022",
+        "choice": "include",
+        "confidence": 0.99,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.0,
+          "include": 0.99,
+          "review": 0.01
+        },
+        "source": "ประชาชาติธุรกิจ Finance",
+        "title": "ธปท.เขย่าดอกเบี้ยน็อนแบงก์เข้ม “พีโลน-นาโนไฟแนนซ์-จำนำทะเบียน”",
+        "url": "https://www.prachachat.net/finance/news-2066881"
+      },
+      {
+        "candidate_id": "candidate_023",
+        "choice": "include",
+        "confidence": 0.88,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.03,
+          "include": 0.92,
+          "review": 0.05
+        },
+        "source": "ประชาชาติธุรกิจ Finance",
+        "title": "ค่าเงินบาทวันนี้ (17 ก.ย.) เปิดตลาดอ่อนค่า 33.40 บาท บทวิเคราะห์ล่าสุด",
+        "url": "https://www.prachachat.net/finance/news-2067773"
+      },
+      {
+        "candidate_id": "candidate_024",
+        "choice": "include",
+        "confidence": 0.64,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.02,
+          "include": 0.76,
+          "review": 0.22
+        },
+        "source": "Bangkok Post Business",
+        "title": "Central invests $3bn in Vietnam to fuel growth",
+        "url": "https://www.bangkokpost.com/business/general/3321525/central-invests-3bn-in-vietnam-to-fuel-growth"
+      }
+    ],
+    "high_confidence_excluded": 1,
+    "input_count": 25,
+    "mode": "active",
+    "model": "jev-1.13.0",
+    "output_count": 24,
+    "status": "ok",
+    "usage": {
+      "input_tokens": 19083,
+      "output_tokens": 978
+    }
+  },
+  "model_used": "openai:gpt-4.1-mini"
+}
