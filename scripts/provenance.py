@@ -31,6 +31,7 @@ def write_evidence(
     model_used: str,
     articles: list[Any],
     items: list[dict],
+    jev_screen: dict[str, Any] | None = None,
 ) -> Path:
     """Write provenance separately from clean reader Markdown."""
     evidence_dir = Path(output_dir) / "_internal"
@@ -42,6 +43,7 @@ def write_evidence(
         "model_used": model_used,
         "articles": [_article_record(article) for article in articles],
         "items": items,
+        "jev_screen": jev_screen,
     }
     path.write_text(
         json.dumps(payload, ensure_ascii=False, indent=2, sort_keys=True) + "\n",

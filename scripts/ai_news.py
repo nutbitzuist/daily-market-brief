@@ -19,7 +19,7 @@ ROOT = Path(__file__).resolve().parent.parent
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from scripts import notify, provenance, sources, summarizer  # noqa: E402
+from scripts import jev_screen, notify, provenance, sources, summarizer  # noqa: E402
 
 logging.basicConfig(
     level=os.environ.get("LOG_LEVEL", "INFO"),
@@ -255,6 +255,7 @@ def run() -> int:
     top = sources.enrich_all(top)
 
     top_dicts = [a.to_dict() for a in top[:candidate_limit]]
+    top_dicts, jev_report = jev_screen.screen_articles(top_dicts, "ai", output_count)
 
     items, model_used = summarizer.summarize_ai_news(top_dicts)
     block_reason = notify.publication_block_reason(len(top), output_count, model_used)
@@ -289,7 +290,8 @@ def run() -> int:
     out_path.write_text(md, encoding="utf-8")
     latest.write_text(md, encoding="utf-8")
     evidence_path = provenance.write_evidence(
-        ARTICLES_DIR, date_str, generated_at_utc, model_used, top, items)
+        ARTICLES_DIR, date_str, generated_at_utc, model_used, top_dicts, items,
+        jev_screen=jev_report)
     log.info("wrote %s, %s, and %s", out_path, latest, evidence_path)
 
     send_ai_digest(date_str, items, REPO_URL)
