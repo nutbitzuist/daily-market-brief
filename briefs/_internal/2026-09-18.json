@@ -1,0 +1,719 @@
+{
+  "articles": [
+    {
+      "published": "2026-09-18T17:01:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "Yen Jumps On Report Of BOJ \"Rate Check\" But It's \"Too Little Too Late\"",
+      "url": "https://www.zerohedge.com/markets/yen-plunges-after-two-dissenters-upstage-bojs-rate-hike-full-wall-street-reaction"
+    },
+    {
+      "published": "2026-09-18T17:40:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "K-Shaped Economy: Reality Or Media-Driven Perception",
+      "url": "https://www.zerohedge.com/markets/k-shaped-economy-reality-or-media-driven-perception"
+    },
+    {
+      "published": "2026-09-18T23:07:27+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Top News",
+      "title": "Stocks face a key hurdle in next week’s U.S.-China summit. Here’s what’s at stake",
+      "url": "https://www.cnbc.com/2026/09/18/stock-market-next-week-outlook-for-sept-21-25-2026.html"
+    },
+    {
+      "published": "2026-09-18T15:31:16+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Markets (Google News)",
+      "title": "Gold Holds Gain as Lower Oil and Fed Hike Temper Inflation Fears - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXA0T0RVa3FhR3N3MmVldzhfM1dNcTlQMjl2M2hzY1gweUdjcFFfMGJvRFQxMC11UWlITEt0TFY2TjdRbHdGTVBDR251bjZPUi0tRmF3U1pPNHlIcDctaGhXYWtIWWFiNHNGR19QdTh5VjlFOUdoRmJGb0NvV1pyekJKZVJJWmRyaEY1RDdFdEdIdFlCZkowZ2gyd1VVeXJoUVNkYVZLaDg5YTBNWVpxcnlibjZvUQ?oc=5"
+    },
+    {
+      "published": "2026-09-18T18:21:51+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Top News",
+      "title": "The Fed rate hike opens up an opportunity for muni bond investors",
+      "url": "https://www.cnbc.com/2026/09/18/the-fed-rate-hike-opens-up-an-opportunity-for-muni-bond-investors.html"
+    },
+    {
+      "published": "2026-09-18T19:48:35+00:00",
+      "publisher": "Financial Times",
+      "source": "Financial Times Companies",
+      "title": "White House attacks Fed official after review of Silicon Valley Bank collapse",
+      "url": "https://www.ft.com/content/98c6db91-44c7-487e-a733-331a58766ba1?syn-25a6b1a6=1"
+    },
+    {
+      "published": "2026-09-18T21:31:28+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters US Politics (Google News)",
+      "title": "Russia sanctions bill gives Trump sweeping new tariff powers - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWEtRUVNvYVIwTTZqQ3pmak0zd0NlNjZEcmxxQ3FUWTJKVUZjTHdjUmt1SThTNVFmZWl5OXVLUmljaWJoSFRQbU5qVnZDUjcyWEhJNk5yWjZDOTNzazlrenItWHdvODFNbE5Ka3ZoMGF4ZFRGcEFFeVhlWF8tWGZYYU1XWWttR3BuR0hmdF9iY0Z2WGQwbFJfV2lOT2FwSExyT21yUE80ZVM?oc=5"
+    },
+    {
+      "published": "2026-09-18T21:41:51+00:00",
+      "publisher": "Seeking Alpha Market News",
+      "source": "Seeking Alpha Market News",
+      "title": "S&P 500 ends volatile week as Fed hikes rates, yields jump, oil surges",
+      "url": "https://seekingalpha.com/news/4644545-sp-500-ends-volatile-week-as-fed-hikes-rates-yields-jump-oil-surges?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+    },
+    {
+      "published": "2026-09-18T17:17:47+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Markets (Google News)",
+      "title": "VW Slashes Profit Outlook After China Sales Slump and $6.9 Billion Writedown - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQlR3dks5T0tBQjJfekIxNElLcXVYRnhVOHNRbzR3OGY1YXFFZzR0X3lzcVdlaHh0TVBIQ0RxZ0J2Nk40Rk4za2tSVnFlaFpoUlpjSGlNaGxEZWV5ZkRFNE1mdHFKNkZtNjVIRVVxNklIbG9UY0p0dWN3Y3E0S0t0YTdOVWVsR0xuOXl0czdPbGFuS2tVRDZmSUk3THEwWjlUaEtHeXV1eDI2dEFfQmJR?oc=5"
+    },
+    {
+      "published": "2026-09-18T17:19:46+00:00",
+      "publisher": "Wall Street Journal",
+      "source": "WSJ Markets (Google News)",
+      "title": "Treasury Yields Settle Higher as Fed Raises Rates - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcURyaFZ4WC16QnVUZnR0Y3VVQ1hFOUM4R2JwRDBMbWZMeGZRbnAyRTZRZzBNMmVIRFFEem0tX2psazdsaWJyZGxEcndnZUxqblJldDVwNzhiSFdhaGJwVXdYeFZpNW5VdFpXV0RHVWtYU1FaQ3RXWmI0aVpmMWFiZA?oc=5"
+    },
+    {
+      "published": "2026-09-18T14:13:37+00:00",
+      "publisher": "Wall Street Journal",
+      "source": "WSJ Markets (Google News)",
+      "title": "Treasury Yields Tick Higher as Markets Price Hawkish Fed - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY2RTZkMwTGY1X1FhWjMyczN5bE5oejl0MjZlRmRfdmxjM0Q0Wk5ZZmF4VW9LRUZ0b3Y0X0FFdU1LeU0zWU1qOExkdTU0NjU3bUxNR1I0RnZrLWI3XzVXVk9GTjh4T3JRWWk2a1R0OVhqRWVoRExsZ09LX1VWNi1DLWd1NzRqXzJBZ2phMEVXdw?oc=5"
+    },
+    {
+      "published": "2026-09-18T10:09:02+00:00",
+      "publisher": "Financial Times",
+      "source": "Financial Times Companies",
+      "title": "Russia seizes control of Nestlé and Auchan operations",
+      "url": "https://www.ft.com/content/35f6bcf0-ba88-4a82-9575-9dae232d1b54?syn-25a6b1a6=1"
+    },
+    {
+      "published": "2026-09-18T21:30:20+00:00",
+      "publisher": "Seeking Alpha Market News",
+      "source": "Seeking Alpha Market News",
+      "title": "Gold ekes out weekly gain despite Fed rate hike",
+      "url": "https://seekingalpha.com/news/4644538-gold-ekes-out-weekly-gain-despite-fed-rate-hike?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+    },
+    {
+      "published": "2026-09-18T20:01:00+00:00",
+      "publisher": "MarketWatch",
+      "source": "MarketWatch Top Stories",
+      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+      "url": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories"
+    },
+    {
+      "published": "2026-09-18T15:00:00+00:00",
+      "publisher": "Federal Reserve Press Releases",
+      "source": "Federal Reserve Press Releases",
+      "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm"
+    },
+    {
+      "published": "2026-09-18T15:00:00+00:00",
+      "publisher": "Federal Reserve Press Releases",
+      "source": "Federal Reserve Press Releases",
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm"
+    },
+    {
+      "published": "2026-09-18T05:03:00+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters US Politics (Google News)",
+      "title": "As Iran war grinds on, Trump to face skeptical world leaders at UN - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORFROaUxKT0xTODBaOWZaNkx1anVfanoxaFVwYm5QQnlNY1QwZXEyaEY3QnR6QmNDMHlJX3gwWU5WRWN6VmdjdkxLSmEyX3dZeW9pVmJ2d3lEeVlPWVFQeDNwa2V5bnE0b3h0OGRIWmdMTUw4aDQ5UUZHX192bmcwNTNUeEJIU2YySU8yM3FxX3lCTFlJX1Y3bHRrd3g4MS1nNk5LNkJEZmlWREk?oc=5"
+    },
+    {
+      "published": "2026-09-18T19:35:39+00:00",
+      "publisher": "The New York Times",
+      "source": "NYT US Business (Google News)",
+      "title": "Trump Says He Has Banned CNN, MS NOW and Politico From White House - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORkRnSkZJNGpwdlRLTGlyRGxKVmZRelpBR1ZSRXJNdDBsU2Vzdk00TlJqOTNXVmdYMEhwdTBiSmRNSXk0bi03b184MU5neG9ZUnVycGRjUGhpR0NQNnlMOFF0RXpaMGlkTVV4UDRtaVM5bHZUNGktYU54YmZtYlh2SnFGUmlPT0FmdVcwSG5JdEFlOEtISlF4TEM1SGc?oc=5"
+    },
+    {
+      "published": "2026-09-18T16:36:48+00:00",
+      "publisher": "The New York Times",
+      "source": "NYT US Business (Google News)",
+      "title": "Trump Calls A.I. Fears a Hoax. Inside the White House, the Debate Is More Complex. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNak5GUzFuWWRqR1pyS1YtWkxtSXdRRXZQeTVOQzlEQmMtMVFteUxjYnRDRTdlRm91NFhacVJ4UkEwRVA1Slg3THlocElZRTZxdTh3TnNyZGlpRklMdFhyWndMaEVORS1JMUY0N3lLc0xQQkdTZHFhMzNtY0R1d01KeVhjRVI3SURHenRrVWVTME9TRDZl?oc=5"
+    },
+    {
+      "published": "2026-09-18T07:40:29+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Economy",
+      "title": "Why Japan’s markets flipped the usual script after central bank rate hike",
+      "url": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html"
+    },
+    {
+      "published": "2026-09-18T21:14:00+00:00",
+      "publisher": "MarketWatch",
+      "source": "MarketWatch Top Stories",
+      "title": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
+      "url": "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories"
+    },
+    {
+      "published": "2026-09-18T10:48:07+00:00",
+      "publisher": "Yahoo Personal Finance",
+      "source": "Yahoo Finance",
+      "title": "Gold price today, Friday, September 18, 2026: Gold hits weekly high as inflation concerns fade",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-september-18-2026-gold-hits-weekly-high-as-inflation-concerns-fade-104807567.html"
+    },
+    {
+      "published": "2026-09-18T09:01:00+00:00",
+      "publisher": "Politico",
+      "source": "Politico Economy Policy",
+      "title": "Bill Cassidy slams RFK Jr. over measles outbreaks but demurs on confirmation vote - Politico",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQjlwa0IxNHRjZHBiamRya3pGWnZ2VXdUd0xKLWI0dG1JX0Q2eEg0RVFPQXpvUzAyY19ZbmpWOFA5TTdPdGRQV1ZYbVdZc2hkRGprOUxjUkdoMXBPYlV2cW5CU1FuQ1Q5c2JLTG1kYXBITXVvRjdXdzVIdVNQdFlfM05sbmRNeVM3MGdZUmp3cUk?oc=5"
+    }
+  ],
+  "date": "2026-09-18",
+  "generated_at_utc": "2026-09-18T23:12:35Z",
+  "items": [
+    {
+      "category": "Macro/Fed",
+      "impact": "high",
+      "key_numbers": [
+        "3.75",
+        "4.0"
+      ],
+      "rank": 1,
+      "sectors": [
+        "Financials"
+      ],
+      "sentiment": "neutral",
+      "source_name": "WSJ Markets",
+      "summary_th": "เฟดประกาศขึ้นอัตราดอกเบี้ย 0.25% เป็นช่วง 3.75%-4.0% ทำให้ผลตอบแทนพันธบัตรรัฐบาลสหรัฐฯ ปรับตัวสูงขึ้น ตลาดจับตาท่าทีเฟดต่อการขึ้นดอกเบี้ยในอนาคตซึ่งมีผลต่อเศรษฐกิจและตลาดหุ้นโดยรวม",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "เฟดขึ้นดอกเบี้ย ส่งผลให้ผลตอบแทนพันธบัตรเพิ่มขึ้น",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcURyaFZ4WC16QnVUZnR0Y3VVQ1hFOUM4R2JwRDBMbWZMeGZRbnAyRTZRZzBNMmVIRFFEem0tX2psazdsaWJyZGxEcndnZUxqblJldDVwNzhiSFdhaGJwVXdYeFZpNW5VdFpXV0RHVWtYU1FaQ3RXWmI0aVpmMWFiZA?oc=5",
+      "watch_next": "ติดตามการประชุมเฟดครั้งถัดไปและสัญญาณการขึ้นดอกเบี้ย"
+    },
+    {
+      "category": "Geopolitics",
+      "impact": "high",
+      "key_numbers": [],
+      "rank": 2,
+      "sectors": [
+        "Financials",
+        "Tech",
+        "Industrials"
+      ],
+      "sentiment": "neutral",
+      "source_name": "CNBC Top News",
+      "summary_th": "ตลาดหุ้นสหรัฐต้องจับตาการประชุมสุดยอดระหว่างสหรัฐและจีนในสัปดาห์หน้า ซึ่งมีผลต่อความสัมพันธ์ทางการค้าและความมั่นคงทางเศรษฐกิจ การเจรจาอาจส่งผลต่อตลาดหุ้นและความเชื่อมั่นนักลงทุน",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ตลาดหุ้นสหรัฐเผชิญความท้าทายจากการประชุมสุดยอดสหรัฐ-จีน",
+      "url": "https://www.cnbc.com/2026/09/18/stock-market-next-week-outlook-for-sept-21-25-2026.html",
+      "watch_next": "ติดตามผลการประชุมและท่าทีของทั้งสองฝ่าย"
+    },
+    {
+      "category": "Macro/Fed",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 3,
+      "sectors": [
+        "Financials"
+      ],
+      "sentiment": "bullish",
+      "source_name": "CNBC Top News",
+      "summary_th": "หลังจากเฟดขึ้นดอกเบี้ย ตลาดพันธบัตรเทศบาลมีโอกาสที่น่าสนใจสำหรับนักลงทุน เนื่องจากอัตราผลตอบแทนปรับตัวสูงขึ้น ทำให้สินทรัพย์นี้น่าสนใจมากขึ้นในสภาพแวดล้อมดอกเบี้ยขาขึ้น",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "เฟดเปิดโอกาสสำหรับนักลงทุนพันธบัตรเทศบาลหลังขึ้นดอกเบี้ย",
+      "url": "https://www.cnbc.com/2026/09/18/the-fed-rate-hike-opens-up-an-opportunity-for-muni-bond-investors.html",
+      "watch_next": "ติดตามอัตราผลตอบแทนพันธบัตรเทศบาลและการตอบสนองของตลาด"
+    },
+    {
+      "category": "Macro/Fed",
+      "impact": "high",
+      "key_numbers": [],
+      "rank": 4,
+      "sectors": [
+        "Financials"
+      ],
+      "sentiment": "neutral",
+      "source_name": "WSJ Markets",
+      "summary_th": "ผลตอบแทนพันธบัตรรัฐบาลสหรัฐฯ ปรับตัวสูงขึ้น หลังตลาดคาดการณ์ว่าเฟดจะยังคงนโยบายการเงินเข้มงวดต่อเนื่อง ส่งผลต่อต้นทุนการกู้ยืมและการลงทุนในตลาดทุน",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ตลาดพันธบัตรรัฐบาลสหรัฐฯ ปรับตัวสูงขึ้นรับสัญญาณเฟดเข้มงวด",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY2RTZkMwTGY1X1FhWjMyczN5bE5oejl0MjZlRmRfdmxjM0Q0Wk5ZZmF4VW9LRUZ0b3Y0X0FFdU1LeU0zWU1qOExkdTU0NjU3bUxNR1I0RnZrLWI3XzVXVk9GTjh4T3JRWWk2a1R0OVhqRWVoRExsZ09LX1VWNi1DLWd1NzRqXzJBZ2phMEVXdw?oc=5",
+      "watch_next": "ติดตามการเปลี่ยนแปลงของผลตอบแทนพันธบัตรและนโยบายเฟด"
+    },
+    {
+      "category": "Commodity",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 5,
+      "sectors": [],
+      "sentiment": "bullish",
+      "source_name": "Seeking Alpha Market News",
+      "summary_th": "ราคาทองคำยังคงปรับตัวขึ้นในสัปดาห์นี้ แม้เฟดจะขึ้นอัตราดอกเบี้ย เนื่องจากราคาน้ำมันที่ลดลงและความกังวลเงินเฟ้อที่บรรเทาลง ทำให้ทองคำยังคงเป็นสินทรัพย์ปลอดภัยที่นักลงทุนจับตามอง",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ราคาทองคำปรับขึ้นแม้เฟดขึ้นดอกเบี้ย ลดความกังวลเงินเฟ้อ",
+      "url": "https://seekingalpha.com/news/4644538-gold-ekes-out-weekly-gain-despite-fed-rate-hike?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "watch_next": "ติดตามราคาทองคำและปัจจัยเงินเฟ้อในตลาดโลก"
+    },
+    {
+      "category": "Macro/Fed",
+      "impact": "high",
+      "key_numbers": [],
+      "rank": 6,
+      "sectors": [
+        "Energy",
+        "Financials",
+        "Tech"
+      ],
+      "sentiment": "neutral",
+      "source_name": "Seeking Alpha Market News",
+      "summary_th": "S&P 500 ปิดสัปดาห์ผันผวน หลังเฟดขึ้นดอกเบี้ยและผลตอบแทนพันธบัตรเพิ่มขึ้น ขณะที่ราคาน้ำมันปรับตัวสูงขึ้น ส่งผลต่อตลาดหุ้นและภาคพลังงานโดยรวม",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "วอลล์สตรีทปรับตัวหลังเฟดขึ้นดอกเบี้ยและราคาน้ำมันพุ่ง",
+      "url": "https://seekingalpha.com/news/4644545-sp-500-ends-volatile-week-as-fed-hikes-rates-yields-jump-oil-surges?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "watch_next": "ติดตามความเคลื่อนไหวตลาดหุ้นและราคาน้ำมันในสัปดาห์หน้า"
+    },
+    {
+      "category": "Macro/Fed",
+      "impact": "medium",
+      "key_numbers": [
+        "0.25",
+        "156.83"
+      ],
+      "rank": 7,
+      "sectors": [
+        "Financials"
+      ],
+      "sentiment": "bearish",
+      "source_name": "ZeroHedge",
+      "summary_th": "เยนอ่อนค่าลงหลังธนาคารกลางญี่ปุ่นขึ้นดอกเบี้ยครั้งแรกในรอบหลายปี แต่มีเสียงคัดค้านในคณะกรรมการและสัญญาณนโยบายที่ไม่ชัดเจน ทำให้นักลงทุนกังวลเกี่ยวกับการขึ้นดอกเบี้ยต่อเนื่องและความแตกต่างอัตราดอกเบี้ยกับสหรัฐฯ",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ยูโรอ่อนค่า หลังธนาคารกลางญี่ปุ่นขึ้นดอกเบี้ยแต่ส่งสัญญาณไม่ชัดเจน",
+      "url": "https://www.zerohedge.com/markets/yen-plunges-after-two-dissenters-upstage-bojs-rate-hike-full-wall-street-reaction",
+      "watch_next": "ติดตามท่าทีธนาคารกลางญี่ปุ่นและความเคลื่อนไหวค่าเงินเยน"
+    },
+    {
+      "category": "Earnings",
+      "impact": "medium",
+      "key_numbers": [
+        "318"
+      ],
+      "rank": 8,
+      "sectors": [
+        "Tech",
+        "Communication Services"
+      ],
+      "sentiment": "bullish",
+      "source_name": "MarketWatch Top Stories",
+      "summary_th": "UBS แนะนำหุ้นเทคโนโลยี 14 ตัวที่มีโอกาสเติบโตสูงจากการลงทุนใน AI โดยเฉพาะ Amazon และ Texas Instruments ที่คาดว่าจะได้รับประโยชน์จากการขยายตัวของศูนย์ข้อมูลและการใช้งาน AI ในองค์กร",
+      "tickers": [
+        "AMZN",
+        "TXN"
+      ],
+      "time_horizon": "long-term",
+      "title_th": "UBS แนะหุ้นเทคโนโลยีเด่น รับการลงทุน AI ยังอยู่ช่วงต้น",
+      "url": "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories",
+      "watch_next": "ติดตามผลประกอบการและการลงทุนใน AI ของบริษัทเทคโนโลยี"
+    },
+    {
+      "category": "Geopolitics",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 9,
+      "sectors": [
+        "Consumer"
+      ],
+      "sentiment": "bearish",
+      "source_name": "Financial Times Companies",
+      "summary_th": "รัสเซียได้ควบคุมกิจการของ Nestlé และ Auchan ในประเทศ หลังจากความตึงเครียดทางการเมืองและมาตรการคว่ำบาตร ส่งผลกระทบต่อห่วงโซ่อุปทานและบริษัทต่างชาติที่ดำเนินธุรกิจในรัสเซีย",
+      "tickers": [],
+      "time_horizon": "long-term",
+      "title_th": "รัสเซียยึดกิจการ Nestlé และ Auchan ในประเทศ",
+      "url": "https://www.ft.com/content/35f6bcf0-ba88-4a82-9575-9dae232d1b54?syn-25a6b1a6=1",
+      "watch_next": "ติดตามความเคลื่อนไหวความสัมพันธ์ระหว่างประเทศและผลกระทบต่อบริษัทต่างชาติ"
+    },
+    {
+      "category": "Regulation",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 10,
+      "sectors": [
+        "Trade"
+      ],
+      "sentiment": "neutral",
+      "source_name": "Reuters US Politics",
+      "summary_th": "กฎหมายคว่ำบาตรรัสเซียฉบับใหม่มอบอำนาจกว้างขวางให้ประธานาธิบดีทรัมป์ในการกำหนดภาษีศุลกากร ซึ่งอาจส่งผลต่อการค้าระหว่างประเทศและความสัมพันธ์ทางเศรษฐกิจระหว่างสหรัฐกับรัสเซียและพันธมิตร",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "กฎหมายคว่ำบาตรรัสเซียให้ทรัมป์มีอำนาจกำหนดภาษีศุลกากรใหม่",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWEtRUVNvYVIwTTZqQ3pmak0zd0NlNjZEcmxxQ3FUWTJKVUZjTHdjUmt1SThTNVFmZWl5OXVLUmljaWJoSFRQbU5qVnZDUjcyWEhJNk5yWjZDOTNzazlrenItWHdvODFNbE5Ka3ZoMGF4ZFRGcEFFeVhlWF8tWGZYYU1XWWttR3BuR0hmdF9iY0Z2WGQwbFJfV2lOT2FwSExyT21yUE80ZVM?oc=5",
+      "watch_next": "ติดตามการใช้สิทธิกำหนดภาษีและผลกระทบต่อการค้าโลก"
+    }
+  ],
+  "jev_screen": {
+    "brief_kind": "us",
+    "decisions": [
+      {
+        "candidate_id": "candidate_000",
+        "choice": "include",
+        "confidence": 0.39,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.03,
+          "include": 0.6,
+          "review": 0.37
+        },
+        "source": "ZeroHedge",
+        "title": "Yen Jumps On Report Of BOJ \"Rate Check\" But It's \"Too Little Too Late\"",
+        "url": "https://www.zerohedge.com/markets/yen-plunges-after-two-dissenters-upstage-bojs-rate-hike-full-wall-street-reaction"
+      },
+      {
+        "candidate_id": "candidate_001",
+        "choice": "exclude",
+        "confidence": 0.77,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.85,
+          "include": 0.0,
+          "review": 0.15
+        },
+        "source": "ZeroHedge",
+        "title": "K-Shaped Economy: Reality Or Media-Driven Perception",
+        "url": "https://www.zerohedge.com/markets/k-shaped-economy-reality-or-media-driven-perception"
+      },
+      {
+        "candidate_id": "candidate_002",
+        "choice": "include",
+        "confidence": 0.21,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.11,
+          "include": 0.47,
+          "review": 0.42
+        },
+        "source": "CNBC Top News",
+        "title": "Stocks face a key hurdle in next week’s U.S.-China summit. Here’s what’s at stake",
+        "url": "https://www.cnbc.com/2026/09/18/stock-market-next-week-outlook-for-sept-21-25-2026.html"
+      },
+      {
+        "candidate_id": "candidate_003",
+        "choice": "include",
+        "confidence": 0.38,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.02,
+          "include": 0.59,
+          "review": 0.39
+        },
+        "source": "Bloomberg Markets (Google News)",
+        "title": "Gold Holds Gain as Lower Oil and Fed Hike Temper Inflation Fears - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXA0T0RVa3FhR3N3MmVldzhfM1dNcTlQMjl2M2hzY1gweUdjcFFfMGJvRFQxMC11UWlITEt0TFY2TjdRbHdGTVBDR251bjZPUi0tRmF3U1pPNHlIcDctaGhXYWtIWWFiNHNGR19QdTh5VjlFOUdoRmJGb0NvV1pyekJKZVJJWmRyaEY1RDdFdEdIdFlCZkowZ2gyd1VVeXJoUVNkYVZLaDg5YTBNWVpxcnlibjZvUQ?oc=5"
+      },
+      {
+        "candidate_id": "candidate_004",
+        "choice": "review",
+        "confidence": 0.17,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.4,
+          "include": 0.15,
+          "review": 0.45
+        },
+        "source": "CNBC Top News",
+        "title": "The Fed rate hike opens up an opportunity for muni bond investors",
+        "url": "https://www.cnbc.com/2026/09/18/the-fed-rate-hike-opens-up-an-opportunity-for-muni-bond-investors.html"
+      },
+      {
+        "candidate_id": "candidate_005",
+        "choice": "include",
+        "confidence": 0.66,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.01,
+          "include": 0.77,
+          "review": 0.22
+        },
+        "source": "Financial Times Companies",
+        "title": "White House attacks Fed official after review of Silicon Valley Bank collapse",
+        "url": "https://www.ft.com/content/98c6db91-44c7-487e-a733-331a58766ba1?syn-25a6b1a6=1"
+      },
+      {
+        "candidate_id": "candidate_006",
+        "choice": "include",
+        "confidence": 0.45,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.01,
+          "include": 0.63,
+          "review": 0.36
+        },
+        "source": "Reuters US Politics (Google News)",
+        "title": "Russia sanctions bill gives Trump sweeping new tariff powers - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWEtRUVNvYVIwTTZqQ3pmak0zd0NlNjZEcmxxQ3FUWTJKVUZjTHdjUmt1SThTNVFmZWl5OXVLUmljaWJoSFRQbU5qVnZDUjcyWEhJNk5yWjZDOTNzazlrenItWHdvODFNbE5Ka3ZoMGF4ZFRGcEFFeVhlWF8tWGZYYU1XWWttR3BuR0hmdF9iY0Z2WGQwbFJfV2lOT2FwSExyT21yUE80ZVM?oc=5"
+      },
+      {
+        "candidate_id": "candidate_007",
+        "choice": "include",
+        "confidence": 0.68,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.05,
+          "include": 0.78,
+          "review": 0.17
+        },
+        "source": "Seeking Alpha Market News",
+        "title": "S&P 500 ends volatile week as Fed hikes rates, yields jump, oil surges",
+        "url": "https://seekingalpha.com/news/4644545-sp-500-ends-volatile-week-as-fed-hikes-rates-yields-jump-oil-surges?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "candidate_id": "candidate_008",
+        "choice": "include",
+        "confidence": 0.94,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.0,
+          "include": 0.96,
+          "review": 0.04
+        },
+        "source": "Bloomberg Markets (Google News)",
+        "title": "VW Slashes Profit Outlook After China Sales Slump and $6.9 Billion Writedown - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQlR3dks5T0tBQjJfekIxNElLcXVYRnhVOHNRbzR3OGY1YXFFZzR0X3lzcVdlaHh0TVBIQ0RxZ0J2Nk40Rk4za2tSVnFlaFpoUlpjSGlNaGxEZWV5ZkRFNE1mdHFKNkZtNjVIRVVxNklIbG9UY0p0dWN3Y3E0S0t0YTdOVWVsR0xuOXl0czdPbGFuS2tVRDZmSUk3THEwWjlUaEtHeXV1eDI2dEFfQmJR?oc=5"
+      },
+      {
+        "candidate_id": "candidate_009",
+        "choice": "include",
+        "confidence": 0.83,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.01,
+          "include": 0.88,
+          "review": 0.11
+        },
+        "source": "WSJ Markets (Google News)",
+        "title": "Treasury Yields Settle Higher as Fed Raises Rates - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcURyaFZ4WC16QnVUZnR0Y3VVQ1hFOUM4R2JwRDBMbWZMeGZRbnAyRTZRZzBNMmVIRFFEem0tX2psazdsaWJyZGxEcndnZUxqblJldDVwNzhiSFdhaGJwVXdYeFZpNW5VdFpXV0RHVWtYU1FaQ3RXWmI0aVpmMWFiZA?oc=5"
+      },
+      {
+        "candidate_id": "candidate_010",
+        "choice": "include",
+        "confidence": 0.4,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.02,
+          "include": 0.6,
+          "review": 0.38
+        },
+        "source": "WSJ Markets (Google News)",
+        "title": "Treasury Yields Tick Higher as Markets Price Hawkish Fed - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY2RTZkMwTGY1X1FhWjMyczN5bE5oejl0MjZlRmRfdmxjM0Q0Wk5ZZmF4VW9LRUZ0b3Y0X0FFdU1LeU0zWU1qOExkdTU0NjU3bUxNR1I0RnZrLWI3XzVXVk9GTjh4T3JRWWk2a1R0OVhqRWVoRExsZ09LX1VWNi1DLWd1NzRqXzJBZ2phMEVXdw?oc=5"
+      },
+      {
+        "candidate_id": "candidate_011",
+        "choice": "include",
+        "confidence": 0.25,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.02,
+          "include": 0.5,
+          "review": 0.48
+        },
+        "source": "Financial Times Companies",
+        "title": "Russia seizes control of Nestlé and Auchan operations",
+        "url": "https://www.ft.com/content/35f6bcf0-ba88-4a82-9575-9dae232d1b54?syn-25a6b1a6=1"
+      },
+      {
+        "candidate_id": "candidate_012",
+        "choice": "include",
+        "confidence": 0.39,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.08,
+          "include": 0.59,
+          "review": 0.33
+        },
+        "source": "Seeking Alpha Market News",
+        "title": "Gold ekes out weekly gain despite Fed rate hike",
+        "url": "https://seekingalpha.com/news/4644538-gold-ekes-out-weekly-gain-despite-fed-rate-hike?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+      },
+      {
+        "candidate_id": "candidate_013",
+        "choice": "include",
+        "confidence": 0.33,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.3,
+          "include": 0.56,
+          "review": 0.14
+        },
+        "source": "MarketWatch Top Stories",
+        "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+        "url": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories"
+      },
+      {
+        "candidate_id": "candidate_014",
+        "choice": "review",
+        "confidence": 0.26,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.16,
+          "include": 0.34,
+          "review": 0.5
+        },
+        "source": "Federal Reserve Press Releases",
+        "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm"
+      },
+      {
+        "candidate_id": "candidate_015",
+        "choice": "exclude",
+        "confidence": 0.24,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.49,
+          "include": 0.1,
+          "review": 0.41
+        },
+        "source": "Federal Reserve Press Releases",
+        "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm"
+      },
+      {
+        "candidate_id": "candidate_016",
+        "choice": "review",
+        "confidence": 0.37,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.04,
+          "include": 0.38,
+          "review": 0.58
+        },
+        "source": "Reuters US Politics (Google News)",
+        "title": "As Iran war grinds on, Trump to face skeptical world leaders at UN - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORFROaUxKT0xTODBaOWZaNkx1anVfanoxaFVwYm5QQnlNY1QwZXEyaEY3QnR6QmNDMHlJX3gwWU5WRWN6VmdjdkxLSmEyX3dZeW9pVmJ2d3lEeVlPWVFQeDNwa2V5bnE0b3h0OGRIWmdMTUw4aDQ5UUZHX192bmcwNTNUeEJIU2YySU8yM3FxX3lCTFlJX1Y3bHRrd3g4MS1nNk5LNkJEZmlWREk?oc=5"
+      },
+      {
+        "candidate_id": "candidate_017",
+        "choice": "exclude",
+        "confidence": 0.43,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.62,
+          "include": 0.05,
+          "review": 0.33
+        },
+        "source": "NYT US Business (Google News)",
+        "title": "Trump Says He Has Banned CNN, MS NOW and Politico From White House - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORkRnSkZJNGpwdlRLTGlyRGxKVmZRelpBR1ZSRXJNdDBsU2Vzdk00TlJqOTNXVmdYMEhwdTBiSmRNSXk0bi03b184MU5neG9ZUnVycGRjUGhpR0NQNnlMOFF0RXpaMGlkTVV4UDRtaVM5bHZUNGktYU54YmZtYlh2SnFGUmlPT0FmdVcwSG5JdEFlOEtISlF4TEM1SGc?oc=5"
+      },
+      {
+        "candidate_id": "candidate_018",
+        "choice": "review",
+        "confidence": 0.55,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.28,
+          "include": 0.02,
+          "review": 0.7
+        },
+        "source": "NYT US Business (Google News)",
+        "title": "Trump Calls A.I. Fears a Hoax. Inside the White House, the Debate Is More Complex. - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNak5GUzFuWWRqR1pyS1YtWkxtSXdRRXZQeTVOQzlEQmMtMVFteUxjYnRDRTdlRm91NFhacVJ4UkEwRVA1Slg3THlocElZRTZxdTh3TnNyZGlpRklMdFhyWndMaEVORS1JMUY0N3lLc0xQQkdTZHFhMzNtY0R1d01KeVhjRVI3SURHenRrVWVTME9TRDZl?oc=5"
+      },
+      {
+        "candidate_id": "candidate_019",
+        "choice": "include",
+        "confidence": 0.75,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.01,
+          "include": 0.83,
+          "review": 0.16
+        },
+        "source": "CNBC Economy",
+        "title": "Why Japan’s markets flipped the usual script after central bank rate hike",
+        "url": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html"
+      },
+      {
+        "candidate_id": "candidate_020",
+        "choice": "exclude",
+        "confidence": 0.56,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.71,
+          "include": 0.03,
+          "review": 0.26
+        },
+        "source": "MarketWatch Top Stories",
+        "title": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
+        "url": "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories"
+      },
+      {
+        "candidate_id": "candidate_021",
+        "choice": "exclude",
+        "confidence": 1.0,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 1.0,
+          "include": 0.0,
+          "review": 0.0
+        },
+        "source": "AP US Economy",
+        "title": "Shark kills swimmer off Western Australian city beach - AP News",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdkxKYUxna1gtVndZLTZjbE95U0g3MUhra0VMQXVpNmFndG15VkFXWUtEWnEzZ1c5T0RfSDdObjRVYzZnekZWWEhleDcxREp3SWFuSlFXWFlKeGZvUlMxY3kyUnp6TEdIT0NqcF9kemxVWHJ2MG8xRzJJUW9uMWgteERoN1FSakdINEE4UHkyUDVnZzVyc051bDB4cmE5ZjBvNS15OHFn?oc=5"
+      },
+      {
+        "candidate_id": "candidate_022",
+        "choice": "exclude",
+        "confidence": 0.15,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.43,
+          "include": 0.16,
+          "review": 0.41
+        },
+        "source": "Yahoo Finance",
+        "title": "Gold price today, Friday, September 18, 2026: Gold hits weekly high as inflation concerns fade",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-september-18-2026-gold-hits-weekly-high-as-inflation-concerns-fade-104807567.html"
+      },
+      {
+        "candidate_id": "candidate_023",
+        "choice": "exclude",
+        "confidence": 0.99,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 0.99,
+          "include": 0.0,
+          "review": 0.01
+        },
+        "source": "Yahoo Finance",
+        "title": "Best CD rates today, Friday, September 18, 2026: Up to 4.40% APY return available with a 2-year CD",
+        "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-september-18-2026-up-to-440-apy-return-available-with-a-2-year-cd-100000224.html"
+      },
+      {
+        "candidate_id": "candidate_024",
+        "choice": "review",
+        "confidence": 0.24,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.46,
+          "include": 0.05,
+          "review": 0.49
+        },
+        "source": "Politico Economy Policy",
+        "title": "Bill Cassidy slams RFK Jr. over measles outbreaks but demurs on confirmation vote - Politico",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQjlwa0IxNHRjZHBiamRya3pGWnZ2VXdUd0xKLWI0dG1JX0Q2eEg0RVFPQXpvUzAyY19ZbmpWOFA5TTdPdGRQV1ZYbVdZc2hkRGprOUxjUkdoMXBPYlV2cW5CU1FuQ1Q5c2JLTG1kYXBITXVvRjdXdzVIdVNQdFlfM05sbmRNeVM3MGdZUmp3cUk?oc=5"
+      }
+    ],
+    "high_confidence_excluded": 2,
+    "input_count": 25,
+    "mode": "active",
+    "model": "jev-1.13.0",
+    "output_count": 23,
+    "status": "ok",
+    "usage": {
+      "input_tokens": 7970,
+      "output_tokens": 978
+    }
+  },
+  "model_used": "openai:gpt-4.1-mini"
+}
