@@ -1,0 +1,549 @@
+{
+  "articles": [
+    {
+      "published": "2026-09-18T19:12:00+00:00",
+      "publisher": "NVIDIA Developer",
+      "source": "NVIDIA AI",
+      "title": "Benchmarking LLM Inference at Scale with AIPerf | NVIDIA Technical Blog - NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTmZ6SXBWVXB5aDBPUTJMNzRxVjdxTW9zc0FELTdJQkdtMDg4YjRJbFNNdTVmTmVfX1Y2M2I5VjJLY3ZRaTVmeGZHdi1rLWp2a0NpWENqcHQwMnRVRnFCTXNxSXozeWVPUjRsbkI0dlhLWTdhQ2FVTEw2LTEyMjVXQXdvdWxFdTk4Vmc?oc=5"
+    },
+    {
+      "published": "2026-09-18T14:00:14+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/"
+    },
+    {
+      "published": "2026-09-18T17:09:56+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/"
+    },
+    {
+      "published": "2026-09-18T15:30:16+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "Security researchers used Claude to help them hack into OpenAI - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX0E3SkFidDl4NTVoOG0tWmtNQm5KMkVzUFF6cE43U0tsbWFGdHFjVjZweS1oTl81LXhQSU83QU52UDF5a3lXYzlCZ0doS1h5UHBPWjUwaXdaeFZnMVloaDVSbkFUZ1AtaDBEOVlHdW52dExrTjVBU2VLZGNsWUc0RkhIbDNiUVExSUlOM1FoOUZVUQ?oc=5"
+    },
+    {
+      "published": "2026-09-18T15:31:44+00:00",
+      "publisher": "TradingView",
+      "source": "Microsoft AI",
+      "title": "Microsoft AI Chief Warns Giving Artificial Intelligence Sense Of ‘Rights’ Could Make It Harder To Shut Down - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRDhRemZEMUo5WmxibTNWU3pOaXc1R1JnLTlqOHFvSG1nR1d0SC1vNjFpajJQT3hITnVCbFJXaHV5cldZQUE4bFBITDJhV2FpUzRlYTBxbktzUnNPR3RCQ21tN2lWZ0lOOGVheVB4RnN0aXpKWjl1VHNoREdLNkNmODFybUhhUzlzMnltVFJoMk01aG5LQ3htZTJ2eFhKZlVEaGJ2dEk5RU9ZUzZodUstamppbXZxTkE4VjdOdklMYUJwb0hmY195T0oxMUhCSExiaE4xaXBIMVZhTkNlUGlkeXNiVEItNkdrZlRhQkxaZ1RnNm4yMTNZTk53?oc=5"
+    },
+    {
+      "published": "2026-09-18T15:53:54+00:00",
+      "publisher": "TechTarget",
+      "source": "Microsoft AI",
+      "title": "AI agent autonomy puts CIO controls to the test - TechTarget",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY295alQtVC14N1E1cC1aZldQWTR3VmExaUxueVcwblE2d1p4Z1JLZGRMd0lyU3FGQ0pabWZnMEZaNnRDTTBGN2ZvaFQwdUFuNjNuR2s4M2h5aG9IOXo2OUNhZG9nOUd3T01BNzlES3ltelNFUVBiYVhlMnQ3TURGVkdKdU5xSDRyLS1reEdWdUY2cnZkWFhrSF9TMlJmanlSanNR0gGrAUFVX3lxTFBxUXhRMWpuVGw5amJ5ckhUOTg5elpWVDNEOWk3OUxDSDhQY2RiejJ0bU04bWFVZVBlSVRzT2xvZkszTF9OVWswTUhIMi1sMmVPaFFRUXFrT2hoMzI1NFY1cElYUDJpcXlWRjNVbkVNTkRfNUEzbTZRWGlJcVpYRVJudXVDc0pTQVNScEp4cXp0NGgyclZhaS1yenBHWnBtOTBjYlRzNVdjQlJVZw?oc=5"
+    },
+    {
+      "published": "2026-09-18T17:18:30+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5"
+    },
+    {
+      "published": "2026-09-18T18:29:17+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "Virginia governor creates an AI task force and moves to restrain data centers - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbW04NnY0TTQzNm5kbWVTd01hTE9SZmlDdmpMUzUtcE90alQyX2tCeXgyQ3RyU2V3RDBYSUZWclNETG8zckVrTTRZYTgzSFdpMjU4bjBHWlNmb2pxbncxamc1c3JvWkFadTBKaTdqWE9NYndyS3o2OU9TQkRrRkxNQkZkYXh0R0Y4U2ZSX0tnWURsenVrTGdVVQ?oc=5"
+    },
+    {
+      "published": "2026-09-18T12:09:42+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "Chinese 'robot brain' startup sees ChatGPT-style breakthrough as soon as next year - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaUV3UzJ5MVVnR0c2b0hlQ0s4OGZEWS01alZ1TldLbmR1ZFMtZFE1S0V6WFVTOEFnSXVfMlNmSWpYRl9LVDhha2dydmkyaGlUckpYVUxEdWgzWUNjMkx3ZmxQdGRFQ2ZDdHNUZzFkNWNQZU82RHRiSjYwUmlscjdVQmhxbktkdU94SEJub1hYUDBqNUtIY1M4bjl0a2lUV3U5Q09jbmpTRVNVQlAtNUlGY2RPMTFDdExuSzlWYU5vbkJZdGhwbmtV?oc=5"
+    },
+    {
+      "published": "2026-09-18T13:00:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "Meta’s Copyright System Is Being Weaponized Against Albanian Protesters - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcVpZeEJGRVg0ZFZaRjIzYVFoeW0tS0UzSkMtbnZVVjlDUWt0ZmVySTVqZDgyS0RiRHhCRFluSnYtLWlWdm96aDhlWEdoUXYwOTh6LXlURXRVWXpvSjdlb3dneWR4ZkdEQ2gtU0k1bUI5d09uR19rdERYeC16VkhZM19qazdXb3NkUXhuc2luaXM2WUlkM0NLb2ZDOEFrdVV2?oc=5"
+    },
+    {
+      "published": "2026-09-18T00:29:49+00:00",
+      "publisher": "tech-insider.org",
+      "source": "xAI / Grok",
+      "title": "Grok 4.5 vs ChatGPT vs Gemini 3.8 Flash: 25x Price Gap [2026] - tech-insider.org",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pUUY4SVMySXJ0LTh2NUVGUVQ3OEswY0Q3TGhTdWZTbXhaVEx1ai1zbDJSaUNtbi1mSXZOUDJucjhhLU9aV2UySVNOY2xVcElmTXZUUDVkRDVwYXMwYmgxTEcwVklDSDVfQ2VSdXB1bkVjTkkzbHdzUFNMRjQzZw?oc=5"
+    },
+    {
+      "published": "2026-09-18T18:32:54+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "Newsom Wants AI ‘Kill Switch’ to Rein In Tech Industry - bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVTQ3ejdRYU1ZWlcwbjQtV2o3Sm10R1l3WFpKdmpLMVMzb2h3QTAtY3ZYSlRveHpFYktaOVc4V0JzQlE2eVdkWTkzY010T3owcm53RmlNMW1tdGdXX25TUkdiY0NsVjdQdVFqWE96ajRmSm4ydmpZenY4YXM3QXEzY1hhLWxwT1FwOVpGSmItcG1NS2QwS2xKR1F2NWctMlJTUGl1UElIMTlwV0NJLTVj?oc=5"
+    },
+    {
+      "published": "2026-09-18T16:47:07+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "Disney Names AI Executive as First-Ever Chief Technology Officer - bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDBJMEI1TVo4YmV6ay1MYndVQmJtS2w1ZnJpeUthOGZaQUlHNEt1TnpOZUZRZ1c2dnZKSDhkblB2Q2ZYbXpUZUJxUk5MTktRVzBxNVdCQ3diSnFpaExvVEJsbmVoMy1jSUkteW4wTnduSjNaTWRjczZweDk3MDhreTQ2eDJENlMyTTkzcDNIeGFrenZsSUFia28wTWVHZjRCYWxLOGdMQndXUFAwc0NWRWZ6UDJMZw?oc=5"
+    },
+    {
+      "published": "2026-09-18T14:18:24+00:00",
+      "publisher": "blog.google",
+      "source": "Google AI Blog",
+      "title": "New experts join Google’s AI & Economy team - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOHJIemhiNW1UUFU5UTFCNWktTlAxUXROaGZiZC03NjlLeFdTVHYyS0JmQVVGVXBScThnaHlWMTllX2xnc0pXTkxLLUx2aExkeHZPcXVEREVucE5zZ1dBMkdCTFFVaDBlWXJRaEFLWjZQcGQ3RHc0VlVrREh0UE9xNDBDZHJyTTE3YmFzTmRiZTdiUQ?oc=5"
+    },
+    {
+      "published": "2026-09-18T17:38:34+00:00",
+      "publisher": "xAI",
+      "source": "xAI / Grok",
+      "title": "Introducing Grok Voice Transcribe 2.0 - xAI",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lZWRVcElUVVNQOE9Pc0NOMVI2SUVSTmVwMFUwS1dGdXdKZnl3d2RlSHljZFp3blk3Tmx3TXpvSHRFQ1RFYTcxdFpCRE5SZVZVdlRB?oc=5"
+    },
+    {
+      "published": "2026-09-18T16:34:45+00:00",
+      "publisher": "TechPowerUp",
+      "source": "AMD / TSMC AI",
+      "title": "AI Chip Packaging Pushes Beyond Reticle Limits, with CoWoS-L Set to Remain the Mainstream Advanced Packaging Solution Through 2028 - TechPowerUp",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcTlSODd5Y0d1dlJCaWFrXzNhMmdOcFRXaGpzeTFZLVBBbk5nZS15RnZiWEg1VHltSm1ESkJoaWpmSEpMbDVSVjN2b2taOWJxZnYtY0kxMVVYVWVvMm5jbmY4cWpvUTE1bDJsMjc0UHJJclVyWkZMWk5hdEpLZUF2bUk1ck1vc0lLZWp2S0F4aWNqa2tweldFTmhBMVphSXJORjlYOUlDTXVHaUZpeEtqRm12YW9OZFZvY21TNmhpSk1HU3M4X09ueERlMl9zUTlHVkNBaUJ4X0JZOExrcHFUeTdYRjhubzlwbEhQNl9DMVRaWm14VXpR0gH8AUFVX3lxTE0xMEVaTlg0bVVwLUowbUxNa2RheHJhS0tKX25USWxWVHhaNGJESTMzVDdhSXV5SnBuS3RLZTI1aEx1LUdXM3JSeEZGWUFNbnNGcW4yZjBXVVRLc1ZRZmtQTFJDYzVtWHZ6bkNLSmktYTc2c001YW5SQllRVDdJclJGQTN0WnZOUjBlcTZsSFpUSDlJSldBSXhoVGxob0twWnJnSXlBVGk3cU5hS21NekoyeHh6UEExUmpEbmZSUmlfaTZ2VmRPNnVqLVVCMk50UEl4Um5ZR2g0dW81dmdPLXZTeEw2QXNZbkdMU3Q0MG05Q0FHM19FTDNHVlBNNg?oc=5"
+    },
+    {
+      "published": "2026-09-18T15:38:53+00:00",
+      "publisher": "Amazon Web Services (AWS)",
+      "source": "AWS AI",
+      "title": "Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWEtXNnpERlFacFpIcmltdmZNMzlONTZOZjJNcGZTc083NFoxWEstZXFyNFlCMUdlSnRlVTlRSVNCcG5LSXNPUUxJcWdJRzFJMVdjbV9rLUxtem9Ob1ZNcXVYeFJUbVEtM1Z4VEpFblI0VC1laVBQQ1lwd1JwanVjV1FZZ2JUTU9YSFdmbXVFdHQ1U0Rlb3VyX0xFaG4wTnlZdjFPM3JiZ2Z1UFhvT1U1b2xnTTA?oc=5"
+    },
+    {
+      "published": "2026-09-18T15:43:01+00:00",
+      "publisher": "Unite.AI",
+      "source": "AWS AI",
+      "title": "AWS Reworks Bedrock AgentCore Runtime for Elastic Memory, Fast Cold Starts - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVWlmWFgzZ2xFZE5SUjZtOGFKZEJuWTZNREdKdldUSXppQUd5Y01zWTZPbVRxdEdNcDh3bUlta0lJTGMtd1ZoS0YxdUlaWGMzMnNCcjBhcEZIbzh3M1VKZWZleldIZ0lJc3MtUXlTT1B4aWFPY2tkeXoxVWYyM2lTRFYwTDZKYWtTbXNQTnV6Y2J4c1FPSl81ZUN3WQ?oc=5"
+    },
+    {
+      "published": "2026-09-18T14:01:45+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "Labour conference set to vote on new AI regulator as cabinet concerns grow - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0lLQXk1QUFMVHc3V3B3ZW91OWJQa1UtXzJTTW5QMHRRN1YtZUduNEN2bk90dFhIa3BEbWl0dlhIWnpvd2FpTmJsTnN3OUtoNmEwZ0psQzd1TzkzcDFsb19rY19HVHZJTEhSTm9YNmxqT0syOExTX1R5dktfU0tNdHE0MWI?oc=5"
+    },
+    {
+      "published": "2026-09-18T09:28:29+00:00",
+      "publisher": "Stocktwits",
+      "source": "AMD / TSMC AI",
+      "title": "AMD Stock Rises Premarket: Report Flags Chip Price Hike Linked To TSMC Costs - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNDlXcWxNZ0NSNjEzRl9mcmZTcjlyZ3BTdUFYYzNWbG9ON3ctRlVLSFZ3U1ZZcDRFNExTc04zRy1iazhXTzFvUmdnNnJWMUpKcnVIb0g0ejU0bjNsUTlUeUItZVFkNWpNNEJTMldlS01ZdUxMeXBaME5VWGdKeTVnNVNWa1NfMy15M2FtMDV6RjNIZmhhUkFXZG52Nlo2XzR6YW5CMGhESzczWVg0dlVGMDN6YXNVY3JCY0pfNTJCbHdITEhyNzRraFg0NG83cjVia0p4V2x3?oc=5"
+    }
+  ],
+  "date": "2026-09-18",
+  "generated_at_utc": "2026-09-18T21:09:23Z",
+  "items": [
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "ทีมนักวิจัยด้านความปลอดภัยใช้โมเดล AI Claude ของ Anthropic เพื่อเจาะระบบของ OpenAI ผ่านช่องโหว่ในซอฟต์แวร์ฟอรัมของ OpenAI และได้รับรางวัลบั๊กบาวน์ตี้จาก OpenAI หลังแจ้งช่องโหว่ที่พบ ส่งผลให้บริษัทเทคโนโลยีและผู้ใช้บริการ AI ต้องระวังความปลอดภัยมากขึ้น",
+      "title_th": "นักวิจัยใช้ Claude ของ Anthropic เจาะระบบ OpenAI สำเร็จ",
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "why_it_matters": "แสดงให้เห็นว่า AI สามารถถูกใช้เป็นเครื่องมือโจมตีไซเบอร์ได้จริง แม้กับบริษัทชั้นนำด้าน AI เอง"
+    },
+    {
+      "source": "Reuters Tech",
+      "summary_th": "Anthropic ขยายการลงทุนใน AI ทางการแพทย์ด้วยการตั้งห้องแล็บชีววิทยาเพื่อเร่งพัฒนาโปรแกรม AI สำหรับค้นคว้ายาใหม่ ๆ ส่งผลให้วงการชีววิทยาและเภสัชกรรมได้รับเทคโนโลยี AI ขั้นสูงมากขึ้น",
+      "title_th": "Anthropic ตั้งห้องแล็บชีววิทยาเสริมโปรแกรมวิจัยยา AI",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5",
+      "why_it_matters": "ช่วยขยายขอบเขตการใช้ AI ในวงการชีววิทยาและการค้นคว้ายาให้ก้าวหน้าอย่างรวดเร็ว"
+    },
+    {
+      "source": "The Verge AI",
+      "summary_th": "รัฐเวอร์จิเนียจัดตั้งคณะทำงานเฉพาะกิจด้าน AI เพื่อกำกับดูแลและพัฒนานโยบาย AI พร้อมทั้งดำเนินมาตรการควบคุมการขยายตัวของศูนย์ข้อมูลที่ใช้พลังงานสูง ส่งผลต่อการกำกับดูแล AI และการบริหารจัดการพลังงานในภาคเทคโนโลยี",
+      "title_th": "ผู้ว่าการรัฐเวอร์จิเนียตั้งคณะทำงาน AI พร้อมจำกัดศูนย์ข้อมูล",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbW04NnY0TTQzNm5kbWVTd01hTE9SZmlDdmpMUzUtcE90alQyX2tCeXgyQ3RyU2V3RDBYSUZWclNETG8zckVrTTRZYTgzSFdpMjU4bjBHWlNmb2pxbncxamc1c3JvWkFadTBKaTdqWE9NYndyS3o2OU9TQkRrRkxNQkZkYXh0R0Y4U2ZSX0tnWURsenVrTGdVVQ?oc=5",
+      "why_it_matters": "เป็นสัญญาณของการเริ่มต้นกำกับดูแล AI และโครงสร้างพื้นฐานที่เกี่ยวข้องในระดับรัฐ"
+    },
+    {
+      "source": "AMD / TSMC AI",
+      "summary_th": "AMD และ TSMC พัฒนาเทคโนโลยีแพ็กเกจ CoWoS-L สำหรับชิป AI ที่สามารถขยายขนาดเกินขีดจำกัดของ Reticle ได้ คาดว่าจะเป็นโซลูชันหลักสำหรับแพ็กเกจชิป AI จนถึงปี 2028 ส่งผลต่อประสิทธิภาพและขนาดของฮาร์ดแวร์ AI ในอนาคต",
+      "title_th": "AMD และ TSMC ผลักดันเทคโนโลยีแพ็กเกจชิป AI เกินขีดจำกัดของ Reticle",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcTlSODd5Y0d1dlJCaWFrXzNhMmdOcFRXaGpzeTFZLVBBbk5nZS15RnZiWEg1VHltSm1ESkJoaWpmSEpMbDVSVjN2b2taOWJxZnYtY0kxMVVYVWVvMm5jbmY4cWpvUTE1bDJsMjc0UHJJclVyWkZMWk5hdEpLZUF2bUk1ck1vc0lLZWp2S0F4aWNqa2tweldFTmhBMVphSXJORjlYOUlDTXVHaUZpeEtqRm12YW9OZFZvY21TNmhpSk1HU3M4X09ueERlMl9zUTlHVkNBaUJ4X0JZOExrcHFUeTdYRjhubzlwbEhQNl9DMVRaWm14VXpR0gH8AUFVX3lxTE0xMEVaTlg0bVVwLUowbUxNa2RheHJhS0tKX25USWxWVHhaNGJESTMzVDdhSXV5SnBuS3RLZTI1aEx1LUdXM3JSeEZGWUFNbnNGcW4yZjBXVVRLc1ZRZmtQTFJDYzVtWHZ6bkNLSmktYTc2c001YW5SQllRVDdJclJGQTN0WnZOUjBlcTZsSFpUSDlJSldBSXhoVGxob0twWnJnSXlBVGk3cU5hS21NekoyeHh6UEExUmpEbmZSUmlfaTZ2VmRPNnVqLVVCMk50UEl4Um5ZR2g0dW81dmdPLXZTeEw2QXNZbkdMU3Q0MG05Q0FHM19FTDNHVlBNNg?oc=5",
+      "why_it_matters": "นวัตกรรมแพ็กเกจชิปช่วยเพิ่มประสิทธิภาพและขนาดของฮาร์ดแวร์ AI สำคัญสำหรับการเร่งความเร็ว AI ในอนาคต"
+    },
+    {
+      "source": "Financial Times",
+      "summary_th": "การประชุมใหญ่พรรคแรงงานอังกฤษเตรียมลงมติเพื่อจัดตั้งหน่วยงานกำกับดูแล AI ใหม่ หลังความกังวลเรื่องผลกระทบและความปลอดภัยของ AI ที่เพิ่มขึ้น ส่งผลต่อทิศทางนโยบายและกฎหมาย AI ในสหราชอาณาจักร",
+      "title_th": "แรงงานอังกฤษเตรียมลงมติตั้งหน่วยงานกำกับดูแล AI ใหม่",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0lLQXk1QUFMVHc3V3B3ZW91OWJQa1UtXzJTTW5QMHRRN1YtZUduNEN2bk90dFhIa3BEbWl0dlhIWnpvd2FpTmJsTnN3OUtoNmEwZ0psQzd1TzkzcDFsb19rY19HVHZJTEhSTm9YNmxqT0syOExTX1R5dktfU0tNdHE0MWI?oc=5",
+      "why_it_matters": "เป็นก้าวสำคัญของการสร้างกรอบกำกับดูแล AI ที่เข้มงวดในระดับประเทศ"
+    }
+  ],
+  "jev_screen": {
+    "brief_kind": "ai",
+    "decisions": [
+      {
+        "candidate_id": "candidate_000",
+        "choice": "review",
+        "confidence": 0.45,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.16,
+          "include": 0.21,
+          "review": 0.63
+        },
+        "source": "NVIDIA AI",
+        "title": "Benchmarking LLM Inference at Scale with AIPerf | NVIDIA Technical Blog - NVIDIA Developer",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTmZ6SXBWVXB5aDBPUTJMNzRxVjdxTW9zc0FELTdJQkdtMDg4YjRJbFNNdTVmTmVfX1Y2M2I5VjJLY3ZRaTVmeGZHdi1rLWp2a0NpWENqcHQwMnRVRnFCTXNxSXozeWVPUjRsbkI0dlhLWTdhQ2FVTEw2LTEyMjVXQXdvdWxFdTk4Vmc?oc=5"
+      },
+      {
+        "candidate_id": "candidate_001",
+        "choice": "review",
+        "confidence": 0.53,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.04,
+          "include": 0.27,
+          "review": 0.69
+        },
+        "source": "TechCrunch AI",
+        "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+        "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/"
+      },
+      {
+        "candidate_id": "candidate_002",
+        "choice": "review",
+        "confidence": 0.54,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.11,
+          "include": 0.19,
+          "review": 0.7
+        },
+        "source": "TechCrunch AI",
+        "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+        "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/"
+      },
+      {
+        "candidate_id": "candidate_003",
+        "choice": "review",
+        "confidence": 0.48,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.24,
+          "include": 0.11,
+          "review": 0.65
+        },
+        "source": "The Verge AI",
+        "title": "Security researchers used Claude to help them hack into OpenAI - The Verge",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX0E3SkFidDl4NTVoOG0tWmtNQm5KMkVzUFF6cE43U0tsbWFGdHFjVjZweS1oTl81LXhQSU83QU52UDF5a3lXYzlCZ0doS1h5UHBPWjUwaXdaeFZnMVloaDVSbkFUZ1AtaDBEOVlHdW52dExrTjVBU2VLZGNsWUc0RkhIbDNiUVExSUlOM1FoOUZVUQ?oc=5"
+      },
+      {
+        "candidate_id": "candidate_004",
+        "choice": "exclude",
+        "confidence": 0.37,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.57,
+          "include": 0.04,
+          "review": 0.39
+        },
+        "source": "Microsoft AI",
+        "title": "Microsoft AI Chief Warns Giving Artificial Intelligence Sense Of ‘Rights’ Could Make It Harder To Shut Down - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRDhRemZEMUo5WmxibTNWU3pOaXc1R1JnLTlqOHFvSG1nR1d0SC1vNjFpajJQT3hITnVCbFJXaHV5cldZQUE4bFBITDJhV2FpUzRlYTBxbktzUnNPR3RCQ21tN2lWZ0lOOGVheVB4RnN0aXpKWjl1VHNoREdLNkNmODFybUhhUzlzMnltVFJoMk01aG5LQ3htZTJ2eFhKZlVEaGJ2dEk5RU9ZUzZodUstamppbXZxTkE4VjdOdklMYUJwb0hmY195T0oxMUhCSExiaE4xaXBIMVZhTkNlUGlkeXNiVEItNkdrZlRhQkxaZ1RnNm4yMTNZTk53?oc=5"
+      },
+      {
+        "candidate_id": "candidate_005",
+        "choice": "exclude",
+        "confidence": 0.68,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.78,
+          "include": 0.01,
+          "review": 0.21
+        },
+        "source": "Microsoft AI",
+        "title": "AI agent autonomy puts CIO controls to the test - TechTarget",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY295alQtVC14N1E1cC1aZldQWTR3VmExaUxueVcwblE2d1p4Z1JLZGRMd0lyU3FGQ0pabWZnMEZaNnRDTTBGN2ZvaFQwdUFuNjNuR2s4M2h5aG9IOXo2OUNhZG9nOUd3T01BNzlES3ltelNFUVBiYVhlMnQ3TURGVkdKdU5xSDRyLS1reEdWdUY2cnZkWFhrSF9TMlJmanlSanNR0gGrAUFVX3lxTFBxUXhRMWpuVGw5amJ5ckhUOTg5elpWVDNEOWk3OUxDSDhQY2RiejJ0bU04bWFVZVBlSVRzT2xvZkszTF9OVWswTUhIMi1sMmVPaFFRUXFrT2hoMzI1NFY1cElYUDJpcXlWRjNVbkVNTkRfNUEzbTZRWGlJcVpYRVJudXVDc0pTQVNScEp4cXp0NGgyclZhaS1yenBHWnBtOTBjYlRzNVdjQlJVZw?oc=5"
+      },
+      {
+        "candidate_id": "candidate_006",
+        "choice": "include",
+        "confidence": 0.34,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.03,
+          "include": 0.56,
+          "review": 0.41
+        },
+        "source": "Reuters Tech",
+        "title": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5"
+      },
+      {
+        "candidate_id": "candidate_007",
+        "choice": "include",
+        "confidence": 0.61,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.01,
+          "include": 0.74,
+          "review": 0.25
+        },
+        "source": "The Verge AI",
+        "title": "Virginia governor creates an AI task force and moves to restrain data centers - The Verge",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbW04NnY0TTQzNm5kbWVTd01hTE9SZmlDdmpMUzUtcE90alQyX2tCeXgyQ3RyU2V3RDBYSUZWclNETG8zckVrTTRZYTgzSFdpMjU4bjBHWlNmb2pxbncxamc1c3JvWkFadTBKaTdqWE9NYndyS3o2OU9TQkRrRkxNQkZkYXh0R0Y4U2ZSX0tnWURsenVrTGdVVQ?oc=5"
+      },
+      {
+        "candidate_id": "candidate_008",
+        "choice": "exclude",
+        "confidence": 0.86,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 0.9,
+          "include": 0.03,
+          "review": 0.07
+        },
+        "source": "NVIDIA AI",
+        "title": "nvidia-fs 13.4.1 Downloads - NVIDIA Developer",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtNnFXbHphQUJ4NDR3RWVPeVlSek40ejZqNklaYk11WGdCaTlfaTlrWEx1Y3NhN2J5RVVYWkpKM0tka3MxZ2RHYURMd2FqYTlfOFZyR2Uyc2FfWkJvak9wdDdoQnAtVVgxeGRfQ1VFZw?oc=5"
+      },
+      {
+        "candidate_id": "candidate_009",
+        "choice": "review",
+        "confidence": 0.35,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.42,
+          "include": 0.02,
+          "review": 0.5599999999999999
+        },
+        "source": "Reuters Tech",
+        "title": "Chinese 'robot brain' startup sees ChatGPT-style breakthrough as soon as next year - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaUV3UzJ5MVVnR0c2b0hlQ0s4OGZEWS01alZ1TldLbmR1ZFMtZFE1S0V6WFVTOEFnSXVfMlNmSWpYRl9LVDhha2dydmkyaGlUckpYVUxEdWgzWUNjMkx3ZmxQdGRFQ2ZDdHNUZzFkNWNQZU82RHRiSjYwUmlscjdVQmhxbktkdU94SEJub1hYUDBqNUtIY1M4bjl0a2lUV3U5Q09jbmpTRVNVQlAtNUlGY2RPMTFDdExuSzlWYU5vbkJZdGhwbmtV?oc=5"
+      },
+      {
+        "candidate_id": "candidate_010",
+        "choice": "exclude",
+        "confidence": 1.0,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 1.0,
+          "include": 0.0,
+          "review": 0.0
+        },
+        "source": "Wired AI",
+        "title": "Adopt This Data Center Plushie and Hear Its Piercing Scream - WIRED",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUk1hVWNFUWR2aGhTRTZ0TDNvSDY4MXN5aHFPZ0kwMGhyT3ZGWUJTNDRKUXg5bUt4ZnVVZmJmNUxHRHEzajVyTF9PbDhlUnlGeVhRT1RmQ2liYjMyb3ZXY08yU0xCYzJBWXhaQ3NpTWpxamg5clBSNHhVSllVQjJPck1IVm9UR1FLZFhiTFZpa1ZRdw?oc=5"
+      },
+      {
+        "candidate_id": "candidate_011",
+        "choice": "exclude",
+        "confidence": 0.33,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.55,
+          "include": 0.06,
+          "review": 0.39
+        },
+        "source": "Wired AI",
+        "title": "Meta’s Copyright System Is Being Weaponized Against Albanian Protesters - WIRED",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcVpZeEJGRVg0ZFZaRjIzYVFoeW0tS0UzSkMtbnZVVjlDUWt0ZmVySTVqZDgyS0RiRHhCRFluSnYtLWlWdm96aDhlWEdoUXYwOTh6LXlURXRVWXpvSjdlb3dneWR4ZkdEQ2gtU0k1bUI5d09uR19rdERYeC16VkhZM19qazdXb3NkUXhuc2luaXM2WUlkM0NLb2ZDOEFrdVV2?oc=5"
+      },
+      {
+        "candidate_id": "candidate_012",
+        "choice": "exclude",
+        "confidence": 0.95,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 0.97,
+          "include": 0.01,
+          "review": 0.02
+        },
+        "source": "Google AI Blog",
+        "title": "Earn continuing education and college credits for AI educator training. - blog.google",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ0c4NUhxYkJLQ05DSjVGZk5oSU94a25VU184b2d0M09vTDY3NWxsMWNkZUhodUNEY0ZfNUpDUkRFNXNGY1JUTDlwQlpUTUgwU2J3MFdJdExuRzg1QV9PbVRfUkV2dVhveXg0Q2FCNFNMeU5wU3ZkcXA2bWhMNlNoazVNQW9oS3dsSzJNVXdMREhqZVd0cVNHbXZTSXU?oc=5"
+      },
+      {
+        "candidate_id": "candidate_013",
+        "choice": "exclude",
+        "confidence": 0.72,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.81,
+          "include": 0.01,
+          "review": 0.18
+        },
+        "source": "xAI / Grok",
+        "title": "Grok 4.5 vs ChatGPT vs Gemini 3.8 Flash: 25x Price Gap [2026] - tech-insider.org",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pUUY4SVMySXJ0LTh2NUVGUVQ3OEswY0Q3TGhTdWZTbXhaVEx1ai1zbDJSaUNtbi1mSXZOUDJucjhhLU9aV2UySVNOY2xVcElmTXZUUDVkRDVwYXMwYmgxTEcwVklDSDVfQ2VSdXB1bkVjTkkzbHdzUFNMRjQzZw?oc=5"
+      },
+      {
+        "candidate_id": "candidate_014",
+        "choice": "review",
+        "confidence": 0.48,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.09,
+          "include": 0.26,
+          "review": 0.65
+        },
+        "source": "Bloomberg Tech",
+        "title": "Newsom Wants AI ‘Kill Switch’ to Rein In Tech Industry - bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVTQ3ejdRYU1ZWlcwbjQtV2o3Sm10R1l3WFpKdmpLMVMzb2h3QTAtY3ZYSlRveHpFYktaOVc4V0JzQlE2eVdkWTkzY010T3owcm53RmlNMW1tdGdXX25TUkdiY0NsVjdQdVFqWE96ajRmSm4ydmpZenY4YXM3QXEzY1hhLWxwT1FwOVpGSmItcG1NS2QwS2xKR1F2NWctMlJTUGl1UElIMTlwV0NJLTVj?oc=5"
+      },
+      {
+        "candidate_id": "candidate_015",
+        "choice": "review",
+        "confidence": 0.29,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.16,
+          "include": 0.31,
+          "review": 0.53
+        },
+        "source": "Bloomberg Tech",
+        "title": "Disney Names AI Executive as First-Ever Chief Technology Officer - bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDBJMEI1TVo4YmV6ay1MYndVQmJtS2w1ZnJpeUthOGZaQUlHNEt1TnpOZUZRZ1c2dnZKSDhkblB2Q2ZYbXpUZUJxUk5MTktRVzBxNVdCQ3diSnFpaExvVEJsbmVoMy1jSUkteW4wTnduSjNaTWRjczZweDk3MDhreTQ2eDJENlMyTTkzcDNIeGFrenZsSUFia28wTWVHZjRCYWxLOGdMQndXUFAwc0NWRWZ6UDJMZw?oc=5"
+      },
+      {
+        "candidate_id": "candidate_016",
+        "choice": "exclude",
+        "confidence": 0.27,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.52,
+          "include": 0.04,
+          "review": 0.44
+        },
+        "source": "Google AI Blog",
+        "title": "New experts join Google’s AI & Economy team - blog.google",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOHJIemhiNW1UUFU5UTFCNWktTlAxUXROaGZiZC03NjlLeFdTVHYyS0JmQVVGVXBScThnaHlWMTllX2xnc0pXTkxLLUx2aExkeHZPcXVEREVucE5zZ1dBMkdCTFFVaDBlWXJRaEFLWjZQcGQ3RHc0VlVrREh0UE9xNDBDZHJyTTE3YmFzTmRiZTdiUQ?oc=5"
+      },
+      {
+        "candidate_id": "candidate_017",
+        "choice": "review",
+        "confidence": 0.31,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.2,
+          "include": 0.26,
+          "review": 0.54
+        },
+        "source": "xAI / Grok",
+        "title": "Introducing Grok Voice Transcribe 2.0 - xAI",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lZWRVcElUVVNQOE9Pc0NOMVI2SUVSTmVwMFUwS1dGdXdKZnl3d2RlSHljZFp3blk3Tmx3TXpvSHRFQ1RFYTcxdFpCRE5SZVZVdlRB?oc=5"
+      },
+      {
+        "candidate_id": "candidate_018",
+        "choice": "include",
+        "confidence": 0.49,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.01,
+          "include": 0.66,
+          "review": 0.33
+        },
+        "source": "AMD / TSMC AI",
+        "title": "AI Chip Packaging Pushes Beyond Reticle Limits, with CoWoS-L Set to Remain the Mainstream Advanced Packaging Solution Through 2028 - TechPowerUp",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcTlSODd5Y0d1dlJCaWFrXzNhMmdOcFRXaGpzeTFZLVBBbk5nZS15RnZiWEg1VHltSm1ESkJoaWpmSEpMbDVSVjN2b2taOWJxZnYtY0kxMVVYVWVvMm5jbmY4cWpvUTE1bDJsMjc0UHJJclVyWkZMWk5hdEpLZUF2bUk1ck1vc0lLZWp2S0F4aWNqa2tweldFTmhBMVphSXJORjlYOUlDTXVHaUZpeEtqRm12YW9OZFZvY21TNmhpSk1HU3M4X09ueERlMl9zUTlHVkNBaUJ4X0JZOExrcHFUeTdYRjhubzlwbEhQNl9DMVRaWm14VXpR0gH8AUFVX3lxTE0xMEVaTlg0bVVwLUowbUxNa2RheHJhS0tKX25USWxWVHhaNGJESTMzVDdhSXV5SnBuS3RLZTI1aEx1LUdXM3JSeEZGWUFNbnNGcW4yZjBXVVRLc1ZRZmtQTFJDYzVtWHZ6bkNLSmktYTc2c001YW5SQllRVDdJclJGQTN0WnZOUjBlcTZsSFpUSDlJSldBSXhoVGxob0twWnJnSXlBVGk3cU5hS21NekoyeHh6UEExUmpEbmZSUmlfaTZ2VmRPNnVqLVVCMk50UEl4Um5ZR2g0dW81dmdPLXZTeEw2QXNZbkdMU3Q0MG05Q0FHM19FTDNHVlBNNg?oc=5"
+      },
+      {
+        "candidate_id": "candidate_019",
+        "choice": "review",
+        "confidence": 0.37,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.23,
+          "include": 0.19,
+          "review": 0.58
+        },
+        "source": "AWS AI",
+        "title": "Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime - Amazon Web Services (AWS)",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWEtXNnpERlFacFpIcmltdmZNMzlONTZOZjJNcGZTc083NFoxWEstZXFyNFlCMUdlSnRlVTlRSVNCcG5LSXNPUUxJcWdJRzFJMVdjbV9rLUxtem9Ob1ZNcXVYeFJUbVEtM1Z4VEpFblI0VC1laVBQQ1lwd1JwanVjV1FZZ2JUTU9YSFdmbXVFdHQ1U0Rlb3VyX0xFaG4wTnlZdjFPM3JiZ2Z1UFhvT1U1b2xnTTA?oc=5"
+      },
+      {
+        "candidate_id": "candidate_020",
+        "choice": "include",
+        "confidence": 0.59,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.02,
+          "include": 0.72,
+          "review": 0.26
+        },
+        "source": "AWS AI",
+        "title": "AWS Reworks Bedrock AgentCore Runtime for Elastic Memory, Fast Cold Starts - Unite.AI",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVWlmWFgzZ2xFZE5SUjZtOGFKZEJuWTZNREdKdldUSXppQUd5Y01zWTZPbVRxdEdNcDh3bUlta0lJTGMtd1ZoS0YxdUlaWGMzMnNCcjBhcEZIbzh3M1VKZWZleldIZ0lJc3MtUXlTT1B4aWFPY2tkeXoxVWYyM2lTRFYwTDZKYWtTbXNQTnV6Y2J4c1FPSl81ZUN3WQ?oc=5"
+      },
+      {
+        "candidate_id": "candidate_021",
+        "choice": "exclude",
+        "confidence": 0.9,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 0.9400000000000001,
+          "include": 0.0,
+          "review": 0.06
+        },
+        "source": "FT Tech",
+        "title": "Xi’s edge over Trump on AI - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa3R0OHNBZ1BVV2M4Ni1rck1vOFY2VXZBczgtV2NiSUhkUmp4SlMweFg4SzE1MUNwZ0tIejhYMjJqcFdfenN6S0U3WHVNOW1PSVZFQkU0aTFZMWhNNlNjc0cyX29seV9iYmw2M28tZjJOR2xfakY1cEtqTVZrSGtiOHlqdUs?oc=5"
+      },
+      {
+        "candidate_id": "candidate_022",
+        "choice": "include",
+        "confidence": 0.26,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.03,
+          "include": 0.5,
+          "review": 0.47
+        },
+        "source": "FT Tech",
+        "title": "Labour conference set to vote on new AI regulator as cabinet concerns grow - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0lLQXk1QUFMVHc3V3B3ZW91OWJQa1UtXzJTTW5QMHRRN1YtZUduNEN2bk90dFhIa3BEbWl0dlhIWnpvd2FpTmJsTnN3OUtoNmEwZ0psQzd1TzkzcDFsb19rY19HVHZJTEhSTm9YNmxqT0syOExTX1R5dktfU0tNdHE0MWI?oc=5"
+      },
+      {
+        "candidate_id": "candidate_023",
+        "choice": "review",
+        "confidence": 0.45,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.26,
+          "include": 0.1,
+          "review": 0.64
+        },
+        "source": "AMD / TSMC AI",
+        "title": "AMD Stock Rises Premarket: Report Flags Chip Price Hike Linked To TSMC Costs - Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNDlXcWxNZ0NSNjEzRl9mcmZTcjlyZ3BTdUFYYzNWbG9ON3ctRlVLSFZ3U1ZZcDRFNExTc04zRy1iazhXTzFvUmdnNnJWMUpKcnVIb0g0ejU0bjNsUTlUeUItZVFkNWpNNEJTMldlS01ZdUxMeXBaME5VWGdKeTVnNVNWa1NfMy15M2FtMDV6RjNIZmhhUkFXZG52Nlo2XzR6YW5CMGhESzczWVg0dlVGMDN6YXNVY3JCY0pfNTJCbHdITEhyNzRraFg0NG83cjVia0p4V2x3?oc=5"
+      },
+      {
+        "candidate_id": "candidate_024",
+        "choice": "exclude",
+        "confidence": 1.0,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 1.0,
+          "include": 0.0,
+          "review": 0.0
+        },
+        "source": "MIT Tech Review AI",
+        "title": "Could AI really kill us all? Your questions, answered. - MIT Technology Review",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYUFRelh0YmxVUXhKbjNvN0xnNldDUDZwc1Y3VnVTeTN4VGh4UVB0Y0ZyQWNkSG5FR2I1MVVRc0k4YThFaFlmRU9VWHhwa1RjZlRsVVdjVTJmendnZWIzYXIzSGtBWElzdWRpaW9XRHh2UXVIWVh6dXNvQjNwelYxQkdIWDV5YW9qX3NMbFJ5RlFqQkdUWXE2dDZ4Y3FfUmx2NUtlQ2Uxc9IBrAFBVV95cUxNTk9tS2t4SFZwbm1XaFRQSUpoSVhocHV2SHVDaEU0MUUzdWtLMlhBMlNmMDF2U3NMZHcwZUd4aDFQcVRRSUVDc3hEdXU0SzRFVUs4d2VFN243TGVqQW1yU1RqcWEzTTYydmx6LVRQY2dLZVNfbnc4NFdJbGtMbkw3bEpoUGF0Q0x1X2RHWGVraVNXNnI1dV9TNG5NTWRZUDJMdFdOTk5MajBkMkVs?oc=5"
+      }
+    ],
+    "high_confidence_excluded": 5,
+    "input_count": 25,
+    "mode": "active",
+    "model": "jev-1.13.0",
+    "output_count": 20,
+    "status": "ok",
+    "usage": {
+      "input_tokens": 7086,
+      "output_tokens": 978
+    }
+  },
+  "model_used": "openai:gpt-4.1-mini"
+}
