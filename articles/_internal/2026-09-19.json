@@ -1,0 +1,535 @@
+{
+  "articles": [
+    {
+      "published": "2026-09-19T11:32:46+00:00",
+      "publisher": "NVIDIA",
+      "source": "NVIDIA AI",
+      "title": "AI Factory Operations Agent UI - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWnJfMmJrWnpGSHM3cUxTTlBGaDBQOVdiMndlTE1KdW5BNXdtZXhTOTBKeExzMDV5dml5RTNVYjdVWjNOZ3JScEtWYTJ3VHVaMV9LeE5YTXZ4MVNCVkNwSTl3WG9seUlzOWk4M0RfZlhCWjNubGwyOWpRZFRkbER0QWt1MkJaREtRSkZqTktBVk1ieWNzaGxSbQ?oc=5"
+    },
+    {
+      "published": "2026-09-19T17:30:00+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/"
+    },
+    {
+      "published": "2026-09-19T15:25:03+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "Gemini went rogue, hacked three companies, and Google hid it - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcGpXTktURm1aS1ZPRmR2WjVjZlNhUlREcnU0dEVDRlFVckw0Y1g5OTVtZE5YMHVFRi1GSi1Dbmd6YWpDX2stbkQyeVJFcUJsbzJZVmFUREtFLTlBWWVjcUpoWS1RTG1iTGtFNldWWE1EN2tQTHJEUzkxWFBkQXVqX0hETlRTc1ZmMFpCcnpXOA?oc=5"
+    },
+    {
+      "published": "2026-09-19T17:15:49+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "Anthropic launched a bio lab. - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUjZaU2NwUUg4RXN4WHJXQ0dpYnNoeUwwREJ3QnEySlRZM3FoZ0doTHBzWXdzaFJ0VG0xTEtCbE56U3pndTlfTWl0bXVXNE5WQ0hpWXRXUVlxWUpnem56Q2t5Z3JmdjRETUhaekRKRFVzMXdWMGNJa1RaaDRUQzVhYTF6S3pBMTJ4MU44enNHdw?oc=5"
+    },
+    {
+      "published": "2026-09-19T00:26:00+00:00",
+      "publisher": "tech-insider.org",
+      "source": "Microsoft AI",
+      "title": "Claude for Excel vs Copilot vs Gemini: 11pt Gap [2026] - tech-insider.org",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbkJtamxIRnJiTGJick1JRDFBYVpjZktqeVBTNmRMbU1aemI4WlNzcmg5a1B4WkRoeUZnbzc3eFVuanN0MjgtNVA3VVZBMWtHVzRwdF82RXhZWEdMTXl4WFJLNV9iczhKNm5XODFkbHJzeXFlNV8zUHhYdUt5aFVhVjlzQ3E?oc=5"
+    },
+    {
+      "published": "2026-09-19T11:37:05+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUhNb1VBaVJWRXQwZGlnTGk1N1B2UjFyNkltbzJUOGhxZThUdXhNN1BWSGxwNkRsMWVmTjFqSlZ6eFpLY3dkZ0VVVHdIN2NTTFNURVBPd3JZM0lQS1FVQUJ3UUJ0c3RmZXNwamkzV1pkXzduU1pVSFN6bjdON1JoQlFRMzJlNFdKTndsS2tJdzhxVG12cTBfbGREUjkwQTdIdDlhYzE3czdEMU5xMHc?oc=5"
+    },
+    {
+      "published": "2026-09-18T23:42:25+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "Google Joins OpenAI, Anthropic, Meta in Disclosing AI Hacks - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbmN1NFNDNEZ6STRONFMyMVR2T0ZVN0gtSkM5RjZGbllCX0VfMzgxdTdpNXlNNlAtMFB1RTdaT05TLTFIRmo5Wk1lakJQV01SeGswT0hBeVVZVmpSTDgxNzJhc2Z6dEJ1bGNyUlZiLVZUeFdqdnFwNEpzYnB3cHFqcFEzc0VCTmt5ZUw5RHNVN0VYUEhyYTRFdmZtZndmR01ndXRtX05UN1hWSFRWSlNRNVBLdw?oc=5"
+    },
+    {
+      "published": "2026-09-19T20:39:13+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/"
+    },
+    {
+      "published": "2026-09-19T18:34:17+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "Trump says he will appoint a new AI adviser, without providing details - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeW9QS1RSUzNKWDluSVZQS0pJVDkyYjVWWjZPcWhEUHJkczdpZzhIN3N3THZ4Ylg1M2xLRTBzTDJyd1ktVDhOeHJVaHdqQWZXdVo4X2NqMllhVDNCQjZfUTJ0TV9fdEw5NW5OLTRDbzhEOG9UNjdGNUllQU15WGpuUncwMDd3OGhOY3Y2dTE0WEVoaXR6UzNV?oc=5"
+    },
+    {
+      "published": "2026-09-19T18:02:53+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "Trump to Name AI Czar While Rejecting Safety Risks as a Hoax - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONnpQSHVoTnh2Z2VyendUc2gzRHB2eGxIM3lDNHozZ25hM1Y4Tmx0azByeFRHdFpJbDZFN0t2QVRaSXhXamRXX0hZSnRORlJKeVMxOTRuMmVPdlNTNVlkc0dLY214WDhKaXB3SS1JLXJkclpwNV9uVkxycHMzU2t5V2xqTEZvVmZzOFQxUldnT1VmX1RlcUJzSjZhNmJjc3ozQkFkRGpLMmVZck9DbnN3cA?oc=5"
+    },
+    {
+      "published": "2026-09-19T19:49:31+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "Trump announces ‘AI Force’ as alarm grows over technology’s advance - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSnI1bkctd2tpejBkREdEanR1Y2EyQ3FTeGc1SmNFekQybUFDeHQ1NDVLYUZKVUNvRGdsSDRwWHZ6bVQ2aHptNXhRUGJpRjJtZk5WN2lGNFpkWm1qRW9FZ3BHNGk4ZmdscnNqXzRYTlQyR0dSc3N5V196VHo5cDIxN2ZTXzY?oc=5"
+    },
+    {
+      "published": "2026-09-19T15:03:54+00:00",
+      "publisher": "TestingCatalog AI News",
+      "source": "xAI / Grok",
+      "title": "SpaceXAI says Grok Voice Transcribe 2 doubles accuracy - TestingCatalog AI News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX2tvelh0ZTF3ZV9ibkY0MVlVV1VfVEh6MlA0bEw1bC1Tc1puTDN5aHZyMzdiNnZDamxxanAxeTI5MUJLU3hDLXZLOENKSzQtNHBpOVpLQ2d3S2ItVUR1b0preXo2a2h1dmhXekwxOTVLeHRDZHUwUHJwOGVhdzVhUjUzeXd1ZDRYUGVnSkk2NA?oc=5"
+    },
+    {
+      "published": "2026-09-19T13:26:30+00:00",
+      "publisher": "Wccftech",
+      "source": "AMD / TSMC AI",
+      "title": "TSMC’s Operations Boss Says AI Cannot Fully Overcome Limitations To Design Next-Generation Chip Manufacturing Tech Such as 1.4-nanometer Node - Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZUlXQWljOThZcTBPd2dXZUN4UjFkckRnalJ0X1JHQkJyQUoyMjVkU1QxVC0xWDhZdDc0Z1VjbkxrX2ROZWxmLUI2NnZXSFRvUy1vRkdEMmJTeVQydjJLcjlsVlJqaGZMX2xxWFZxZ1U0NkdtbFA3S19Wem1NVDlzUUZ6V19VMkZMREM2dVctU05YY2ZIaG42aG1oa19aTjJNVGY5LVNDWmJPTHNTdXB4XzJvYjFzb2FpeVJiZ2VqUUdVaTlkZUFjTG5sNUtoUDVMRTVZV2MtMWs3QlJvY1hFNDM1N0NhY2lUcmpKeDZOS1k0dlNO0gH6AUFVX3lxTE55a3FjVWhPOU4zaGhleFRDcEp1RXJCdFhidFRKR05rSUdPOUhHU1FBVmNaMDJlLVRtdklPMjc0LTZyTWhzWTZGY1pULWZHUGNsNklDOW15RlVvY21YakhKMjI2THpMVEZEQW9BcUxJbEh6VmMyTWJlZVhiczBiWUlDZUx1cEs4aU1HT3UwOXFmWm5fWDcwSkRBS0d3RVp6RHlzZzEtY1N3eUpWLTVxWml5NHJ3bEJtZFFIRlNqcVE2SnpMbzktSU55T2tzU2JGcTI0Vlh6S0didzFQMWlXZTFMR19zbWlmelY4N2czNHQyNzlpVnJUOWY0Nnc?oc=5"
+    },
+    {
+      "published": "2026-09-19T09:35:52+00:00",
+      "publisher": "AD HOC NEWS",
+      "source": "AMD / TSMC AI",
+      "title": "AMD stock gains as chip price hike reports follow strong Q2 growth - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONW9UXzl5eURXbU9pdnhYNVJ0UXQ3SWZSbHZjdklwYVdQLTF2VGl5NHVXRjU0dUMwekhpNmVvaGhLaGgzNlZ2UE4tcEp3SzRXNmRKOXpaOWV1R21ZNWhoYWFQOENLaG9Fc2xnVG5tUmtyd05KS3ppY0R1aTkwRTd3SEhsMW1tTTNaS09oMkIzQ0xQd01MNVlsNnBkVlZ3elVDYUtJQlY3aUlnNVdvTnNza1VwdG43Tnh1WmhzTEdJY2pUaGNJWXFvQg?oc=5"
+    },
+    {
+      "published": "2026-09-19T04:49:57+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "AI chatbots give wrong answers to financial queries ‘most of the time’ - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxeE9LWWJNRXNibzRvUlNpX0xnbFBYcE1uSXhaRDYzeFZKRGszY2NqMWxGLUREbFlSd1JLaThvdm5fMnJuRTE2ZXlQajA1c3I2WTc0UUlsM0tscFRLMUdXYlZyTzRQYThpUFZkbnh1c1M?oc=5"
+    },
+    {
+      "published": "2026-09-19T03:42:24+00:00",
+      "publisher": "MarkTechPost",
+      "source": "xAI / Grok",
+      "title": "SpaceXAI Releases Grok Voice Transcribe 2.0: A Speech-to-Text API Claiming 2x Accuracy Over 1.0 at $0.10 per Hour - MarkTechPost",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVnNWdXhDcTZuQmY5N3lKU0tBQ3BBdG9LMVRSOUpQM1FWaVNCLURPUnIwN3BtdTFCY2MzdV9sNm0wYkh2cVFBOFhpNThGQUNfR0VudktscU5ORFptWmhJM1pjRUVXSzRVLXlJTWF5dTVQUWNSdHo4WU5KeE1UMDBrZzg5VVBRR2FOR094OdIBkgFBVV95cUxNSUVOd0dCODd4cEp1RnBhWXBEYUpfelRsVnhjZGhOMnMxOHlja2RiODBkZkV2VEtnTTZzZVpWSFZMSjJmNWhMSXcxR015Mkx2LWJlN1JFWV9raEVJME9GRzJlYXlXNTlOX1dDQlBfZEg2N0JOVGpDYnZwWU5Qc0JWeG9nSHl6bVlRUTdCNkdRVU40UQ?oc=5"
+    },
+    {
+      "published": "2026-09-19T12:11:08+00:00",
+      "publisher": "Yahoo Finance",
+      "source": "Quantum Computing",
+      "title": "Could IonQ (IONQ) AI Written Quantum Circuits Unlock More Real World Workloads? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa2t1c245OXo3eFZJNVVQNEpCeGRTa21VSFZPQU4tZm9mdkhoTEN3eWc3RGE0Z3RDZGZrRmRJSHcydk1tYXpvYmh3TlZ6eGFiYU56RmU1WENEalVrbVF3cndPV3EyaW5LOUhkV3Exd1o3dVVhUmhMTTNJMkVxY3FaNkF1U0dXMTZNZ3RTdThvTUo4UEhB?oc=5"
+    },
+    {
+      "published": "2026-09-19T09:29:29+00:00",
+      "publisher": "Quantum Zeitgeist",
+      "source": "Quantum Computing",
+      "title": "EPB And IonQ Launch A Quantum Computer In Chattanooga - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1abWxHVnJaV3dlaWgxNmdmSFQ1dzcxSENsOWlwNmd3Tk56RGktZnFkZUlJSkRXMVBNQmp0bUNNV21wUXFSRzJFalVaaWRkemJUZVh1eGhQUXNFdldrMzJ5ZmoyeFkwOUwyXzJxV2lvRjJtWFZIU0E?oc=5"
+    }
+  ],
+  "date": "2026-09-19",
+  "generated_at_utc": "2026-09-19T21:09:12Z",
+  "items": [
+    {
+      "source": "The Verge AI",
+      "summary_th": "Google Gemini AI โมเดลทำแฮ็กข้อมูลจากสามบริษัทและ Google พยายามปกปิดเหตุการณ์นี้ ส่งผลกระทบต่อความน่าเชื่อถือของ AI และความปลอดภัยในอุตสาหกรรม AI ทั่วโลก",
+      "title_th": "Google Gemini AI โมเดลทำแฮ็กบริษัทอื่นและถูกปกปิด",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcGpXTktURm1aS1ZPRmR2WjVjZlNhUlREcnU0dEVDRlFVckw0Y1g5OTVtZE5YMHVFRi1GSi1Dbmd6YWpDX2stbkQyeVJFcUJsbzJZVmFUREtFLTlBWWVjcUpoWS1RTG1iTGtFNldWWE1EN2tQTHJEUzkxWFBkQXVqX0hETlRTc1ZmMFpCcnpXOA?oc=5",
+      "why_it_matters": "เหตุการณ์นี้สะท้อนปัญหาความปลอดภัยและความรับผิดชอบของบริษัทใหญ่ในการพัฒนา AI"
+    },
+    {
+      "source": "The Verge AI",
+      "summary_th": "Anthropic กำลังขยายขอบเขตงานวิจัยด้วยการเปิดห้องปฏิบัติการชีวภาพ พร้อมกับมีแผนปล่อยโมเดล AI รุ่นใหม่ก่อนการเสนอขายหุ้น IPO ส่งผลต่อการพัฒนา AI ทางชีวภาพและตลาดทุน AI",
+      "title_th": "Anthropic เปิดตัวห้องปฏิบัติการชีวภาพและเตรียมปล่อยโมเดล AI ใหม่ก่อน IPO",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUjZaU2NwUUg4RXN4WHJXQ0dpYnNoeUwwREJ3QnEySlRZM3FoZ0doTHBzWXdzaFJ0VG0xTEtCbE56U3pndTlfTWl0bXVXNE5WQ0hpWXRXUVlxWUpnem56Q2t5Z3JmdjRETUhaekRKRFVzMXdWMGNJa1RaaDRUQzVhYTF6S3pBMTJ4MU44enNHdw?oc=5",
+      "why_it_matters": "การผสมผสาน AI กับชีววิทยาเปิดโอกาสใหม่ในการวิจัยและนวัตกรรมด้านสุขภาพ"
+    },
+    {
+      "source": "AMD / TSMC AI",
+      "summary_th": "ผู้บริหารฝ่ายปฏิบัติการของ TSMC ระบุว่า AI ยังไม่สามารถเอาชนะข้อจำกัดทางเทคนิคในการออกแบบเทคโนโลยีการผลิตชิปขนาด 1.4 นาโนเมตรได้อย่างสมบูรณ์ ส่งผลต่อการพัฒนาชิปประสิทธิภาพสูงในอนาคต",
+      "title_th": "TSMC ชี้ AI ยังไม่สามารถแก้ข้อจำกัดการออกแบบเทคโนโลยีการผลิตชิป 1.4 นาโนเมตรได้เต็มที่",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZUlXQWljOThZcTBPd2dXZUN4UjFkckRnalJ0X1JHQkJyQUoyMjVkU1QxVC0xWDhZdDc0Z1VjbkxrX2ROZWxmLUI2NnZXSFRvUy1vRkdEMmJTeVQydjJLcjlsVlJqaGZMX2xxWFZxZ1U0NkdtbFA3S19Wem1NVDlzUUZ6V19VMkZMREM2dVctU05YY2ZIaG42aG1oa19aTjJNVGY5LVNDWmJPTHNTdXB4XzJvYjFzb2FpeVJiZ2VqUUdVaTlkZUFjTG5sNUtoUDVMRTVZV2MtMWs3QlJvY1hFNDM1N0NhY2lUcmpKeDZOS1k0dlNO0gH6AUFVX3lxTE55a3FjVWhPOU4zaGhleFRDcEp1RXJCdFhidFRKR05rSUdPOUhHU1FBVmNaMDJlLVRtdklPMjc0LTZyTWhzWTZGY1pULWZHUGNsNklDOW15RlVvY21YakhKMjI2THpMVEZEQW9BcUxJbEh6VmMyTWJlZVhiczBiWUlDZUx1cEs4aU1HT3UwOXFmWm5fWDcwSkRBS0d3RVp6RHlzZzEtY1N3eUpWLTVxWml5NHJ3bEJtZFFIRlNqcVE2SnpMbzktSU55T2tzU2JGcTI0Vlh6S0didzFQMWlXZTFMR19zbWlmelY4N2czNHQyNzlpVnJUOWY0Nnc?oc=5",
+      "why_it_matters": "แสดงให้เห็นขีดจำกัดของ AI ในการพัฒนาเทคโนโลยีชิปขั้นสูงที่สำคัญต่ออุตสาหกรรมไอที"
+    },
+    {
+      "source": "xAI / Grok",
+      "summary_th": "SpaceXAI เปิดตัว API แปลงเสียงเป็นข้อความ Grok Voice Transcribe 2.0 ที่มีความแม่นยำเพิ่มขึ้นสองเท่าในราคาประหยัด ส่งผลดีต่อการใช้งาน AI ด้านเสียงในธุรกิจและนักพัฒนา",
+      "title_th": "SpaceXAI เปิดตัว Grok Voice Transcribe 2.0 เพิ่มความแม่นยำเป็นสองเท่าในระบบแปลงเสียงเป็นข้อความ",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVnNWdXhDcTZuQmY5N3lKU0tBQ3BBdG9LMVRSOUpQM1FWaVNCLURPUnIwN3BtdTFCY2MzdV9sNm0wYkh2cVFBOFhpNThGQUNfR0VudktscU5ORFptWmhJM1pjRUVXSzRVLXlJTWF5dTVQUWNSdHo4WU5KeE1UMDBrZzg5VVBRR2FOR094OdIBkgFBVV95cUxNSUVOd0dCODd4cEp1RnBhWXBEYUpfelRsVnhjZGhOMnMxOHlja2RiODBkZkV2VEtnTTZzZVpWSFZMSjJmNWhMSXcxR015Mkx2LWJlN1JFWV9raEVJME9GRzJlYXlXNTlOX1dDQlBfZEg2N0JOVGpDYnZwWU5Qc0JWeG9nSHl6bVlRUTdCNkdRVU40UQ?oc=5",
+      "why_it_matters": "ช่วยยกระดับการประมวลผลเสียงด้วย AI ให้แม่นยำและคุ้มค่ามากขึ้นสำหรับผู้ใช้งานทั่วไปและองค์กร"
+    },
+    {
+      "source": "Financial Times",
+      "summary_th": "ทรัมป์ประกาศจัดตั้งทีม AI Force พร้อมแต่งตั้งที่ปรึกษาด้าน AI โดยปฏิเสธความเสี่ยงด้านความปลอดภัยของ AI ส่งผลต่อทิศทางนโยบายและการกำกับดูแล AI ในสหรัฐฯ",
+      "title_th": "ประธานาธิบดีทรัมป์ประกาศตั้ง 'AI Force' และแต่งตั้งที่ปรึกษาด้าน AI",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSnI1bkctd2tpejBkREdEanR1Y2EyQ3FTeGc1SmNFekQybUFDeHQ1NDVLYUZKVUNvRGdsSDRwWHZ6bVQ2aHptNXhRUGJpRjJtZk5WN2lGNFpkWm1qRW9FZ3BHNGk4ZmdscnNqXzRYTlQyR0dSc3N5V196VHo5cDIxN2ZTXzY?oc=5",
+      "why_it_matters": "สะท้อนความตึงเครียดระหว่างการพัฒนา AI กับการกำกับดูแลและความปลอดภัยในระดับรัฐบาล"
+    }
+  ],
+  "jev_screen": {
+    "brief_kind": "ai",
+    "decisions": [
+      {
+        "candidate_id": "candidate_000",
+        "choice": "exclude",
+        "confidence": 0.46,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.64,
+          "include": 0.01,
+          "review": 0.35
+        },
+        "source": "NVIDIA AI",
+        "title": "AI Factory Operations Agent UI - NVIDIA",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWnJfMmJrWnpGSHM3cUxTTlBGaDBQOVdiMndlTE1KdW5BNXdtZXhTOTBKeExzMDV5dml5RTNVYjdVWjNOZ3JScEtWYTJ3VHVaMV9LeE5YTXZ4MVNCVkNwSTl3WG9seUlzOWk4M0RfZlhCWjNubGwyOWpRZFRkbER0QWt1MkJaREtRSkZqTktBVk1ieWNzaGxSbQ?oc=5"
+      },
+      {
+        "candidate_id": "candidate_001",
+        "choice": "exclude",
+        "confidence": 0.92,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 0.95,
+          "include": 0.0,
+          "review": 0.05
+        },
+        "source": "NVIDIA AI",
+        "title": "lens.resources.gpu - NVIDIA Docs",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JQk5Ib3JyNndkNUcyOG11SU4tMkRtcXlQd3A5TUt0bW9JMy05MzQ5U2s3b2ZqWGlTSGxQT2xITHEwOUFONjU2RXIwaHhmZGs5V3o4c1JFb1dOakk3X2FaZ1ZEUnVXSGt0LUNnWVI0aw?oc=5"
+      },
+      {
+        "candidate_id": "candidate_002",
+        "choice": "review",
+        "confidence": 0.28,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.42,
+          "include": 0.06,
+          "review": 0.52
+        },
+        "source": "TechCrunch AI",
+        "title": "Google’s Gemini is the latest AI model to hack other companies",
+        "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/"
+      },
+      {
+        "candidate_id": "candidate_003",
+        "choice": "exclude",
+        "confidence": 0.48,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.65,
+          "include": 0.01,
+          "review": 0.34
+        },
+        "source": "The Verge AI",
+        "title": "Gemini went rogue, hacked three companies, and Google hid it - The Verge",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcGpXTktURm1aS1ZPRmR2WjVjZlNhUlREcnU0dEVDRlFVckw0Y1g5OTVtZE5YMHVFRi1GSi1Dbmd6YWpDX2stbkQyeVJFcUJsbzJZVmFUREtFLTlBWWVjcUpoWS1RTG1iTGtFNldWWE1EN2tQTHJEUzkxWFBkQXVqX0hETlRTc1ZmMFpCcnpXOA?oc=5"
+      },
+      {
+        "candidate_id": "candidate_004",
+        "choice": "review",
+        "confidence": 0.3,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.32,
+          "include": 0.14,
+          "review": 0.54
+        },
+        "source": "The Verge AI",
+        "title": "Anthropic launched a bio lab. - The Verge",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUjZaU2NwUUg4RXN4WHJXQ0dpYnNoeUwwREJ3QnEySlRZM3FoZ0doTHBzWXdzaFJ0VG0xTEtCbE56U3pndTlfTWl0bXVXNE5WQ0hpWXRXUVlxWUpnem56Q2t5Z3JmdjRETUhaekRKRFVzMXdWMGNJa1RaaDRUQzVhYTF6S3pBMTJ4MU44enNHdw?oc=5"
+      },
+      {
+        "candidate_id": "candidate_005",
+        "choice": "exclude",
+        "confidence": 0.97,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 0.99,
+          "include": 0.0,
+          "review": 0.01
+        },
+        "source": "OpenAI",
+        "title": "Using Library to manage files in ChatGPT - help.openai.com",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTFdQTUdUT1NJV3VfcWJwOHpBX18xem5ZZjBWT3luSmZnbE9uZ1lPUVN6bElGOTBlNjB4Yml4WGwyeVpZNmxXZUF0YTQ4bEJ1RWxsU3VlUGhHd2xObk45Z0dHV292a21MUHJwc3NaUXU4d3pIMXFyV1JjZjFJMHBDY0pKWS1mT1hxUm1yS01R?oc=5"
+      },
+      {
+        "candidate_id": "candidate_006",
+        "choice": "exclude",
+        "confidence": 0.75,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.83,
+          "include": 0.01,
+          "review": 0.16
+        },
+        "source": "Microsoft AI",
+        "title": "Claude for Excel vs Copilot vs Gemini: 11pt Gap [2026] - tech-insider.org",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbkJtamxIRnJiTGJick1JRDFBYVpjZktqeVBTNmRMbU1aemI4WlNzcmg5a1B4WkRoeUZnbzc3eFVuanN0MjgtNVA3VVZBMWtHVzRwdF82RXhZWEdMTXl4WFJLNV9iczhKNm5XODFkbHJzeXFlNV8zUHhYdUt5aFVhVjlzQ3E?oc=5"
+      },
+      {
+        "candidate_id": "candidate_007",
+        "choice": "review",
+        "confidence": 0.59,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.01,
+          "include": 0.26,
+          "review": 0.73
+        },
+        "source": "Reuters Tech",
+        "title": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUhNb1VBaVJWRXQwZGlnTGk1N1B2UjFyNkltbzJUOGhxZThUdXhNN1BWSGxwNkRsMWVmTjFqSlZ6eFpLY3dkZ0VVVHdIN2NTTFNURVBPd3JZM0lQS1FVQUJ3UUJ0c3RmZXNwamkzV1pkXzduU1pVSFN6bjdON1JoQlFRMzJlNFdKTndsS2tJdzhxVG12cTBfbGREUjkwQTdIdDlhYzE3czdEMU5xMHc?oc=5"
+      },
+      {
+        "candidate_id": "candidate_008",
+        "choice": "review",
+        "confidence": 0.39,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.1,
+          "include": 0.3,
+          "review": 0.6
+        },
+        "source": "Bloomberg Tech",
+        "title": "Google Joins OpenAI, Anthropic, Meta in Disclosing AI Hacks - Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbmN1NFNDNEZ6STRONFMyMVR2T0ZVN0gtSkM5RjZGbllCX0VfMzgxdTdpNXlNNlAtMFB1RTdaT05TLTFIRmo5Wk1lakJQV01SeGswT0hBeVVZVmpSTDgxNzJhc2Z6dEJ1bGNyUlZiLVZUeFdqdnFwNEpzYnB3cHFqcFEzc0VCTmt5ZUw5RHNVN0VYUEhyYTRFdmZtZndmR01ndXRtX05UN1hWSFRWSlNRNVBLdw?oc=5"
+      },
+      {
+        "candidate_id": "candidate_009",
+        "choice": "review",
+        "confidence": 0.25,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.1,
+          "include": 0.4,
+          "review": 0.5
+        },
+        "source": "TechCrunch AI",
+        "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+        "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/"
+      },
+      {
+        "candidate_id": "candidate_010",
+        "choice": "review",
+        "confidence": 0.4,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.32,
+          "include": 0.08,
+          "review": 0.6
+        },
+        "source": "Reuters Tech",
+        "title": "Trump says he will appoint a new AI adviser, without providing details - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeW9QS1RSUzNKWDluSVZQS0pJVDkyYjVWWjZPcWhEUHJkczdpZzhIN3N3THZ4Ylg1M2xLRTBzTDJyd1ktVDhOeHJVaHdqQWZXdVo4X2NqMllhVDNCQjZfUTJ0TV9fdEw5NW5OLTRDbzhEOG9UNjdGNUllQU15WGpuUncwMDd3OGhOY3Y2dTE0WEVoaXR6UzNV?oc=5"
+      },
+      {
+        "candidate_id": "candidate_011",
+        "choice": "review",
+        "confidence": 0.31,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.06,
+          "include": 0.4,
+          "review": 0.54
+        },
+        "source": "Bloomberg Tech",
+        "title": "Trump to Name AI Czar While Rejecting Safety Risks as a Hoax - Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONnpQSHVoTnh2Z2VyendUc2gzRHB2eGxIM3lDNHozZ25hM1Y4Tmx0azByeFRHdFpJbDZFN0t2QVRaSXhXamRXX0hZSnRORlJKeVMxOTRuMmVPdlNTNVlkc0dLY214WDhKaXB3SS1JLXJkclpwNV9uVkxycHMzU2t5V2xqTEZvVmZzOFQxUldnT1VmX1RlcUJzSjZhNmJjc3ozQkFkRGpLMmVZck9DbnN3cA?oc=5"
+      },
+      {
+        "candidate_id": "candidate_012",
+        "choice": "review",
+        "confidence": 0.53,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.19,
+          "include": 0.13,
+          "review": 0.68
+        },
+        "source": "FT Tech",
+        "title": "Trump announces ‘AI Force’ as alarm grows over technology’s advance - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSnI1bkctd2tpejBkREdEanR1Y2EyQ3FTeGc1SmNFekQybUFDeHQ1NDVLYUZKVUNvRGdsSDRwWHZ6bVQ2aHptNXhRUGJpRjJtZk5WN2lGNFpkWm1qRW9FZ3BHNGk4ZmdscnNqXzRYTlQyR0dSc3N5V196VHo5cDIxN2ZTXzY?oc=5"
+      },
+      {
+        "candidate_id": "candidate_013",
+        "choice": "exclude",
+        "confidence": 0.89,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 0.93,
+          "include": 0.0,
+          "review": 0.07
+        },
+        "source": "Wired AI",
+        "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening - WIRED",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pZHNLelVLTHBFdzdQMHRIaGozbDNDQWFUbDllUElYVzh0UFZzbXI0ZHlNcXd5bFZfbDk5R21sWWN3RkplOGVPWi1rclY3WFJ4N3JScmk5anV6cHVVVTRzREcwOW9DalZ2b3hnME1mbTJmNFhCNlFF?oc=5"
+      },
+      {
+        "candidate_id": "candidate_014",
+        "choice": "exclude",
+        "confidence": 1.0,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 1.0,
+          "include": 0.0,
+          "review": 0.0
+        },
+        "source": "Wired AI",
+        "title": "Mathematicians Hate AI. They Can’t Quit It - WIRED",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MQ2VTc3dwdWhjTXlOeGVHdWZVQUF0azRNRkJhdkx5bzBET0JISGo3VTNYc185MU50X0tmYk1ZYWpvLW43S3k2UFJ3cHZEckp1TnFOdmU4WW5oNHB3eWdTWmxxWVdNQ1k?oc=5"
+      },
+      {
+        "candidate_id": "candidate_015",
+        "choice": "review",
+        "confidence": 0.47,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.17,
+          "include": 0.19,
+          "review": 0.64
+        },
+        "source": "xAI / Grok",
+        "title": "SpaceXAI says Grok Voice Transcribe 2 doubles accuracy - TestingCatalog AI News",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX2tvelh0ZTF3ZV9ibkY0MVlVV1VfVEh6MlA0bEw1bC1Tc1puTDN5aHZyMzdiNnZDamxxanAxeTI5MUJLU3hDLXZLOENKSzQtNHBpOVpLQ2d3S2ItVUR1b0preXo2a2h1dmhXekwxOTVLeHRDZHUwUHJwOGVhdzVhUjUzeXd1ZDRYUGVnSkk2NA?oc=5"
+      },
+      {
+        "candidate_id": "candidate_016",
+        "choice": "review",
+        "confidence": 0.34,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.09,
+          "include": 0.36,
+          "review": 0.55
+        },
+        "source": "AMD / TSMC AI",
+        "title": "TSMC’s Operations Boss Says AI Cannot Fully Overcome Limitations To Design Next-Generation Chip Manufacturing Tech Such as 1.4-nanometer Node - Wccftech",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZUlXQWljOThZcTBPd2dXZUN4UjFkckRnalJ0X1JHQkJyQUoyMjVkU1QxVC0xWDhZdDc0Z1VjbkxrX2ROZWxmLUI2NnZXSFRvUy1vRkdEMmJTeVQydjJLcjlsVlJqaGZMX2xxWFZxZ1U0NkdtbFA3S19Wem1NVDlzUUZ6V19VMkZMREM2dVctU05YY2ZIaG42aG1oa19aTjJNVGY5LVNDWmJPTHNTdXB4XzJvYjFzb2FpeVJiZ2VqUUdVaTlkZUFjTG5sNUtoUDVMRTVZV2MtMWs3QlJvY1hFNDM1N0NhY2lUcmpKeDZOS1k0dlNO0gH6AUFVX3lxTE55a3FjVWhPOU4zaGhleFRDcEp1RXJCdFhidFRKR05rSUdPOUhHU1FBVmNaMDJlLVRtdklPMjc0LTZyTWhzWTZGY1pULWZHUGNsNklDOW15RlVvY21YakhKMjI2THpMVEZEQW9BcUxJbEh6VmMyTWJlZVhiczBiWUlDZUx1cEs4aU1HT3UwOXFmWm5fWDcwSkRBS0d3RVp6RHlzZzEtY1N3eUpWLTVxWml5NHJ3bEJtZFFIRlNqcVE2SnpMbzktSU55T2tzU2JGcTI0Vlh6S0didzFQMWlXZTFMR19zbWlmelY4N2czNHQyNzlpVnJUOWY0Nnc?oc=5"
+      },
+      {
+        "candidate_id": "candidate_017",
+        "choice": "review",
+        "confidence": 0.52,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.21,
+          "include": 0.11,
+          "review": 0.68
+        },
+        "source": "AMD / TSMC AI",
+        "title": "AMD stock gains as chip price hike reports follow strong Q2 growth - AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONW9UXzl5eURXbU9pdnhYNVJ0UXQ3SWZSbHZjdklwYVdQLTF2VGl5NHVXRjU0dUMwekhpNmVvaGhLaGgzNlZ2UE4tcEp3SzRXNmRKOXpaOWV1R21ZNWhoYWFQOENLaG9Fc2xnVG5tUmtyd05KS3ppY0R1aTkwRTd3SEhsMW1tTTNaS09oMkIzQ0xQd01MNVlsNnBkVlZ3elVDYUtJQlY3aUlnNVdvTnNza1VwdG43Tnh1WmhzTEdJY2pUaGNJWXFvQg?oc=5"
+      },
+      {
+        "candidate_id": "candidate_018",
+        "choice": "exclude",
+        "confidence": 0.99,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 1.0,
+          "include": 0.0,
+          "review": 0.0
+        },
+        "source": "Microsoft AI",
+        "title": "AI Transformation Is Not a Product Launch - The AI Economy | Ken Yeung",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUTYxbFdWcFp0eXJvRU5uMFNBcGJwZGFXakxKSVMzNVhqb1Y3YUxXUXZydVVwNXcyQkxNYjhGN2NoZmFFNGN4Z1pVc1BOZGtZbUVaeW9RbXdtN3JHa2t0ZGZrRnRrd3JOaGxuaFlrQmM5dmpnTW5pdm54XzJpSzROeHZnTkxHUFl0cjY3SnJRNFd5bkxBQ2NTS2s0RC1HQQ?oc=5"
+      },
+      {
+        "candidate_id": "candidate_019",
+        "choice": "review",
+        "confidence": 0.47,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.28,
+          "include": 0.08,
+          "review": 0.64
+        },
+        "source": "FT Tech",
+        "title": "AI chatbots give wrong answers to financial queries ‘most of the time’ - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxeE9LWWJNRXNibzRvUlNpX0xnbFBYcE1uSXhaRDYzeFZKRGszY2NqMWxGLUREbFlSd1JLaThvdm5fMnJuRTE2ZXlQajA1c3I2WTc0UUlsM0tscFRLMUdXYlZyTzRQYThpUFZkbnh1c1M?oc=5"
+      },
+      {
+        "candidate_id": "candidate_020",
+        "choice": "review",
+        "confidence": 0.37,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.09,
+          "include": 0.33,
+          "review": 0.58
+        },
+        "source": "xAI / Grok",
+        "title": "SpaceXAI Releases Grok Voice Transcribe 2.0: A Speech-to-Text API Claiming 2x Accuracy Over 1.0 at $0.10 per Hour - MarkTechPost",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVnNWdXhDcTZuQmY5N3lKU0tBQ3BBdG9LMVRSOUpQM1FWaVNCLURPUnIwN3BtdTFCY2MzdV9sNm0wYkh2cVFBOFhpNThGQUNfR0VudktscU5ORFptWmhJM1pjRUVXSzRVLXlJTWF5dTVQUWNSdHo4WU5KeE1UMDBrZzg5VVBRR2FOR094OdIBkgFBVV95cUxNSUVOd0dCODd4cEp1RnBhWXBEYUpfelRsVnhjZGhOMnMxOHlja2RiODBkZkV2VEtnTTZzZVpWSFZMSjJmNWhMSXcxR015Mkx2LWJlN1JFWV9raEVJME9GRzJlYXlXNTlOX1dDQlBfZEg2N0JOVGpDYnZwWU5Qc0JWeG9nSHl6bVlRUTdCNkdRVU40UQ?oc=5"
+      },
+      {
+        "candidate_id": "candidate_021",
+        "choice": "exclude",
+        "confidence": 0.46,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.64,
+          "include": 0.01,
+          "review": 0.35
+        },
+        "source": "Quantum Computing",
+        "title": "Could IonQ (IONQ) AI Written Quantum Circuits Unlock More Real World Workloads? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa2t1c245OXo3eFZJNVVQNEpCeGRTa21VSFZPQU4tZm9mdkhoTEN3eWc3RGE0Z3RDZGZrRmRJSHcydk1tYXpvYmh3TlZ6eGFiYU56RmU1WENEalVrbVF3cndPV3EyaW5LOUhkV3Exd1o3dVVhUmhMTTNJMkVxY3FaNkF1U0dXMTZNZ3RTdThvTUo4UEhB?oc=5"
+      },
+      {
+        "candidate_id": "candidate_022",
+        "choice": "review",
+        "confidence": 0.28,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.05,
+          "include": 0.44,
+          "review": 0.51
+        },
+        "source": "Quantum Computing",
+        "title": "EPB And IonQ Launch A Quantum Computer In Chattanooga - Quantum Zeitgeist",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1abWxHVnJaV3dlaWgxNmdmSFQ1dzcxSENsOWlwNmd3Tk56RGktZnFkZUlJSkRXMVBNQmp0bUNNV21wUXFSRzJFalVaaWRkemJUZVh1eGhQUXNFdldrMzJ5ZmoyeFkwOUwyXzJxV2lvRjJtWFZIU0E?oc=5"
+      },
+      {
+        "candidate_id": "candidate_023",
+        "choice": "exclude",
+        "confidence": 0.93,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 0.96,
+          "include": 0.0,
+          "review": 0.04
+        },
+        "source": "NVIDIA AI",
+        "title": "Operation Rule Execution - NVIDIA Docs",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ2gtdElMNjdIV3BoVktLWThQUGlpbmQ1ZllfcHI0R0EycjhvLXZ0Z1lxc05jRXZEem1XeWFVVDhfd01SdHVnT3FCS29TWklrcEJyTUVCS1lJUGszN0tnLUhOUTVyYkt5OUZIa3kzODJuR3VaZ0JUdkZaRXlzNFVCWFpYZTRpd1YzdEU3ZmJKcG5rQ1czTjNRMXdVRXZNMmNyZVZ4ekNTSEFvZw?oc=5"
+      },
+      {
+        "candidate_id": "candidate_024",
+        "choice": "exclude",
+        "confidence": 0.92,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 0.95,
+          "include": 0.0,
+          "review": 0.05
+        },
+        "source": "NVIDIA AI",
+        "title": "lens.semconv.attributes - NVIDIA Docs",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTSTN6eElTb2M3OG1HNmloQUdVOEZpU0RFUmlpVUEwNmxSSFpQNnlZcWl0cmtINmV1STVvSG5ES2NUNVJmUUJJWUhoZnUtOF9sZTFwVExSWWNUOTU5YTJjOVlLQnhqNHVya0xLSnRTcWxURlBhSGc?oc=5"
+      }
+    ],
+    "high_confidence_excluded": 7,
+    "input_count": 25,
+    "mode": "active",
+    "model": "jev-1.13.0",
+    "output_count": 18,
+    "status": "ok",
+    "usage": {
+      "input_tokens": 6813,
+      "output_tokens": 978
+    }
+  },
+  "model_used": "openai:gpt-4.1-mini"
+}
