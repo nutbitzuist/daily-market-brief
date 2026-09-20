@@ -1,0 +1,164 @@
+{
+  "articles": [
+    {
+      "published": "2026-09-20T18:32:52+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+      "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/"
+    },
+    {
+      "published": "2026-09-20T18:00:00+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "ScrollEd wants to turn textbooks into TikTok",
+      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/"
+    },
+    {
+      "published": "2026-09-20T20:29:07+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "World model companies are keeping a lot of secrets",
+      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/"
+    },
+    {
+      "published": "2026-09-20T18:56:04+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Is the AI industry really ready to slow down?",
+      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/"
+    },
+    {
+      "published": "2026-09-20T14:00:00+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/"
+    }
+  ],
+  "date": "2026-09-20",
+  "generated_at_utc": "2026-09-20T21:09:35Z",
+  "items": [
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "Vocci เปิดตัววงแหวนอัจฉริยะที่ช่วยบันทึกเสียงและถอดความการประชุมได้ยาวนานถึง 8 ชั่วโมง เหมาะสำหรับผู้ที่ต้องการจดบันทึกแบบไม่ต้องใช้มือ แต่ยังมีข้อกังวลเรื่องความเป็นส่วนตัวและซอฟต์แวร์ที่ยังไม่สมบูรณ์แบบ ส่งผลต่อผู้ใช้ที่ต้องการเครื่องมือจดบันทึก AI แบบพกพา.",
+      "title_th": "วงแหวน Vocci นวัตกรรมใหม่สำหรับจดบันทึกการประชุม",
+      "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "why_it_matters": "นวัตกรรมฮาร์ดแวร์รูปแบบใหม่สำหรับการจดบันทึกด้วย AI ที่สะดวกแต่ต้องจับตาด้านความเป็นส่วนตัว."
+    },
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "สตาร์ทอัพ ScrollEd พัฒนาแอปที่เปลี่ยนเนื้อหาตำราเรียนให้กลายเป็นวิดีโอสั้นและแบบทดสอบเชิงโต้ตอบในสไตล์ฟีดแนวตั้งเหมือน TikTok เพื่อดึงดูดนักเรียนยุคใหม่ที่ชอบเนื้อหาสั้นและรวดเร็ว ส่งผลดีต่อการเรียนรู้และการฝึกอบรมในสถาบันการศึกษาและองค์กร.",
+      "title_th": "ScrollEd เปลี่ยนตำราเรียนให้เป็นฟีดวิดีโอสั้นแบบ TikTok",
+      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "why_it_matters": "นวัตกรรมการเรียนรู้ที่ปรับตัวเข้ากับพฤติกรรมผู้ใช้ยุคใหม่ เพิ่มประสิทธิภาพการศึกษาและการฝึกอบรม."
+    },
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "บริษัทชั้นนำอย่าง AMI Labs และ World Labs ที่พัฒนาระบบ world models เพื่อสร้างความฉลาดเชิงพื้นที่และนำไปใช้ในหุ่นยนต์และสื่อโต้ตอบ ยังไม่เปิดเผยรายละเอียดผลิตภัณฑ์หรือแผนการตลาด ทำให้ตลาดและซัพพลายเออร์ยังไม่ชัดเจนเกี่ยวกับทิศทางและการใช้งานจริง.",
+      "title_th": "บริษัทพัฒนา World Models ยังเก็บความลับมากเกี่ยวกับแผนธุรกิจ",
+      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "why_it_matters": "เทคโนโลยี world models มีศักยภาพสูงแต่ยังไม่ชัดเจนว่าจะนำไปใช้เชิงพาณิชย์อย่างไรในอนาคตอันใกล้."
+    },
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "ผู้นำวงการ AI อย่าง CEO ของ Anthropic เสนอแผนชะลอการพัฒนา AI เพื่อความปลอดภัย ขณะที่ NVIDIA และบางฝ่ายมองว่าไม่จำเป็นและเป็นข่าวลือ สะท้อนความขัดแย้งในวงการเกี่ยวกับการควบคุมและกำกับดูแล AI ส่งผลต่อทิศทางการพัฒนาและนโยบายของอุตสาหกรรม.",
+      "title_th": "ถกเถียงเรื่องความปลอดภัย AI และความเป็นไปได้ของการชะลอพัฒนา",
+      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "why_it_matters": "ความเห็นต่างในวงการ AI สะท้อนความท้าทายด้านการกำกับดูแลและความปลอดภัยที่ส่งผลต่ออนาคตอุตสาหกรรม."
+    },
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "งาน TechCrunch Disrupt 2026 จะมีการจัดเวทีสำหรับบริษัท AI ชั้นนำอย่าง OpenAI, Anthropic และ Replit เพื่อแสดงนวัตกรรมและแนวทางใหม่ๆ ในวงการ AI ซึ่งเป็นโอกาสสำคัญสำหรับผู้สนใจในเทคโนโลยีและตลาด AI ทั่วโลก.",
+      "title_th": "TechCrunch Disrupt 2026 เตรียมเปิดเวทีใหญ่ให้บริษัท AI ชั้นนำ",
+      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "why_it_matters": "งานใหญ่ที่รวมผู้นำและนวัตกรรม AI จะกำหนดแนวโน้มและทิศทางของวงการในปีหน้า."
+    }
+  ],
+  "jev_screen": {
+    "brief_kind": "ai",
+    "decisions": [
+      {
+        "candidate_id": "candidate_000",
+        "choice": "exclude",
+        "confidence": 0.99,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 1.0,
+          "include": 0.0,
+          "review": 0.0
+        },
+        "source": "TechCrunch AI",
+        "title": "World model companies are keeping a lot of secrets",
+        "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/"
+      },
+      {
+        "candidate_id": "candidate_001",
+        "choice": "exclude",
+        "confidence": 1.0,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 1.0,
+          "include": 0.0,
+          "review": 0.0
+        },
+        "source": "TechCrunch AI",
+        "title": "Is the AI industry really ready to slow down?",
+        "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/"
+      },
+      {
+        "candidate_id": "candidate_002",
+        "choice": "exclude",
+        "confidence": 0.6,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.73,
+          "include": 0.03,
+          "review": 0.24
+        },
+        "source": "TechCrunch AI",
+        "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+        "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/"
+      },
+      {
+        "candidate_id": "candidate_003",
+        "choice": "exclude",
+        "confidence": 0.77,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.84,
+          "include": 0.02,
+          "review": 0.14
+        },
+        "source": "TechCrunch AI",
+        "title": "ScrollEd wants to turn textbooks into TikTok",
+        "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/"
+      },
+      {
+        "candidate_id": "candidate_004",
+        "choice": "exclude",
+        "confidence": 1.0,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 1.0,
+          "include": 0.0,
+          "review": 0.0
+        },
+        "source": "TechCrunch AI",
+        "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/"
+      }
+    ],
+    "high_confidence_excluded": 3,
+    "input_count": 5,
+    "mode": "active",
+    "model": "jev-1.13.0",
+    "output_count": 5,
+    "status": "ok",
+    "usage": {
+      "input_tokens": 1810,
+      "output_tokens": 198
+    }
+  },
+  "model_used": "openai:gpt-4.1-mini"
+}
