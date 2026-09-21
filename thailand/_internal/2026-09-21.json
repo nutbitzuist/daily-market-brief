@@ -1,0 +1,758 @@
+{
+  "articles": [
+    {
+      "published": "2026-09-21T01:33:19+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "ธอส. ปล่อยกู้โซลาร์รูฟท็อป 1-1.5 แสนต่อราย ดอกเบี้ยต่ำ ไม่ใช้หลักประกัน",
+      "url": "https://www.prachachat.net/finance/news-2069214"
+    },
+    {
+      "published": "2026-09-21T03:34:34+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "เงินบาทสัปดาห์นี้ 33.00-33.60 บาท/ดอลลาร์ เจอแรงกดดันน้ำมันสูง-ดอกเบี้ยโลกขาขึ้น",
+      "url": "https://www.prachachat.net/finance/news-2069268"
+    },
+    {
+      "published": "2026-09-21T09:24:56+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "“เอกนิติ” ถก กกร. เร่งเครื่องดันประเทศรายได้สูง ชงแผน Quick Wins นายกฯ ใน 4 สัปดาห์",
+      "url": "https://www.prachachat.net/finance/news-2069414"
+    },
+    {
+      "published": "2026-09-21T21:42:00+00:00",
+      "publisher": "Bangkok Post Business",
+      "source": "Bangkok Post Business",
+      "title": "LNG anchors Thailand's energy future",
+      "url": "https://www.bangkokpost.com/business/general/3323970/lng-anchors-thailands-energy-future"
+    },
+    {
+      "published": "2026-09-21T23:16:00+00:00",
+      "publisher": "Bangkok Post Business",
+      "source": "Bangkok Post Business",
+      "title": "Larger data centres set to shift beyond Bangkok",
+      "url": "https://www.bangkokpost.com/business/general/3323820/larger-data-centres-set-to-shift-beyond-bangkok"
+    },
+    {
+      "published": "2026-09-21T22:43:00+00:00",
+      "publisher": "Bangkok Post Business",
+      "source": "Bangkok Post Business",
+      "title": "AirAsia worries markets despite reassurances",
+      "url": "https://www.bangkokpost.com/business/general/3323750/airasia-worries-markets-despite-reassurances"
+    },
+    {
+      "published": "2026-09-21T08:42:46+00:00",
+      "publisher": "กระทรวงการคลัง",
+      "source": "กระทรวงการคลัง (Google News)",
+      "title": "การประชุมคณะกรรมการตรวจสอบและประเมินผลกระทรวงการคลัง ครั้งที่ 9/2569 - กระทรวงการคลัง",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85eXN0OGJkWW9Dc0NNMklfc0E5M2IxWktRS1Uwa0ctb2FoS08xampFaHk0aGdBMDBQcUZHYVNDeWtSRVUtVi1qbTdB?oc=5"
+    },
+    {
+      "published": "2026-09-21T10:48:00+00:00",
+      "publisher": "Thansettakij",
+      "source": "MoneyChannel TH (Google News)",
+      "title": "SET ปิดตลาด 1,598.03 จุด บวก 13.88 จุด หุ้นแบงก์คึกคัก SCB-KBANK นำตลาด - Thansettakij",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NRmNaRGR1bkRBOThaSVhmSlhlOWRBa1l2QXpnQkg1S0gyUjA2WWx6Z05yWXZZQjZDZFFneW4wSGR0SkpMSUhJb1dPWFZ2VjRRSEh3c2l1SXlHSjJveGRUNTJickFOUQ?oc=5"
+    },
+    {
+      "published": "2026-09-21T02:47:38+00:00",
+      "publisher": "facebook.com",
+      "source": "MoneyChannel TH (Google News)",
+      "title": "#ทันหุ้น #ปันผล #Thailand #ลงทุน #ตลาดหุ้น #SET #GGC ปรับโครงสร้างทุนสำเร็จ รองรับจ่ายเงินปันผลในอนาคต - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMixwZBVV95cUxPYmYzZEV2U1dFUDQzQjNxOWVVbDhRdENDN0ZGY0ZraG1hSG5fTDdiNGpnb1FYblpHSTlmRnVsckhvLUlndmNlM1RiQUFmcUx4LWppMmxaY3pydFRqVXRtbkE2MUVHVm9nQ0xBM2ZweXVDQWhRcGQyQUt4Nk84OVlpbXFlcl95R3pPa0dXbWx4bUgtMndYckpCOW5USEkybngyNWM2UW1fZjNFYUpDMG9OakZZejlpZ1hhRlBTOEpNbmh2SDIweHhHdkQ3UkpJOW9BSGVoSTJZRWpGMi1FVkVUSk1UOXR2eWdsNFdpVnRMbGhFbVlPWTd6S0NBNzBjY0xwNFM5amhPaFRjRVJxUVp5blFOY0otMkkxNVIxWENMMF9HZjhTLXhMUzRTRmJ2OGNCcFBsSGYyNUxZeU1qQkJYa2plVlYxUTJJZ1huQUd6MVBVYXJJZTBBVFJpU0ZRUTJwTDd1Q19sNjRMRnNfNEN5VXdUUHVqWlRadFczSE1XSFB2TkgwMUdNMEFjMHlfbzByWWdtZ3UyUmc2dlFkZTIxQ2JIZTI1eXlScVZfRkxDTjJsQVRpS2hnaEhJc1pkVTZHSHlKM2pHN2F4X0ZrTGMwQ3lZS3RGRFZmR3ZqdHJXWVJhWWxOeFNnQmNBak5mVFZOVEw5Qi0yZk15NWJIVndWQ3E3S1F4OVllWlhTOWkwYjB1a0NaVGJGZHFsb2hlWjNwMHhXc3BuTXctU1IxNks1UUdPMFdhVzhhU2otdW9FQkhZdjR5Sk9hX0xzYmZJYmNvaURDRmc0d3JFRDA4alE0V254dHRkRWlzbnVQOUlYUGhTbDV2R2JZV3ZIQ0ttdm0ybFo3NFd1TDFOM1hlaDBzcFAzc3lMdnhKNE5DcEZxUHRmR2F6RFpjdGoxazhzRzc0UDQ3TlRRNGZGYllyWWRfYlV1c2o4T2tKdk5BalZIVXZWOEd5aWR6Ykh6WWJVQUt0a0phTEcycnlYeEhzWGpqNWJGakpIeHpKU3p4NlYxWnN6cktsUTU4ZHI0UUJqWDR1M1hyaGwtTzZaRmdheDA3Ykl6eWlldEFUb2ZNb19SVF9kQzM1SjFOWTNsV0lETDlvS0xvQWY3dw?oc=5"
+    },
+    {
+      "published": "2026-09-21T10:03:00+00:00",
+      "publisher": "posttoday.com",
+      "source": "MoneyChannel TH (Google News)",
+      "title": "หุ้นไทยปิดพุ่ง 13.88 จุด รับราคาน้ำมันลด ผ่อนคลายเงินเฟ้อ-ดอกเบี้ย - posttoday.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFM2FZeHlnUVBCV3VVTE56clZma1BFal8zcE1JNW5UV2h0T00wTGJJVk4tOHFUWS12ei1fdWstYURTbGl6SEJabmdZdkNfMGJYX1MzZHpUd0hHRFdlQ3ozOUNtcw?oc=5"
+    },
+    {
+      "published": "2026-09-21T23:29:12+00:00",
+      "publisher": "InfoQuest",
+      "source": "InfoQuest",
+      "title": "ภาวะตลาดหุ้นนิวยอร์ก: ดาวโจนส์ปิดบวก 366.19 จุด ขานรับน้ำมัน-บอนด์ยีลด์ร่วง",
+      "url": "https://www.infoquest.co.th/2026/652101"
+    },
+    {
+      "published": "2026-09-21T17:14:35+00:00",
+      "publisher": "ryt9.com",
+      "source": "RYT9 Economy (Google News)",
+      "title": "รัฐบาล-กกร. รุก Reinvent Thailand ชู 7 ธุรกิจกองหน้า คัดข้อเสนอสู่การปฏิบัติจริง ชง กรอ. ใน 1 เดือน - ryt9.com",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB5UURtYmttNDlzRUNVWUFhQU1KZFBReFNVQUxpVElqTDlGZ0c2X2ttQ1NRTDFfZDdfVTRXVEMyaFB2RWd0SXVzNHBB?oc=5"
+    },
+    {
+      "published": "2026-09-21T15:01:46+00:00",
+      "publisher": "InfoQuest",
+      "source": "InfoQuest",
+      "title": "ดาวโจนส์พุ่งกว่า 200 จุด ขานรับราคาน้ำมันดิ่ง, บอนด์ยีลด์ร่วง",
+      "url": "https://www.infoquest.co.th/2026/652115"
+    },
+    {
+      "published": "2026-09-21T04:31:56+00:00",
+      "publisher": "ryt9.com",
+      "source": "RYT9 Economy (Google News)",
+      "title": "IMF เตือนเศรษฐกิจโลกยังคงเผชิญความเสี่ยงจากภาวะเงินเฟ้อสูง - ryt9.com",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBDblQwRTh5V2syRzJpVHRuMERxMXdQYVNiR1ZQc1JMYkNFWXNwMDhocVE5ZGd6MUFzWWdrV3JCN2N2TDNxOTlNd1B3?oc=5"
+    },
+    {
+      "published": "2026-09-21T04:41:48+00:00",
+      "publisher": "ryt9.com",
+      "source": "RYT9 Economy (Google News)",
+      "title": "HILITE: โบรกชี้ตลาดหุ้นผ่อนคลายรับ 3 สัญญาณบวกไทย Fitch อัพ outlook-ส่งออกพุ่ง-อัดฉีด 5 - ryt9.com",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFByQ0JxLVZrU2pkUDJ2anJZVFcwZGNFY2FzODVreGZ2bzVlSXdWNl9Ydkxyb01ySmZhWXhQYmwwOENycjl5SGJYQkZR?oc=5"
+    },
+    {
+      "published": "2026-09-21T02:47:03+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "SET ผนึกรัฐโรดโชว์เล็งเป้า 15 กองทุนตั้งไข่ ‘BOI to IPO’",
+      "url": "https://www.prachachat.net/finance/news-2068691"
+    },
+    {
+      "published": "2026-09-21T08:42:57+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "เอกนิติ พิจารณาใช้ภาษีสรรพสามิต บริหารราคาน้ำมัน ยันดูจังหวะเหมาะสม-ไม่ปรับก่อนสิ้น ก.ย. 69",
+      "url": "https://www.prachachat.net/finance/news-2069403"
+    },
+    {
+      "published": "2026-09-21T10:03:29+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "กกร. จี้รัฐผลักดันการลงทุนใหม่ให้ถึงระดับจังหวัด เพิ่มขีดแข่งขัน-จ้างงาน-สร้างรายได้ให้ประเทศ",
+      "url": "https://www.prachachat.net/finance/news-2069436"
+    },
+    {
+      "published": "2026-09-21T07:44:54+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "‘เอกนิติ’ ชี้ไทยช่วยไทยพลัสดัน 5 ด้าน ใช้เอไอช่วยประชาชนต่อยอดหลังจบโครงการ",
+      "url": "https://www.prachachat.net/finance/news-2069389"
+    },
+    {
+      "published": "2026-09-21T22:38:00+00:00",
+      "publisher": "Bangkok Post Business",
+      "source": "Bangkok Post Business",
+      "title": "Stock exchange vows to continue its package of major reforms",
+      "url": "https://www.bangkokpost.com/business/investment/3323935/stock-exchange-vows-to-continue-its-package-of-major-reforms"
+    },
+    {
+      "published": "2026-09-21T22:36:00+00:00",
+      "publisher": "Bangkok Post Business",
+      "source": "Bangkok Post Business",
+      "title": "Fuel tax cut mulled amid energy crisis",
+      "url": "https://www.bangkokpost.com/business/general/3323810/fuel-tax-cut-mulled-amid-energy-crisis"
+    },
+    {
+      "published": "2026-09-21T06:55:34+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "ธอส. ฉลอง 73 ปี! เปิดรับเงินฝากออมทรัพย์เจ้าสัว อัตราดอกเบี้ยสูงสุด 1.25% ต่อปี",
+      "url": "https://www.prachachat.net/finance/news-2069331"
+    },
+    {
+      "published": "2026-09-21T05:55:24+00:00",
+      "publisher": "ข่าวหุ้นธุรกิจออนไลน์",
+      "source": "MoneyChannel TH (Google News)",
+      "title": "SET ปิดเช้าบวก 9 จุด รับ Fitch หนุน-แรงซื้อ DELTA แบงก์คึก บ่ายลุ้นแตะ 1,600 จุด - ข่าวหุ้นธุรกิจออนไลน์",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wNWFQalhEaDBSTGZOUVFvUE8yVm0zQUdUNTBrNXRpdFlJdmJLMTdJVDFLSDNfQzJwYnJTUkhsTlJJSWlhaUZ4OWVXTDk1d0k?oc=5"
+    }
+  ],
+  "date": "2026-09-21",
+  "generated_at_utc": "2026-09-21T23:32:34Z",
+  "items": [
+    {
+      "category": "นโยบายรัฐ-การคลัง",
+      "impact": "high",
+      "key_numbers": [
+        "เศรษฐกิจโตไม่ต่ำกว่า 3%",
+        "ลงทุนไม่น้อยกว่า 30% ของจีดีพี",
+        "อันดับแข่งขันสู่ 20 อันดับแรก"
+      ],
+      "rank": 1,
+      "sectors": [
+        "เศรษฐกิจมหภาค",
+        "การลงทุน",
+        "นโยบายรัฐ"
+      ],
+      "sentiment": "bullish",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "รองนายกรัฐมนตรีและรมว.คลังชี้รัฐบาลมุ่งยกระดับไทยเป็นประเทศรายได้สูงภายในปี 2580 ผ่านยุทธศาสตร์ Investment-led Growth ตั้งเป้าขับเคลื่อนเศรษฐกิจโตไม่ต่ำกว่า 3% ต่อปี พร้อมผลักดันสัดส่วนการลงทุนไม่น้อยกว่า 30% ของจีดีพี และยกระดับขีดความสามารถแข่งขันสู่ 20 อันดับแรกของโลก โดยแผนดำเนินงานแบ่ง 3 ระยะและจะเสนอแผนให้ นายกฯ ภายใน 4 สัปดาห์",
+      "tickers": [],
+      "time_horizon": "long-term",
+      "title_th": "เอกนิติถก กกร. เร่งเครื่องดันประเทศรายได้สูง ชงแผน Quick Wins นายกฯ ใน 4 สัปดาห์",
+      "url": "https://www.prachachat.net/finance/news-2069414",
+      "watch_next": "ติดตามแผน Quick Wins และมาตรการสนับสนุนการลงทุนใน 7 กลุ่มธุรกิจเป้าหมาย"
+    },
+    {
+      "category": "นโยบายรัฐ-การคลัง",
+      "impact": "high",
+      "key_numbers": [
+        "ฐานลงทุนเดิมกว่า 20 ปี"
+      ],
+      "rank": 2,
+      "sectors": [
+        "พลังงานสะอาด",
+        "ศูนย์ข้อมูล",
+        "การลงทุน"
+      ],
+      "sentiment": "bullish",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "ประธานกกร.เน้นย้ำการเปลี่ยนเงินลงทุนเป็นผลลัพธ์จริง พร้อมเชื่อมโยงข้อมูล BOI กับ GPP การจ้างงาน และสินเชื่อธปท. เพื่อวัดผลการลงทุนในแต่ละจังหวัด ชี้ไทยพึ่งพาฐานลงทุนเดิมกว่า 20 ปี ต้องเร่งสร้างการลงทุนใหม่โดยเฉพาะในพลังงานสะอาดและศูนย์ข้อมูลเพื่อเพิ่มขีดความสามารถแข่งขันและรายได้ประเทศ",
+      "tickers": [],
+      "time_horizon": "long-term",
+      "title_th": "กกร. จี้รัฐผลักดันการลงทุนใหม่ถึงระดับจังหวัด เพิ่มขีดแข่งขัน-จ้างงาน-สร้างรายได้",
+      "url": "https://www.prachachat.net/finance/news-2069436",
+      "watch_next": "ติดตามการบูรณาการข้อมูลและมาตรการผลักดันการลงทุนใหม่ในระดับจังหวัด"
+    },
+    {
+      "category": "ธนาคาร-การเงิน",
+      "impact": "medium",
+      "key_numbers": [
+        "วงเงินสินเชื่อ 1-1.5 แสนบาท",
+        "ผ่อนชำระ 7 ปี",
+        "เงินสนับสนุน 5 หมื่นบาท"
+      ],
+      "rank": 3,
+      "sectors": [
+        "พลังงานทดแทน",
+        "สินเชื่อบ้าน"
+      ],
+      "sentiment": "bullish",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "ธนาคารอาคารสงเคราะห์เตรียมปล่อยสินเชื่อสนับสนุนติดตั้งโซลาร์รูฟท็อปวงเงิน 1-1.5 แสนบาทต่อราย ดอกเบี้ยต่ำ ผ่อนชำระ 7 ปี ไม่ใช้หลักประกัน ใช้ข้อมูลพฤติกรรมการใช้ไฟฟ้าพิจารณาอนุมัติ คาดช่วยลดรายจ่ายและเพิ่มรายได้ประชาชน พร้อมรับเงินสนับสนุนค่าติดตั้ง 5 หมื่นบาทจากรัฐบาล",
+      "tickers": [
+        "ธอส."
+      ],
+      "time_horizon": "short-term",
+      "title_th": "ธอส. ปล่อยกู้โซลาร์รูฟท็อป 1-1.5 แสนบาทต่อราย ดอกเบี้ยต่ำ ไม่ใช้หลักประกัน",
+      "url": "https://www.prachachat.net/finance/news-2069214",
+      "watch_next": "ติดตามรายละเอียดโครงการและผลการอนุมัติสินเชื่อหลังครม.อนุมัติ"
+    },
+    {
+      "category": "นโยบายรัฐ-การคลัง",
+      "impact": "medium",
+      "key_numbers": [
+        "พื้นที่ทางการคลัง 1 หมื่นล้านบาท",
+        "ไม่ปรับภาษีก่อนสิ้น ก.ย. 69"
+      ],
+      "rank": 4,
+      "sectors": [
+        "พลังงาน",
+        "การคลัง"
+      ],
+      "sentiment": "neutral",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "รองนายกฯ และรมว.คลังเผยปีงบฯ 69 เหลือพื้นที่การคลังเพียง 1 หมื่นล้านบาท หวั่นลดภาษีสรรพสามิตน้ำมันเสี่ยงเกิดวิกฤตซ้อนวิกฤต จึงยังไม่ปรับลดภาษีก่อนสิ้นเดือน ก.ย. 69 พร้อมพิจารณาใช้มาตรการในปีงบฯ 70 โดยเน้นช่วยเหลือราคาน้ำมัน E20 และ B20 เพื่อประโยชน์เกษตรกร พร้อมย้ำความเชื่อมั่นจากการปรับมุมมองเครดิตของ Fitch",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "เอกนิติพิจารณาใช้ภาษีสรรพสามิตบริหารราคาน้ำมัน ยันไม่ปรับก่อนสิ้น ก.ย. 69",
+      "url": "https://www.prachachat.net/finance/news-2069403",
+      "watch_next": "ติดตามมาตรการบริหารราคาน้ำมันและผลกระทบต่อต้นทุนธุรกิจและครัวเรือน"
+    },
+    {
+      "category": "ค่าเงิน-FX",
+      "impact": "medium",
+      "key_numbers": [
+        "กรอบเงินบาท 33.00-33.60 บาท/ดอลลาร์",
+        "เฟดขึ้นดอกเบี้ย 0.25%"
+      ],
+      "rank": 5,
+      "sectors": [
+        "ค่าเงิน",
+        "พลังงาน"
+      ],
+      "sentiment": "bearish",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "กรุงศรีคาดเงินบาทสัปดาห์นี้เคลื่อนไหวในกรอบ 33.00-33.60 บาทต่อดอลลาร์ รับแรงกดดันจากราคาน้ำมันที่สูงขึ้นและแนวโน้มดอกเบี้ยโลกที่ปรับขึ้น หลังเฟดขึ้นดอกเบี้ยครั้งแรกในรอบ 3 ปี แม้แรงกดดันต่อการขึ้นดอกเบี้ยไทยยังจำกัด แต่เงินบาทมีโอกาสอ่อนค่าในระยะสั้นตามทิศทางตลาดโลกและต้นทุนการนำเข้า",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "เงินบาทสัปดาห์นี้เคลื่อนไหว 33.00-33.60 บาท/ดอลลาร์ เจอแรงกดดันน้ำมันสูง-ดอกเบี้ยโลกขาขึ้น",
+      "url": "https://www.prachachat.net/finance/news-2069268",
+      "watch_next": "ติดตามราคาน้ำมันและนโยบายดอกเบี้ยของธนาคารกลางประเทศหลัก"
+    },
+    {
+      "category": "SET/หุ้นไทย",
+      "impact": "high",
+      "key_numbers": [],
+      "rank": 6,
+      "sectors": [
+        "ตลาดทุน",
+        "เทคโนโลยี"
+      ],
+      "sentiment": "bullish",
+      "source_name": "Bangkok Post Business",
+      "summary_th": "ตลาดหลักทรัพย์แห่งประเทศไทยประกาศเดินหน้าปรับโครงสร้างและกฎระเบียบครั้งใหญ่ เพื่อเสริมสร้างธรรมาภิบาลและดึงดูดบริษัทกลุ่ม New Economy ที่มีการเติบโตสูงเข้าสู่ตลาดหุ้นไทย พร้อมทำให้บริษัทไทยน่าสนใจสำหรับนักลงทุนมากขึ้น",
+      "tickers": [
+        "SET"
+      ],
+      "time_horizon": "long-term",
+      "title_th": "SET เดินหน้าปรับโครงสร้างใหญ่ ดึงบริษัท New Economy เข้าตลาด",
+      "url": "https://www.bangkokpost.com/business/investment/3323935/stock-exchange-vows-to-continue-its-package-of-major-reforms",
+      "watch_next": "ติดตามมาตรการและกฎระเบียบใหม่ที่จะประกาศใช้เพื่อสนับสนุนการระดมทุนของ New Economy"
+    },
+    {
+      "category": "SET/หุ้นไทย",
+      "impact": "high",
+      "key_numbers": [
+        "บริษัทเป้าหมายกว่า 10 แห่ง",
+        "เริ่มเข้าตลาดปลายปี 2570"
+      ],
+      "rank": 7,
+      "sectors": [
+        "ตลาดทุน",
+        "SMEs",
+        "New Economy"
+      ],
+      "sentiment": "bullish",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "ตลาดหลักทรัพย์ฯ ร่วมกับรัฐบาลจัดโรดโชว์ในต่างประเทศเพื่อดึงดูดนักลงทุนต่างชาติ พร้อมผลักดันบริษัทกลุ่ม New Economy และ SMEs ที่ได้รับการส่งเสริมการลงทุนจาก BOI เข้าจดทะเบียนในตลาดหุ้นไทย คาดเริ่มเห็นบริษัทเข้าตลาดช่วงปลายปี 2570 และทยอยเพิ่มขึ้นใน 2-3 ปีข้างหน้า",
+      "tickers": [
+        "SET"
+      ],
+      "time_horizon": "short-term",
+      "title_th": "SET ผนึกรัฐโรดโชว์ ‘BOI to IPO’ ดึง New Economy และ SMEs เข้าตลาดทุน",
+      "url": "https://www.prachachat.net/finance/news-2068691",
+      "watch_next": "ติดตามผลการโรดโชว์และความคืบหน้าการเข้าตลาดของบริษัทกลุ่มเป้าหมาย"
+    },
+    {
+      "category": "นโยบายรัฐ-การคลัง",
+      "impact": "medium",
+      "key_numbers": [
+        "เงินอุดหนุนกว่า 2.5 พันล้านบาท",
+        "ร้านค้าเข้าร่วมกว่า 59,000 ร้าน"
+      ],
+      "rank": 8,
+      "sectors": [
+        "เทคโนโลยี",
+        "SMEs",
+        "บริโภค"
+      ],
+      "sentiment": "bullish",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "โครงการ ‘ไทยช่วยไทยพลัส’ ร่วมกับ LINE MAN Wongnai ใช้ AI วิเคราะห์ข้อมูลช่วยร้านค้าเพิ่มยอดขายและบริหารจัดการธุรกิจ พร้อมกระจายเงินอุดหนุนรัฐกว่า 2.5 พันล้านบาทผ่านแพลตฟอร์ม ช่วยลดค่าครองชีพและเพิ่มรายได้ผู้ประกอบการรายย่อยกว่า 59,000 ร้านค้า",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "‘ไทยช่วยไทยพลัส’ ใช้ AI ช่วยร้านค้าเพิ่มยอดขายและลดค่าครองชีพ",
+      "url": "https://www.prachachat.net/finance/news-2069389",
+      "watch_next": "ติดตามผลกระทบโครงการต่อรายได้และการใช้เทคโนโลยีของผู้ประกอบการรายย่อย"
+    },
+    {
+      "category": "เศรษฐกิจมหภาค",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 9,
+      "sectors": [
+        "พลังงาน",
+        "เทคโนโลยี"
+      ],
+      "sentiment": "neutral",
+      "source_name": "Bangkok Post Business",
+      "summary_th": "PTT มองก๊าซธรรมชาติเหลว (LNG) เป็นแกนหลักของพลังงานอนาคตในไทย เพื่อรองรับยุคไฟฟ้าและความมั่นคงทางพลังงาน พร้อมใช้เทคโนโลยี AI สนับสนุนการบริหารจัดการพลังงานในอนาคต",
+      "tickers": [
+        "PTT"
+      ],
+      "time_horizon": "long-term",
+      "title_th": "PTT มอง LNG เป็นแกนหลักพลังงานอนาคตของไทย",
+      "url": "https://www.bangkokpost.com/business/general/3323970/lng-anchors-thailands-energy-future",
+      "watch_next": "ติดตามแผนลงทุนและนโยบายพลังงาน LNG ของ PTT และภาครัฐ"
+    },
+    {
+      "category": "SET/หุ้นไทย",
+      "impact": "medium",
+      "key_numbers": [
+        "SET 1,598.03 จุด",
+        "เพิ่มขึ้น 13.88 จุด",
+        "นักลงทุนต่างชาติขายสุทธิ 5,192 ล้านบาท"
+      ],
+      "rank": 10,
+      "sectors": [
+        "ตลาดหุ้น",
+        "พลังงาน",
+        "ธนาคาร"
+      ],
+      "sentiment": "bullish",
+      "source_name": "MoneyChannel TH",
+      "summary_th": "SET ปิดตลาดที่ 1,598.03 จุด เพิ่มขึ้น 13.88 จุด ได้แรงหนุนจากราคาน้ำมันที่ลดลงและความคาดหวังเงินเฟ้อและดอกเบี้ยผ่อนคลาย ส่งผลให้หุ้นกลุ่มธนาคารและพลังงานมีความคึกคัก นักลงทุนต่างชาติขายสุทธิหุ้นไทย 5,192 ล้านบาทในสัปดาห์ที่ผ่านมา",
+      "tickers": [
+        "SET",
+        "SCB",
+        "KBANK"
+      ],
+      "time_horizon": "immediate",
+      "title_th": "หุ้นไทยปิดตลาดบวก 13.88 จุด รับราคาน้ำมันลด ผ่อนคลายเงินเฟ้อ-ดอกเบี้ย",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFM2FZeHlnUVBCV3VVTE56clZma1BFal8zcE1JNW5UV2h0T00wTGJJVk4tOHFUWS12ei1fdWstYURTbGl6SEJabmdZdkNfMGJYX1MzZHpUd0hHRFdlQ3ozOUNtcw?oc=5",
+      "watch_next": "ติดตามแนวโน้มราคาน้ำมันและนโยบายการเงินที่มีผลต่อตลาดหุ้นไทย"
+    }
+  ],
+  "jev_screen": {
+    "brief_kind": "th",
+    "decisions": [
+      {
+        "candidate_id": "candidate_000",
+        "choice": "include",
+        "confidence": 0.64,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.01,
+          "include": 0.76,
+          "review": 0.23
+        },
+        "source": "ประชาชาติธุรกิจ Finance",
+        "title": "ธอส. ปล่อยกู้โซลาร์รูฟท็อป 1-1.5 แสนต่อราย ดอกเบี้ยต่ำ ไม่ใช้หลักประกัน",
+        "url": "https://www.prachachat.net/finance/news-2069214"
+      },
+      {
+        "candidate_id": "candidate_001",
+        "choice": "include",
+        "confidence": 0.79,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.02,
+          "include": 0.86,
+          "review": 0.12
+        },
+        "source": "ประชาชาติธุรกิจ Finance",
+        "title": "เงินบาทสัปดาห์นี้ 33.00-33.60 บาท/ดอลลาร์ เจอแรงกดดันน้ำมันสูง-ดอกเบี้ยโลกขาขึ้น",
+        "url": "https://www.prachachat.net/finance/news-2069268"
+      },
+      {
+        "candidate_id": "candidate_002",
+        "choice": "include",
+        "confidence": 0.9,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.0,
+          "include": 0.9400000000000001,
+          "review": 0.06
+        },
+        "source": "ประชาชาติธุรกิจ Finance",
+        "title": "“เอกนิติ” ถก กกร. เร่งเครื่องดันประเทศรายได้สูง ชงแผน Quick Wins นายกฯ ใน 4 สัปดาห์",
+        "url": "https://www.prachachat.net/finance/news-2069414"
+      },
+      {
+        "candidate_id": "candidate_003",
+        "choice": "review",
+        "confidence": 0.46,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.31,
+          "include": 0.05,
+          "review": 0.64
+        },
+        "source": "Bangkok Post Business",
+        "title": "LNG anchors Thailand's energy future",
+        "url": "https://www.bangkokpost.com/business/general/3323970/lng-anchors-thailands-energy-future"
+      },
+      {
+        "candidate_id": "candidate_004",
+        "choice": "review",
+        "confidence": 0.72,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.08,
+          "include": 0.11,
+          "review": 0.81
+        },
+        "source": "Bangkok Post Business",
+        "title": "Larger data centres set to shift beyond Bangkok",
+        "url": "https://www.bangkokpost.com/business/general/3323820/larger-data-centres-set-to-shift-beyond-bangkok"
+      },
+      {
+        "candidate_id": "candidate_005",
+        "choice": "review",
+        "confidence": 0.52,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.04,
+          "include": 0.29,
+          "review": 0.67
+        },
+        "source": "Bangkok Post Business",
+        "title": "AirAsia worries markets despite reassurances",
+        "url": "https://www.bangkokpost.com/business/general/3323750/airasia-worries-markets-despite-reassurances"
+      },
+      {
+        "candidate_id": "candidate_006",
+        "choice": "review",
+        "confidence": 0.35,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.39,
+          "include": 0.05,
+          "review": 0.56
+        },
+        "source": "กระทรวงการคลัง (Google News)",
+        "title": "การประชุมคณะกรรมการตรวจสอบและประเมินผลกระทรวงการคลัง ครั้งที่ 9/2569 - กระทรวงการคลัง",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85eXN0OGJkWW9Dc0NNMklfc0E5M2IxWktRS1Uwa0ctb2FoS08xampFaHk0aGdBMDBQcUZHYVNDeWtSRVUtVi1qbTdB?oc=5"
+      },
+      {
+        "candidate_id": "candidate_007",
+        "choice": "exclude",
+        "confidence": 0.94,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 0.96,
+          "include": 0.01,
+          "review": 0.03
+        },
+        "source": "กระทรวงการคลัง (Google News)",
+        "title": "ประกาศสำนักงานปลัดกระทรวงการคลัง เรื่อง รายชื่อผู้มีสิทธิเข้าสอบคัดเลือกเพื่อวัดความเหมาะสมกับตำแหน่ง (สอบสัมภาษณ์) ตำแหน่งนักวิชาการตรวจสอบภายใน กำหนดวัน เวลา สถานที่สอบ และระเบียบเกี่ยวกับการสอบคัดเลือกเพื่อวัดความเหมาะสมกับตำแหน่ง (สอบสัมภาษณ์) - กระทรวงการคลัง",
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQVmt3bUZFS2RYMjVZUlNWSHlEdnlfOUtJNXo1X01KVWVDMFRUUGRoZ3dJY3BqODY3VS1jWWpwWTh6U1o3TjFxX2JGQzUzejV0SEhDZnBBVV8yUGE1X043OF9uVGNMQlYtcGgyMlo5N3JkOHVGSzdudnYwT1VINzAyQjNDWnZsUWJ5UlMyck5EMTdmMVBxM0RLRTVFakN6YWlCN3hvaTZHYkVtelhhNUFiX0lwYjliT3dUbW9zMUczR2EtNzNPUkNQbEpQOERJeEk0eXVLNGJtRGVzTkEzbHlOak1tTC1NS0c0aG1KbkNjM3lvM1ZpZnVtR0w4a1hLRUtqWVhrUkJGWGtBUmtNNkVvODFXTmprYVIyTFpkYTlvQVAxX1hWR19QUm9pdjNhejEzMEMzZUlMOVVNQVNZLUpYaHdmYy0?oc=5"
+      },
+      {
+        "candidate_id": "candidate_008",
+        "choice": "include",
+        "confidence": 0.91,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.03,
+          "include": 0.94,
+          "review": 0.03
+        },
+        "source": "MoneyChannel TH (Google News)",
+        "title": "SET ปิดตลาด 1,598.03 จุด บวก 13.88 จุด หุ้นแบงก์คึกคัก SCB-KBANK นำตลาด - Thansettakij",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NRmNaRGR1bkRBOThaSVhmSlhlOWRBa1l2QXpnQkg1S0gyUjA2WWx6Z05yWXZZQjZDZFFneW4wSGR0SkpMSUhJb1dPWFZ2VjRRSEh3c2l1SXlHSjJveGRUNTJickFOUQ?oc=5"
+      },
+      {
+        "candidate_id": "candidate_009",
+        "choice": "include",
+        "confidence": 0.21,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.08,
+          "include": 0.48,
+          "review": 0.44
+        },
+        "source": "MoneyChannel TH (Google News)",
+        "title": "#ทันหุ้น #ปันผล #Thailand #ลงทุน #ตลาดหุ้น #SET #GGC ปรับโครงสร้างทุนสำเร็จ รองรับจ่ายเงินปันผลในอนาคต - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMixwZBVV95cUxPYmYzZEV2U1dFUDQzQjNxOWVVbDhRdENDN0ZGY0ZraG1hSG5fTDdiNGpnb1FYblpHSTlmRnVsckhvLUlndmNlM1RiQUFmcUx4LWppMmxaY3pydFRqVXRtbkE2MUVHVm9nQ0xBM2ZweXVDQWhRcGQyQUt4Nk84OVlpbXFlcl95R3pPa0dXbWx4bUgtMndYckpCOW5USEkybngyNWM2UW1fZjNFYUpDMG9OakZZejlpZ1hhRlBTOEpNbmh2SDIweHhHdkQ3UkpJOW9BSGVoSTJZRWpGMi1FVkVUSk1UOXR2eWdsNFdpVnRMbGhFbVlPWTd6S0NBNzBjY0xwNFM5amhPaFRjRVJxUVp5blFOY0otMkkxNVIxWENMMF9HZjhTLXhMUzRTRmJ2OGNCcFBsSGYyNUxZeU1qQkJYa2plVlYxUTJJZ1huQUd6MVBVYXJJZTBBVFJpU0ZRUTJwTDd1Q19sNjRMRnNfNEN5VXdUUHVqWlRadFczSE1XSFB2TkgwMUdNMEFjMHlfbzByWWdtZ3UyUmc2dlFkZTIxQ2JIZTI1eXlScVZfRkxDTjJsQVRpS2hnaEhJc1pkVTZHSHlKM2pHN2F4X0ZrTGMwQ3lZS3RGRFZmR3ZqdHJXWVJhWWxOeFNnQmNBak5mVFZOVEw5Qi0yZk15NWJIVndWQ3E3S1F4OVllWlhTOWkwYjB1a0NaVGJGZHFsb2hlWjNwMHhXc3BuTXctU1IxNks1UUdPMFdhVzhhU2otdW9FQkhZdjR5Sk9hX0xzYmZJYmNvaURDRmc0d3JFRDA4alE0V254dHRkRWlzbnVQOUlYUGhTbDV2R2JZV3ZIQ0ttdm0ybFo3NFd1TDFOM1hlaDBzcFAzc3lMdnhKNE5DcEZxUHRmR2F6RFpjdGoxazhzRzc0UDQ3TlRRNGZGYllyWWRfYlV1c2o4T2tKdk5BalZIVXZWOEd5aWR6Ykh6WWJVQUt0a0phTEcycnlYeEhzWGpqNWJGakpIeHpKU3p4NlYxWnN6cktsUTU4ZHI0UUJqWDR1M1hyaGwtTzZaRmdheDA3Ykl6eWlldEFUb2ZNb19SVF9kQzM1SjFOWTNsV0lETDlvS0xvQWY3dw?oc=5"
+      },
+      {
+        "candidate_id": "candidate_010",
+        "choice": "include",
+        "confidence": 0.81,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.02,
+          "include": 0.87,
+          "review": 0.11
+        },
+        "source": "MoneyChannel TH (Google News)",
+        "title": "หุ้นไทยปิดพุ่ง 13.88 จุด รับราคาน้ำมันลด ผ่อนคลายเงินเฟ้อ-ดอกเบี้ย - posttoday.com",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFM2FZeHlnUVBCV3VVTE56clZma1BFal8zcE1JNW5UV2h0T00wTGJJVk4tOHFUWS12ei1fdWstYURTbGl6SEJabmdZdkNfMGJYX1MzZHpUd0hHRFdlQ3ozOUNtcw?oc=5"
+      },
+      {
+        "candidate_id": "candidate_011",
+        "choice": "exclude",
+        "confidence": 0.78,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.86,
+          "include": 0.02,
+          "review": 0.12
+        },
+        "source": "InfoQuest",
+        "title": "ภาวะตลาดหุ้นนิวยอร์ก: ดาวโจนส์ปิดบวก 366.19 จุด ขานรับน้ำมัน-บอนด์ยีลด์ร่วง",
+        "url": "https://www.infoquest.co.th/2026/652101"
+      },
+      {
+        "candidate_id": "candidate_012",
+        "choice": "include",
+        "confidence": 0.44,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.02,
+          "include": 0.62,
+          "review": 0.36
+        },
+        "source": "RYT9 Economy (Google News)",
+        "title": "รัฐบาล-กกร. รุก Reinvent Thailand ชู 7 ธุรกิจกองหน้า คัดข้อเสนอสู่การปฏิบัติจริง ชง กรอ. ใน 1 เดือน - ryt9.com",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB5UURtYmttNDlzRUNVWUFhQU1KZFBReFNVQUxpVElqTDlGZ0c2X2ttQ1NRTDFfZDdfVTRXVEMyaFB2RWd0SXVzNHBB?oc=5"
+      },
+      {
+        "candidate_id": "candidate_013",
+        "choice": "exclude",
+        "confidence": 0.89,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 0.92,
+          "include": 0.02,
+          "review": 0.06
+        },
+        "source": "InfoQuest",
+        "title": "ภาวะตลาดหุ้นอินเดีย: ดัชนี Sensex พุ่งกว่า 500 จุด ขานรับราคาน้ำมันร่วง",
+        "url": "https://www.infoquest.co.th/2026/652126"
+      },
+      {
+        "candidate_id": "candidate_014",
+        "choice": "exclude",
+        "confidence": 0.47,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.65,
+          "include": 0.08,
+          "review": 0.27
+        },
+        "source": "InfoQuest",
+        "title": "ดาวโจนส์พุ่งกว่า 200 จุด ขานรับราคาน้ำมันดิ่ง, บอนด์ยีลด์ร่วง",
+        "url": "https://www.infoquest.co.th/2026/652115"
+      },
+      {
+        "candidate_id": "candidate_015",
+        "choice": "review",
+        "confidence": 0.41,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.14,
+          "include": 0.26,
+          "review": 0.6
+        },
+        "source": "RYT9 Economy (Google News)",
+        "title": "IMF เตือนเศรษฐกิจโลกยังคงเผชิญความเสี่ยงจากภาวะเงินเฟ้อสูง - ryt9.com",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBDblQwRTh5V2syRzJpVHRuMERxMXdQYVNiR1ZQc1JMYkNFWXNwMDhocVE5ZGd6MUFzWWdrV3JCN2N2TDNxOTlNd1B3?oc=5"
+      },
+      {
+        "candidate_id": "candidate_016",
+        "choice": "include",
+        "confidence": 0.38,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.03,
+          "include": 0.59,
+          "review": 0.38
+        },
+        "source": "RYT9 Economy (Google News)",
+        "title": "HILITE: โบรกชี้ตลาดหุ้นผ่อนคลายรับ 3 สัญญาณบวกไทย Fitch อัพ outlook-ส่งออกพุ่ง-อัดฉีด 5 - ryt9.com",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFByQ0JxLVZrU2pkUDJ2anJZVFcwZGNFY2FzODVreGZ2bzVlSXdWNl9Ydkxyb01ySmZhWXhQYmwwOENycjl5SGJYQkZR?oc=5"
+      },
+      {
+        "candidate_id": "candidate_017",
+        "choice": "include",
+        "confidence": 0.9,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.0,
+          "include": 0.93,
+          "review": 0.07
+        },
+        "source": "ประชาชาติธุรกิจ Finance",
+        "title": "SET ผนึกรัฐโรดโชว์เล็งเป้า 15 กองทุนตั้งไข่ ‘BOI to IPO’",
+        "url": "https://www.prachachat.net/finance/news-2068691"
+      },
+      {
+        "candidate_id": "candidate_018",
+        "choice": "include",
+        "confidence": 0.88,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.0,
+          "include": 0.92,
+          "review": 0.08
+        },
+        "source": "ประชาชาติธุรกิจ Finance",
+        "title": "เอกนิติ พิจารณาใช้ภาษีสรรพสามิต บริหารราคาน้ำมัน ยันดูจังหวะเหมาะสม-ไม่ปรับก่อนสิ้น ก.ย. 69",
+        "url": "https://www.prachachat.net/finance/news-2069403"
+      },
+      {
+        "candidate_id": "candidate_019",
+        "choice": "review",
+        "confidence": 0.54,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.05,
+          "include": 0.25,
+          "review": 0.7
+        },
+        "source": "ประชาชาติธุรกิจ Finance",
+        "title": "กกร. จี้รัฐผลักดันการลงทุนใหม่ให้ถึงระดับจังหวัด เพิ่มขีดแข่งขัน-จ้างงาน-สร้างรายได้ให้ประเทศ",
+        "url": "https://www.prachachat.net/finance/news-2069436"
+      },
+      {
+        "candidate_id": "candidate_020",
+        "choice": "include",
+        "confidence": 0.4,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.03,
+          "include": 0.6,
+          "review": 0.37
+        },
+        "source": "ประชาชาติธุรกิจ Finance",
+        "title": "‘เอกนิติ’ ชี้ไทยช่วยไทยพลัสดัน 5 ด้าน ใช้เอไอช่วยประชาชนต่อยอดหลังจบโครงการ",
+        "url": "https://www.prachachat.net/finance/news-2069389"
+      },
+      {
+        "candidate_id": "candidate_021",
+        "choice": "include",
+        "confidence": 0.46,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.01,
+          "include": 0.64,
+          "review": 0.35
+        },
+        "source": "Bangkok Post Business",
+        "title": "Stock exchange vows to continue its package of major reforms",
+        "url": "https://www.bangkokpost.com/business/investment/3323935/stock-exchange-vows-to-continue-its-package-of-major-reforms"
+      },
+      {
+        "candidate_id": "candidate_022",
+        "choice": "include",
+        "confidence": 0.62,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.0,
+          "include": 0.75,
+          "review": 0.25
+        },
+        "source": "Bangkok Post Business",
+        "title": "Fuel tax cut mulled amid energy crisis",
+        "url": "https://www.bangkokpost.com/business/general/3323810/fuel-tax-cut-mulled-amid-energy-crisis"
+      },
+      {
+        "candidate_id": "candidate_023",
+        "choice": "exclude",
+        "confidence": 0.78,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.85,
+          "include": 0.07,
+          "review": 0.08
+        },
+        "source": "ประชาชาติธุรกิจ Finance",
+        "title": "ธอส. ฉลอง 73 ปี! เปิดรับเงินฝากออมทรัพย์เจ้าสัว อัตราดอกเบี้ยสูงสุด 1.25% ต่อปี",
+        "url": "https://www.prachachat.net/finance/news-2069331"
+      },
+      {
+        "candidate_id": "candidate_024",
+        "choice": "include",
+        "confidence": 0.78,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.03,
+          "include": 0.85,
+          "review": 0.12
+        },
+        "source": "MoneyChannel TH (Google News)",
+        "title": "SET ปิดเช้าบวก 9 จุด รับ Fitch หนุน-แรงซื้อ DELTA แบงก์คึก บ่ายลุ้นแตะ 1,600 จุด - ข่าวหุ้นธุรกิจออนไลน์",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wNWFQalhEaDBSTGZOUVFvUE8yVm0zQUdUNTBrNXRpdFlJdmJLMTdJVDFLSDNfQzJwYnJTUkhsTlJJSWlhaUZ4OWVXTDk1d0k?oc=5"
+      }
+    ],
+    "high_confidence_excluded": 2,
+    "input_count": 25,
+    "mode": "active",
+    "model": "jev-1.13.0",
+    "output_count": 23,
+    "status": "ok",
+    "usage": {
+      "input_tokens": 17971,
+      "output_tokens": 978
+    }
+  },
+  "model_used": "openai:gpt-4.1-mini"
+}
