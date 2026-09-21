@@ -1,0 +1,542 @@
+{
+  "articles": [
+    {
+      "published": "2026-09-21T19:19:21+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/"
+    },
+    {
+      "published": "2026-09-21T17:55:18+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/"
+    },
+    {
+      "published": "2026-09-21T16:05:23+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "OpenAI, Anthropic Costs Push More Startups to Build Off Cheaper Open Models - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeWZuY0stdlMwbFc4Q2VoM3NKZU4yZ2FwekVvTTF4SWdTQzBhcldVU0JuTlJBVDg5d084bVo1QjFtR1RFZFQzTnZkRnM1dWlNbG16OUdnazhzbl9UUzFSS1psb1J3TlRBT3lvRzJVVGgzRDc3X2lkaE5BWjVRdm9ieWRmam1xRGhQMHlJdFgxX25hZktlR0V4emNqSGNXVjNvT2tvQnpUcnNiVnFDd01QVUdJVl9SeXc3OVYyLTltX090dzhYc1E?oc=5"
+    },
+    {
+      "published": "2026-09-21T17:02:50+00:00",
+      "publisher": "the-decoder.com",
+      "source": "xAI / Grok",
+      "title": "xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6 - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS0FpS3FPSVRmOFJteUFDNGhWM2NTSTRJQ3pJeGJtbVVCbHNWYlltOXZFX3RRSzgwSmFpOU9KZGFoZTl5UDZsVkNYUHlSblFaOVNoejM0b3VvdnItcmFXSE9aVmVOSTl6VXRnVFgxTmxFT1ZRcy1XeTJOZkNtaTR1cUpQenZfam1BTG9qZVFKNnF1MTdLQlA5U1M5ZG9QQVBqZ1BpNHZmZTRTTllNTFI4N3VlanRSYTVw?oc=5"
+    },
+    {
+      "published": "2026-09-21T16:59:21+00:00",
+      "publisher": "CoinGape",
+      "source": "xAI / Grok",
+      "title": "Elon Musk’s SpaceXAI Releases Grok 4.7 Ahead of New OpenAI, Anthropic Models - CoinGape",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV0tHQ2hxLVZRNzBPN29hWFNPSHVzUzRXZzdNSHNjQy01bUFzQ09VUWhVVFlrRU9McTY4Mm43emlUNjdOZUdmaGdSeVM1Sm82RDBSZTl2bGpfeF9vb3JfX0NaOC1JR3kwUHZ0bWJEY2RIcnU4NXFjNFVfVHc1ako3N2M1YmhBR1FtTGV5bk1CZ1h2bkVGVVN0ckJPM1U?oc=5"
+    },
+    {
+      "published": "2026-09-21T14:55:21+00:00",
+      "publisher": "NVIDIA Blog",
+      "source": "NVIDIA AI",
+      "title": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack - NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sWGpqd2l6TTE0WDhOeFFVdFQzYzk5dlA0cGdVWUIwVHBscUlMQ0lubW44SHRMYkVweldUMFdXYlFuWmpCVFRrTmFndmZCWU5Oalo5UnduRDRJdERUakRJankxWFA?oc=5"
+    },
+    {
+      "published": "2026-09-21T18:04:02+00:00",
+      "publisher": "NVIDIA Blog",
+      "source": "NVIDIA AI",
+      "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories - NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GRnV4OW9vM1I1cDRTNnJOMzVhMnBaWGtXNVV1V0wyM2VxNzBid3JFbjI3NUgyUDFLX1NYTm14ZVRrUnpZSlZlQkYxWmxWOEFOdkotZU5jSlJ5Q2xaaDVsdE5rWU9LbkhzbmRDVnZmTGQ3QUg4Q3c?oc=5"
+    },
+    {
+      "published": "2026-09-21T15:59:57+00:00",
+      "publisher": "Interfax-Ukraine",
+      "source": "Microsoft AI",
+      "title": "D&B integrates verified business data into Microsoft and IBM AI agents - Interfax-Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIQWNPaklpRWFoeGNEeV9rNkdncGpkc0U5RTJnbnNjdnJUYUFfdXV6QlJkaEpKMXc4cGp6Z05vLVNKYk9JZHpUbnVLNVdKSm1zaDAxWkRfS1RmeHJoRE5HZ2JFZ05MTGlIclHSAW9BVV95cUxNRi1vSXQ2dG1HQUk0QnU3SDBSSms5WFhXR21VZXc3cmd0ODVjVzFwRDM5TDFtUkFFTm52SHctdVlRWjU2MHNXSGlhZjY5YllHWVBuVXhXUU45Z0xFZVVLenJna2pxc0VoLVVqaHZfQ2c?oc=5"
+    },
+    {
+      "published": "2026-09-21T17:10:00+00:00",
+      "publisher": "SuaraGarut.ID",
+      "source": "AMD / TSMC AI",
+      "title": "AMD Hits Record High as Semiconductor Stocks Rally on AI Optimism - SuaraGarut.ID",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oWDhRZkVUdkFuRHdJNVA2NlpZRGdpaldXaU1MMnFsTS02RUhJeWZWUXhONUY0OTBpamRUZHBNLW9aQUlxUzZhanV4TjVfeFJDUEl6bDlTZmJJWUVoWFYxeC1IU1MtZlp6bm5xQg?oc=5"
+    },
+    {
+      "published": "2026-09-21T15:01:43+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "Google opens pre-orders for $899 Googlebook laptops built around Gemini AI - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWURJSmQxWmF6cVZZRkVpWUFTbXM3WTd0WUQwb3paV2NsQXE5TTlVMmhjb0pQajJDQmpfS2lTa0QxUTBGa0NVcnZIUmJsM2JPeExUQVBfcjdXcWJadzV5MllUUVYxaU4zbHJUd3lybms4bEdoYkdkd3JxOW5QNHBzRjV2UjBOczZ0a0VVT1VMZnpKVjlEN0xGM0ZUU2VlRld4NmtrR1JKU2RhV3pURmFfWEVIdWtra2FfQU56MTNRRGQ2ZERfeFR0SEtn?oc=5"
+    },
+    {
+      "published": "2026-09-21T12:06:29+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "Anthropic and Microsoft Dominate Nscale’s $103 Billion in Data Center Contracts - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWDR1ZzBnN3IwblJpX2RXNWtCdVIxNi0xcm1NSklQcm93anRDd0p1cVlXME1Ua1QySExvYWExYWhHdzBTeFdMeENBZ1Fqb0U2NXIybDZxT1Qxc2R3WmpwYUFraktNV21CWnZPZ185cTNQTUFYbUJGcHhGYkdUc3pVODhrNDRpUHN6S0ZiMzY2eldkTWp0QzNpd2l6U0VhMlFTRWpjallBcHRWdTBBd3dxUUpySlg0RThY?oc=5"
+    },
+    {
+      "published": "2026-09-21T16:12:16+00:00",
+      "publisher": "blog.google",
+      "source": "Google AI Blog",
+      "title": "Expanding free AI training for educators - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORlBkOVFwa0NRSmduWGx3WmJGbXJJd1gxVkxfbXdWUFRuODVDZ0tpVGdoaXA1QWFTMW5NT0ZSLWNNQi1DUzNVbV90alJLamhVUmt2ZGpyZnFkdjU2N3pkSThxd3diNklBUlpvZ3JCU2o0aDQyczAxeXNvYk9uVVh2X1lyUmw?oc=5"
+    },
+    {
+      "published": "2026-09-21T16:34:49+00:00",
+      "publisher": "blogs.microsoft.com",
+      "source": "Microsoft AI",
+      "title": "The continued state of global AI diffusion in 2026 - blogs.microsoft.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWEZELV9VcjFHSng2bnNVUEZwVGUtS0ZQX3FWNFNSR3ozMTI1cURiYVpicWV3dkZKQk44NkFtcDJlQmVXMGFzU0gtS3FEb1lvNzBhYTRFc0JMeWUzMkc3MUxGTFZDVTk4Rlh3T3UxVHNHcS1qODlqUmdmS040dUFoS01sdWFicEhfd3l6SENPSmFpZ3RtU1FxYlh3N0ZlUThGdkFPQ0pwSQ?oc=5"
+    },
+    {
+      "published": "2026-09-21T17:42:15+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "Paramount settles lawsuit blocking $110 billion Warner Bros. merger - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRlVuUFVSRmEzeTdQcU9sVzl2a3lyVGEyT1pNVXM0SGNBcUhnZGhPRWM2YkdRd1JENm5HOWdLaFRRT3JNRndHOVBUOFlzUFdmaHNJenlxaklBcjRGZkhtTFEyemF1MXJ2TzI3V21pQmFxY1Vad1I3VXdtYXRKZjU3Mk5xTmlyZ1JDdldSek9IeXlFQ0xDYS1aWXM5RQ?oc=5"
+    },
+    {
+      "published": "2026-09-21T19:55:22+00:00",
+      "publisher": "Anthropic",
+      "source": "Anthropic",
+      "title": "Measurements for understanding the pace of AI development inside frontier labs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5"
+    },
+    {
+      "published": "2026-09-21T16:27:34+00:00",
+      "publisher": "Amazon Web Services (AWS)",
+      "source": "AWS AI",
+      "title": "How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZzRpamxaaElFTEtRY0E2YUJnYTVkdTFSUlc5TFJhRDVqdFpHT2I0Zm5MT3R6WXNxNkRZVDZxTjJZeHN4WDBqUlhNRzVKS0p6YWI0bDZCM0dOOEZtTEZjZFRHQndFNlJfbGdLZkJxU2pSRDRSMy04eDJaRTdnZi0tRTZrUS13YVZVcV9qVWpaVjl2VXhBRmtraE12Szluand1S3pTX1pBN2xmR1NULWZJNjRBbU1laFdQelNVVGZn?oc=5"
+    },
+    {
+      "published": "2026-09-21T04:00:18+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "AI in finance must be policed differently - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BRlJDWXNDRnpndWExLVlyUkR1bkhIbHZsMlcwUGN3R3k5U0lscy1acTgwdFJjdVZLWVpDUDdHSnVSaGRSeEVMbFBTVXMwU2llN1M4eEFvNHNyLWNKMDJhVS1TSUs5NFdGRTE3aHctWk4?oc=5"
+    },
+    {
+      "published": "2026-09-21T13:44:34+00:00",
+      "publisher": "Hugging Face Blog",
+      "source": "Hugging Face Blog",
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an"
+    },
+    {
+      "published": "2026-09-21T11:30:06+00:00",
+      "publisher": "South China Morning Post",
+      "source": "AWS AI",
+      "title": "Moonshot’s Kimi K3 lands on Amazon in key test for Chinese open-source AI income - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDZqcmQxQkhmMW9NcUh6cW1hTTdXTlEwTUNSNUh2ZmlRYmt6Sm9GMnZISkZNSmg2RUc1NndvM1ZhSlBGUkQ1dDlCRldFdXcxQmNpLXB3TTllN0NtSVlTdVpIZ0NDZkhBLWlkMENhODVnbzQ5SldFVGFFaW11SVdBTHFGN2M0RFkydjQxelhlWHVKYXVNZExydXpOZlZOaXV0cEZWbFdYSGRHUWJWYjF3WWpkQng3RUFLY2E0ME9va1F2UdIBwgFBVV95cUxNSE8tSlJiRTFRMWRYREFncDA0ZldXRUJ6clRCTC0xdTloZmVKUzNSR1ZkamlLazd4VGdMTmo4TzNIM0NDM056c1pEZmNjS3J5blVUVlVyeEczb3ByOUFDUmRRRXRxX2JZRVVSYXNQQjh5THdWSFk5em1wODl4N1pzR0VZQ1FYN3d2ckkzSHF5Z3N0RU9YTmZDeWFyQlJkZzdjbTdRQWVMRFhqMXNXYU5fYjkzWUNWaGRJZ3A0LXpzVFkzUQ?oc=5"
+    }
+  ],
+  "date": "2026-09-21",
+  "generated_at_utc": "2026-09-21T21:09:54Z",
+  "items": [
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "Meta เปิดตัว Muse แอป AI บนมือถือที่ได้รับความนิยมสูงในสหรัฐและแคนาดา โดยมียอดดาวน์โหลดและผู้ใช้งานรายวันสูงกว่า ChatGPT ในช่วง 12 วันแรกหลังเปิดตัว ส่งสัญญาณว่า Muse อาจกลายเป็นแอป AI ชั้นนำของ Meta ได้ในอนาคต",
+      "title_th": "Meta เปิดตัว Muse แอป AI บนมือถือที่ดาวน์โหลดและใช้งานเกิน ChatGPT ในช่วงเปิดตัว",
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "why_it_matters": "แสดงให้เห็นการแข่งขันที่รุนแรงในตลาดแอป AI บนมือถือและการเติบโตของ Meta ในวงการ AI"
+    },
+    {
+      "source": "xAI / Grok",
+      "summary_th": "Elon Musk เปิดตัว Grok 4.7 โมเดล AI รุ่นล่าสุดที่เน้นงานโค้ดดิ้งและงานความรู้ ด้วยราคาที่ถูกกว่าโมเดลชั้นนำ แต่ผลการทดสอบประสิทธิภาพยังต่ำกว่า GPT-6 และ Claude Fable 5.1 อย่างมีนัยสำคัญ",
+      "title_th": "xAI เปิดตัว Grok 4.7 โมเดล AI ใหม่ราคาถูกแต่ยังตามหลัง Claude และ GPT-6 ในประสิทธิภาพ",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS0FpS3FPSVRmOFJteUFDNGhWM2NTSTRJQ3pJeGJtbVVCbHNWYlltOXZFX3RRSzgwSmFpOU9KZGFoZTl5UDZsVkNYUHlSblFaOVNoejM0b3VvdnItcmFXSE9aVmVOSTl6VXRnVFgxTmxFT1ZRcy1XeTJOZkNtaTR1cUpQenZfam1BTG9qZVFKNnF1MTdLQlA5U1M5ZG9QQVBqZ1BpNHZmZTRTTllNTFI4N3VlanRSYTVw?oc=5",
+      "why_it_matters": "สะท้อนการแข่งขันด้านโมเดล AI frontier ที่ยังมีช่องว่างด้านประสิทธิภาพแม้มีราคาถูกกว่า"
+    },
+    {
+      "source": "Microsoft AI",
+      "summary_th": "Dun & Bradstreet นำข้อมูลธุรกิจระดับโลกที่ผ่านการตรวจสอบมาใช้ร่วมกับ AI Agent ของ Microsoft และ IBM เพื่อเพิ่มความแม่นยำในการตัดสินใจทางธุรกิจ เช่น การวิเคราะห์เครดิตและการจัดการความเสี่ยง",
+      "title_th": "Dun & Bradstreet ผสานข้อมูลธุรกิจที่ตรวจสอบแล้วเข้ากับ AI Agent ของ Microsoft และ IBM",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIQWNPaklpRWFoeGNEeV9rNkdncGpkc0U5RTJnbnNjdnJUYUFfdXV6QlJkaEpKMXc4cGp6Z05vLVNKYk9JZHpUbnVLNVdKSm1zaDAxWkRfS1RmeHJoRE5HZ2JFZ05MTGlIclHSAW9BVV95cUxNRi1vSXQ2dG1HQUk0QnU3SDBSSms5WFhXR21VZXc3cmd0ODVjVzFwRDM5TDFtUkFFTm52SHctdVlRWjU2MHNXSGlhZjY5YllHWVBuVXhXUU45Z0xFZVVLenJna2pxc0VoLVVqaHZfQ2c?oc=5",
+      "why_it_matters": "ยกระดับความน่าเชื่อถือของ AI ในการตัดสินใจธุรกิจด้วยข้อมูลที่ตรวจสอบได้จริง"
+    },
+    {
+      "source": "NVIDIA AI",
+      "summary_th": "NVIDIA เน้นย้ำว่าความปลอดภัยของ AI เป็นปัญหาทางวิศวกรรมที่ต้องมีการกำหนดมาตรฐานและควบคุมอย่างเข้มงวดในทุกชั้นของระบบ AI Agent ตั้งแต่โมเดลจนถึงสภาพแวดล้อมการทำงาน เพื่อป้องกันการกระทำผิดและความเสี่ยงด้านความปลอดภัย",
+      "title_th": "NVIDIA ชี้ AI Security คือปัญหาทางวิศวกรรม ต้องแก้ไขทุกชั้นของระบบ AI Agent",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sWGpqd2l6TTE0WDhOeFFVdFQzYzk5dlA0cGdVWUIwVHBscUlMQ0lubW44SHRMYkVweldUMFdXYlFuWmpCVFRrTmFndmZCWU5Oalo5UnduRDRJdERUakRJankxWFA?oc=5",
+      "why_it_matters": "ความปลอดภัย AI เป็นหัวใจสำคัญที่ต้องพัฒนาเพื่อรองรับการใช้งาน AI ที่แพร่หลายและซับซ้อนขึ้น"
+    },
+    {
+      "source": "Anthropic",
+      "summary_th": "Anthropic เผยแพร่เครื่องมือวัดสามด้านสำคัญของการพัฒนา AI ได้แก่ การที่ AI สร้าง AI เอง, การควบคุมการทำงานของ AI Agent, และทรัพยากรที่ใช้ในการพัฒนาโมเดล เพื่อเพิ่มความโปร่งใสและสนับสนุนการกำกับดูแลความปลอดภัย AI",
+      "title_th": "Anthropic เปิดเผยเครื่องมือวัดความก้าวหน้าของการพัฒนา AI ในห้องทดลองระดับแนวหน้า",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
+      "why_it_matters": "ช่วยให้สาธารณะและหน่วยงานกำกับดูแลเข้าใจและติดตามความเร็วและความปลอดภัยของการพัฒนา AI frontier"
+    }
+  ],
+  "jev_screen": {
+    "brief_kind": "ai",
+    "decisions": [
+      {
+        "candidate_id": "candidate_000",
+        "choice": "review",
+        "confidence": 0.26,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.05,
+          "include": 0.44,
+          "review": 0.51
+        },
+        "source": "TechCrunch AI",
+        "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+        "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/"
+      },
+      {
+        "candidate_id": "candidate_001",
+        "choice": "review",
+        "confidence": 0.21,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.35,
+          "include": 0.18,
+          "review": 0.47
+        },
+        "source": "TechCrunch AI",
+        "title": "Meta’s AI agent has been blocked from using Amazon.com",
+        "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/"
+      },
+      {
+        "candidate_id": "candidate_002",
+        "choice": "review",
+        "confidence": 0.63,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.09,
+          "include": 0.16,
+          "review": 0.75
+        },
+        "source": "Bloomberg Tech",
+        "title": "OpenAI, Anthropic Costs Push More Startups to Build Off Cheaper Open Models - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeWZuY0stdlMwbFc4Q2VoM3NKZU4yZ2FwekVvTTF4SWdTQzBhcldVU0JuTlJBVDg5d084bVo1QjFtR1RFZFQzTnZkRnM1dWlNbG16OUdnazhzbl9UUzFSS1psb1J3TlRBT3lvRzJVVGgzRDc3X2lkaE5BWjVRdm9ieWRmam1xRGhQMHlJdFgxX25hZktlR0V4emNqSGNXVjNvT2tvQnpUcnNiVnFDd01QVUdJVl9SeXc3OVYyLTltX090dzhYc1E?oc=5"
+      },
+      {
+        "candidate_id": "candidate_003",
+        "choice": "review",
+        "confidence": 0.25,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.07,
+          "include": 0.43,
+          "review": 0.5
+        },
+        "source": "xAI / Grok",
+        "title": "xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6 - the-decoder.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS0FpS3FPSVRmOFJteUFDNGhWM2NTSTRJQ3pJeGJtbVVCbHNWYlltOXZFX3RRSzgwSmFpOU9KZGFoZTl5UDZsVkNYUHlSblFaOVNoejM0b3VvdnItcmFXSE9aVmVOSTl6VXRnVFgxTmxFT1ZRcy1XeTJOZkNtaTR1cUpQenZfam1BTG9qZVFKNnF1MTdLQlA5U1M5ZG9QQVBqZ1BpNHZmZTRTTllNTFI4N3VlanRSYTVw?oc=5"
+      },
+      {
+        "candidate_id": "candidate_004",
+        "choice": "review",
+        "confidence": 0.28,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.33,
+          "include": 0.15,
+          "review": 0.52
+        },
+        "source": "xAI / Grok",
+        "title": "Elon Musk’s SpaceXAI Releases Grok 4.7 Ahead of New OpenAI, Anthropic Models - CoinGape",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV0tHQ2hxLVZRNzBPN29hWFNPSHVzUzRXZzdNSHNjQy01bUFzQ09VUWhVVFlrRU9McTY4Mm43emlUNjdOZUdmaGdSeVM1Sm82RDBSZTl2bGpfeF9vb3JfX0NaOC1JR3kwUHZ0bWJEY2RIcnU4NXFjNFVfVHc1ako3N2M1YmhBR1FtTGV5bk1CZ1h2bkVGVVN0ckJPM1U?oc=5"
+      },
+      {
+        "candidate_id": "candidate_005",
+        "choice": "exclude",
+        "confidence": 0.84,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.89,
+          "include": 0.0,
+          "review": 0.11
+        },
+        "source": "NVIDIA AI",
+        "title": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack - NVIDIA Blog",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sWGpqd2l6TTE0WDhOeFFVdFQzYzk5dlA0cGdVWUIwVHBscUlMQ0lubW44SHRMYkVweldUMFdXYlFuWmpCVFRrTmFndmZCWU5Oalo5UnduRDRJdERUakRJankxWFA?oc=5"
+      },
+      {
+        "candidate_id": "candidate_006",
+        "choice": "include",
+        "confidence": 0.48,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.04,
+          "include": 0.66,
+          "review": 0.3
+        },
+        "source": "NVIDIA AI",
+        "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories - NVIDIA Blog",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GRnV4OW9vM1I1cDRTNnJOMzVhMnBaWGtXNVV1V0wyM2VxNzBid3JFbjI3NUgyUDFLX1NYTm14ZVRrUnpZSlZlQkYxWmxWOEFOdkotZU5jSlJ5Q2xaaDVsdE5rWU9LbkhzbmRDVnZmTGQ3QUg4Q3c?oc=5"
+      },
+      {
+        "candidate_id": "candidate_007",
+        "choice": "review",
+        "confidence": 0.36,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.03,
+          "include": 0.39,
+          "review": 0.58
+        },
+        "source": "Microsoft AI",
+        "title": "D&B integrates verified business data into Microsoft and IBM AI agents - Interfax-Ukraine",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIQWNPaklpRWFoeGNEeV9rNkdncGpkc0U5RTJnbnNjdnJUYUFfdXV6QlJkaEpKMXc4cGp6Z05vLVNKYk9JZHpUbnVLNVdKSm1zaDAxWkRfS1RmeHJoRE5HZ2JFZ05MTGlIclHSAW9BVV95cUxNRi1vSXQ2dG1HQUk0QnU3SDBSSms5WFhXR21VZXc3cmd0ODVjVzFwRDM5TDFtUkFFTm52SHctdVlRWjU2MHNXSGlhZjY5YllHWVBuVXhXUU45Z0xFZVVLenJna2pxc0VoLVVqaHZfQ2c?oc=5"
+      },
+      {
+        "candidate_id": "candidate_008",
+        "choice": "exclude",
+        "confidence": 0.17,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.44,
+          "include": 0.12,
+          "review": 0.44
+        },
+        "source": "AMD / TSMC AI",
+        "title": "AMD Hits Record High as Semiconductor Stocks Rally on AI Optimism - SuaraGarut.ID",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oWDhRZkVUdkFuRHdJNVA2NlpZRGdpaldXaU1MMnFsTS02RUhJeWZWUXhONUY0OTBpamRUZHBNLW9aQUlxUzZhanV4TjVfeFJDUEl6bDlTZmJJWUVoWFYxeC1IU1MtZlp6bm5xQg?oc=5"
+      },
+      {
+        "candidate_id": "candidate_009",
+        "choice": "include",
+        "confidence": 0.33,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.07,
+          "include": 0.55,
+          "review": 0.38
+        },
+        "source": "Reuters Tech",
+        "title": "Google opens pre-orders for $899 Googlebook laptops built around Gemini AI - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWURJSmQxWmF6cVZZRkVpWUFTbXM3WTd0WUQwb3paV2NsQXE5TTlVMmhjb0pQajJDQmpfS2lTa0QxUTBGa0NVcnZIUmJsM2JPeExUQVBfcjdXcWJadzV5MllUUVYxaU4zbHJUd3lybms4bEdoYkdkd3JxOW5QNHBzRjV2UjBOczZ0a0VVT1VMZnpKVjlEN0xGM0ZUU2VlRld4NmtrR1JKU2RhV3pURmFfWEVIdWtra2FfQU56MTNRRGQ2ZERfeFR0SEtn?oc=5"
+      },
+      {
+        "candidate_id": "candidate_010",
+        "choice": "include",
+        "confidence": 0.31,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.02,
+          "include": 0.54,
+          "review": 0.44
+        },
+        "source": "Bloomberg Tech",
+        "title": "Anthropic and Microsoft Dominate Nscale’s $103 Billion in Data Center Contracts - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWDR1ZzBnN3IwblJpX2RXNWtCdVIxNi0xcm1NSklQcm93anRDd0p1cVlXME1Ua1QySExvYWExYWhHdzBTeFdMeENBZ1Fqb0U2NXIybDZxT1Qxc2R3WmpwYUFraktNV21CWnZPZ185cTNQTUFYbUJGcHhGYkdUc3pVODhrNDRpUHN6S0ZiMzY2eldkTWp0QzNpd2l6U0VhMlFTRWpjallBcHRWdTBBd3dxUUpySlg0RThY?oc=5"
+      },
+      {
+        "candidate_id": "candidate_011",
+        "choice": "exclude",
+        "confidence": 0.8,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.87,
+          "include": 0.01,
+          "review": 0.12
+        },
+        "source": "Google AI Blog",
+        "title": "Expanding free AI training for educators - blog.google",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORlBkOVFwa0NRSmduWGx3WmJGbXJJd1gxVkxfbXdWUFRuODVDZ0tpVGdoaXA1QWFTMW5NT0ZSLWNNQi1DUzNVbV90alJLamhVUmt2ZGpyZnFkdjU2N3pkSThxd3diNklBUlpvZ3JCU2o0aDQyczAxeXNvYk9uVVh2X1lyUmw?oc=5"
+      },
+      {
+        "candidate_id": "candidate_012",
+        "choice": "exclude",
+        "confidence": 0.95,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 0.97,
+          "include": 0.0,
+          "review": 0.03
+        },
+        "source": "AMD / TSMC AI",
+        "title": "AMD vs. Broadcom: The AI Chip Race Is Big Enough for Both. Here's the Better Buy. - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQamlrQkJOeS1aV1JhdkJBc1c0XzNBS2txTXpQMmdRejY3c2FNeU1BYnBibk5iclc0UE5ObDNEeWhtdTRfRWRsYmRKYlFPQzlXTDVQU2xMSnZSXzJ4MlZQZFJUcjJXSVFRbDl1RFZiTExoRVlOMHA4anM4WXdGLU9KSEdKRDQtcFNKOVE?oc=5"
+      },
+      {
+        "candidate_id": "candidate_013",
+        "choice": "exclude",
+        "confidence": 0.68,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.79,
+          "include": 0.0,
+          "review": 0.21
+        },
+        "source": "Microsoft AI",
+        "title": "The continued state of global AI diffusion in 2026 - blogs.microsoft.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWEZELV9VcjFHSng2bnNVUEZwVGUtS0ZQX3FWNFNSR3ozMTI1cURiYVpicWV3dkZKQk44NkFtcDJlQmVXMGFzU0gtS3FEb1lvNzBhYTRFc0JMeWUzMkc3MUxGTFZDVTk4Rlh3T3UxVHNHcS1qODlqUmdmS040dUFoS01sdWFicEhfd3l6SENPSmFpZ3RtU1FxYlh3N0ZlUThGdkFPQ0pwSQ?oc=5"
+      },
+      {
+        "candidate_id": "candidate_014",
+        "choice": "exclude",
+        "confidence": 0.88,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 0.92,
+          "include": 0.01,
+          "review": 0.07
+        },
+        "source": "Reuters Tech",
+        "title": "Wall Street ends sharply higher as AI optimism reignites and Treasury yields retreat - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUY0bG1IQkExN3pxSFZoX1VGN0hTNkluZ1hFd1F6VzZwdWtPRExzOXRnS0prRjV1M0I3U2tfUnhZcmJSQkV6STFKbUo2YXB6S1RhNUkycUFJUXg3UXA0WW9CWkRYaVVVUGRqRmRtUERCU1I4M3ZMYXhETmY1Q3FZQU9Ob1MtMzRONFc3NVFrNzVpcTQySVRzd1dENmcxdw?oc=5"
+      },
+      {
+        "candidate_id": "candidate_015",
+        "choice": "exclude",
+        "confidence": 0.43,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.62,
+          "include": 0.24,
+          "review": 0.14
+        },
+        "source": "The Verge AI",
+        "title": "Paramount settles lawsuit blocking $110 billion Warner Bros. merger - The Verge",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRlVuUFVSRmEzeTdQcU9sVzl2a3lyVGEyT1pNVXM0SGNBcUhnZGhPRWM2YkdRd1JENm5HOWdLaFRRT3JNRndHOVBUOFlzUFdmaHNJenlxaklBcjRGZkhtTFEyemF1MXJ2TzI3V21pQmFxY1Vad1I3VXdtYXRKZjU3Mk5xTmlyZ1JDdldSek9IeXlFQ0xDYS1aWXM5RQ?oc=5"
+      },
+      {
+        "candidate_id": "candidate_016",
+        "choice": "exclude",
+        "confidence": 1.0,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 1.0,
+          "include": 0.0,
+          "review": 0.0
+        },
+        "source": "The Verge AI",
+        "title": "Grab an Xbox controller and a $50 Xbox gift card together for just $80 - The Verge",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaGRUcEhocDhDOFN1U044MnZWamdwa1pqTjZNNXdidldwR0g2NUc3X0RWN2c3VGVfRi1UUG1xWlZmWTRaY2ZzMzBKNWVPOXA0Vng3V3pOdHpvRGwxTU5kXzRzY0o2OVlzNEp5ZnNnNzlFSmZBZE9ZWEVqSm9MRU5BOGRUZjRaQmVHcU56VjZiaHpCZUk?oc=5"
+      },
+      {
+        "candidate_id": "candidate_017",
+        "choice": "exclude",
+        "confidence": 0.99,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 1.0,
+          "include": 0.0,
+          "review": 0.0
+        },
+        "source": "Wired AI",
+        "title": "Dyson Won’t Say What’s Wrong With Its CameraJet Toothbrush - WIRED",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT3FUZW43WTcxUUd0b1ZtdTNIc1Y1Vy1IdWcta0JETGZ5SFJhREppUmVsOFZ5bFlsRE5DR2lKenl3eUpZTkFmdGZMVGlHUUFDNThuN1c3ZXVDVHc0cDNROGh5TS1HYWdZem9GMlFNUWpNcFZZVnZyM1lfSjh3YXV6djVveTZVQ193RlFZeUd3?oc=5"
+      },
+      {
+        "candidate_id": "candidate_018",
+        "choice": "review",
+        "confidence": 0.44,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.32,
+          "include": 0.05,
+          "review": 0.63
+        },
+        "source": "Anthropic",
+        "title": "Measurements for understanding the pace of AI development inside frontier labs - Anthropic",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5"
+      },
+      {
+        "candidate_id": "candidate_019",
+        "choice": "review",
+        "confidence": 0.23,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.14,
+          "include": 0.37,
+          "review": 0.49
+        },
+        "source": "AWS AI",
+        "title": "How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore - Amazon Web Services (AWS)",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZzRpamxaaElFTEtRY0E2YUJnYTVkdTFSUlc5TFJhRDVqdFpHT2I0Zm5MT3R6WXNxNkRZVDZxTjJZeHN4WDBqUlhNRzVKS0p6YWI0bDZCM0dOOEZtTEZjZFRHQndFNlJfbGdLZkJxU2pSRDRSMy04eDJaRTdnZi0tRTZrUS13YVZVcV9qVWpaVjl2VXhBRmtraE12Szluand1S3pTX1pBN2xmR1NULWZJNjRBbU1laFdQelNVVGZn?oc=5"
+      },
+      {
+        "candidate_id": "candidate_020",
+        "choice": "exclude",
+        "confidence": 1.0,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 1.0,
+          "include": 0.0,
+          "review": 0.0
+        },
+        "source": "FT Tech",
+        "title": "Stop asking AI CEOs what society needs - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZWS1CRnRDZm5oV2VHbU11eFJ3dW96OFhuMHR2UDlfNkU3VmdFUV9BejROYXI0ZEJLb04tTDhJODV3cGhfMk5YbVpoRWtIcHZvdWhRQXptSUxLcGZWMHJzZjBjTnhVMjduZzlra3lwWVI?oc=5"
+      },
+      {
+        "candidate_id": "candidate_021",
+        "choice": "exclude",
+        "confidence": 0.9,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 0.93,
+          "include": 0.02,
+          "review": 0.05
+        },
+        "source": "Wired AI",
+        "title": "Apple’s M6 Mac Mini Is Perfect for the AI Curious - WIRED",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YN0s4NUZ0RjRBMkYwYVlxd1F3cF81aEU1Si1jNFpzNHBpN2JMY1FEbDc2TXRvRGlKaXdVWlF6VDV1TVlGUHdMVmtzZGhFRjJzSDJIX0dXN1lWNVk?oc=5"
+      },
+      {
+        "candidate_id": "candidate_022",
+        "choice": "exclude",
+        "confidence": 0.81,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.88,
+          "include": 0.0,
+          "review": 0.12
+        },
+        "source": "FT Tech",
+        "title": "AI in finance must be policed differently - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BRlJDWXNDRnpndWExLVlyUkR1bkhIbHZsMlcwUGN3R3k5U0lscy1acTgwdFJjdVZLWVpDUDdHSnVSaGRSeEVMbFBTVXMwU2llN1M4eEFvNHNyLWNKMDJhVS1TSUs5NFdGRTE3aHctWk4?oc=5"
+      },
+      {
+        "candidate_id": "candidate_023",
+        "choice": "review",
+        "confidence": 0.42,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.34,
+          "include": 0.05,
+          "review": 0.61
+        },
+        "source": "Hugging Face Blog",
+        "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an"
+      },
+      {
+        "candidate_id": "candidate_024",
+        "choice": "include",
+        "confidence": 0.3,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.02,
+          "include": 0.53,
+          "review": 0.45
+        },
+        "source": "AWS AI",
+        "title": "Moonshot’s Kimi K3 lands on Amazon in key test for Chinese open-source AI income - South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDZqcmQxQkhmMW9NcUh6cW1hTTdXTlEwTUNSNUh2ZmlRYmt6Sm9GMnZISkZNSmg2RUc1NndvM1ZhSlBGUkQ1dDlCRldFdXcxQmNpLXB3TTllN0NtSVlTdVpIZ0NDZkhBLWlkMENhODVnbzQ5SldFVGFFaW11SVdBTHFGN2M0RFkydjQxelhlWHVKYXVNZExydXpOZlZOaXV0cEZWbFdYSGRHUWJWYjF3WWpkQng3RUFLY2E0ME9va1F2UdIBwgFBVV95cUxNSE8tSlJiRTFRMWRYREFncDA0ZldXRUJ6clRCTC0xdTloZmVKUzNSR1ZkamlLazd4VGdMTmo4TzNIM0NDM056c1pEZmNjS3J5blVUVlVyeEczb3ByOUFDUmRRRXRxX2JZRVVSYXNQQjh5THdWSFk5em1wODl4N1pzR0VZQ1FYN3d2ckkzSHF5Z3N0RU9YTmZDeWFyQlJkZzdjbTdRQWVMRFhqMXNXYU5fYjkzWUNWaGRJZ3A0LXpzVFkzUQ?oc=5"
+      }
+    ],
+    "high_confidence_excluded": 6,
+    "input_count": 25,
+    "mode": "active",
+    "model": "jev-1.13.0",
+    "output_count": 19,
+    "status": "ok",
+    "usage": {
+      "input_tokens": 7222,
+      "output_tokens": 978
+    }
+  },
+  "model_used": "openai:gpt-4.1-mini"
+}
