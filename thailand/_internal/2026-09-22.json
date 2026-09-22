@@ -1,0 +1,750 @@
+{
+  "articles": [
+    {
+      "published": "2026-09-22T11:07:36+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "ทิสโก้เปิดแผลเศรษฐกิจไทย ส่งออกโตแต่ผลิตไม่โต เสี่ยง “ซึมยาว” 10 ปี",
+      "url": "https://www.prachachat.net/economic/news-2070071"
+    },
+    {
+      "published": "2026-09-22T06:23:55+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "ครม. ไฟเขียว ไทยช่วยไทยพลัส (60/40) เฟส 2 แจก 1,000 บาท ใช้ 2 เดือน",
+      "url": "https://www.prachachat.net/politics/news-2069831"
+    },
+    {
+      "published": "2026-09-22T03:17:09+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "SIAA เจ้าตลาดประมูลรถ จ่อเข้า mai ยื่นไฟลิ่งขาย IPO จำนวน 94.1 ล้านหุ้น ระดมทุนขยายลาน-ลงทุน AI",
+      "url": "https://www.prachachat.net/finance/news-2069689"
+    },
+    {
+      "published": "2026-09-22T23:00:00+00:00",
+      "publisher": "Bangkok Post Business",
+      "source": "Bangkok Post Business",
+      "title": "Tisco ESU recommends equities, short-term bonds",
+      "url": "https://www.bangkokpost.com/business/general/3324380/tisco-esu-recommends-equities-shortterm-bonds"
+    },
+    {
+      "published": "2026-09-22T21:51:00+00:00",
+      "publisher": "Bangkok Post Business",
+      "source": "Bangkok Post Business",
+      "title": "Retail stimulus gets 2-month lease on life",
+      "url": "https://www.bangkokpost.com/business/general/3324355/retail-stimulus-gets-2month-lease-on-life"
+    },
+    {
+      "published": "2026-09-22T10:12:34+00:00",
+      "publisher": "facebook.com",
+      "source": "MoneyChannel TH (Google News)",
+      "title": "#ทันหุ้น #ปันผล #Thailand #ลงทุน #ตลาดหุ้น #SET #ครม. อนุมัติแผนรองรับวิกฤติน้ำมัน-ก๊าซหุงต้ม ปี 2569 ปรับเกณฑ์ใหม่รับมือตลาดโลกผันผวน ลดพึ่งพานำเข้า - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wZBVV95cUxObGREV1RveUsyOFhIZzhxZzh1SHFiaF96bE05TjdmeDRRUmxZR3M4UVNkZjd1UWdWNDNBSXZPZG4tQ21fQXROMlgydjhfV3hndUN5Z2RaTjJSTG9QSGxibk0tckhTeEFEN2F2RHVKQm9HYjUwa3FsYzZIT0h0dzJsWG5fME9HVFlMdjJFcFBMakJPOWZfUVNlcVlNNHd0alBvZjZLY2N2bTlTcUExLU80UDhjZkRxV0lVeHN6Zmw1VWVXZ3h2RzNjVnJTc3pSckl3VVFYVVpqd2dlVk1NWkpzcEMyZkl0MElLSlpkNlJfS0dzMHpiN3BoMDZqNWptdDVOUTViYkR2RkxleU5lblctWjhLQmJ5YXJqT3RaTmRoLU9JbVZuZlRTaW1fX3V2b1ZFMkc1RWRXMThqUDVUWi1XSzRFV3VtMlRkcEY0S2J1Y0FHQkYwN2FEMm9YMlRCcVNSTnVlT3dtZGNORWNyWDJJa2lDRGJJWnJTeU1HYUdkUUtyYzJZZHFsdUphbmVOQUdpQ0VjY1BGWFpTdFZMdkg1TjliX0xQdWxfQWRLejFpSXh6RkNjT3JnSXBsSTc3cUt1THdOYTY5UzlIbzZjZGZmSy00WnFBeGNua0ZJazJxVTRlR096WUM0bjhFaEtzcTFVU1N1TEZiX05kSXBaZ0hxS0d2SjNOUElUSXBoSTBNV254R2tQMjlIRVdVa1VDc3daeVRKelFnZm45RFh4T2xYb240OVk5akNWU25IcXlXaGlEZXBzMUpaSDFsbDVCczNzaXlFM3NORkpxeW9qTUtZR3p4S0Z1V1paZUQ1U3FON045X3RKaFRuTWk2VVFwN2Zycy1reDJ0QjVVcml5VGJSX2t1TUw1MTlYb284cnpsTkhzREp0SkdyWlZ3RTE1YXlVNi1USE5zLVNMdFlxdjVHN2lJTEZiMWtnVDBFdXlmNS1HY0dyTmE3c1psS0ZvQ1BLSHhMbTlSckh1Tng3YmZnOU5iZU54Z3ItWkZNeUZkVjZxY2loZjNsN2JRQ3htSE5hUnlFcUtIcUNHaW9pTjBrWGF0NkQ1VnJFQWNPWXBkd1B5LUljUG9yV1ZJSHM1NThXNE9pdnBNMENlanZQNVhKeVJ0bk9fVE1GYXBCemM3OS1jSHFMamVJ?oc=5"
+    },
+    {
+      "published": "2026-09-22T23:03:00+00:00",
+      "publisher": "Bangkok Post Business",
+      "source": "Bangkok Post Business",
+      "title": "Telecom sector set to gain from mass adoption of AI",
+      "url": "https://www.bangkokpost.com/business/general/3324425/telecom-sector-set-to-gain-from-mass-adoption-of-ai"
+    },
+    {
+      "published": "2026-09-22T10:47:02+00:00",
+      "publisher": "SET",
+      "source": "SET News (Google News)",
+      "title": "การจ่ายปันผลระหว่างกาล - SET",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYXQwRmFJSVFDdldodTBfTlJxMkxKdy05bDllWFdvaUV1LVVaLTFWWjlfd0hZbi00X1VULTQ0a2szVGNTNU9GMDRVZ1BVcVppUjJJZGVuUlFwRFZUZjM5X0gwNEZNNUFVOXlobWJEeWU5VkpqbEpkWThtUmNGQUxXVWZ0VU9LUzNpV21SbA?oc=5"
+    },
+    {
+      "published": "2026-09-22T07:36:03+00:00",
+      "publisher": "facebook.com",
+      "source": "MoneyChannel TH (Google News)",
+      "title": "#ทันหุ้น #ปันผล #Thailand #ลงทุน #ตลาดหุ้น #SET #AMATA โบรกแนะนำ “ซื้อ” เป้า 39.75 บาท รับวัฏจักรลงทุนขาขึ้น - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AVBVV95cUxPWDVJcnowSk1IYi1iRzQ5QTBuSVEwa3dISTlqRXhxcnM4SVVGX3dIMnRQVWswOHR5MVJKd2RreWZfUWZ4VjdjVE5iQXN2T3AyUGZMVE1ZNWxvcmhDemZ2bEs0LWhMOHNFNk1DWUFXdzgxUUo1NW8xWHJrOTBoTjlvbGNyN0ZpMzU2d1VCbEhCVVpxbEtqS1A4OFRMWFBCUlEtTWtIWVNreVdaVno3emwydWFkWThCaUZ4WWIteGZhV3lxRTRmTl93UXc5QlFIMDU3QVhvVXg4d0JPY3F6ZHlsZC1fNzF5X05Ub0JDZ1IxYlZyYnVqZUo4VURKZk5ORkxnUkktdjYyT3pzWi11d2dVZTNTV2ltcllJb3dzY0J6ZzliSzdIdjhuQy1mcW1saHd1SG91alZxSXRwQkgzWFhoSTVaNWlfWUFaWHRUN2ljOEdFbF8tQVFEOWo4NExPOW1id3B3LWV6eFdfOWNaQXlsVVRkRW5sTThZRHZ0a05JaWMyLUpBQXlxd0VUMFFlTTdBS0Q1QmVuMXpObUNkZGp0cXlKY2U2SkI1TExrcjBnVGxvNmZuMV91WDl0Wk9vZW9DNVhkMlJmbTl3OFNyUjZBZ01PUnQ3ald0SEthck9UcEUydTlkaXNNbWlRMENYQ2s5TExCUUkzNVJxUmZ6QmtKY1ZXa0dGNjVkYkNZWEUxR0pvQ0ltOG1ROS1Ta1hYSV9IVU5zc3d5dmUtdWJPaVFJaTc0NFdUc2FkdWNCelU3SmkzU25OdDd3RHl5dTZCa3paSTE2RWswdXpuX1d3Q0hoVDAzSi1wVUtqNHpOZzVVc2lVMEMwRlBqSnFsQlBVU3lzMzk3ZWFXRFdpYlJjLWNzM2hubmxwM1RCQkFEX3VvSXhvU2p0QTFLbnpZRUN2S2ZVOHNucGswOEgwalkweGFNZzdENjJMTXRWd0tHOFgwSmw1VEJ6RDlZcVpnOVY?oc=5"
+    },
+    {
+      "published": "2026-09-22T20:59:06+00:00",
+      "publisher": "LINE TODAY",
+      "source": "MoneyChannel TH (Google News)",
+      "title": "“กรุงศรี”ชี้ SET สัปดาห์นี้ Sideways Up รับแรงส่ง AI-น้ำมันลด ชู DELTA-COM7-ERW | ข่าวหุ้นธุรกิจ - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hdWpFMDctUS1DMVhGMm0tanlYMEIzZlh0MFRMSHBvUzJfSjl6bkxfbXBYUEpXVnNqbGcyd0tBUlVuTmhsQ3RvUW9jZzZiQ1ItOE91VWJ3?oc=5"
+    },
+    {
+      "published": "2026-09-22T23:29:24+00:00",
+      "publisher": "InfoQuest",
+      "source": "InfoQuest",
+      "title": "ภาวะตลาดหุ้นนิวยอร์ก: ดาวโจนส์ปิดลบ 185.14 จุด แต่หุ้น AI พุ่งหนุน Nasdaq ทำนิวไฮต่อเนื่อง",
+      "url": "https://www.infoquest.co.th/2026/652839"
+    },
+    {
+      "published": "2026-09-22T11:27:29+00:00",
+      "publisher": "RYT9",
+      "source": "RYT9 Economy (Google News)",
+      "title": "TISCO ESU อัพเป้า GDP ไทยปีนี้โต 2.1% รับส่งออก-ลงทุนภาคเอกชนฟื้นตัว ก่อนชะลอเหลือ 2.0% ปี 70 - RYT9",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8yWXNzRndsSWxSRldNZDZleUdKd2ZhSjRibnBNT2dSd1lZdDhtcG5MUWl6NWpUWEExMHlxOVBBWG9tVktMMGc4RjhB?oc=5"
+    },
+    {
+      "published": "2026-09-22T08:29:29+00:00",
+      "publisher": "RYT9",
+      "source": "RYT9 Economy (Google News)",
+      "title": "แบงก์ชาติเกาหลีใต้เตือนความไม่สมดุลทางการเงินยังสูง ท่ามกลางราคาบ้าน-ดอกเบี้ยขาขึ้น - RYT9",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1WcUtoblNtWnNaUTlERjZ4WG9sRk5FUzhldU56YmlxYUxPZEdEZ2VNQnpUTEFDWE16RG9jeVgtM3JLeDhqdlBaU0lR?oc=5"
+    },
+    {
+      "published": "2026-09-22T10:35:26+00:00",
+      "publisher": "RYT9",
+      "source": "RYT9 Economy (Google News)",
+      "title": "โอกาสลงทุนที่น่าจับตา! 'บีทีเอส กรุ๊ปฯ' เปิดขายหุ้นกู้ 3 ชุด ดอกเบี้ยคงที่ 3.20%-3.75% ต่อปี ตอบโจทย์นักลงทุนสายเซฟ - RYT9",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qQTFyaEx3QTFYN1pmSExaVWkwLXotTUx2T2RwZ1RGd2lmdXlhNUZNVkdISVhPOUdkX3BrOFVYdE1ablNwZEtqbjQ1cw?oc=5"
+    },
+    {
+      "published": "2026-09-22T01:24:57+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "“อนุทิน” นำทีมโรดโชว์โตเกียว-นิวยอร์ก-ลอนดอน ดึงทุนโลก FETCO ชี้ต่างชาติหวนซื้อหุ้นไทยรอบ 3-4 ปี",
+      "url": "https://www.prachachat.net/finance/news-2069613"
+    },
+    {
+      "published": "2026-09-22T09:41:47+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "บสย. เปิดตัว ‘นาโนพลัส’ โครงการค้ำประกันสินเชื่อวงเงิน 2 พันล้าน ช่วย SMEs ค้ำสูงสุด 5 หมื่นต่อราย",
+      "url": "https://www.prachachat.net/finance/news-2069996"
+    },
+    {
+      "published": "2026-09-22T07:25:29+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "BBLAM เปิดตัว B-WEALTH RMF Series 5 กองทุน รับแผนเกษียณ-ลดหย่อนภาษี",
+      "url": "https://www.prachachat.net/finance/news-2069869"
+    },
+    {
+      "published": "2026-09-22T06:38:40+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "SET ปิดเช้าบวก 11 จุด น้ำมัน-บอนด์ยีลด์ลด หนุนฟันด์โฟลว์ โบรกฯมองลุ้นแตะ 1,630 จุด",
+      "url": "https://www.prachachat.net/finance/news-2069845"
+    },
+    {
+      "published": "2026-09-22T10:42:01+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "เปิดประวัติ “สลักจิต พงษ์ศิริจันทร์” ว่าที่อธิบดีกรมสรรพากร คนใหม่",
+      "url": "https://www.prachachat.net/finance/news-2070043"
+    },
+    {
+      "published": "2026-09-22T01:32:16+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "ค่าเงินบาทวันนี้ (22 ก.ย. 69) เปิดตลาดแข็งค่า 33.22 บาท บทวิเคราะห์ล่าสุด",
+      "url": "https://www.prachachat.net/finance/news-2069616"
+    },
+    {
+      "published": "2026-09-22T22:02:00+00:00",
+      "publisher": "Bangkok Post Business",
+      "source": "Bangkok Post Business",
+      "title": "PTTEP clears Gulf of Thailand gas field plan",
+      "url": "https://www.bangkokpost.com/business/general/3324450/pttep-clears-gulf-of-thailand-gas-field-plan"
+    },
+    {
+      "published": "2026-09-22T04:12:31+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "หุ้นกู้ดิจิทัล SJWD ขายหมดทำเวลา 46 วินาทีบน ‘เป๋าตัง’",
+      "url": "https://www.prachachat.net/finance/news-2069722"
+    },
+    {
+      "published": "2026-09-22T04:09:59+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "ROH ค้านเปิดประมูล “รอยัล ออคิด เชอราตัน” ยันสิทธิซื้อคืนยังอยู่ จับตาผู้ถือหน่วยโหวต 28 ต.ค.",
+      "url": "https://www.prachachat.net/finance/news-2069725"
+    }
+  ],
+  "date": "2026-09-22",
+  "generated_at_utc": "2026-09-22T23:31:46Z",
+  "items": [
+    {
+      "category": "เศรษฐกิจมหภาค",
+      "impact": "high",
+      "key_numbers": [
+        "GDP ไตรมาส 4 โต 1.2%",
+        "ส่งออกโต 20%",
+        "ภาคผลิตโต 0.1%",
+        "หนี้สาธารณะ 68% ของ GDP"
+      ],
+      "rank": 1,
+      "sectors": [
+        "การผลิต",
+        "ส่งออก",
+        "ภาครัฐ"
+      ],
+      "sentiment": "bearish",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "ทิสโก้ประเมิน GDP ไตรมาส 4 โตเพียง 1.2% ต่ำสุดในรอบปี แม้ส่งออกขยายตัว 20% แต่ภาคการผลิตโตเพียง 0.1% เนื่องจากสินค้าจีนเข้ามาแย่งตลาดภายในประเทศ ส่งผลให้เศรษฐกิจไทยเสี่ยงเข้าสู่ภาวะซึมยาว 10 ปี พร้อมแนะภาครัฐเร่งเบิกจ่ายงบประมาณเพื่อกระตุ้นเศรษฐกิจในไตรมาสสุดท้ายของปีนี้",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ทิสโก้เตือนเศรษฐกิจไทยเสี่ยงซึมยาว 10 ปี ส่งออกโตแต่ภาคผลิตแทบไม่ขยายตัว",
+      "url": "https://www.prachachat.net/economic/news-2070071",
+      "watch_next": "จับตาการเบิกจ่ายงบประมาณภาครัฐและมาตรการกระตุ้นเศรษฐกิจเพิ่มเติม"
+    },
+    {
+      "category": "นโยบายรัฐ-การคลัง",
+      "impact": "medium",
+      "key_numbers": [
+        "วงเงินโครงการ 42,690 ล้านบาท",
+        "เงินช่วยเหลือ 1,000 บาทต่อคน 2 เดือน"
+      ],
+      "rank": 2,
+      "sectors": [
+        "ผู้บริโภค",
+        "ธุรกิจรายย่อย"
+      ],
+      "sentiment": "neutral",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "คณะรัฐมนตรีอนุมัติโครงการไทยช่วยไทยพลัส (60/40) เฟส 2 แจกเงิน 1,000 บาทต่อคน ใช้ได้ 2 เดือน ตั้งแต่ 1 ต.ค.-30 พ.ย. 2569 เพื่อบรรเทาภาระค่าครองชีพและรักษากำลังซื้อของประชาชนกลุ่มเปราะบาง พร้อมช่วยผู้ประกอบการรายย่อยดำเนินธุรกิจต่อเนื่อง วงเงินรวมไม่เกิน 42,690 ล้านบาท",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ครม.ไฟเขียวโครงการไทยช่วยไทยพลัส (60/40) เฟส 2 แจก 1,000 บาท ใช้ได้ 2 เดือน",
+      "url": "https://www.prachachat.net/politics/news-2069831",
+      "watch_next": "ติดตามผลกระทบต่อกำลังซื้อและการบริโภคในประเทศ"
+    },
+    {
+      "category": "บริษัท-M&A",
+      "impact": "medium",
+      "key_numbers": [
+        "IPO 94.1 ล้านหุ้น",
+        "กำไรครึ่งปีแรก 45.79 ล้านบาท"
+      ],
+      "rank": 3,
+      "sectors": [
+        "บริการประมูลรถ",
+        "เทคโนโลยี"
+      ],
+      "sentiment": "neutral",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "SIAA ยื่นไฟลิ่งเสนอขายหุ้น IPO จำนวน 94.1 ล้านหุ้น คิดเป็น 32% ของหุ้นทั้งหมด เตรียมเข้าจดทะเบียน mai เพื่อระดมทุนขยายโครงสร้างพื้นฐานลานประมูลและลงทุนในเทคโนโลยี AI, IoT และ Automation หลังกำไรครึ่งปีแรก 2569 ลดเหลือ 45.79 ล้านบาท จากปริมาณรถยึดลดลง",
+      "tickers": [
+        "SIAA"
+      ],
+      "time_horizon": "long-term",
+      "title_th": "สยามอินเตอร์ การประมูล (SIAA) ยื่นไฟลิ่ง IPO ระดมทุนขยายลานประมูลและลงทุน AI",
+      "url": "https://www.prachachat.net/finance/news-2069689",
+      "watch_next": "จับตาการกำหนดราคา IPO และการใช้เงินระดมทุน"
+    },
+    {
+      "category": "นโยบายรัฐ-การคลัง",
+      "impact": "medium",
+      "key_numbers": [
+        "วงเงินค้ำประกัน 2,000 ล้านบาท",
+        "เป้าช่วยเหลือ 100,000 ราย",
+        "ค้ำประกันสูงสุด 50,000 บาทต่อราย"
+      ],
+      "rank": 4,
+      "sectors": [
+        "SMEs",
+        "การเงิน"
+      ],
+      "sentiment": "neutral",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "บสย. เปิดโครงการค้ำประกันสินเชื่อนาโนพลัส วงเงิน 2,000 ล้านบาท เฟสแรก 500 ล้านบาท ตั้งเป้าช่วย SMEs รายเล็กราว 100,000 ราย ค้ำประกันสินเชื่อรายละไม่เกิน 50,000 บาท ฟรีค่าธรรมเนียม พร้อมชดเชย NPL สูงสุด 5% เพื่อเพิ่มสภาพคล่องและลดการกู้เงินนอกระบบ",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "บสย. เปิดตัว ‘นาโนพลัส’ ค้ำประกันสินเชื่อ 2 พันล้าน ช่วย SMEs รายเล็กเข้าถึงสินเชื่อ",
+      "url": "https://www.prachachat.net/finance/news-2069996",
+      "watch_next": "ติดตามการตอบรับจาก SMEs และสถาบันการเงิน"
+    },
+    {
+      "category": "นโยบายรัฐ-การคลัง",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 5,
+      "sectors": [
+        "พลังงาน"
+      ],
+      "sentiment": "neutral",
+      "source_name": "MoneyChannel TH",
+      "summary_th": "คณะรัฐมนตรีอนุมัติแผนรับมือวิกฤติน้ำมันและก๊าซหุงต้มปี 2569 โดยปรับเกณฑ์ใหม่เพื่อรับมือความผันผวนของตลาดโลกและลดการพึ่งพาการนำเข้า เพื่อเสริมสร้างความมั่นคงด้านพลังงานและลดผลกระทบต่อเศรษฐกิจไทย",
+      "tickers": [],
+      "time_horizon": "long-term",
+      "title_th": "ครม.อนุมัติแผนรองรับวิกฤติน้ำมัน-ก๊าซหุงต้มปี 2569 ปรับเกณฑ์ลดพึ่งพานำเข้า",
+      "url": "https://news.google.com/rss/articles/CBMi5wZBVV95cUxObGREV1RveUsyOFhIZzhxZzh1SHFiaF96bE05TjdmeDRRUmxZR3M4UVNkZjd1UWdWNDNBSXZPZG4tQ21fQXROMlgydjhfV3hndUN5Z2RaTjJSTG9QSGxibk0tckhTeEFEN2F2RHVKQm9HYjUwa3FsYzZIT0h0dzJsWG5fME9HVFlMdjJFcFBMakJPOWZfUVNlcVlNNHd0alBvZjZLY2N2bTlTcUExLU80UDhjZkRxV0lVeHN6Zmw1VWVXZ3h2RzNjVnJTc3pSckl3VVFYVVpqd2dlVk1NWkpzcEMyZkl0MElLSlpkNlJfS0dzMHpiN3BoMDZqNWptdDVOUTViYkR2RkxleU5lblctWjhLQmJ5YXJqT3RaTmRoLU9JbVZuZlRTaW1fX3V2b1ZFMkc1RWRXMThqUDVUWi1XSzRFV3VtMlRkcEY0S2J1Y0FHQkYwN2FEMm9YMlRCcVNSTnVlT3dtZGNORWNyWDJJa2lDRGJJWnJTeU1HYUdkUUtyYzJZZHFsdUphbmVOQUdpQ0VjY1BGWFpTdFZMdkg1TjliX0xQdWxfQWRLejFpSXh6RkNjT3JnSXBsSTc3cUt1THdOYTY5UzlIbzZjZGZmSy00WnFBeGNua0ZJazJxVTRlR096WUM0bjhFaEtzcTFVU1N1TEZiX05kSXBaZ0hxS0d2SjNOUElUSXBoSTBNV254R2tQMjlIRVdVa1VDc3daeVRKelFnZm45RFh4T2xYb240OVk5akNWU25IcXlXaGlEZXBzMUpaSDFsbDVCczNzaXlFM3NORkpxeW9qTUtZR3p4S0Z1V1paZUQ1U3FON045X3RKaFRuTWk2VVFwN2Zycy1reDJ0QjVVcml5VGJSX2t1TUw1MTlYb284cnpsTkhzREp0SkdyWlZ3RTE1YXlVNi1USE5zLVNMdFlxdjVHN2lJTEZiMWtnVDBFdXlmNS1HY0dyTmE3c1psS0ZvQ1BLSHhMbTlSckh1Tng3YmZnOU5iZU54Z3ItWkZNeUZkVjZxY2loZjNsN2JRQ3htSE5hUnlFcUtIcUNHaW9pTjBrWGF0NkQ1VnJFQWNPWXBkd1B5LUljUG9yV1ZJSHM1NThXNE9pdnBNMENlanZQNVhKeVJ0bk9fVE1GYXBCemM3OS1jSHFMamVJ?oc=5",
+      "watch_next": "ติดตามมาตรการและผลกระทบต่อต้นทุนภาคธุรกิจ"
+    },
+    {
+      "category": "ค่าเงิน-FX",
+      "impact": "medium",
+      "key_numbers": [
+        "เงินบาทเปิดตลาด 33.22 บาทต่อดอลลาร์",
+        "ราคาน้ำมันลดลงกว่า 2%",
+        "พันธบัตร 10 ปี ไทย 2.18%"
+      ],
+      "rank": 6,
+      "sectors": [
+        "ตลาดเงิน",
+        "ส่งออก"
+      ],
+      "sentiment": "neutral",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "เงินบาทเปิดตลาดวันนี้แข็งค่าที่ 33.22 บาทต่อดอลลาร์ จากราคาน้ำมันดิบที่ลดลงกว่า 2% และอัตราผลตอบแทนพันธบัตรรัฐบาลสหรัฐและไทยที่ปรับตัวลดลง ส่งผลให้เงินดอลลาร์อ่อนค่าและหนุนเงินบาทแข็งค่า นักลงทุนจับตาการประชุมสุดยอดระหว่างผู้นำสหรัฐ-จีนในประเด็นเศรษฐกิจและ AI",
+      "tickers": [],
+      "time_horizon": "immediate",
+      "title_th": "ค่าเงินบาทเปิดตลาดแข็งค่าแตะ 33.22 บาทต่อดอลลาร์ รับแรงหนุนราคาน้ำมันและพันธบัตรลดลง",
+      "url": "https://www.prachachat.net/finance/news-2069616",
+      "watch_next": "ติดตามความเคลื่อนไหวค่าเงินบาทและผลกระทบจากการประชุมสุดยอดสหรัฐ-จีน"
+    },
+    {
+      "category": "SET/หุ้นไทย",
+      "impact": "medium",
+      "key_numbers": [
+        "SET ปิดที่ 1,609.37 จุด",
+        "บอนด์ยีลด์ 10 ปี ไทย 2.18%"
+      ],
+      "rank": 7,
+      "sectors": [
+        "ตลาดหุ้น",
+        "พลังงาน"
+      ],
+      "sentiment": "bullish",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "ตลาดหุ้นไทยเช้าวันนี้ปิดบวก 11.34 จุด ที่ 1,609.37 จุด ได้แรงหนุนจากราคาน้ำมันที่อ่อนตัวลงและอัตราผลตอบแทนพันธบัตรรัฐบาลไทย-สหรัฐที่ลดลง รวมถึงฟิทช์ปรับมุมมองเครดิตไทยเป็น 'มีเสถียรภาพ' ส่งผลให้เงินทุนต่างชาติไหลเข้าสู่ตลาดหุ้นไทยอย่างต่อเนื่อง",
+      "tickers": [],
+      "time_horizon": "immediate",
+      "title_th": "SET ปิดเช้าบวก 11 จุด รับราคาน้ำมันและบอนด์ยีลด์ลด หนุนเงินทุนต่างชาติไหลเข้า",
+      "url": "https://www.prachachat.net/finance/news-2069845",
+      "watch_next": "จับตาการเคลื่อนไหวตลาดหุ้นช่วงบ่ายและแรงซื้อจากต่างชาติ"
+    },
+    {
+      "category": "นโยบายรัฐ-การคลัง",
+      "impact": "high",
+      "key_numbers": [
+        "SET ปรับขึ้นเกือบ 30% ปีนี้",
+        "เงินลงทุนต่างชาติไหลเข้าเป็นบวกสุทธิ"
+      ],
+      "rank": 8,
+      "sectors": [
+        "ตลาดทุน",
+        "เทคโนโลยี"
+      ],
+      "sentiment": "bullish",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "รัฐบาลร่วมกับ FETCO และ SET จัดโรดโชว์ใน 3 เมืองใหญ่เพื่อสร้างความเชื่อมั่นและดึงเม็ดเงินลงทุนระยะยาวเข้าสู่ตลาดทุนไทย โดยปีนี้ตลาดหุ้นไทยเป็นตลาดเดียวในภูมิภาคที่มีเงินลงทุนต่างชาติไหลเข้าเป็นบวกสุทธิ พร้อมชูจุดแข็งด้านนโยบายส่งเสริมอุตสาหกรรมใหม่ เช่น ดิจิทัลและ AI",
+      "tickers": [],
+      "time_horizon": "long-term",
+      "title_th": "อนุทินนำทีมโรดโชว์โตเกียว-นิวยอร์ก-ลอนดอน ดึงทุนโลกเข้าตลาดทุนไทย",
+      "url": "https://www.prachachat.net/finance/news-2069613",
+      "watch_next": "ติดตามผลตอบรับนักลงทุนต่างชาติและการลงทุนในอุตสาหกรรมใหม่"
+    },
+    {
+      "category": "ธนาคาร-การเงิน",
+      "impact": "medium",
+      "key_numbers": [
+        "กองทุน 5 กองทุน",
+        "ยอดขายสะสม B-WEALTH Series 24,000 ล้านบาท"
+      ],
+      "rank": 9,
+      "sectors": [
+        "กองทุนรวม",
+        "การลงทุน"
+      ],
+      "sentiment": "neutral",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "บลจ.บัวหลวงเปิดตัวกองทุนรวมเพื่อการเลี้ยงชีพ (RMF) B-WEALTH RMF Series 5 กองทุน กระจายลงทุนสินทรัพย์ทั่วโลก พร้อมระดับความเสี่ยงหลากหลาย รองรับแผนเกษียณและสิทธิประโยชน์ทางภาษี ชูจุดเด่นบริหารพอร์ตโดยทีมผู้เชี่ยวชาญ ลดภาระผู้ลงทุนในการเลือกสินทรัพย์และปรับพอร์ตด้วยตนเอง",
+      "tickers": [],
+      "time_horizon": "long-term",
+      "title_th": "BBLAM เปิดตัว B-WEALTH RMF Series 5 กองทุนใหม่ ตอบโจทย์วางแผนเกษียณและลดหย่อนภาษี",
+      "url": "https://www.prachachat.net/finance/news-2069869",
+      "watch_next": "ติดตามการตอบรับจากนักลงทุนและผลตอบแทนกองทุน"
+    },
+    {
+      "category": "ธนาคาร-การเงิน",
+      "impact": "medium",
+      "key_numbers": [
+        "ระดมทุน 500 ล้านบาท",
+        "ขายหมดใน 46 วินาที"
+      ],
+      "rank": 10,
+      "sectors": [
+        "ตลาดทุน",
+        "เทคโนโลยีการเงิน"
+      ],
+      "sentiment": "bullish",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "ธนาคารกรุงไทยเผยหุ้นกู้ดิจิทัลของ SJWD ระดมทุน 500 ล้านบาทขายหมดภายใน 46 วินาที ผ่านแอป ‘เป๋าตัง’ ชี้เป็นสัญญาณความพร้อมของตลาดทุนและผู้ลงทุนในการใช้เทคโนโลยีดิจิทัลเพิ่มโอกาสเข้าถึงแหล่งเงินทุนและผลิตภัณฑ์การลงทุนอย่างทั่วถึงและปลอดภัย",
+      "tickers": [
+        "SJWD"
+      ],
+      "time_horizon": "immediate",
+      "title_th": "หุ้นกู้ดิจิทัล SJWD ขายหมดใน 46 วินาที ตอกย้ำศักยภาพแพลตฟอร์ม ‘เป๋าตัง’",
+      "url": "https://www.prachachat.net/finance/news-2069722",
+      "watch_next": "จับตาการพัฒนาเทคโนโลยีดิจิทัลและการระดมทุนในตลาดทุนไทย"
+    }
+  ],
+  "jev_screen": {
+    "brief_kind": "th",
+    "decisions": [
+      {
+        "candidate_id": "candidate_000",
+        "choice": "include",
+        "confidence": 0.69,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.01,
+          "include": 0.79,
+          "review": 0.2
+        },
+        "source": "ประชาชาติธุรกิจ Finance",
+        "title": "ทิสโก้เปิดแผลเศรษฐกิจไทย ส่งออกโตแต่ผลิตไม่โต เสี่ยง “ซึมยาว” 10 ปี",
+        "url": "https://www.prachachat.net/economic/news-2070071"
+      },
+      {
+        "candidate_id": "candidate_001",
+        "choice": "include",
+        "confidence": 0.97,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.0,
+          "include": 0.98,
+          "review": 0.02
+        },
+        "source": "ประชาชาติธุรกิจ Finance",
+        "title": "ครม. ไฟเขียว ไทยช่วยไทยพลัส (60/40) เฟส 2 แจก 1,000 บาท ใช้ 2 เดือน",
+        "url": "https://www.prachachat.net/politics/news-2069831"
+      },
+      {
+        "candidate_id": "candidate_002",
+        "choice": "include",
+        "confidence": 0.98,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.0,
+          "include": 0.99,
+          "review": 0.01
+        },
+        "source": "ประชาชาติธุรกิจ Finance",
+        "title": "SIAA เจ้าตลาดประมูลรถ จ่อเข้า mai ยื่นไฟลิ่งขาย IPO จำนวน 94.1 ล้านหุ้น ระดมทุนขยายลาน-ลงทุน AI",
+        "url": "https://www.prachachat.net/finance/news-2069689"
+      },
+      {
+        "candidate_id": "candidate_003",
+        "choice": "review",
+        "confidence": 0.2,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.16,
+          "include": 0.37,
+          "review": 0.47000000000000003
+        },
+        "source": "Bangkok Post Business",
+        "title": "Tisco ESU recommends equities, short-term bonds",
+        "url": "https://www.bangkokpost.com/business/general/3324380/tisco-esu-recommends-equities-shortterm-bonds"
+      },
+      {
+        "candidate_id": "candidate_004",
+        "choice": "include",
+        "confidence": 0.53,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.02,
+          "include": 0.6799999999999999,
+          "review": 0.3
+        },
+        "source": "Bangkok Post Business",
+        "title": "Retail stimulus gets 2-month lease on life",
+        "url": "https://www.bangkokpost.com/business/general/3324355/retail-stimulus-gets-2month-lease-on-life"
+      },
+      {
+        "candidate_id": "candidate_005",
+        "choice": "include",
+        "confidence": 0.39,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.03,
+          "include": 0.59,
+          "review": 0.38
+        },
+        "source": "MoneyChannel TH (Google News)",
+        "title": "#ทันหุ้น #ปันผล #Thailand #ลงทุน #ตลาดหุ้น #SET #ครม. อนุมัติแผนรองรับวิกฤติน้ำมัน-ก๊าซหุงต้ม ปี 2569 ปรับเกณฑ์ใหม่รับมือตลาดโลกผันผวน ลดพึ่งพานำเข้า - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi5wZBVV95cUxObGREV1RveUsyOFhIZzhxZzh1SHFiaF96bE05TjdmeDRRUmxZR3M4UVNkZjd1UWdWNDNBSXZPZG4tQ21fQXROMlgydjhfV3hndUN5Z2RaTjJSTG9QSGxibk0tckhTeEFEN2F2RHVKQm9HYjUwa3FsYzZIT0h0dzJsWG5fME9HVFlMdjJFcFBMakJPOWZfUVNlcVlNNHd0alBvZjZLY2N2bTlTcUExLU80UDhjZkRxV0lVeHN6Zmw1VWVXZ3h2RzNjVnJTc3pSckl3VVFYVVpqd2dlVk1NWkpzcEMyZkl0MElLSlpkNlJfS0dzMHpiN3BoMDZqNWptdDVOUTViYkR2RkxleU5lblctWjhLQmJ5YXJqT3RaTmRoLU9JbVZuZlRTaW1fX3V2b1ZFMkc1RWRXMThqUDVUWi1XSzRFV3VtMlRkcEY0S2J1Y0FHQkYwN2FEMm9YMlRCcVNSTnVlT3dtZGNORWNyWDJJa2lDRGJJWnJTeU1HYUdkUUtyYzJZZHFsdUphbmVOQUdpQ0VjY1BGWFpTdFZMdkg1TjliX0xQdWxfQWRLejFpSXh6RkNjT3JnSXBsSTc3cUt1THdOYTY5UzlIbzZjZGZmSy00WnFBeGNua0ZJazJxVTRlR096WUM0bjhFaEtzcTFVU1N1TEZiX05kSXBaZ0hxS0d2SjNOUElUSXBoSTBNV254R2tQMjlIRVdVa1VDc3daeVRKelFnZm45RFh4T2xYb240OVk5akNWU25IcXlXaGlEZXBzMUpaSDFsbDVCczNzaXlFM3NORkpxeW9qTUtZR3p4S0Z1V1paZUQ1U3FON045X3RKaFRuTWk2VVFwN2Zycy1reDJ0QjVVcml5VGJSX2t1TUw1MTlYb284cnpsTkhzREp0SkdyWlZ3RTE1YXlVNi1USE5zLVNMdFlxdjVHN2lJTEZiMWtnVDBFdXlmNS1HY0dyTmE3c1psS0ZvQ1BLSHhMbTlSckh1Tng3YmZnOU5iZU54Z3ItWkZNeUZkVjZxY2loZjNsN2JRQ3htSE5hUnlFcUtIcUNHaW9pTjBrWGF0NkQ1VnJFQWNPWXBkd1B5LUljUG9yV1ZJSHM1NThXNE9pdnBNMENlanZQNVhKeVJ0bk9fVE1GYXBCemM3OS1jSHFMamVJ?oc=5"
+      },
+      {
+        "candidate_id": "candidate_006",
+        "choice": "review",
+        "confidence": 0.47,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.06,
+          "include": 0.29,
+          "review": 0.65
+        },
+        "source": "Bangkok Post Business",
+        "title": "Telecom sector set to gain from mass adoption of AI",
+        "url": "https://www.bangkokpost.com/business/general/3324425/telecom-sector-set-to-gain-from-mass-adoption-of-ai"
+      },
+      {
+        "candidate_id": "candidate_007",
+        "choice": "review",
+        "confidence": 0.57,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.23,
+          "include": 0.05,
+          "review": 0.72
+        },
+        "source": "SET News (Google News)",
+        "title": "การจ่ายปันผลระหว่างกาล - SET",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYXQwRmFJSVFDdldodTBfTlJxMkxKdy05bDllWFdvaUV1LVVaLTFWWjlfd0hZbi00X1VULTQ0a2szVGNTNU9GMDRVZ1BVcVppUjJJZGVuUlFwRFZUZjM5X0gwNEZNNUFVOXlobWJEeWU5VkpqbEpkWThtUmNGQUxXVWZ0VU9LUzNpV21SbA?oc=5"
+      },
+      {
+        "candidate_id": "candidate_008",
+        "choice": "exclude",
+        "confidence": 0.44,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.63,
+          "include": 0.09,
+          "review": 0.28
+        },
+        "source": "MoneyChannel TH (Google News)",
+        "title": "#ทันหุ้น #ปันผล #Thailand #ลงทุน #ตลาดหุ้น #SET #AMATA โบรกแนะนำ “ซื้อ” เป้า 39.75 บาท รับวัฏจักรลงทุนขาขึ้น - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi3AVBVV95cUxPWDVJcnowSk1IYi1iRzQ5QTBuSVEwa3dISTlqRXhxcnM4SVVGX3dIMnRQVWswOHR5MVJKd2RreWZfUWZ4VjdjVE5iQXN2T3AyUGZMVE1ZNWxvcmhDemZ2bEs0LWhMOHNFNk1DWUFXdzgxUUo1NW8xWHJrOTBoTjlvbGNyN0ZpMzU2d1VCbEhCVVpxbEtqS1A4OFRMWFBCUlEtTWtIWVNreVdaVno3emwydWFkWThCaUZ4WWIteGZhV3lxRTRmTl93UXc5QlFIMDU3QVhvVXg4d0JPY3F6ZHlsZC1fNzF5X05Ub0JDZ1IxYlZyYnVqZUo4VURKZk5ORkxnUkktdjYyT3pzWi11d2dVZTNTV2ltcllJb3dzY0J6ZzliSzdIdjhuQy1mcW1saHd1SG91alZxSXRwQkgzWFhoSTVaNWlfWUFaWHRUN2ljOEdFbF8tQVFEOWo4NExPOW1id3B3LWV6eFdfOWNaQXlsVVRkRW5sTThZRHZ0a05JaWMyLUpBQXlxd0VUMFFlTTdBS0Q1QmVuMXpObUNkZGp0cXlKY2U2SkI1TExrcjBnVGxvNmZuMV91WDl0Wk9vZW9DNVhkMlJmbTl3OFNyUjZBZ01PUnQ3ald0SEthck9UcEUydTlkaXNNbWlRMENYQ2s5TExCUUkzNVJxUmZ6QmtKY1ZXa0dGNjVkYkNZWEUxR0pvQ0ltOG1ROS1Ta1hYSV9IVU5zc3d5dmUtdWJPaVFJaTc0NFdUc2FkdWNCelU3SmkzU25OdDd3RHl5dTZCa3paSTE2RWswdXpuX1d3Q0hoVDAzSi1wVUtqNHpOZzVVc2lVMEMwRlBqSnFsQlBVU3lzMzk3ZWFXRFdpYlJjLWNzM2hubmxwM1RCQkFEX3VvSXhvU2p0QTFLbnpZRUN2S2ZVOHNucGswOEgwalkweGFNZzdENjJMTXRWd0tHOFgwSmw1VEJ6RDlZcVpnOVY?oc=5"
+      },
+      {
+        "candidate_id": "candidate_009",
+        "choice": "review",
+        "confidence": 0.22,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.32,
+          "include": 0.2,
+          "review": 0.48
+        },
+        "source": "MoneyChannel TH (Google News)",
+        "title": "“กรุงศรี”ชี้ SET สัปดาห์นี้ Sideways Up รับแรงส่ง AI-น้ำมันลด ชู DELTA-COM7-ERW | ข่าวหุ้นธุรกิจ - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hdWpFMDctUS1DMVhGMm0tanlYMEIzZlh0MFRMSHBvUzJfSjl6bkxfbXBYUEpXVnNqbGcyd0tBUlVuTmhsQ3RvUW9jZzZiQ1ItOE91VWJ3?oc=5"
+      },
+      {
+        "candidate_id": "candidate_010",
+        "choice": "exclude",
+        "confidence": 0.65,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.77,
+          "include": 0.03,
+          "review": 0.2
+        },
+        "source": "InfoQuest",
+        "title": "ภาวะตลาดหุ้นนิวยอร์ก: ดาวโจนส์ปิดลบ 185.14 จุด แต่หุ้น AI พุ่งหนุน Nasdaq ทำนิวไฮต่อเนื่อง",
+        "url": "https://www.infoquest.co.th/2026/652839"
+      },
+      {
+        "candidate_id": "candidate_011",
+        "choice": "include",
+        "confidence": 0.92,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.01,
+          "include": 0.94,
+          "review": 0.05
+        },
+        "source": "RYT9 Economy (Google News)",
+        "title": "TISCO ESU อัพเป้า GDP ไทยปีนี้โต 2.1% รับส่งออก-ลงทุนภาคเอกชนฟื้นตัว ก่อนชะลอเหลือ 2.0% ปี 70 - RYT9",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8yWXNzRndsSWxSRldNZDZleUdKd2ZhSjRibnBNT2dSd1lZdDhtcG5MUWl6NWpUWEExMHlxOVBBWG9tVktMMGc4RjhB?oc=5"
+      },
+      {
+        "candidate_id": "candidate_012",
+        "choice": "exclude",
+        "confidence": 0.81,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.88,
+          "include": 0.02,
+          "review": 0.1
+        },
+        "source": "RYT9 Economy (Google News)",
+        "title": "แบงก์ชาติเกาหลีใต้เตือนความไม่สมดุลทางการเงินยังสูง ท่ามกลางราคาบ้าน-ดอกเบี้ยขาขึ้น - RYT9",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1WcUtoblNtWnNaUTlERjZ4WG9sRk5FUzhldU56YmlxYUxPZEdEZ2VNQnpUTEFDWE16RG9jeVgtM3JLeDhqdlBaU0lR?oc=5"
+      },
+      {
+        "candidate_id": "candidate_013",
+        "choice": "include",
+        "confidence": 0.42,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.14,
+          "include": 0.62,
+          "review": 0.24
+        },
+        "source": "RYT9 Economy (Google News)",
+        "title": "โอกาสลงทุนที่น่าจับตา! 'บีทีเอส กรุ๊ปฯ' เปิดขายหุ้นกู้ 3 ชุด ดอกเบี้ยคงที่ 3.20%-3.75% ต่อปี ตอบโจทย์นักลงทุนสายเซฟ - RYT9",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qQTFyaEx3QTFYN1pmSExaVWkwLXotTUx2T2RwZ1RGd2lmdXlhNUZNVkdISVhPOUdkX3BrOFVYdE1ablNwZEtqbjQ1cw?oc=5"
+      },
+      {
+        "candidate_id": "candidate_014",
+        "choice": "exclude",
+        "confidence": 0.92,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 0.95,
+          "include": 0.0,
+          "review": 0.05
+        },
+        "source": "InfoQuest",
+        "title": "ภาวะตลาดหุ้นอินเดีย: ดัชนี Sensex ร่วงกว่า 300 จุด ซื้อขายระมัดระวัง",
+        "url": "https://www.infoquest.co.th/2026/652886"
+      },
+      {
+        "candidate_id": "candidate_015",
+        "choice": "exclude",
+        "confidence": 0.94,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 0.96,
+          "include": 0.0,
+          "review": 0.04
+        },
+        "source": "InfoQuest",
+        "title": "ทรัมป์ชี้คิวบาเป็นรัฐล้มเหลว และจะล่มสลายลง",
+        "url": "https://www.infoquest.co.th/2026/652882"
+      },
+      {
+        "candidate_id": "candidate_016",
+        "choice": "include",
+        "confidence": 0.97,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.0,
+          "include": 0.98,
+          "review": 0.02
+        },
+        "source": "ประชาชาติธุรกิจ Finance",
+        "title": "“อนุทิน” นำทีมโรดโชว์โตเกียว-นิวยอร์ก-ลอนดอน ดึงทุนโลก FETCO ชี้ต่างชาติหวนซื้อหุ้นไทยรอบ 3-4 ปี",
+        "url": "https://www.prachachat.net/finance/news-2069613"
+      },
+      {
+        "candidate_id": "candidate_017",
+        "choice": "include",
+        "confidence": 0.98,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.0,
+          "include": 0.99,
+          "review": 0.01
+        },
+        "source": "ประชาชาติธุรกิจ Finance",
+        "title": "บสย. เปิดตัว ‘นาโนพลัส’ โครงการค้ำประกันสินเชื่อวงเงิน 2 พันล้าน ช่วย SMEs ค้ำสูงสุด 5 หมื่นต่อราย",
+        "url": "https://www.prachachat.net/finance/news-2069996"
+      },
+      {
+        "candidate_id": "candidate_018",
+        "choice": "include",
+        "confidence": 0.11,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.24,
+          "include": 0.41,
+          "review": 0.35
+        },
+        "source": "ประชาชาติธุรกิจ Finance",
+        "title": "BBLAM เปิดตัว B-WEALTH RMF Series 5 กองทุน รับแผนเกษียณ-ลดหย่อนภาษี",
+        "url": "https://www.prachachat.net/finance/news-2069869"
+      },
+      {
+        "candidate_id": "candidate_019",
+        "choice": "include",
+        "confidence": 0.98,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.0,
+          "include": 0.99,
+          "review": 0.01
+        },
+        "source": "ประชาชาติธุรกิจ Finance",
+        "title": "SET ปิดเช้าบวก 11 จุด น้ำมัน-บอนด์ยีลด์ลด หนุนฟันด์โฟลว์ โบรกฯมองลุ้นแตะ 1,630 จุด",
+        "url": "https://www.prachachat.net/finance/news-2069845"
+      },
+      {
+        "candidate_id": "candidate_020",
+        "choice": "include",
+        "confidence": 0.59,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.03,
+          "include": 0.73,
+          "review": 0.24
+        },
+        "source": "ประชาชาติธุรกิจ Finance",
+        "title": "เปิดประวัติ “สลักจิต พงษ์ศิริจันทร์” ว่าที่อธิบดีกรมสรรพากร คนใหม่",
+        "url": "https://www.prachachat.net/finance/news-2070043"
+      },
+      {
+        "candidate_id": "candidate_021",
+        "choice": "include",
+        "confidence": 0.45,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.15,
+          "include": 0.64,
+          "review": 0.21
+        },
+        "source": "ประชาชาติธุรกิจ Finance",
+        "title": "ค่าเงินบาทวันนี้ (22 ก.ย. 69) เปิดตลาดแข็งค่า 33.22 บาท บทวิเคราะห์ล่าสุด",
+        "url": "https://www.prachachat.net/finance/news-2069616"
+      },
+      {
+        "candidate_id": "candidate_022",
+        "choice": "include",
+        "confidence": 0.97,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.0,
+          "include": 0.98,
+          "review": 0.02
+        },
+        "source": "Bangkok Post Business",
+        "title": "PTTEP clears Gulf of Thailand gas field plan",
+        "url": "https://www.bangkokpost.com/business/general/3324450/pttep-clears-gulf-of-thailand-gas-field-plan"
+      },
+      {
+        "candidate_id": "candidate_023",
+        "choice": "include",
+        "confidence": 0.71,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.02,
+          "include": 0.81,
+          "review": 0.17
+        },
+        "source": "ประชาชาติธุรกิจ Finance",
+        "title": "หุ้นกู้ดิจิทัล SJWD ขายหมดทำเวลา 46 วินาทีบน ‘เป๋าตัง’",
+        "url": "https://www.prachachat.net/finance/news-2069722"
+      },
+      {
+        "candidate_id": "candidate_024",
+        "choice": "include",
+        "confidence": 0.77,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.01,
+          "include": 0.85,
+          "review": 0.14
+        },
+        "source": "ประชาชาติธุรกิจ Finance",
+        "title": "ROH ค้านเปิดประมูล “รอยัล ออคิด เชอราตัน” ยันสิทธิซื้อคืนยังอยู่ จับตาผู้ถือหน่วยโหวต 28 ต.ค.",
+        "url": "https://www.prachachat.net/finance/news-2069725"
+      }
+    ],
+    "high_confidence_excluded": 2,
+    "input_count": 25,
+    "mode": "active",
+    "model": "jev-1.13.0",
+    "output_count": 23,
+    "status": "ok",
+    "usage": {
+      "input_tokens": 19901,
+      "output_tokens": 978
+    }
+  },
+  "model_used": "openai:gpt-4.1-mini"
+}
