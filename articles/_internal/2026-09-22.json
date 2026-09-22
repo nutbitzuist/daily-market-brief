@@ -1,0 +1,570 @@
+{
+  "articles": [
+    {
+      "published": "2026-09-22T12:06:35+00:00",
+      "publisher": "NVIDIA Blog",
+      "source": "NVIDIA AI",
+      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development - NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sdnlsRXplbmZmbUxGdjV0WWRPQmFNRlAzWk9pdjIzYXhzMkZUTmZfQWNtXzVkcFp4VHdZLWR3bWVhbFluMFRNWU5oS0l1cUJoOGswcjJ3Q2s5WndiYVZFSVZoWlZhemZXOVFud2JFRHkwYThkN1Q1T0dYZHFOdw?oc=5"
+    },
+    {
+      "published": "2026-09-22T18:00:00+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/"
+    },
+    {
+      "published": "2026-09-22T17:37:33+00:00",
+      "publisher": "NVIDIA Developer",
+      "source": "NVIDIA AI",
+      "title": "Enabling Private High-Performance Production AI Inference with NVIDIA Confidential Computing - NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV2Y4X19JUXBocDZwcm9ST2gyc25zU29vZjhkd2dVRjhfbjRHSll3cjNUT2RxdkFwd0I4QXgxaTFzQUp3bG14TGFyejc0OW5ROWZUdnFKRlR2a3hDMldZVjJCRnh0aEdYSEpmZ1ZxS0tYaGJTczgtOUVhd1BxNFM3aEY4UHl0aGNrb2pCYUxqZG5CZjBuOHh2S05QZzB2S3Z3TnFUV3kteVRCS0N1czkzWkRucTBNQTFKYk4wQ25NSTRybVgzSmc?oc=5"
+    },
+    {
+      "published": "2026-09-22T18:03:43+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0ZYd1JncUkxX2hGZWN1ZDlZdG5ERWw3bUltSHNTQm5iMW1YeWdMUVF1dmNkZWJkdHRsQVZTRnQ5S1ozUE1NdXZIYkJNVHNUbm1Pc3YtTFhyTHBLclc1LWoyWm82V2gwc3UySE9lbHdaQ29UWF9nZ0FfYk02UjNjcVBrU0ZMbmxPWUZBWW1fbmVDNTk2RGJyTUVfVHNVUk40UVY1YkNB?oc=5"
+    },
+    {
+      "published": "2026-09-22T15:19:34+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "SpaceXAI’s Grok Bot Agent Tops 400,000 Users After First Month - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM2JUUEZYZnVpYWotNHAyX1dvZ040bFhnUkJpdE9iYzNxTmNMb01tV2ZiX3RUcmZlVkIyVHlNd0wycWEyclBfSjFRQmdoNEZBdmtFOWdhY1ZzcGh3RnYzdjhxaVZ5aGxsMlJybGh5VG1LWThoRXFvZGhRdTNzRndtbmZ1d0hfX0xkal9QSHJUaUtDV01naVh1TnhQNl8yOUp2dF9WNkpmUEF0Zk1MMWtLeUhLUQ?oc=5"
+    },
+    {
+      "published": "2026-09-22T16:30:00+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDNTSkNCdjRXSUVQQzc4LWtrblRKM3p6N1RvMk9UQTRfamFBMy1UelVxdjRGX3hRSlpTYmFDa1piM2FKT3lfdFlGdXZ0YmoyOURoRzBvM3hYRnp4elUzX2ZqYURxbEJWSjVCY1hWWHhVSTFWZjd3VkJGRlNkWXk3N3pYWWFHbVItLVA1RmJPOUoyblZ0dGp2aWF4QVJMZlk?oc=5"
+    },
+    {
+      "published": "2026-09-22T13:37:12+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "Palo Alto Networks unveils AI-powered cybersecurity service using Claude, GPT models - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVW5mc2xwMFhGeW1Dd3Y1bUY4dE9NVzFOa2FQSTI1a193YUk0aExLeFU2cm4xOXZVc0RqYjljNWVxMHpfWVRabVJMVkg5OE1aMWdXYUJKSG5RN2tYeUlycXh0VTcwck83TEdlcV9kOTRTdERZRXo5X3FUWkQ2WnlHb1hUZ3FDTzhwb3h0bWRlTWFOUmxBN2luR0QwQjRjeHhMWjRFRUN2M0V4U3FIaUZmRzk2QlN2SjRxSmZmUEhSQmo?oc=5"
+    },
+    {
+      "published": "2026-09-22T12:09:08+00:00",
+      "publisher": "Pasquale Pillitteri",
+      "source": "xAI / Grok",
+      "title": "xAI Launches Grok 4.7 at Same Price, Still Behind Claude and GPT-6 - Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vLW1MU3QzZTRzRFQzNjZEVkpCWkV5cHpUcjJ5YlVTcC1CeTZSTWc1akpQd2Y2bzN3RVV4dE9lWXI2eWJPTGhvdzlLWlN4dUZ5RUE5aVo3Tk44QWo2bHdrT01fUEFycjAxS2c4aVdZRkFKLUU?oc=5"
+    },
+    {
+      "published": "2026-09-22T20:00:00+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzJ2cFFyUWo1MGFRaWRVUGEyTE10dEk3UWdXM1dIakNOWGQ1b2h0ZUlTZU1YOXdPZzYybGtWX24yZVFOcDFsS2NHWHNvbktHejlfc0prcGZNYWV0eS1KVV9VTHh3WHpidnJhYnJSTnIzQ1M2MHhad1NyRTlUM09QaDJmLUFJUmpk?oc=5"
+    },
+    {
+      "published": "2026-09-22T16:00:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "Rabbit Is Back, This Time With an AI Agent App - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VSVFZaHZaZ1dVT2k3LWY1Ri1rMVhRT05weFdPcDNRa3FUeWFuZnJxdFpPVzFPVkk1SVNpa19EOWlCVTlSVm1oQXluUFlsNFBhNVpyUVNMS09DQ045QlZscElR?oc=5"
+    },
+    {
+      "published": "2026-09-22T16:57:44+00:00",
+      "publisher": "TradingView",
+      "source": "xAI / Grok",
+      "title": "SPCX Stock Gains 1% — SpaceXAI's Grok AI Agent Tops 400K Users As Meta's Muse Gains Popularity - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUUpETGh5TE16N2xHdTZFenktTkcyWGVXcnFjTDM0b296NjVkbHhRTlR5cl8tajdQcXhLekNiM0ZlcUJQN2UycTFhcUFSQU16X2F4OVhVTmhUcEEzXzNna2NaTTg2T0RhSldEU3FENHRQUm9XbDIxdWlWZ1NWdG82WllmVEpZcS1YTnN5YUdHSXRkRGU3aWxBR3hTVjRYRGViMWctSUhCbm1vai00aENhMEszNThKNXBqYlFENDlMMEZ2UTVSTzF2Ul9PZFVZUXFvMWoxNlBtZ3R1Zm9Pb2VleF9JcGJ4cVU?oc=5"
+    },
+    {
+      "published": "2026-09-22T09:24:12+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "Korean Chip Stocks Gain as Meta’s Muse AI Agent Spurs Enthusiasm - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYTJVaHRDU0xBVjI3ZTNuRnhIZjhZLXhidlc1dHBiZFFxYmQ0dlV1bDVFNFZ4ZVgwS2F5TVRCYkVPR1c1RmtmUEQ4LXVMdTJLTEJEYUJ5RGwxa3VIYXp2WkRtM1VKRjRLSmx0OW1RekdnXzhKRkxGTVlybFJHYWpJQnZxd0ZjWjBzb05HVURfWjFOMzl4Z1VVX3JMTlF2QUNkd2VKOWVZdDBsWXBRcVhOSUlzUE5KQQ?oc=5"
+    },
+    {
+      "published": "2026-09-22T18:25:37+00:00",
+      "publisher": "Trend Hunter",
+      "source": "Microsoft AI",
+      "title": "Distraction-Free Developer Setups: Microsoft's Project Zenith Ships with Ryzen AI Halo - Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0MUktdzVrUXZ0QzRnZmtES3A5bWlUelNILWpEa3ZWRmI4N0xEMjRQbzdQRzd4YUFCUm1lcmlfWDVuTmRMSjJNR0NCeUJfTGtOWGU0UkJDaUdYQmJLZHYxb0gzbUhwUQ?oc=5"
+    },
+    {
+      "published": "2026-09-22T12:32:15+00:00",
+      "publisher": "Eagle-Tribune",
+      "source": "AWS AI",
+      "title": "Arpio Launches First-Ever Automated Cloud Disaster Recovery Solution for Agentic AI Workloads on Amazon Bedrock - Eagle-Tribune",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZWV6NG1hUzhZSW1JcEs2UnJpVktYMHFHVWRlOWFmdk03c1pOWUZYVG5hdk1TbUFuWFVOaV93VkhRVE5Jd1hxMmcydjhmN21YNEYwTXZ1azNEQ0F4aXFIbmdwNTFzQUZTajR5Ny1vTldEWXlzVktYZWVJaHJHZlk5ZXVhcnI4cUpDb3g1b1BYVFhOMjk1TVdKY2tVb0VETHRLWUd6ZE92Z2NwQ3NJTm9DNGk3NmI1X3pKUTlnRjJLVDg3Sy1HZHBab3dTenJFSV96UWVUZWFLY2JjY1JtaWhtUnhwNmNRMFQ5c1N0M3lWRGUtdUNzM1laUHMycklfeVNIOTRuNkpsWWRCXzdzWjlySkNEbkM2dFVt?oc=5"
+    },
+    {
+      "published": "2026-09-22T18:20:57+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "Donald Trump rejects ‘globalist scheme’ to control AI in blow to Andy Burnham - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeEI2a3BUUVRNeDZ5NXZlTGFyN0RqdWFoM0ptM0tRLXN3cEZ6R3FYbjA3eXJ5VzlsZ1o1UnY5ZUs5aGRzVVBxaGszendJckozSEVJVmtkaVBCZVlaOVlUTGhhMzJCZ3hqWWpKOXZmbVgzd0RtQ212ZG1xSEpfMmcyLTg5SHY?oc=5"
+    },
+    {
+      "published": "2026-09-22T18:19:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ1l1cFg1VDROc19jMnJsS2JaQnVlZ0J2U2ZJNXRMX0NBcm9ybktqZHBDYlZicS1wT0dsUTY5ME9ERjhYR2NheGN3d2x4ZGFYR1R4VzlYWFNKVVFLcnlNWmlQdy1XajlQc3R0QWdldGtFMFFRSHpGTHFuQzVtU3ZUR2l0THBtUC10SmFwem5RTFA?oc=5"
+    },
+    {
+      "published": "2026-09-22T14:13:28+00:00",
+      "publisher": "blog.google",
+      "source": "Google AI Blog",
+      "title": "Using AI to help local governments connect with constituents - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaUxGTFpfazRIT3FrbFNmVm1tUDdkMjVsaFk4YzJuXzdPU0FpNFo0SnJIM1pwTnV5b3NQa3llNmdUd1gyWktINTMwSFlLVWxfWnJmZmdrMDhXN2lIQkkyb282M2ZkWGZFbm1sbmJZR2JNTTZaR1VadHd4bExLb3A4TUhjR1dBc3RfVk1pTg?oc=5"
+    },
+    {
+      "published": "2026-09-22T15:23:21+00:00",
+      "publisher": "AMD",
+      "source": "AMD / TSMC AI",
+      "title": "From Sensor to Insight: Production-Ready Single-Chip Edge AI. Proven. - AMD",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1QxeG10SjV0dHlsNWRSUjN0NlJwNzZiUlhUOVlvdFQyVkpUQmpPa21KRnZYb1dWZGVJLXJvZkc5ZFloM2lNX3dSb2JOSEdHTjJUa1RzNjluS0hOR3F2MGRjU19veEhRMkNHNVJpbndLTjRHYVEtYWVCU3dzN19hLUFOaEsxWkhaNFRPYkQ3dGlLNUlu?oc=5"
+    },
+    {
+      "published": "2026-09-22T18:50:26+00:00",
+      "publisher": "TradingView",
+      "source": "AMD / TSMC AI",
+      "title": "TSMC Gains as Packaging Moves Closer to Its Suppliers - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRlN6TGRteW5uY19IZTVMUUgzdnhTcmR6b1R5anFRTFR3Sm1VS2RSc0o0c3NOX1l5OFFnRzV6QW15cHo4M3NNclV2LUhwakhzSEFEN1ZIU0FaVFdReHV3SlVhS3VWbE5XdlVIbC00NXNKcjFkbjJVdnRTTlhEbW5SUHM1dVdfZkYtaFZNNnJUVG1SMlBrYUN4aUtxbkE4X1pfcXg4M0pBZGs5a1pkXzlvdmYydw?oc=5"
+    },
+    {
+      "published": "2026-09-22T12:00:20+00:00",
+      "publisher": "infoq.com",
+      "source": "Microsoft AI",
+      "title": "GitLab Duo Expands Self-Hosted AI Options Through Microsoft Foundry - infoq.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVcFJPYTZtb2VaT2cwME1qMVNaNW5INUJwd0JLSzNIRFhkb295N3g0SXppb0VBN3U4MGc2ZVA0UWxRbUhFRnhQZThlLXBoS3g1QXhzbmRkX21vcUV0YzF5cDNDLVd0NlI5NWhiYg?oc=5"
+    },
+    {
+      "published": "2026-09-22T18:10:22+00:00",
+      "publisher": "Amazon Web Services (AWS)",
+      "source": "AWS AI",
+      "title": "Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS0VSc19rMHltU1g3bFNDaTE2Rno0ZmRFSkJuTV9lS3RDeXdRLWtLUjRCTmZZS29yd1dzWERUeGxNS1ZJSGVRVktCMlNyRjJza2RSMXlqa3JlNEhzRkFVaUktSkRxczZLVTR4UXljbnB0WkR0bFlIRElmVW80SE5Bb0pndEZHRG5XZmIya0k1Rl9ZUEJzQWR2c0hhWWM1aTZZVjJ5bjZLYlRJY2ZabHVmbVFaR0tNUjhlQU83VjUyMGl4RDJaQnJJWGJGaTgyUERI?oc=5"
+    },
+    {
+      "published": "2026-09-22T11:00:02+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "European fusion start-up pushes for local supply chain as US dominates funding - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRnk5eVlWbG9mNWoxbG1nNE5iY3lSMFpBSkhINWRHWUR4bDdQSXAycm02TGY5ekNHNkhtN1ljT2RmRDlCT2QtRkRfV1hCYnlpUkFFY0pyU3Fob2RpNUxGNUVWZE8yd0xvTTJMdHBjMUdkYVQzdkdna0lUejlBRE9zTnctdzA?oc=5"
+    },
+    {
+      "published": "2026-09-22T00:30:03+00:00",
+      "publisher": "jpost.com",
+      "source": "Oracle / Datacenter AI",
+      "title": "Texas Gov. Abbott freezes environmental permits for AI data centers in expanding state power audit - jpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04b3pPYUJlV0lmaTM5TkswNF9ia0VNekpfTDZiQ0lMLUNzaHRxTDZmNTN3YmM4cWFXZHljNHRfUFF4ZTlhTHZ6OFlFSXhaTDFTSFF1RExnc0lBT2NoTmJV?oc=5"
+    }
+  ],
+  "date": "2026-09-22",
+  "generated_at_utc": "2026-09-22T21:09:31Z",
+  "items": [
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "OpenAI เปิดตัวโมเดล GPT-6 Sol และ Luna ที่มีต้นทุนต่ำกว่าและมีข้อผิดพลาดน้อยลง ส่งผลกระทบต่อผู้ใช้งานและธุรกิจที่ต้องการ AI ประสิทธิภาพสูงในราคาที่เข้าถึงได้มากขึ้น",
+      "title_th": "OpenAI เปิดตัว GPT-6 Sol และ Luna รุ่นราคาถูกลงและลดข้อผิดพลาด",
+      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "why_it_matters": "โมเดล AI รุ่นใหม่ที่มีประสิทธิภาพสูงและต้นทุนต่ำจะเร่งการนำ AI มาใช้ในวงกว้าง"
+    },
+    {
+      "source": "Reuters Tech",
+      "summary_th": "Palo Alto Networks เปิดตัวบริการความปลอดภัยไซเบอร์ที่ใช้โมเดล AI Claude และ GPT ช่วยเพิ่มความแม่นยำในการตรวจจับภัยคุกคาม ส่งผลดีต่อองค์กรที่ต้องการปกป้องข้อมูลและระบบ",
+      "title_th": "Palo Alto Networks เปิดตัวบริการไซเบอร์ซีเคียวริตี้ด้วย AI จาก Claude และ GPT",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVW5mc2xwMFhGeW1Dd3Y1bUY4dE9NVzFOa2FQSTI1a193YUk0aExLeFU2cm4xOXZVc0RqYjljNWVxMHpfWVRabVJMVkg5OE1aMWdXYUJKSG5RN2tYeUlycXh0VTcwck83TEdlcV9kOTRTdERZRXo5X3FUWkQ2WnlHb1hUZ3FDTzhwb3h0bWRlTWFOUmxBN2luR0QwQjRjeHhMWjRFRUN2M0V4U3FIaUZmRzk2QlN2SjRxSmZmUEhSQmo?oc=5",
+      "why_it_matters": "การใช้ AI ในความปลอดภัยไซเบอร์ช่วยป้องกันภัยคุกคามที่ซับซ้อนและเพิ่มความมั่นใจให้กับองค์กร"
+    },
+    {
+      "source": "AMD / TSMC AI",
+      "summary_th": "AMD เปิดตัวชิป AI สำหรับ Edge Computing ที่พร้อมใช้งานในอุปกรณ์จริง ช่วยให้การประมวลผล AI ใกล้กับแหล่งข้อมูลมากขึ้น ลดความหน่วงและเพิ่มประสิทธิภาพสำหรับอุปกรณ์ IoT และระบบอัตโนมัติ",
+      "title_th": "AMD เปิดตัวชิป AI Edge แบบชิปเดียวพร้อมใช้งานในผลิตภัณฑ์จริง",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1QxeG10SjV0dHlsNWRSUjN0NlJwNzZiUlhUOVlvdFQyVkpUQmpPa21KRnZYb1dWZGVJLXJvZkc5ZFloM2lNX3dSb2JOSEdHTjJUa1RzNjluS0hOR3F2MGRjU19veEhRMkNHNVJpbndLTjRHYVEtYWVCU3dzN19hLUFOaEsxWkhaNFRPYkQ3dGlLNUlu?oc=5",
+      "why_it_matters": "ชิป AI Edge ช่วยขยายการใช้งาน AI ในอุปกรณ์ปลายทาง เพิ่มความเร็วและลดการพึ่งพาคลาวด์"
+    },
+    {
+      "source": "The Verge AI",
+      "summary_th": "Anthropic เปิดตัวโมเดล Claude Opus 5.5 ที่มาพร้อมกับมาตรการป้องกันความปลอดภัยไซเบอร์ที่เข้มงวดขึ้น ช่วยลดความเสี่ยงจากการโจมตีและเพิ่มความน่าเชื่อถือของ AI สำหรับองค์กร",
+      "title_th": "Anthropic เปิดตัว Claude Opus 5.5 พร้อมมาตรการรักษาความปลอดภัยไซเบอร์เข้มงวดขึ้น",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDNTSkNCdjRXSUVQQzc4LWtrblRKM3p6N1RvMk9UQTRfamFBMy1UelVxdjRGX3hRSlpTYmFDa1piM2FKT3lfdFlGdXZ0YmoyOURoRzBvM3hYRnp4elUzX2ZqYURxbEJWSjVCY1hWWHhVSTFWZjd3VkJGRlNkWXk3N3pYWWFHbVItLVA1RmJPOUoyblZ0dGp2aWF4QVJMZlk?oc=5",
+      "why_it_matters": "การเสริมความปลอดภัยในโมเดล AI สำคัญต่อการใช้งานในภาคธุรกิจที่ต้องการความน่าเชื่อถือสูง"
+    },
+    {
+      "source": "NVIDIA AI",
+      "summary_th": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development NVIDIA Blog NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development NVIDIA Blog",
+      "title_th": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development - NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sdnlsRXplbmZmbUxGdjV0WWRPQmFNRlAzWk9pdjIzYXhzMkZUTmZfQWNtXzVkcFp4VHdZLWR3bWVhbFluMFRNWU5oS0l1cUJoOGswcjJ3Q2s5WndiYVZFSVZoWlZhemZXOVFud2JFRHkwYThkN1Q1T0dYZHFOdw?oc=5",
+      "why_it_matters": "ประเด็นนี้อยู่ในชุดข่าวสำคัญที่ต้องติดตามต่อ"
+    }
+  ],
+  "jev_screen": {
+    "brief_kind": "ai",
+    "decisions": [
+      {
+        "candidate_id": "candidate_000",
+        "choice": "include",
+        "confidence": 0.45,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.06,
+          "include": 0.63,
+          "review": 0.31
+        },
+        "source": "NVIDIA AI",
+        "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development - NVIDIA Blog",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sdnlsRXplbmZmbUxGdjV0WWRPQmFNRlAzWk9pdjIzYXhzMkZUTmZfQWNtXzVkcFp4VHdZLWR3bWVhbFluMFRNWU5oS0l1cUJoOGswcjJ3Q2s5WndiYVZFSVZoWlZhemZXOVFud2JFRHkwYThkN1Q1T0dYZHFOdw?oc=5"
+      },
+      {
+        "candidate_id": "candidate_001",
+        "choice": "review",
+        "confidence": 0.38,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.04,
+          "include": 0.37,
+          "review": 0.59
+        },
+        "source": "TechCrunch AI",
+        "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+        "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/"
+      },
+      {
+        "candidate_id": "candidate_002",
+        "choice": "review",
+        "confidence": 0.24,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.42,
+          "include": 0.09,
+          "review": 0.49
+        },
+        "source": "NVIDIA AI",
+        "title": "Enabling Private High-Performance Production AI Inference with NVIDIA Confidential Computing - NVIDIA Developer",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV2Y4X19JUXBocDZwcm9ST2gyc25zU29vZjhkd2dVRjhfbjRHSll3cjNUT2RxdkFwd0I4QXgxaTFzQUp3bG14TGFyejc0OW5ROWZUdnFKRlR2a3hDMldZVjJCRnh0aEdYSEpmZ1ZxS0tYaGJTczgtOUVhd1BxNFM3aEY4UHl0aGNrb2pCYUxqZG5CZjBuOHh2S05QZzB2S3Z3TnFUV3kteVRCS0N1czkzWkRucTBNQTFKYk4wQ25NSTRybVgzSmc?oc=5"
+      },
+      {
+        "candidate_id": "candidate_003",
+        "choice": "review",
+        "confidence": 0.23,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.05,
+          "include": 0.47,
+          "review": 0.48
+        },
+        "source": "Reuters Tech",
+        "title": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0ZYd1JncUkxX2hGZWN1ZDlZdG5ERWw3bUltSHNTQm5iMW1YeWdMUVF1dmNkZWJkdHRsQVZTRnQ5S1ozUE1NdXZIYkJNVHNUbm1Pc3YtTFhyTHBLclc1LWoyWm82V2gwc3UySE9lbHdaQ29UWF9nZ0FfYk02UjNjcVBrU0ZMbmxPWUZBWW1fbmVDNTk2RGJyTUVfVHNVUk40UVY1YkNB?oc=5"
+      },
+      {
+        "candidate_id": "candidate_004",
+        "choice": "review",
+        "confidence": 0.26,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.16,
+          "include": 0.34,
+          "review": 0.5
+        },
+        "source": "Bloomberg Tech",
+        "title": "SpaceXAI’s Grok Bot Agent Tops 400,000 Users After First Month - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM2JUUEZYZnVpYWotNHAyX1dvZ040bFhnUkJpdE9iYzNxTmNMb01tV2ZiX3RUcmZlVkIyVHlNd0wycWEyclBfSjFRQmdoNEZBdmtFOWdhY1ZzcGh3RnYzdjhxaVZ5aGxsMlJybGh5VG1LWThoRXFvZGhRdTNzRndtbmZ1d0hfX0xkal9QSHJUaUtDV01naVh1TnhQNl8yOUp2dF9WNkpmUEF0Zk1MMWtLeUhLUQ?oc=5"
+      },
+      {
+        "candidate_id": "candidate_005",
+        "choice": "include",
+        "confidence": 0.57,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.01,
+          "include": 0.72,
+          "review": 0.27
+        },
+        "source": "The Verge AI",
+        "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity - The Verge",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDNTSkNCdjRXSUVQQzc4LWtrblRKM3p6N1RvMk9UQTRfamFBMy1UelVxdjRGX3hRSlpTYmFDa1piM2FKT3lfdFlGdXZ0YmoyOURoRzBvM3hYRnp4elUzX2ZqYURxbEJWSjVCY1hWWHhVSTFWZjd3VkJGRlNkWXk3N3pYWWFHbVItLVA1RmJPOUoyblZ0dGp2aWF4QVJMZlk?oc=5"
+      },
+      {
+        "candidate_id": "candidate_006",
+        "choice": "exclude",
+        "confidence": 0.88,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 0.92,
+          "include": 0.01,
+          "review": 0.07
+        },
+        "source": "TechCrunch AI",
+        "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+        "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/"
+      },
+      {
+        "candidate_id": "candidate_007",
+        "choice": "include",
+        "confidence": 0.55,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.02,
+          "include": 0.7,
+          "review": 0.28
+        },
+        "source": "Reuters Tech",
+        "title": "Palo Alto Networks unveils AI-powered cybersecurity service using Claude, GPT models - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVW5mc2xwMFhGeW1Dd3Y1bUY4dE9NVzFOa2FQSTI1a193YUk0aExLeFU2cm4xOXZVc0RqYjljNWVxMHpfWVRabVJMVkg5OE1aMWdXYUJKSG5RN2tYeUlycXh0VTcwck83TEdlcV9kOTRTdERZRXo5X3FUWkQ2WnlHb1hUZ3FDTzhwb3h0bWRlTWFOUmxBN2luR0QwQjRjeHhMWjRFRUN2M0V4U3FIaUZmRzk2QlN2SjRxSmZmUEhSQmo?oc=5"
+      },
+      {
+        "candidate_id": "candidate_008",
+        "choice": "include",
+        "confidence": 0.32,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.06,
+          "include": 0.55,
+          "review": 0.39
+        },
+        "source": "xAI / Grok",
+        "title": "xAI Launches Grok 4.7 at Same Price, Still Behind Claude and GPT-6 - Pasquale Pillitteri",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vLW1MU3QzZTRzRFQzNjZEVkpCWkV5cHpUcjJ5YlVTcC1CeTZSTWc1akpQd2Y2bzN3RVV4dE9lWXI2eWJPTGhvdzlLWlN4dUZ5RUE5aVo3Tk44QWo2bHdrT01fUEFycjAxS2c4aVdZRkFKLUU?oc=5"
+      },
+      {
+        "candidate_id": "candidate_009",
+        "choice": "include",
+        "confidence": 0.17,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.13,
+          "include": 0.45,
+          "review": 0.42
+        },
+        "source": "The Verge AI",
+        "title": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too - The Verge",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzJ2cFFyUWo1MGFRaWRVUGEyTE10dEk3UWdXM1dIakNOWGQ1b2h0ZUlTZU1YOXdPZzYybGtWX24yZVFOcDFsS2NHWHNvbktHejlfc0prcGZNYWV0eS1KVV9VTHh3WHpidnJhYnJSTnIzQ1M2MHhad1NyRTlUM09QaDJmLUFJUmpk?oc=5"
+      },
+      {
+        "candidate_id": "candidate_010",
+        "choice": "review",
+        "confidence": 0.31,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.42,
+          "include": 0.04,
+          "review": 0.54
+        },
+        "source": "Wired AI",
+        "title": "Rabbit Is Back, This Time With an AI Agent App - WIRED",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VSVFZaHZaZ1dVT2k3LWY1Ri1rMVhRT05weFdPcDNRa3FUeWFuZnJxdFpPVzFPVkk1SVNpa19EOWlCVTlSVm1oQXluUFlsNFBhNVpyUVNMS09DQ045QlZscElR?oc=5"
+      },
+      {
+        "candidate_id": "candidate_011",
+        "choice": "review",
+        "confidence": 0.28,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.35,
+          "include": 0.13,
+          "review": 0.52
+        },
+        "source": "xAI / Grok",
+        "title": "SPCX Stock Gains 1% — SpaceXAI's Grok AI Agent Tops 400K Users As Meta's Muse Gains Popularity - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUUpETGh5TE16N2xHdTZFenktTkcyWGVXcnFjTDM0b296NjVkbHhRTlR5cl8tajdQcXhLekNiM0ZlcUJQN2UycTFhcUFSQU16X2F4OVhVTmhUcEEzXzNna2NaTTg2T0RhSldEU3FENHRQUm9XbDIxdWlWZ1NWdG82WllmVEpZcS1YTnN5YUdHSXRkRGU3aWxBR3hTVjRYRGViMWctSUhCbm1vai00aENhMEszNThKNXBqYlFENDlMMEZ2UTVSTzF2Ul9PZFVZUXFvMWoxNlBtZ3R1Zm9Pb2VleF9JcGJ4cVU?oc=5"
+      },
+      {
+        "candidate_id": "candidate_012",
+        "choice": "review",
+        "confidence": 0.43,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.23,
+          "include": 0.15,
+          "review": 0.62
+        },
+        "source": "Bloomberg Tech",
+        "title": "Korean Chip Stocks Gain as Meta’s Muse AI Agent Spurs Enthusiasm - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYTJVaHRDU0xBVjI3ZTNuRnhIZjhZLXhidlc1dHBiZFFxYmQ0dlV1bDVFNFZ4ZVgwS2F5TVRCYkVPR1c1RmtmUEQ4LXVMdTJLTEJEYUJ5RGwxa3VIYXp2WkRtM1VKRjRLSmx0OW1RekdnXzhKRkxGTVlybFJHYWpJQnZxd0ZjWjBzb05HVURfWjFOMzl4Z1VVX3JMTlF2QUNkd2VKOWVZdDBsWXBRcVhOSUlzUE5KQQ?oc=5"
+      },
+      {
+        "candidate_id": "candidate_013",
+        "choice": "exclude",
+        "confidence": 0.93,
+        "high_confidence_exclude": true,
+        "probabilities": {
+          "exclude": 0.96,
+          "include": 0.0,
+          "review": 0.04
+        },
+        "source": "Google AI Blog",
+        "title": "Investing in global talent and AI literacy - blog.google",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb0FEWVlvczJwSndvZk5XWEJnVzdtUVEtOW9xc0FlU0tiM3d0Z0RCYnkxUHNEWlE2SE1ESTBsQ2lLdWF0M0hOT3hLNkhtbTRzWkxnM3VHazZXT05DVkVFUDIzNENQN3ZuUjZlX2kwZnJFQVluNF82eFN3Y3FuTy1ibm56YVJYV2lTNlpsQVpQTzJaajlXa3N3N1J2b2tXUzA?oc=5"
+      },
+      {
+        "candidate_id": "candidate_014",
+        "choice": "exclude",
+        "confidence": 0.79,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.86,
+          "include": 0.01,
+          "review": 0.13
+        },
+        "source": "Microsoft AI",
+        "title": "Distraction-Free Developer Setups: Microsoft's Project Zenith Ships with Ryzen AI Halo - Trend Hunter",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0MUktdzVrUXZ0QzRnZmtES3A5bWlUelNILWpEa3ZWRmI4N0xEMjRQbzdQRzd4YUFCUm1lcmlfWDVuTmRMSjJNR0NCeUJfTGtOWGU0UkJDaUdYQmJLZHYxb0gzbUhwUQ?oc=5"
+      },
+      {
+        "candidate_id": "candidate_015",
+        "choice": "review",
+        "confidence": 0.41,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.17,
+          "include": 0.22,
+          "review": 0.61
+        },
+        "source": "AWS AI",
+        "title": "Arpio Launches First-Ever Automated Cloud Disaster Recovery Solution for Agentic AI Workloads on Amazon Bedrock - Eagle-Tribune",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZWV6NG1hUzhZSW1JcEs2UnJpVktYMHFHVWRlOWFmdk03c1pOWUZYVG5hdk1TbUFuWFVOaV93VkhRVE5Jd1hxMmcydjhmN21YNEYwTXZ1azNEQ0F4aXFIbmdwNTFzQUZTajR5Ny1vTldEWXlzVktYZWVJaHJHZlk5ZXVhcnI4cUpDb3g1b1BYVFhOMjk1TVdKY2tVb0VETHRLWUd6ZE92Z2NwQ3NJTm9DNGk3NmI1X3pKUTlnRjJLVDg3Sy1HZHBab3dTenJFSV96UWVUZWFLY2JjY1JtaWhtUnhwNmNRMFQ5c1N0M3lWRGUtdUNzM1laUHMycklfeVNIOTRuNkpsWWRCXzdzWjlySkNEbkM2dFVt?oc=5"
+      },
+      {
+        "candidate_id": "candidate_016",
+        "choice": "exclude",
+        "confidence": 0.66,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.77,
+          "include": 0.02,
+          "review": 0.21
+        },
+        "source": "FT Tech",
+        "title": "Donald Trump rejects ‘globalist scheme’ to control AI in blow to Andy Burnham - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeEI2a3BUUVRNeDZ5NXZlTGFyN0RqdWFoM0ptM0tRLXN3cEZ6R3FYbjA3eXJ5VzlsZ1o1UnY5ZUs5aGRzVVBxaGszendJckozSEVJVmtkaVBCZVlaOVlUTGhhMzJCZ3hqWWpKOXZmbVgzd0RtQ212ZG1xSEpfMmcyLTg5SHY?oc=5"
+      },
+      {
+        "candidate_id": "candidate_017",
+        "choice": "exclude",
+        "confidence": 0.57,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.71,
+          "include": 0.18,
+          "review": 0.11
+        },
+        "source": "Wired AI",
+        "title": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement - WIRED",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ1l1cFg1VDROc19jMnJsS2JaQnVlZ0J2U2ZJNXRMX0NBcm9ybktqZHBDYlZicS1wT0dsUTY5ME9ERjhYR2NheGN3d2x4ZGFYR1R4VzlYWFNKVVFLcnlNWmlQdy1XajlQc3R0QWdldGtFMFFRSHpGTHFuQzVtU3ZUR2l0THBtUC10SmFwem5RTFA?oc=5"
+      },
+      {
+        "candidate_id": "candidate_018",
+        "choice": "exclude",
+        "confidence": 0.62,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.75,
+          "include": 0.01,
+          "review": 0.24
+        },
+        "source": "Google AI Blog",
+        "title": "Using AI to help local governments connect with constituents - blog.google",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaUxGTFpfazRIT3FrbFNmVm1tUDdkMjVsaFk4YzJuXzdPU0FpNFo0SnJIM1pwTnV5b3NQa3llNmdUd1gyWktINTMwSFlLVWxfWnJmZmdrMDhXN2lIQkkyb282M2ZkWGZFbm1sbmJZR2JNTTZaR1VadHd4bExLb3A4TUhjR1dBc3RfVk1pTg?oc=5"
+      },
+      {
+        "candidate_id": "candidate_019",
+        "choice": "exclude",
+        "confidence": 0.58,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.72,
+          "include": 0.01,
+          "review": 0.27
+        },
+        "source": "AMD / TSMC AI",
+        "title": "From Sensor to Insight: Production-Ready Single-Chip Edge AI. Proven. - AMD",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1QxeG10SjV0dHlsNWRSUjN0NlJwNzZiUlhUOVlvdFQyVkpUQmpPa21KRnZYb1dWZGVJLXJvZkc5ZFloM2lNX3dSb2JOSEdHTjJUa1RzNjluS0hOR3F2MGRjU19veEhRMkNHNVJpbndLTjRHYVEtYWVCU3dzN19hLUFOaEsxWkhaNFRPYkQ3dGlLNUlu?oc=5"
+      },
+      {
+        "candidate_id": "candidate_020",
+        "choice": "review",
+        "confidence": 0.37,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.37,
+          "include": 0.06,
+          "review": 0.57
+        },
+        "source": "AMD / TSMC AI",
+        "title": "TSMC Gains as Packaging Moves Closer to Its Suppliers - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRlN6TGRteW5uY19IZTVMUUgzdnhTcmR6b1R5anFRTFR3Sm1VS2RSc0o0c3NOX1l5OFFnRzV6QW15cHo4M3NNclV2LUhwakhzSEFEN1ZIU0FaVFdReHV3SlVhS3VWbE5XdlVIbC00NXNKcjFkbjJVdnRTTlhEbW5SUHM1dVdfZkYtaFZNNnJUVG1SMlBrYUN4aUtxbkE4X1pfcXg4M0pBZGs5a1pkXzlvdmYydw?oc=5"
+      },
+      {
+        "candidate_id": "candidate_021",
+        "choice": "review",
+        "confidence": 0.47,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.12,
+          "include": 0.24,
+          "review": 0.64
+        },
+        "source": "Microsoft AI",
+        "title": "GitLab Duo Expands Self-Hosted AI Options Through Microsoft Foundry - infoq.com",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVcFJPYTZtb2VaT2cwME1qMVNaNW5INUJwd0JLSzNIRFhkb295N3g0SXppb0VBN3U4MGc2ZVA0UWxRbUhFRnhQZThlLXBoS3g1QXhzbmRkX21vcUV0YzF5cDNDLVd0NlI5NWhiYg?oc=5"
+      },
+      {
+        "candidate_id": "candidate_022",
+        "choice": "review",
+        "confidence": 0.31,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.3,
+          "include": 0.17,
+          "review": 0.53
+        },
+        "source": "AWS AI",
+        "title": "Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock - Amazon Web Services (AWS)",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS0VSc19rMHltU1g3bFNDaTE2Rno0ZmRFSkJuTV9lS3RDeXdRLWtLUjRCTmZZS29yd1dzWERUeGxNS1ZJSGVRVktCMlNyRjJza2RSMXlqa3JlNEhzRkFVaUktSkRxczZLVTR4UXljbnB0WkR0bFlIRElmVW80SE5Bb0pndEZHRG5XZmIya0k1Rl9ZUEJzQWR2c0hhWWM1aTZZVjJ5bjZLYlRJY2ZabHVmbVFaR0tNUjhlQU83VjUyMGl4RDJaQnJJWGJGaTgyUERI?oc=5"
+      },
+      {
+        "candidate_id": "candidate_023",
+        "choice": "exclude",
+        "confidence": 0.44,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.63,
+          "include": 0.07,
+          "review": 0.3
+        },
+        "source": "FT Tech",
+        "title": "European fusion start-up pushes for local supply chain as US dominates funding - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRnk5eVlWbG9mNWoxbG1nNE5iY3lSMFpBSkhINWRHWUR4bDdQSXAycm02TGY5ekNHNkhtN1ljT2RmRDlCT2QtRkRfV1hCYnlpUkFFY0pyU3Fob2RpNUxGNUVWZE8yd0xvTTJMdHBjMUdkYVQzdkdna0lUejlBRE9zTnctdzA?oc=5"
+      },
+      {
+        "candidate_id": "candidate_024",
+        "choice": "include",
+        "confidence": 0.42,
+        "high_confidence_exclude": false,
+        "probabilities": {
+          "exclude": 0.01,
+          "include": 0.62,
+          "review": 0.37
+        },
+        "source": "Oracle / Datacenter AI",
+        "title": "Texas Gov. Abbott freezes environmental permits for AI data centers in expanding state power audit - jpost.com",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04b3pPYUJlV0lmaTM5TkswNF9ia0VNekpfTDZiQ0lMLUNzaHRxTDZmNTN3YmM4cWFXZHljNHRfUFF4ZTlhTHZ6OFlFSXhaTDFTSFF1RExnc0lBT2NoTmJV?oc=5"
+      }
+    ],
+    "high_confidence_excluded": 2,
+    "input_count": 25,
+    "mode": "active",
+    "model": "jev-1.13.0",
+    "output_count": 23,
+    "status": "ok",
+    "usage": {
+      "input_tokens": 7064,
+      "output_tokens": 978
+    }
+  },
+  "model_used": "openai:gpt-4.1-mini"
+}
