@@ -1,0 +1,385 @@
+{
+  "articles": [
+    {
+      "published": "2026-09-24T15:10:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "Are Bonds About To Crash The Stock Market?",
+      "url": "https://www.zerohedge.com/markets/bonds-are-about-crash-stock-market"
+    },
+    {
+      "published": "2026-09-24T20:35:38+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Top News",
+      "title": "Dow falls for a third day as bond yields hit fresh highs: Live updates",
+      "url": "https://www.cnbc.com/2026/09/23/stock-market-today-live-updates.html"
+    },
+    {
+      "published": "2026-09-24T17:15:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "Russia Hammers Kiev In Rare Daytime Attacks; Kremlin 'Appreciates' US G20 Invite",
+      "url": "https://www.zerohedge.com/geopolitical/russia-keeps-strikes-kiev-zelensky-ny-kremlin-appreciates-us-g20-invite"
+    },
+    {
+      "published": "2026-09-24T17:45:53+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Top News",
+      "title": "Rising Treasury yields could push car loan rates higher, experts say. What buyers need to know",
+      "url": "https://www.cnbc.com/2026/09/24/car-loan-rates-may-rise-as-treasury-yields-climb.html"
+    },
+    {
+      "published": "2026-09-24T16:12:59+00:00",
+      "publisher": "Financial Times",
+      "source": "Financial Times Companies",
+      "title": "US mortgage rates breach 7% as affordability pressures mount",
+      "url": "https://www.ft.com/content/cabe2c29-9f66-470b-b7ac-b2bc324aa367?syn-25a6b1a6=1"
+    },
+    {
+      "published": "2026-09-24T20:01:00+00:00",
+      "publisher": "Wall Street Journal",
+      "source": "WSJ Markets (Google News)",
+      "title": "Oil Prices Jump on Houthi Attacks, U.S.-Iran Escalation Fears - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcUtBVUJSRWdjelUySnhBRGJUNDN2TEd4QndjRnBXa0NJS1h3cVBBaFJkdlF3SHBrTTJJYUhScUt5WVFQRHZObXVJLXF3aUhqSVVReFFmcnRtMGEtclVxZXJnZjF3TW93eFJjYXM2VUw3S0txTnNhNU9leFRiSGpXcFNwVElPTEJlZ2VwYnByUXRvOUo3N2p4X3dRaURoMld3VEprbTBiWGMtMXhGXzdPYTlfaWZsSXB0NmN1NlM1dmxBcVE?oc=5"
+    },
+    {
+      "published": "2026-09-24T21:33:30+00:00",
+      "publisher": "Financial Times",
+      "source": "Financial Times Companies",
+      "title": "FirstFT: Xi Jinping says US and China must ‘coexist in peace’ at White House summit",
+      "url": "https://www.ft.com/content/91f6e99d-b953-4056-ae72-30464b87ab5c?syn-25a6b1a6=1"
+    },
+    {
+      "published": "2026-09-24T09:38:31+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Markets (Google News)",
+      "title": "Fed’s Williams Says More Work Needed to Bring Down US Inflation - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV0s2SFpiMVNST19kb1JkeFZraXlVX3hBMWtSQ2U1XzVBelNESkUtUjdIb2t5QjBRVGo0ZE9qeGMzdjZTbkdYWjAzSjBzQnVYMlpJV1VZUUo1d2tKVGtIRjQ2bm8wVkFOVnJsclY3cHpkQy1QQTZfQ2VwZ0pZanlFVmRMS3lxbmJxb3pQZS1kdGlUSldVei1wT1Z2a2h0ZGFXb05XYmsyNmZaVElUcEU1ZnY0MWM?oc=5"
+    },
+    {
+      "published": "2026-09-24T20:32:00+00:00",
+      "publisher": "Wall Street Journal",
+      "source": "WSJ Markets (Google News)",
+      "title": "U.S. Treasury Yields Hit Multiyear Highs on Economic Data, Fed Rate-Boost Expectations - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObTFzZ3lYSmd4bGVKQk5TLXBfM3ZvRUtoM04xcXJfOHl2Z21ReW0wNjM4N3RXS00xZ2dGS082ZW1CQ1dtMzF4MXpKUFYxUUZ5ZWxxUkdDLWVQYjEtQlVTSm5tdzdFZGFrVVp4RHFvTzlVcENLc1FmXzRQYVhtU2psTXpMWDJlZXBOZ0FFTzhJV3k?oc=5"
+    },
+    {
+      "published": "2026-09-24T19:44:37+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Markets (Google News)",
+      "title": "Gold Holds Drop as Higher Oil and Hot US Data Fan Rate-Hike Bets - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM0RYMWxlWV9oYnBndHU4ZXRjNUx3RmJLNElMb3dKUF94TUhyRF9RbEd6ZWFMbUE2Q05FRE81N29YS0o1TTB1UkcwUXBJR1NLeXQyMG95ZjJfVnVHUS1iNWNuUl9rNlR6M1poT0VUNTYtRGRiS3ZndXBwdFFGNDViTGFvMHRKQmlkUEtISG9HQjdhbkk1UXhaUjFXb09CNmtCTVFWYkEwX29CU1ZMeTd3NlY0a0liQQ?oc=5"
+    },
+    {
+      "published": "2026-09-24T03:51:00+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters US Politics (Google News)",
+      "title": "US and Indian top diplomats discuss Russia sanctions bill signed by Trump - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdjNWTlhTdURkUERZUjdNQnBhQWR2bzRjOUVYNWRJUkdoX1M0NmpBRk5Dc0dHMm8wWlJKby1YNVNDb28wSnJXazJnbG9sQTNRU0RVTXk0eHJJcGQwTkVIdS00UjNRakFkUHFLTFhJdi1vMGJGZVB0dzMtR0JHUlN2RFoza1F5d3FuOWhBd09MR2RBa1I1ZU11OGotV2FwM2NOdmNydlBjeU1nMzFoVXpTQ1RuR1E?oc=5"
+    },
+    {
+      "published": "2026-09-24T18:30:00+00:00",
+      "publisher": "Federal Reserve Press Releases",
+      "source": "Federal Reserve Press Releases",
+      "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm"
+    },
+    {
+      "published": "2026-09-24T17:52:33+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters US Politics (Google News)",
+      "title": "US and Iran discuss phased deal to reopen Hormuz and end US blockade, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXMwQlBmRVM4WXVFeXhQVkcyYnpaUzE3dk1wUWswS3pZWDBKTGNWVEpqdFNsWXZEYm5PQ3pSVmRhVFl1empQN3p6SFY0YTVHRmxxNWpxbXFNWVlCOEF5T0tBLVp0MzNyWVlyQnpkbUtyVzNTeGtxQXZVc3hhb0E4aVV6bU5QVEdHMFhCaXRhV3hxQVJ3MWRXNF9tNG5EeUVzcTdEOUhGSExiS3F2SUlkS2xzRk1mNlg4bkRhR0FoaE5QZw?oc=5"
+    },
+    {
+      "published": "2026-09-24T19:42:00+00:00",
+      "publisher": "MarketWatch",
+      "source": "MarketWatch Top Stories",
+      "title": "Companies keep raising prices. The Fed is trying to get them to reconsider.",
+      "url": "https://www.marketwatch.com/story/companies-keep-raising-prices-the-fed-is-trying-to-get-them-to-reconsider-a57b9af7?mod=mw_rss_topstories"
+    },
+    {
+      "published": "2026-09-24T15:00:00+00:00",
+      "publisher": "Federal Reserve Press Releases",
+      "source": "Federal Reserve Press Releases",
+      "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm"
+    },
+    {
+      "published": "2026-09-24T20:54:00+00:00",
+      "publisher": "MarketWatch",
+      "source": "MarketWatch Top Stories",
+      "title": "Costco earnings beat expectations, thanks to tariff refunds",
+      "url": "https://www.marketwatch.com/story/costco-earnings-beat-expectations-thanks-to-tariff-refunds-e7270cfa?mod=mw_rss_topstories"
+    },
+    {
+      "published": "2026-09-24T16:00:06+00:00",
+      "publisher": "The New York Times",
+      "source": "NYT US Business (Google News)",
+      "title": "Mortgage Rates Hit 7% as Iran War Fallout Crushes a Weak Housing Market - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PaUNqV3pYSS1PWW1EMmI3cXh6TU00X0RVazl1OGs0dEdHMUdKcmVnVzF5ZFZUWjh4MHFTRnY5S3kyOFZ1V1VNQWNoaWRQTFVtVnZlZ3dYMjNhbDI3dGIxaUtFNUVWZ2dPTVhiVGtpZ2FFZFgzTlExdFdRV0ZEZw?oc=5"
+    },
+    {
+      "published": "2026-09-24T18:26:22+00:00",
+      "publisher": "Axios",
+      "source": "Axios US Policy",
+      "title": "Top White House tech adviser Ryan Baasch to depart - Axios",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTHV1SjRGcUR3V1JQRFltVHZDbWVLMGRFUllNa01NbTlUeVFlZEk3cnNMWm1RRE11UmdFNjFqREJYMjdqM0llbEdJVXFiVHpHVkllSnB0YTdNT1kyWDdJVVZ0Um1BbDJSMXBWS3VCWjd1MVE3cXJtZGJqMmRLdVREVWh5SVM1dw?oc=5"
+    },
+    {
+      "published": "2026-09-24T20:06:09+00:00",
+      "publisher": "The New York Times",
+      "source": "NYT US Business (Google News)",
+      "title": "Bond Markets Are Volatile and Oil Prices Rise - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02ckIwYnZVS2lOTUdGT2F0UFJ5eTRZQmx0YzlwSFZTSFk3RWpKampjYlBzUk1rWjQwenBHSnFGUjVNRmxzbTk3Um01UzhuRVBiMThyMUczWGt2eTdXUEVsbll4aTdkUkpUckpBYkwyRVhtcVNjVFpZYzhMVG4?oc=5"
+    },
+    {
+      "published": "2026-09-24T04:02:26+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Economy",
+      "title": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
+      "url": "https://www.cnbc.com/2026/09/24/hormuz-blacksea-ukraine-iran-food-security-united-nations-.html"
+    },
+    {
+      "published": "2026-09-24T17:13:34+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Markets",
+      "title": "Cat owners are spending more and boosting pet retailers",
+      "url": "https://www.cnbc.com/2026/09/24/cat-ownership-food-sales-dog-demand.html"
+    },
+    {
+      "published": "2026-09-24T08:13:01+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Economy",
+      "title": "Global debt tops $365 trillion as economists sound alarm over 'vicious cycle'",
+      "url": "https://www.cnbc.com/2026/09/24/global-debt-bond-yields-inflation.html"
+    },
+    {
+      "published": "2026-09-24T19:18:00+00:00",
+      "publisher": "AP News",
+      "source": "AP US Economy",
+      "title": "Mortgage rates climb for 5th straight week, pushing average rate on a 30-year home loan above 7% - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRWxBdGFiWUNsSDR5QUxyQzZrZHU4aW1pWGdTM3hRWmp4eXdYYWpCQk53ZDQ5OFZTOWp2ek5MT2lLVG1YbV8tdXQyYk1XelJhRXVPaTVLNHZEUk5QUWdmamE0S2hwMFJ6bWFlUVhxUnBNWWlPTmZSdjJiN0NDTS1ZZWlPak81RkllblNzWUZIcGJNcWc?oc=5"
+    },
+    {
+      "published": "2026-09-24T21:58:56+00:00",
+      "publisher": "Seeking Alpha Market News",
+      "source": "Seeking Alpha Market News",
+      "title": "Bluerock Acquisition II prices $150M IPO",
+      "url": "https://seekingalpha.com/news/4646942-bluerock-acquisition-ii-prices-150m-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+    },
+    {
+      "published": "2026-09-24T16:13:13+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Markets",
+      "title": "Darden Restaurants stock falls as Olive Garden reports slower growth",
+      "url": "https://www.cnbc.com/2026/09/24/darden-restaurants-dri-q1-2027-earnings.html"
+    }
+  ],
+  "date": "2026-09-24",
+  "generated_at_utc": "2026-09-24T23:12:24Z",
+  "items": [
+    {
+      "category": "Macro/Fed",
+      "impact": "high",
+      "key_numbers": [
+        "5.11",
+        "5.14",
+        "5.4",
+        "4.9"
+      ],
+      "rank": 1,
+      "sectors": [
+        "Financials",
+        "Real Estate",
+        "Tech",
+        "Energy"
+      ],
+      "sentiment": "bearish",
+      "source_name": "ZeroHedge",
+      "summary_th": "อัตราผลตอบแทนพันธบัตรรัฐบาลสหรัฐอายุ 10 ปีพุ่งขึ้นถึง 5.11% ซึ่งเป็นระดับสูงสุดตั้งแต่ปี 2007 ส่งผลให้ต้นทุนการกู้ยืมของรัฐบาลและภาคเอกชนสูงขึ้น ซึ่งอาจกดดันตลาดหุ้นและเศรษฐกิจโดยรวมอย่างมีนัยสำคัญ ข้อมูลนี้สะท้อนความกังวลเรื่องเงินเฟ้อและความเป็นไปได้ที่ Fed จะขึ้นดอกเบี้ยเพิ่ม (ZeroHedge, WSJ)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "อัตราผลตอบแทนพันธบัตรสหรัฐพุ่งแตะระดับสูงสุดในรอบหลายปี กระทบตลาดหุ้น",
+      "url": "https://www.zerohedge.com/markets/bonds-are-about-crash-stock-market",
+      "watch_next": "ติดตามการเคลื่อนไหวของ Fed และผลกระทบต่อตลาดหุ้นและสินเชื่อ"
+    },
+    {
+      "category": "Macro/Fed",
+      "impact": "medium",
+      "key_numbers": [
+        "5.446",
+        "5.15"
+      ],
+      "rank": 2,
+      "sectors": [
+        "Consumer"
+      ],
+      "sentiment": "bearish",
+      "source_name": "CNBC Top News",
+      "summary_th": "อัตราผลตอบแทนพันธบัตรรัฐบาลสหรัฐที่เพิ่มขึ้น โดยพันธบัตร 30 ปีแตะ 5.446% และพันธบัตร 10 ปีแตะ 5.15% ส่งผลให้อัตราดอกเบี้ยสินเชื่อรถยนต์มีแนวโน้มสูงขึ้นตามไปด้วย ซึ่งจะเพิ่มต้นทุนการกู้ยืมของผู้บริโภค (CNBC)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "อัตราดอกเบี้ยสินเชื่อรถยนต์อาจปรับตัวสูงขึ้นตามอัตราผลตอบแทนพันธบัตร",
+      "url": "https://www.cnbc.com/2026/09/24/car-loan-rates-may-rise-as-treasury-yields-climb.html",
+      "watch_next": "จับตาอัตราดอกเบี้ยสินเชื่อผู้บริโภคและผลกระทบต่อการใช้จ่าย"
+    },
+    {
+      "category": "Macro/Fed",
+      "impact": "high",
+      "key_numbers": [
+        "7.0"
+      ],
+      "rank": 3,
+      "sectors": [
+        "Real Estate"
+      ],
+      "sentiment": "bearish",
+      "source_name": "Financial Times Companies",
+      "summary_th": "อัตราดอกเบี้ยจำนองบ้าน 30 ปีในสหรัฐพุ่งสูงเกิน 7% เป็นผลจากอัตราผลตอบแทนพันธบัตรที่เพิ่มขึ้นและความไม่แน่นอนจากความขัดแย้งในตะวันออกกลาง ส่งผลให้ความสามารถในการซื้อบ้านของผู้บริโภคลดลงและตลาดที่อยู่อาศัยอ่อนแอ (Financial Times, AP News, NYT)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "อัตราดอกเบี้ยจำนองบ้านสหรัฐทะลุ 7% กดดันตลาดที่อยู่อาศัย",
+      "url": "https://www.ft.com/content/cabe2c29-9f66-470b-b7ac-b2bc324aa367?syn-25a6b1a6=1",
+      "watch_next": "ติดตามข้อมูลตลาดที่อยู่อาศัยและนโยบาย Fed ต่อไป"
+    },
+    {
+      "category": "Commodity",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 4,
+      "sectors": [
+        "Energy"
+      ],
+      "sentiment": "bearish",
+      "source_name": "WSJ Markets (Google News)",
+      "summary_th": "ราคาน้ำมันดิบปรับตัวขึ้นอย่างมีนัยสำคัญจากความกังวลเกี่ยวกับเหตุโจมตีของกลุ่มฮูตีในอิหร่านและความตึงเครียดระหว่างสหรัฐกับอิหร่านในภูมิภาคอ่าวเปอร์เซีย ซึ่งอาจส่งผลกระทบต่ออุปทานน้ำมันโลกและราคาพลังงาน (WSJ, Bloomberg)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ราคาน้ำมันพุ่งหลังเหตุโจมตีในอิหร่านและความตึงเครียดกับสหรัฐ",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcUtBVUJSRWdjelUySnhBRGJUNDN2TEd4QndjRnBXa0NJS1h3cVBBaFJkdlF3SHBrTTJJYUhScUt5WVFQRHZObXVJLXF3aUhqSVVReFFmcnRtMGEtclVxZXJnZjF3TW93eFJjYXM2VUw3S0txTnNhNU9leFRiSGpXcFNwVElPTEJlZ2VwYnByUXRvOUo3N2p4X3dRaURoMld3VEprbTBiWGMtMXhGXzdPYTlfaWZsSXB0NmN1NlM1dmxBcVE?oc=5",
+      "watch_next": "ติดตามสถานการณ์ความขัดแย้งในตะวันออกกลางและราคาน้ำมัน"
+    },
+    {
+      "category": "Geopolitics",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 5,
+      "sectors": [
+        "Industrials",
+        "Real Estate",
+        "Consumer"
+      ],
+      "sentiment": "neutral",
+      "source_name": "ZeroHedge",
+      "summary_th": "รัสเซียยิงขีปนาวุธโจมตีเคียฟในช่วงกลางวัน ทำให้มีผู้เสียชีวิตและบาดเจ็บหลายราย ขณะเดียวกันเครมลินแสดงความขอบคุณต่อคำเชิญของสหรัฐให้ปูตินเข้าร่วมประชุม G20 ที่ไมอามีในเดือนธันวาคม แม้ยังไม่แน่ชัดว่าปูตินจะเข้าร่วมหรือไม่ (ZeroHedge)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "รัสเซียโจมตีเคียฟในช่วงกลางวัน ขณะที่ปูตินได้รับเชิญร่วมประชุม G20 ที่สหรัฐ",
+      "url": "https://www.zerohedge.com/geopolitical/russia-keeps-strikes-kiev-zelensky-ny-kremlin-appreciates-us-g20-invite",
+      "watch_next": "ติดตามสถานการณ์ความขัดแย้งในยูเครนและความเคลื่อนไหวทางการทูต"
+    },
+    {
+      "category": "Macro/Fed",
+      "impact": "high",
+      "key_numbers": [],
+      "rank": 6,
+      "sectors": [],
+      "sentiment": "bearish",
+      "source_name": "Bloomberg Markets (Google News)",
+      "summary_th": "ประธาน Fed สาขานิวยอร์ก John Williams ระบุว่ายังมีความจำเป็นต้องดำเนินนโยบายการเงินอย่างเข้มงวดต่อไปเพื่อควบคุมเงินเฟ้อที่ยังคงสูง แม้จะมีการขึ้นดอกเบี้ยหลายครั้งแล้วก็ตาม (Bloomberg)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "Fed ยังคงเห็นว่าต้องทำงานหนักขึ้นเพื่อลดเงินเฟ้อในสหรัฐ",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV0s2SFpiMVNST19kb1JkeFZraXlVX3hBMWtSQ2U1XzVBelNESkUtUjdIb2t5QjBRVGo0ZE9qeGMzdjZTbkdYWjAzSjBzQnVYMlpJV1VZUUo1d2tKVGtIRjQ2bm8wVkFOVnJsclY3cHpkQy1QQTZfQ2VwZ0pZanlFVmRMS3lxbmJxb3pQZS1kdGlUSldVei1wT1Z2a2h0ZGFXb05XYmsyNmZaVElUcEU1ZnY0MWM?oc=5",
+      "watch_next": "ติดตามการประชุม Fed และสัญญาณนโยบายการเงิน"
+    },
+    {
+      "category": "Earnings",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 7,
+      "sectors": [
+        "Consumer"
+      ],
+      "sentiment": "bullish",
+      "source_name": "MarketWatch Top Stories",
+      "summary_th": "Costco รายงานผลประกอบการไตรมาสล่าสุดที่เกินความคาดหมาย โดยได้รับแรงหนุนจากเงินคืนภาษีศุลกากร ซึ่งช่วยลดต้นทุนและเพิ่มกำไรของบริษัท (MarketWatch)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "บริษัท Costco รายงานกำไรเกินคาดจากเงินคืนภาษี",
+      "url": "https://www.marketwatch.com/story/costco-earnings-beat-expectations-thanks-to-tariff-refunds-e7270cfa?mod=mw_rss_topstories",
+      "watch_next": "ติดตามผลประกอบการบริษัทค้าปลีกรายอื่นและแนวโน้มการบริโภค"
+    },
+    {
+      "category": "Earnings",
+      "impact": "medium",
+      "key_numbers": [
+        "2.05",
+        "3.2",
+        "5.1",
+        "3.1",
+        "6.2",
+        "1.1"
+      ],
+      "rank": 8,
+      "sectors": [
+        "Consumer"
+      ],
+      "sentiment": "bearish",
+      "source_name": "CNBC Markets",
+      "summary_th": "Darden Restaurants รายงานผลประกอบการไตรมาสที่รายได้และกำไรต่ำกว่าคาด โดยการเติบโตของร้าน Olive Garden ชะลอตัวลง ขณะที่ LongHorn Steakhouse กลับเป็นตัวขับเคลื่อนรายได้หลักของบริษัท (CNBC)",
+      "tickers": [
+        "DRI"
+      ],
+      "time_horizon": "short-term",
+      "title_th": "หุ้น Darden Restaurants ร่วงหลังรายงานการเติบโตของ Olive Garden ชะลอตัว",
+      "url": "https://www.cnbc.com/2026/09/24/darden-restaurants-dri-q1-2027-earnings.html",
+      "watch_next": "ติดตามผลประกอบการกลุ่มร้านอาหารและปัจจัยกระทบผู้บริโภค"
+    },
+    {
+      "category": "Geopolitics",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 9,
+      "sectors": [
+        "Energy"
+      ],
+      "sentiment": "neutral",
+      "source_name": "Reuters US Politics (Google News)",
+      "summary_th": "เจ้าหน้าที่ระดับสูงของสหรัฐและอิหร่านหารือเกี่ยวกับข้อตกลงแบบเป็นขั้นตอนเพื่อเปิดช่องแคบฮอร์มุซและยุติการปิดล้อมของสหรัฐในภูมิภาค ซึ่งอาจช่วยลดความตึงเครียดและบรรเทาความเสี่ยงต่อห่วงโซ่อุปทานพลังงานโลก (Reuters)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "สหรัฐและอิหร่านหารือข้อตกลงเปิดช่องแคบฮอร์มุซและยุติการปิดล้อม",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXMwQlBmRVM4WXVFeXhQVkcyYnpaUzE3dk1wUWswS3pZWDBKTGNWVEpqdFNsWXZEYm5PQ3pSVmRhVFl1empQN3p6SFY0YTVHRmxxNWpxbXFNWVlCOEF5T0tBLVp0MzNyWVlyQnpkbUtyVzNTeGtxQXZVc3hhb0E4aVV6bU5QVEdHMFhCaXRhV3hxQVJ3MWRXNF9tNG5EeUVzcTdEOUhGSExiS3F2SUlkS2xzRk1mNlg4bkRhR0FoaE5QZw?oc=5",
+      "watch_next": "ติดตามความคืบหน้าการเจรจาและผลกระทบต่อตลาดพลังงาน"
+    },
+    {
+      "category": "Regulation",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 10,
+      "sectors": [
+        "Financials",
+        "Tech"
+      ],
+      "sentiment": "neutral",
+      "source_name": "Federal Reserve Press Releases",
+      "summary_th": "Federal Reserve ขอความคิดเห็นจากสาธารณะเกี่ยวกับข้อเสนอการจัดตั้งกรอบการกำกับดูแลสำหรับผู้ให้บริการ Stablecoin ที่อยู่ภายใต้การดูแลของ Fed ตามกฎหมาย GENIUS Act เพื่อเสริมสร้างความมั่นคงและความโปร่งใสในตลาดเงินดิจิทัล (Federal Reserve)",
+      "tickers": [],
+      "time_horizon": "long-term",
+      "title_th": "สหรัฐเรียกร้องความคิดเห็นสาธารณะเกี่ยวกับการกำกับดูแล Stablecoin",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
+      "watch_next": "ติดตามนโยบายและการกำกับดูแลตลาดเงินดิจิทัลของ Fed"
+    }
+  ],
+  "jev_screen": {
+    "brief_kind": "us",
+    "error_type": "RuntimeError",
+    "input_count": 25,
+    "mode": "active",
+    "output_count": 25,
+    "status": "fail_open_error"
+  },
+  "model_used": "openai:gpt-4.1-mini"
+}
