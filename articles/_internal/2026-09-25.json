@@ -1,0 +1,227 @@
+{
+  "articles": [
+    {
+      "published": "2026-09-25T18:22:47+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/"
+    },
+    {
+      "published": "2026-09-25T16:00:00+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Meta’s AI Tamagotchi bet is…working?",
+      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/"
+    },
+    {
+      "published": "2026-09-25T13:51:28+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "Microsoft revamps Copilot with code generation, agentic AI tools - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORFppWUc2LTE4NzBfY2prVG11cG9PQ1VyaFB6QkYzVGoyLWV5alVORkZraFREc3FBbmIxTThVay1nQnZZRXhvQ1JyQXpQeU1uY3NmYkt4eWtlSlZvZF8yR3o0LUtRZGFXWFkzdVdBTXJveUdqNG1PTTdHS25wQ0xOR0R3dWNCZFQ3Snlwcjc0S0FHYXg3RkhsMWFoMW5GX0hWWFFFQUJzZnptVjJXUUhR?oc=5"
+    },
+    {
+      "published": "2026-09-25T16:56:05+00:00",
+      "publisher": "NVIDIA",
+      "source": "NVIDIA AI",
+      "title": "GTC - NVIDIA - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IX1lvZGNiMnNKQkk5dzZ1X2g5Y2xnbjgzQU56cnlNcHhMM3V4Szdncl9MVUVEVmtaZzJXUXBxNGtUQ2lBZlNWeXhIWVBad0xVeW8tTWFxQkRmbjFtRHJMdkJETQ?oc=5"
+    },
+    {
+      "published": "2026-09-25T17:07:46+00:00",
+      "publisher": "Computerworld",
+      "source": "Microsoft AI",
+      "title": "Microsoft’s new Copilot ‘super app’ unifies chat, code, agents - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWkZ3aFlFY3dPV0cyWUhEMGgzTlVpRXpGQVFSVDYxWDZuTGRMLS1sX1JSWmE3RURYYk8xTmk0QklOb0pHSHZ2U0FyWktsMEdUczBMbnRsWk12bWdnamJmaHp2a2NvT2tjN2RWM3BSdm1DeW1rcWtXLWxSYnpmbXVfUGVaQmdua2FFUEt3aTgzYzdUbmRPeHNCQzNIVENzLWlrMFh4d3hIM3MtM1VkWk5IWmNhanZ5RmY4a1E?oc=5"
+    },
+    {
+      "published": "2026-09-25T18:58:26+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "FTC chair suggests AI developers should be liable for conduct of agents - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR0NHdkNjeHVId0Z1MThydkhrVktZMWtKM1FRYmQ2dlRFb2tqR1pXT3FGMkFBLXF5QkJCRzd1RGtLNENtT2k4bkxFclJ3elNzWVkzaXBTam55UlJGQ2FTLVFYd1AyNmRCNzhOYXJtVENXTzVSbzV3U04wbk5lTDFVSkZONEY0TzdyaG1kS1NGaHV6ZE5GSk1xZE9WY1pTU0JtV1E0Vk9lRQ?oc=5"
+    },
+    {
+      "published": "2026-09-25T15:45:17+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "Google DeepMind Exodus Sparks VC Frenzy for AI’s Next Big Thing - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVEVVemdsNUNWUVl2TWJMTGZSOWhYZW15MXJVNFZScTJoRDdkekgyOUI2MDNtdlhMN2RFbDVjdXJZcmtld3B2RWl4dEVjZFQ0RTdTOFJTZFJrOXdxVEp0dHBCNU11R3JjMVdONm9yVEVFRXhYQWJaaFlfZ0ZMRE9Oa0tXVmU0Sk9ZSnNvNVNDcHl3TDQ0NWdRT1Y2a3B4UHd6RVBVZDVWdkUtRHZ4M1Z6WWF4UHA?oc=5"
+    },
+    {
+      "published": "2026-09-25T15:19:24+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "Anthropic Faces Court Setback on US Supply Chain Risk Label - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSTNHR2VoMmtMYlJBbm4xT1lSLV8zNTBLTlN2UWc1OUp4ZkhyWjNVSlhxTTd5bG5zVzRyVkJGRzUxTzRqQ0lhVkJ5dEd6THBDMzByZnZ5NGRIZWtsY1dYS2ZyVnlNbEtDa2Q4cHZVakhDcHRYV3RkdG1DbDBkZUdFcmxXWTJYYTZLZGc5dGpxZ0o2X0tvejJ6TlpkckNLemFsUk5zTm5CNmJQX1ZETEg4VmNB?oc=5"
+    },
+    {
+      "published": "2026-09-25T16:58:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTE9vOWNUUFgyc2dxT2ZpcUc1TnZVZmhaY19qTmkwdTFyZnZvMzZHeHVZcmJfQm5hR0lnQkxzT2R5RnBfOWpIYUFXMkR1TUhqY2trbURYRFZ5Ri1QZEJ0LUpfZTFYSmZHZDJrc2x2eHdYNHFRb21zV1R4dWkzNXBIT2FBV3E4VnYxdWltaDFBcmZEdU05WU82Wnd3SXQ4UW5nbUE?oc=5"
+    },
+    {
+      "published": "2026-09-25T10:45:00+00:00",
+      "publisher": "The Motley Fool",
+      "source": "AMD / TSMC AI",
+      "title": "Meet the Super Semiconductor ETF With 34.7% of Its Assets Parked in Intel, AMD, Micron, and Nvidia - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVE9OUXNxVnhHX2NmMmRFWkFzNEJkRV9kZ045QXZjcVNTRUJ2THp0c1BXbE9pM3FYa0RrVllIMkN6TUk0YUNuZDIzVzNSUXJBd295N2liWmtxOG11NjNNVjhnVjJaSzhGUktEcXFLaUgyWVdGcnE3YnBiYl9mdl9UU2JzY3JWM1hnODNsWFYwNjdNMG5nNkJkNQ?oc=5"
+    },
+    {
+      "published": "2026-09-25T16:48:03+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "What an AI maths breakthrough means for human discovery - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWVQ4X1pXTnFiR0d3dHlFNndpOVhULUx3d052eFBidEU4elNxcG0zQzRGWU1QakIya3hDLWxRMjlfY0tNLTVfTWFYb1hnVnVlUFhqNnhYSko2VVk4bUI4LXRPZWhrXzJvaVhwX0REcnpMcFUwT1hhWUsxY0pZWjJDRWVMSXc?oc=5"
+    },
+    {
+      "published": "2026-09-25T15:39:48+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "One company is at the center of a wave of rogue AI attacks - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVklBVkdxTG1sN2lGUmEwelRiZmRaVWJJaWhoeXpYcF95RzdpdzZQQUpTREFUN0VuY2ljUzZnYU5oNVh4Rk9OejM2aEZtS1NjRElYak5FTkdkbG1FWUtNNUJjNTVNcEZxMHdPWkJMeDRTc0ZxbFVsRktDOGxrb1l1WkRuYldNMElrb2dVckF0cC0zeDQ4UzR5d1B5VDREMHNjdTZxSDJjWTRZVEM2SS1PMGZVM0hGTG1kT2syZVV3NFItUFloMFM4?oc=5"
+    },
+    {
+      "published": "2026-09-25T16:49:53+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "Meta makes the Muse filesystem even more accessible - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN29feDBZUlpmM0dHcms5ZEdLekh1LXNvbGl2SEhTZ1lwbWhrT0xWM3ltSnNJSXZad0M2WFIzakw4U1JtdFNzX3ZNNW12d3BJV1JJZ0N2YWJSRm1xQ2FQWGdQWkNVM1FDYXl5WXkzWnhzcHZmbXpsZTZnT0JXWEFpOGh0N3czSDQ?oc=5"
+    },
+    {
+      "published": "2026-09-25T07:55:00+00:00",
+      "publisher": "finance.biggo.com",
+      "source": "xAI / Grok",
+      "title": "Musk Unveils Colossus 2 Expansion Roadmap: Nvidia Chip Count to Double to 990,000 by Year-End - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11ZXB5eWxVclNjR2NhczA4Qi1QRmVsNWZMd0hHZWJMdXRZVlFWWFNEcUFoVkhBMDVGa1h6aERkRm5sV19BVk54ekRGX2ZSWGFDQTRsMHNCM0NZVGs2NXl3QlNUTWRqbTdqQ2NJeXFMRDF4dTNTbWc?oc=5"
+    },
+    {
+      "published": "2026-09-25T18:34:30+00:00",
+      "publisher": "Yahoo Finance",
+      "source": "AMD / TSMC AI",
+      "title": "Is AMD Stock Priced Right Against Its Chip Peers? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMkUtdVdpeGxoZWVxSUdjemV4R0prQkF3N0JxT0s1eS1ILU1TbF9fblg1eVR1ODJ6THZmOHdHV0xUaHJfUmpkZE9PZlhYVzZzWEh4bW9rZkVHa0Q5LTVEZXludE84V2xNNHNnM0I4cl9rSnhtbXVQeGlEODB6SUN0VU1JSlZFMHhFYk90bHhiUzFpR295bk1nalFR?oc=5"
+    },
+    {
+      "published": "2026-09-25T16:15:22+00:00",
+      "publisher": "Amazon Web Services (AWS)",
+      "source": "AWS AI",
+      "title": "NarrateAI: production-ready LLM quality assurance on Amazon Bedrock - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlFzaDZ4bEtLQml2Y0pjVnpJQWlLSTY2ZXU4UEFSWnlrTmdrcURlVDJuVUFpeEQyeFpKakdpWHdyYW1SZnlFNnkySVVlZ1RaTGZiOUEwaE5wZFNpVXlqaEw0LTUtRFV5dnpySzZ1S1VqaU1tN25td3ZLUDVOeFlFaU5NQlNjelNCZkFKMWJfU1YzT244VGdCU25oUnNvcndURE5fU1BJdVlMVUE3V3BXOFNqdw?oc=5"
+    },
+    {
+      "published": "2026-09-25T14:24:11+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "Bill Gates warns AI could cause ‘a billion deaths’ - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdmltNS0tWVNtZHFxbXZtUEp5UGhGbEtCVUdfa1N6cXV4Z0diM2N0LVZaU0FVUDdWS19EaXdnakN3a25nTW9WU0NkRW5laVppVmpRTzNWd3B6YkhUd2lGWEdTS29lXy1YX0ozcmVaZDVzbUVjUll0WUxHTDhDMmpBaFYtSV8?oc=5"
+    },
+    {
+      "published": "2026-09-25T11:32:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "The Trump Administration Is Trying to Get Musk and X Out of a $137 Million EU Fine - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkV2WUhPMVVBcmwwZ1QtbkluSml2SGp4R0VIQ0oxdWFHcFV5c2hGZEN0ajdVOEpxNHNTdVJxdVA4ZnU3YkFKbl96eHc1b2VYSGduOENTMUc5ZEtQTzBrNVRxbDhqX3VtTDRyN2N1Y2VQLVZyVzBsenBjZ2x6WEJoUmFobHphY2V0eGhDUnlfZDRxSzhwS2RJaDI5MTFIRTZXMnJHUmFnTUpRYkdNSlJVdk1B?oc=5"
+    },
+    {
+      "published": "2026-09-25T09:30:00+00:00",
+      "publisher": "Wall Street Journal",
+      "source": "Oracle / Datacenter AI",
+      "title": "Cracks in Oracle’s AI Data-Center Build-Out Appear in Massive New Mexico Project - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQak1fNEtRazdLRG9WYzhfZWtLMENrWWhDSnhQOFlvd1VmMHZlVTVYVWQtSmFvazc2V2Z1TFlEWVZpcHhjT0lFWGVvVTV6MTk4UG13cFJvY1VqY2FxVUFmbGhiZTZPY1hpem9IYkhsM1VNaDZMYUJQWU5kQzE4Z2NkbVhQMVNRWTRNcXZ2eWRKSGF1VEhnaW51bG9VM0xwQk1lWlFiUDc0TldJdThrUkY3VHdJYVQ4d01TZENHN0dNTFdlTzdi?oc=5"
+    },
+    {
+      "published": "2026-09-24T23:37:01+00:00",
+      "publisher": "Yahoo Finance",
+      "source": "Oracle / Datacenter AI",
+      "title": "Oracle Wants Protection If Its AI Data Center Is Delayed. Here's What That Changes for Investors. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNTQtLUh1WUZmMzBkZXEyZmNUenU1eTdfQjFxcVlXZFg2ME1lMURRTFk1UE0xUHMwSFVWeHIwbU90RHMwbEU5SDhDMnQ1SExnRmZYaEM5WUpqSVhDSXVHbVppcnczRTZORzhRNFNsMVRodVY4QWtJYVJYYWdkWTdaU0FPQmt3eE5qbXJDTFNzdXpZRDl5S1I1cFZMQQ?oc=5"
+    },
+    {
+      "published": "2026-09-25T16:06:29+00:00",
+      "publisher": "NVIDIA Developer Forums",
+      "source": "NVIDIA AI",
+      "title": "Deepseek-ai/deepseek-v4.1-flash fails even in official Playground — \"Retries exhausted: 3/3\" - NVIDIA Developer Forums",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONTZjdEdmcFJsZGpKSFk2Ym91Ry1WRHZYc1RVOEIzdUJPTU1DODlRbFBUZi1HMHNnN3RJTUNFaEpWMXNwQXFLV2NZcDdwS3dSUEpJX0tjZW45bWNVRDR6bWowS3c2d3BVNE1haDR5dkhrcDFPbVZQUWpjQ093SkQwYUlJeWkxZG1iZHdHNkVsWDJIWTRicmRwVTI1Q0pUSUpLWFh2bFBFX0R0VlRKbE5VMjJySHBKRGZPQWRFd2RuUzc3WGNHRnQzZjVKYTQ?oc=5"
+    },
+    {
+      "published": "2026-09-25T13:14:46+00:00",
+      "publisher": "ScienceDaily",
+      "source": "Quantum Computing",
+      "title": "Quantum computing’s “dark horse” just proved it can go universal - ScienceDaily",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sOWlHV2o5MHRLTmxoU2ZVUG0wLVJIQmNHR0xXb1JzSnZ2R1N5d0xrS0VXSTZ5YXktdUxkbVRnVzNIWEQ1bXVxQ0kwSG1aLTBUdjZaSjRMdl80VXlJOGJHY0dqODY5UTRHQkJTUG9HNA?oc=5"
+    },
+    {
+      "published": "2026-09-25T10:30:00+00:00",
+      "publisher": "The Motley Fool",
+      "source": "Quantum Computing",
+      "title": "$500 Invested in IonQ Now Could 10x if Quantum AI Hits by 2029 - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYldjVTRDX25RaGRTM3dfNGVKWlVGOGFNRy0wbzVvc3JicWRDYzdoR09idDJaZTQzaFVPdi1XV3RiNUkyc0NUOG5rMVFWcFgxdW9YeU1qUkZOdmNxM0gyTUVKQ3hzd3FIeEdTZG1oTlotOV9zOWJwQXQ5SVlHdGpWY3ZVUmdmNW5nTHI5azRTSFp6TXpaQllhdA?oc=5"
+    },
+    {
+      "published": "2026-09-25T09:16:25+00:00",
+      "publisher": "MIT Technology Review",
+      "source": "MIT Tech Review AI",
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector - MIT Technology Review",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYWFoWGpGU250T0NlRUE2UVZCeHIzV0lLc1hPeGNWajU1WHFOdlhhTGdlVWhBdUh4VG01QXFLR3pEWWRwUG1uN3V6dFRfd0tzSEkxd0FCWk8tMkNLZTdkdDBjUzJZdmxQUG85UXNPcnRpcExFalVlMHdkUVZNVHdVQk5SZ9IBiAFBVV95cUxNNEY0ZURsODVRTTBmTUM3eUdKSmgwdUwyWDVZajVIWmJHZzUybnhzYTFVYk5hLUJrMkFEMnlTZkszcEtRUjBCNXBfMXY3V3dqSFdRYmxlVUZBcEdLWkppbkVhMmVfdV8zQmxoc0NET0tsTmFGNDBVWVoyNFBSTnYyRkxMZkZNVUda?oc=5"
+    },
+    {
+      "published": "2026-09-25T12:10:00+00:00",
+      "publisher": "MIT Technology Review",
+      "source": "MIT Tech Review AI",
+      "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits - MIT Technology Review",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSmQ3Q0xaMEtvT0YxdGowS0lNMHcxMEU4eUFrekV6QWxZVjljQlp3N1p0RUI5UjA3UTZUYTdvXzdlSVlDck5Qa0w2RTU3QnZjaXI1cmtfWGd2Tzd1Sk1tVDJaVnlhcWhfcW56YkMwTmR3dHFqeVNzRnBaNnA3cUJOWkd5Yk5TVzJYREhDTnZEb1ZIU2xFeEsxbllnWnAzbHZ6eVcwa2h1YUNXelllSFE?oc=5"
+    }
+  ],
+  "date": "2026-09-25",
+  "generated_at_utc": "2026-09-25T21:10:37Z",
+  "items": [
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "Meta เปิดตัว Muse ตัวแทน AI ส่วนตัวที่มีประสิทธิภาพสูงกว่า ChatGPT ในช่วงเริ่มต้น และเตรียมใช้งานกับแว่นตาอัจฉริยะ ส่งผลให้ Meta กลายเป็นจุดสนใจหลักในวงการ AI ขณะนี้",
+      "title_th": "Meta เปิดตัว Muse ตัวแทน AI ส่วนตัวที่แซงหน้า ChatGPT",
+      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "why_it_matters": "แสดงให้เห็นการแข่งขันที่รุนแรงและนวัตกรรมใหม่ในวงการ AI โดย Meta ก้าวขึ้นเป็นผู้นำด้านตัวแทน AI ส่วนตัว"
+    },
+    {
+      "source": "xAI / Grok",
+      "summary_th": "Elon Musk เปิดเผยแผนขยายศูนย์ข้อมูล Colossus 2 ที่เมมฟิส โดยจะเพิ่มจำนวนชิป Nvidia GB300 เป็นเกือบ 1.21 ล้านตัวภายในสิ้นปี 2026 เพื่อรองรับความต้องการคำนวณ AI ที่สูงขึ้น",
+      "title_th": "Elon Musk เผยแผนขยายศูนย์ข้อมูล Colossus 2 ด้วยชิป Nvidia เกือบล้านตัวในปีนี้",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11ZXB5eWxVclNjR2NhczA4Qi1QRmVsNWZMd0hHZWJMdXRZVlFWWFNEcUFoVkhBMDVGa1h6aERkRm5sV19BVk54ekRGX2ZSWGFDQTRsMHNCM0NZVGs2NXl3QlNUTWRqbTdqQ2NJeXFMRDF4dTNTbWc?oc=5",
+      "why_it_matters": "สะท้อนความต้องการทรัพยากรคอมพิวเตอร์ระดับสูงเพื่อฝึกและให้บริการโมเดล AI ขนาดใหญ่ในยุคใหม่"
+    },
+    {
+      "source": "Microsoft AI",
+      "summary_th": "Microsoft เปิดตัวแอป Copilot ใหม่ที่รวมฟีเจอร์แชท เขียนโค้ด และตัวแทน AI ไว้ในแอปเดียว ช่วยให้ผู้ใช้ทำงานได้รวดเร็วและมีประสิทธิภาพมากขึ้นในสภาพแวดล้อมองค์กร",
+      "title_th": "Microsoft เปิดตัว Copilot 'ซูเปอร์แอป' รวมแชท เขียนโค้ด และตัวแทน AI",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWkZ3aFlFY3dPV0cyWUhEMGgzTlVpRXpGQVFSVDYxWDZuTGRMLS1sX1JSWmE3RURYYk8xTmk0QklOb0pHSHZ2U0FyWktsMEdUczBMbnRsWk12bWdnamJmaHp2a2NvT2tjN2RWM3BSdm1DeW1rcWtXLWxSYnpmbXVfUGVaQmdua2FFUEt3aTgzYzdUbmRPeHNCQzNIVENzLWlrMFh4d3hIM3MtM1VkWk5IWmNhanZ5RmY4a1E?oc=5",
+      "why_it_matters": "การรวมฟีเจอร์ AI หลายด้านในแอปเดียวจะเปลี่ยนวิธีการทำงานในองค์กรให้มีประสิทธิภาพสูงขึ้น"
+    },
+    {
+      "source": "Reuters Tech",
+      "summary_th": "ประธาน FTC เสนอแนวคิดว่าผู้พัฒนา AI ควรรับผิดชอบต่อการกระทำของตัวแทน AI ที่พวกเขาสร้างขึ้น เพื่อเพิ่มความรับผิดชอบและความปลอดภัยในระบบ AI ที่ใช้งานจริง",
+      "title_th": "FTC เสนอให้ผู้พัฒนา AI รับผิดชอบต่อพฤติกรรมของตัวแทน AI",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR0NHdkNjeHVId0Z1MThydkhrVktZMWtKM1FRYmQ2dlRFb2tqR1pXT3FGMkFBLXF5QkJCRzd1RGtLNENtT2k4bkxFclJ3elNzWVkzaXBTam55UlJGQ2FTLVFYd1AyNmRCNzhOYXJtVENXTzVSbzV3U04wbk5lTDFVSkZONEY0TzdyaG1kS1NGaHV6ZE5GSk1xZE9WY1pTU0JtV1E0Vk9lRQ?oc=5",
+      "why_it_matters": "เป็นก้าวสำคัญในการกำกับดูแล AI เพื่อป้องกันความเสียหายและส่งเสริมความรับผิดชอบในอุตสาหกรรม"
+    },
+    {
+      "source": "AWS AI",
+      "summary_th": "Amazon Bedrock เปิดตัว NarrateAI ระบบตรวจสอบคุณภาพสำหรับโมเดลภาษาใหญ่ (LLM) ที่ช่วยให้ผู้บริหารสามารถตัดสินใจด้วยข้อมูลที่ถูกต้องและรวดเร็วในเวลาจริง ลดความผิดพลาดจากข้อมูลผิดพลาดหรือการตอบช้า",
+      "title_th": "Amazon Bedrock เปิดตัว NarrateAI ระบบตรวจสอบคุณภาพ LLM สำหรับธุรกิจ",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlFzaDZ4bEtLQml2Y0pjVnpJQWlLSTY2ZXU4UEFSWnlrTmdrcURlVDJuVUFpeEQyeFpKakdpWHdyYW1SZnlFNnkySVVlZ1RaTGZiOUEwaE5wZFNpVXlqaEw0LTUtRFV5dnpySzZ1S1VqaU1tN25td3ZLUDVOeFlFaU5NQlNjelNCZkFKMWJfU1YzT244VGdCU25oUnNvcndURE5fU1BJdVlMVUE3V3BXOFNqdw?oc=5",
+      "why_it_matters": "ช่วยยกระดับความน่าเชื่อถือของ AI ในการใช้งานจริงโดยเฉพาะในองค์กรที่ต้องการความแม่นยำสูง"
+    }
+  ],
+  "jev_screen": {
+    "brief_kind": "ai",
+    "error_type": "RuntimeError",
+    "input_count": 25,
+    "mode": "active",
+    "output_count": 25,
+    "status": "fail_open_error"
+  },
+  "model_used": "openai:gpt-4.1-mini"
+}
