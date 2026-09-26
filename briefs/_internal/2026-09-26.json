@@ -1,0 +1,372 @@
+{
+  "articles": [
+    {
+      "published": "2026-09-26T20:20:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "10 Unexpected Consequences Of An Economic Crisis Nobody Is Talking About",
+      "url": "https://www.zerohedge.com/personal-finance/10-unexpected-consequences-economic-crisis-nobody-talking-about"
+    },
+    {
+      "published": "2026-09-26T12:45:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "AI Doom: A Brief History Of Bad Tech Predictions",
+      "url": "https://www.zerohedge.com/markets/ai-doom-brief-history-bad-tech-predictions"
+    },
+    {
+      "published": "2026-09-26T07:15:32+00:00",
+      "publisher": "Financial Times",
+      "source": "Financial Times Companies",
+      "title": "Medicines run short in Iran under US sanctions",
+      "url": "https://www.ft.com/content/fb890a8d-f530-497e-8486-27186ee66b9b?syn-25a6b1a6=1"
+    },
+    {
+      "published": "2026-09-26T12:00:01+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Top News",
+      "title": "China wants in on U.S. AI data center boom. Here's why",
+      "url": "https://www.cnbc.com/2026/09/26/china-us-ai-data-centers.html"
+    },
+    {
+      "published": "2026-09-26T10:58:02+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Top News",
+      "title": "China, U.S. agree to $30 billion tariff cut, AI dialogue during Xi visit, Beijing says",
+      "url": "https://www.cnbc.com/2026/09/26/china-us-tariff-cut-ai-dialogue.html"
+    },
+    {
+      "published": "2026-09-26T18:38:40+00:00",
+      "publisher": "Wall Street Journal",
+      "source": "WSJ Markets (Google News)",
+      "title": "U.S. Stocks Drop as Treasury Yields Surge - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOFpoZ25MRHVkM25IWElidjV6R1FQVWkydHlnN1poQXFxamNPR1hMdzgtanpWS01KWjdMRW9FdDhUS1JJaDktemVHeHQ4TVhxV2dickt4SUw3WUxPRF9LVGJhaDRwM2NRSXZ4U21saDVZMXFRcmtoX3ZjbDY5UU85bm1pZ25pSGNQZUt0VnpSZzI?oc=5"
+    },
+    {
+      "published": "2026-09-26T15:04:38+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Markets (Google News)",
+      "title": "US Says China to Buy 10 Million Tons of Coal in 2027 and 2028 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUXVPZTZ1QnpkM01VelF4WWtydjg0QlplcHVJZzE1aHE0RDNpeVQ3V21UeUhnNTRiNFJWdWNnOFpxa05LckYwYldqbjZBNV9pd3lydG9aNUExZWMzUW9nV3V0aVNQZXRzUmhnNl9pdEQ4SV9acVVjTVFxMEdqd1NCbjhJVmY3UW15WGpvdkJTRVRnblcwSUYwQ2w0ejlmcWw4cF9YRW8tMVMwS1FlQ2VoNnlB?oc=5"
+    },
+    {
+      "published": "2026-09-26T17:54:00+00:00",
+      "publisher": "MarketWatch",
+      "source": "MarketWatch Top Stories",
+      "title": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
+      "url": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories"
+    },
+    {
+      "published": "2026-09-26T08:00:03+00:00",
+      "publisher": "Financial Times",
+      "source": "Financial Times Companies",
+      "title": "Manchester City’s moment of reckoning",
+      "url": "https://www.ft.com/content/9a7e735b-094d-40d7-8ba0-88ce3c954872?syn-25a6b1a6=1"
+    },
+    {
+      "published": "2026-09-26T03:18:00+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters US Politics (Google News)",
+      "title": "Trump seeks to withhold $800 million in Congress-approved funds - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV0NEM09wY1NMTncySWN2blBvTk9tZzhpb1FCVXMtWDdWSnFtQmpEbm5jN0dHaTA2cmxwamNuRzBRSG92Rzk2Q0tlaTV6dm1FZXV2MVhqVVhhMVlmTV9LelBGaGZ2WXZkRkZJWnJzMFVGMWdVcEdLUWh2VnEzX2dIZzBEZFpYTktfanhBZWhES0dCMFJ2LVlBZkxZUXN3b0lKMXNrS0dWZU80NHpMT0E?oc=5"
+    },
+    {
+      "published": "2026-09-25T23:49:24+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters US Politics (Google News)",
+      "title": "US Supreme Court bars Republican-drawn map in Missouri for third time - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd3VkNmxUVGxldnFnVmhycE5zYVRIUG1qUmNXbWRZcGp2bWZTbUp4UERnbFY1QlEwSFJzMEdUTmFuQy1ldXZONDFUWlprNFl5VlgwMlVDS0FEMjRCQUY1MXFzZTZUZG53alVsNk1ubC1rZFpGR3owWjVOOU5xOHJLLXE3VmFNaVc0R3lseDU4TV9uUlA2N2tXNUx6SkN4aGNlSTVWcHZWcw?oc=5"
+    },
+    {
+      "published": "2026-09-26T11:18:03+00:00",
+      "publisher": "Axios",
+      "source": "Axios US Policy",
+      "title": "U.S., China reach $30 billion tariff deal after Trump-Xi summit - Axios",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXYUZGel9ZYmZTYjdDM0lhV3BkUUNSdGFFOTRNWGM5TzZ0NVBzZW5aeUNjUGlCYXpYdUNjNXU5UmF3VFppVVhHNFlzQWtzZFlDSEVBLTZDUlRORURGTVBjazFCLS1JejcyNXM5cjJsTk83dzFi?oc=5"
+    },
+    {
+      "published": "2026-09-26T00:33:00+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Markets (Google News)",
+      "title": "SK Hynix’s Solidigm Is Said to Weigh US IPO as Soon as 2027 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORkhwSlMzYTNjTEdOUEtZbF9Oc2xvZ2pFWEdYQWFXdUs3dThjNk4zUWlTanltdFpRLWFKeXc0aFpXODVkVmlveG54LVNlQ05GLXFzRDZ4R2liMUhrZi15d0pqUjJZYWEwS3lscHY4ZThjMzl3aWJfSGlVRlZELXJMVGg3d0ZRVHNIM1dVcGROUmUxZ2hLVFplXzFHQk1RN3lGcnZETTBIUUhYLThxeXFR?oc=5"
+    },
+    {
+      "published": "2026-09-26T23:05:27+00:00",
+      "publisher": "Wall Street Journal",
+      "source": "WSJ Markets (Google News)",
+      "title": "Print Edition | Wall Street Journal - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRVHBVRmJ3Sjd2X3lEb25zWU5uXzNWWW14Z19mZExuaW5EdVZJNkVlc1Jtd2xtU3ozRzZpamUwU3g4UE1uMWIxVWx6WlUtbFRFUzM5bURCTGNlNE41N010ZlJn?oc=5"
+    },
+    {
+      "published": "2026-09-26T01:59:00+00:00",
+      "publisher": "The New York Times",
+      "source": "NYT US Business (Google News)",
+      "title": "In Trump’s White House, China’s Dictator Is Welcome. American Media, Less So. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNDZSUkZjYWRiSkJqdFdCalh0aUFOZUV6MmNJVWlReW5QWkhENVNjZm4yeU0teDBya0JmR2RzYk4yUE1WdFFOby02YXJSLTdCeDJaZmRJRmlabkdFVWtsR3FKcTlvNlZnWUV6YnZPVzZCYVlKeHBnN3gtaWZOam9lMnlvYzh6aEd3WjRNNnZn?oc=5"
+    },
+    {
+      "published": "2026-09-26T01:05:34+00:00",
+      "publisher": "The New York Times",
+      "source": "NYT US Business (Google News)",
+      "title": "Trump Proposes $810 Million in Education and Health Cuts, Defying Congress - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVHctNEt4RHVjYXREeERXb3gzRDlaUkpxd3ZLN2FuWXgtWVNiVWJxU2NReUZTWU93U1JxYkpza2RvMWtQOW9lbVI0bkpPcloyVFZZR3JuRU5EOE9udjdNZ0I5bVNETGFHeWtBWk9lV1oxVS1hVDlXRHlsRkJBOUVxQks3VEV3SnpNeGdnaXFnSXdCOTZKSjUwaF9zNTJvS2NmVC0zNQ?oc=5"
+    },
+    {
+      "published": "2026-09-26T18:04:09+00:00",
+      "publisher": "Seeking Alpha Market News",
+      "source": "Seeking Alpha Market News",
+      "title": "Foreign capital investment into US equities hits record",
+      "url": "https://seekingalpha.com/news/4647377-foreign-capital-investment-into-us-equities-hits-record?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+    },
+    {
+      "published": "2026-09-26T16:34:45+00:00",
+      "publisher": "Seeking Alpha Market News",
+      "source": "Seeking Alpha Market News",
+      "title": "US Army Reserve seeks feedback on potential readiness for action in Cuba: CBS",
+      "url": "https://seekingalpha.com/news/4647375-us-army-reserve-seeks-feedback-potential-readiness-action-cuba?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+    },
+    {
+      "published": "2026-09-26T18:52:27+00:00",
+      "publisher": "AP News",
+      "source": "AP US Economy",
+      "title": "Panthers coach Dave Canales says RB Jonathon Brooks expected to miss 6-8 weeks - AP News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOC01OVdQY2dWZHR4cHk2X1FnYnpKUldWbW9jY042REFtcXJ0ekFzOFM3cmdnbk53RENMbFFDaXp5UVliODF1NDJTX2FfV1k2X3pycGhUVG43X25Hd2t5LTZLT1hjRTFYZWpIOEY5VUlXYVg4cmFtWk95bmJjNElsUW1FamctdGk3SVZxcFpKcw?oc=5"
+    },
+    {
+      "published": "2026-09-26T17:15:00+00:00",
+      "publisher": "MarketWatch",
+      "source": "MarketWatch Top Stories",
+      "title": "Social Security checks are projected to be cut by $540 a month in just six years",
+      "url": "https://www.marketwatch.com/story/social-security-checks-are-projected-to-be-cut-by-540-a-month-in-just-six-years-a8842912?mod=mw_rss_topstories"
+    },
+    {
+      "published": "2026-09-26T14:08:17+00:00",
+      "publisher": "Politico",
+      "source": "Politico Economy Policy",
+      "title": "Grindr’s Capitol Hill daddies - Politico",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbXlRZXJxM3I5T0RNQmRrUDNrY2RpYnYwUFpuaXpnYkM3Zmx0UEJHY21tb1FCeWxJZ3U4eTczclZ3VHNhbXdzSGtua24zcDhET1VRZE5hZFQxVW52OUZ2c0NUXzNONHdwNkJaUkNkdVdyV2tma053aHl6REhYMV9iUzhFUGZmYXhNSWE3dFdjOEwtZzhqNlplOVln?oc=5"
+    },
+    {
+      "published": "2026-09-26T11:00:00+00:00",
+      "publisher": "Politico",
+      "source": "Politico Economy Policy",
+      "title": "Trump Promised the Truth About UFOs. These Scientists Are Waiting. - Politico",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRzhRd3BxSFdKWHktN1Q3VHBhUDRXR185ZG1yZmh5XzFfQUZpSmdZZ0k2d1RWUl9JeUF4M0cxNU5uYU1MaTFVd2E1WDVUR25ocmN0T0FfZnU1Tl9tazNUT1dMX0R0dGJfaTM3clJmT0Zwd24tdFlOOGhWekZpQmlGNF9rd2k3NnM1R3pYNGFLY3FkalRGSThZ?oc=5"
+    },
+    {
+      "published": "2026-09-26T18:00:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "Rickards: The Real In AI Is Not 'Super-Intelligence', It's China",
+      "url": "https://www.zerohedge.com/ai/rickards-real-ai-not-super-intelligence-its-china"
+    },
+    {
+      "published": "2026-09-26T11:00:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "Should Europeans Overthrow Their 'Ruling Class'",
+      "url": "https://www.zerohedge.com/geopolitical/should-europeans-overthrow-their-ruling-class"
+    },
+    {
+      "published": "2026-09-26T03:25:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "The Fog Bezmenov Warned About Has An American Address",
+      "url": "https://www.zerohedge.com/geopolitical/fog-bezmenov-warned-about-has-american-address"
+    }
+  ],
+  "date": "2026-09-26",
+  "generated_at_utc": "2026-09-26T23:12:03Z",
+  "items": [
+    {
+      "category": "Macro/Fed",
+      "impact": "high",
+      "key_numbers": [],
+      "rank": 1,
+      "sectors": [
+        "Financials",
+        "Industrials",
+        "Real Estate"
+      ],
+      "sentiment": "bearish",
+      "source_name": "WSJ Markets (Google News)",
+      "summary_th": "ตลาดหุ้นสหรัฐฯ ปรับตัวลดลงเนื่องจากผลตอบแทนพันธบัตรรัฐบาลสหรัฐฯ ปรับตัวขึ้นอย่างรวดเร็ว ส่งผลกระทบต่อต้นทุนการกู้ยืมและความน่าสนใจของหุ้นในตลาด (WSJ)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ตลาดหุ้นสหรัฐฯ ร่วงหลังผลตอบแทนพันธบัตรพุ่ง",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOFpoZ25MRHVkM25IWElidjV6R1FQVWkydHlnN1poQXFxamNPR1hMdzgtanpWS01KWjdMRW9FdDhUS1JJaDktemVHeHQ4TVhxV2dickt4SUw3WUxPRF9LVGJhaDRwM2NRSXZ4U21saDVZMXFRcmtoX3ZjbDY5UU85bm1pZ25pSGNQZUt0VnpSZzI?oc=5",
+      "watch_next": "ติดตามการเคลื่อนไหวของอัตราผลตอบแทนพันธบัตรและผลกระทบต่อตลาดหุ้น"
+    },
+    {
+      "category": "Geopolitics",
+      "impact": "high",
+      "key_numbers": [
+        "30000000000"
+      ],
+      "rank": 2,
+      "sectors": [
+        "Tech"
+      ],
+      "sentiment": "bullish",
+      "source_name": "CNBC Top News, Axios US Policy",
+      "summary_th": "จีนและสหรัฐฯ บรรลุข้อตกลงลดภาษีสินค้า 30 พันล้านดอลลาร์ในระหว่างการเยือนของประธานาธิบดีสีจิ้นผิง พร้อมเปิดการเจรจาเกี่ยวกับ AI เพื่อส่งเสริมความร่วมมือทางเทคโนโลยี (CNBC, Axios)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "จีน-สหรัฐฯ ตกลงลดภาษี 30 พันล้านดอลลาร์ พร้อมเจรจา AI",
+      "url": "https://www.cnbc.com/2026/09/26/china-us-tariff-cut-ai-dialogue.html",
+      "watch_next": "ติดตามผลกระทบของข้อตกลงภาษีต่อการค้าระหว่างประเทศและอุตสาหกรรม AI"
+    },
+    {
+      "category": "Macro/Fed",
+      "impact": "high",
+      "key_numbers": [],
+      "rank": 3,
+      "sectors": [],
+      "sentiment": "bullish",
+      "source_name": "Seeking Alpha Market News",
+      "summary_th": "เงินทุนจากต่างชาติเข้าลงทุนในหุ้นสหรัฐฯ ทะลุระดับสูงสุดเป็นประวัติการณ์ สะท้อนความเชื่อมั่นต่อตลาดหุ้นสหรัฐฯ แม้มีความไม่แน่นอนทางเศรษฐกิจ (Seeking Alpha)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "เงินลงทุนต่างชาติในหุ้นสหรัฐฯ ทะลุระดับสูงสุดเป็นประวัติการณ์",
+      "url": "https://seekingalpha.com/news/4647377-foreign-capital-investment-into-us-equities-hits-record?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "watch_next": "ติดตามการไหลเข้าของเงินทุนและผลกระทบต่อตลาดหุ้นสหรัฐฯ"
+    },
+    {
+      "category": "Geopolitics",
+      "impact": "high",
+      "key_numbers": [],
+      "rank": 4,
+      "sectors": [
+        "Tech",
+        "Financials",
+        "Communication Services"
+      ],
+      "sentiment": "bearish",
+      "source_name": "ZeroHedge",
+      "summary_th": "นักวิเคราะห์เตือนว่าความเสี่ยงที่แท้จริงของ AI ไม่ใช่ซูเปอร์อินเทลลิเจนซ์ แต่เป็นการใช้ AI ของจีนเพื่อโจมตีสหรัฐฯ และการลักลอบขโมยเทคโนโลยี AI จากสหรัฐฯ ซึ่งส่งผลต่อความมั่นคงแห่งชาติและระบบการเงิน (ZeroHedge)",
+      "tickers": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN",
+        "NVDA"
+      ],
+      "time_horizon": "long-term",
+      "title_th": "ความเสี่ยงด้าน AI จริงๆ คือจีน ไม่ใช่ 'ซูเปอร์อินเทลลิเจนซ์'",
+      "url": "https://www.zerohedge.com/ai/rickards-real-ai-not-super-intelligence-its-china",
+      "watch_next": "ติดตามความเคลื่อนไหวของการแข่งขัน AI ระหว่างสหรัฐฯ และจีน"
+    },
+    {
+      "category": "Macro/Fed",
+      "impact": "high",
+      "key_numbers": [],
+      "rank": 5,
+      "sectors": [],
+      "sentiment": "bearish",
+      "source_name": "MarketWatch Top Stories",
+      "summary_th": "ราคาสินค้าและบริการในสหรัฐฯ ปรับตัวสูงขึ้นอย่างต่อเนื่องมากกว่า 5 ปี ส่งผลให้ความเชื่อมั่นของผู้บริโภคลดลงและกระทบต่อการใช้จ่ายของประชาชน (MarketWatch)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ราคาสินค้าและบริการสูงขึ้นกดดันความเชื่อมั่นผู้บริโภคสหรัฐฯ กว่า 5 ปี",
+      "url": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
+      "watch_next": "ติดตามข้อมูลเงินเฟ้อและผลกระทบต่อการบริโภคในอนาคต"
+    },
+    {
+      "category": "Regulation",
+      "impact": "medium",
+      "key_numbers": [
+        "800000000"
+      ],
+      "rank": 6,
+      "sectors": [],
+      "sentiment": "bearish",
+      "source_name": "Reuters US Politics (Google News)",
+      "summary_th": "อดีตประธานาธิบดีทรัมป์พยายามระงับการใช้จ่ายงบประมาณ 800 ล้านดอลลาร์ที่ได้รับการอนุมัติจากสภาคองเกรส ซึ่งอาจก่อให้เกิดความขัดแย้งทางการเมืองและผลกระทบต่อโครงการรัฐบาล (Reuters US Politics)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ทรัมป์พยายามระงับงบประมาณ 800 ล้านดอลลาร์ที่สภาคองเกรสอนุมัติ",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV0NEM09wY1NMTncySWN2blBvTk9tZzhpb1FCVXMtWDdWSnFtQmpEbm5jN0dHaTA2cmxwamNuRzBRSG92Rzk2Q0tlaTV6dm1FZXV2MVhqVVhhMVlmTV9LelBGaGZ2WXZkRkZJWnJzMFVGMWdVcEdLUWh2VnEzX2dIZzBEZFpYTktfanhBZWhES0dCMFJ2LVlBZkxZUXN3b0lKMXNrS0dWZU80NHpMT0E?oc=5",
+      "watch_next": "ติดตามความเคลื่อนไหวของงบประมาณและผลกระทบทางการเมือง"
+    },
+    {
+      "category": "Regulation",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 7,
+      "sectors": [],
+      "sentiment": "neutral",
+      "source_name": "Reuters US Politics (Google News)",
+      "summary_th": "ศาลสูงสุดสหรัฐฯ ตัดสินห้ามใช้แผนที่เขตเลือกตั้งที่รีพับลิกันวาดในรัฐมิสซูรีเป็นครั้งที่ 3 เนื่องจากพบปัญหาการแบ่งเขตเลือกตั้งที่ไม่เป็นธรรม ส่งผลต่อการเมืองระดับรัฐและชาติ (Reuters US Politics)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ศาลสูงสุดสหรัฐฯ ห้ามใช้แผนที่เขตเลือกตั้งที่วาดโดยรีพับลิกันในมิสซูรีเป็นครั้งที่ 3",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd3VkNmxUVGxldnFnVmhycE5zYVRIUG1qUmNXbWRZcGp2bWZTbUp4UERnbFY1QlEwSFJzMEdUTmFuQy1ldXZONDFUWlprNFl5VlgwMlVDS0FEMjRCQUY1MXFzZTZUZG53alVsNk1ubC1rZFpGR3owWjVOOU5xOHJLLXE3VmFNaVc0R3lseDU4TV9uUlA2N2tXNUx6SkN4aGNlSTVWcHZWcw?oc=5",
+      "watch_next": "ติดตามผลกระทบของคำตัดสินต่อการเลือกตั้งและการเมืองในรัฐอื่นๆ"
+    },
+    {
+      "category": "Geopolitics",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 8,
+      "sectors": [],
+      "sentiment": "neutral",
+      "source_name": "Seeking Alpha Market News",
+      "summary_th": "กองกำลังสำรองของกองทัพสหรัฐฯ ขอรับฟังความคิดเห็นเกี่ยวกับความพร้อมในการปฏิบัติการที่คิวบา ซึ่งสะท้อนถึงความตึงเครียดทางภูมิรัฐศาสตร์ในภูมิภาคนี้ (Seeking Alpha)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "สหรัฐฯ เตรียมความพร้อมกองกำลังสำรองสำหรับปฏิบัติการที่คิวบา",
+      "url": "https://seekingalpha.com/news/4647375-us-army-reserve-seeks-feedback-potential-readiness-action-cuba?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "watch_next": "ติดตามสถานการณ์ความตึงเครียดและการตอบสนองทางทหารในภูมิภาค"
+    },
+    {
+      "category": "Commodity",
+      "impact": "medium",
+      "key_numbers": [
+        "10000000"
+      ],
+      "rank": 9,
+      "sectors": [
+        "Energy",
+        "Materials"
+      ],
+      "sentiment": "neutral",
+      "source_name": "Bloomberg Markets (Google News)",
+      "summary_th": "สหรัฐฯ รายงานว่าจีนจะซื้อถ่านหินจำนวน 10 ล้านตันในปี 2027 และ 2028 เพื่อรองรับความต้องการพลังงานที่เพิ่มขึ้น ส่งผลต่อราคาถ่านหินและตลาดพลังงานโลก (Bloomberg)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "จีนเตรียมซื้อถ่านหิน 10 ล้านตันในปี 2027 และ 2028",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUXVPZTZ1QnpkM01VelF4WWtydjg0QlplcHVJZzE1aHE0RDNpeVQ3V21UeUhnNTRiNFJWdWNnOFpxa05LckYwYldqbjZBNV9pd3lydG9aNUExZWMzUW9nV3V0aVNQZXRzUmhnNl9pdEQ4SV9acVVjTVFxMEdqd1NCbjhJVmY3UW15WGpvdkJTRVRnblcwSUYwQ2w0ejlmcWw4cF9YRW8tMVMwS1FlQ2VoNnlB?oc=5",
+      "watch_next": "ติดตามราคาถ่านหินและผลกระทบต่ออุตสาหกรรมพลังงาน"
+    },
+    {
+      "category": "Regulation",
+      "impact": "medium",
+      "key_numbers": [
+        "810000000"
+      ],
+      "rank": 10,
+      "sectors": [
+        "Healthcare",
+        "Education"
+      ],
+      "sentiment": "bearish",
+      "source_name": "NYT US Business (Google News)",
+      "summary_th": "อดีตประธานาธิบดีทรัมป์เสนอปรับลดงบประมาณด้านการศึกษาและสาธารณสุขรวม 810 ล้านดอลลาร์ แม้ขัดแย้งกับสภาคองเกรส ซึ่งอาจส่งผลกระทบต่อโครงการและบริการของรัฐบาล (NYT)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ทรัมป์เสนอปรับลดงบประมาณด้านการศึกษาและสาธารณสุข 810 ล้านดอลลาร์",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVHctNEt4RHVjYXREeERXb3gzRDlaUkpxd3ZLN2FuWXgtWVNiVWJxU2NReUZTWU93U1JxYkpza2RvMWtQOW9lbVI0bkpPcloyVFZZR3JuRU5EOE9udjdNZ0I5bVNETGFHeWtBWk9lV1oxVS1hVDlXRHlsRkJBOUVxQks3VEV3SnpNeGdnaXFnSXdCOTZKSjUwaF9zNTJvS2NmVC0zNQ?oc=5",
+      "watch_next": "ติดตามการตอบสนองของสภาคองเกรสและผลกระทบต่อบริการสาธารณะ"
+    }
+  ],
+  "jev_screen": {
+    "brief_kind": "us",
+    "error_type": "RuntimeError",
+    "input_count": 25,
+    "mode": "active",
+    "output_count": 25,
+    "status": "fail_open_error"
+  },
+  "model_used": "openai:gpt-4.1-mini"
+}
