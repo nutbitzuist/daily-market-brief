@@ -1,0 +1,379 @@
+{
+  "articles": [
+    {
+      "published": "2026-09-28T15:00:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "Key Events This Week: Jobs, Core PCE And ISM",
+      "url": "https://www.zerohedge.com/economics/key-events-week-jobs-core-pce-and-ism"
+    },
+    {
+      "published": "2026-09-28T15:40:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "Bessent Begs Fed For Mercy",
+      "url": "https://www.zerohedge.com/political/bessent-begs-fed-mercy-hormuz-stand-sends-oil-soaring-and-10-year-yield-nearly-20-year"
+    },
+    {
+      "published": "2026-09-28T17:11:55+00:00",
+      "publisher": "Financial Times",
+      "source": "Financial Times Companies",
+      "title": "TotalEnergies boosts buybacks and dividends as oil prices surge",
+      "url": "https://www.ft.com/content/1cd3310e-da01-49da-9a3c-8029d59f5761?syn-25a6b1a6=1"
+    },
+    {
+      "published": "2026-09-28T10:27:46+00:00",
+      "publisher": "Financial Times",
+      "source": "Financial Times Companies",
+      "title": "FirstFT: Oil price rise puts more pressure on government bonds",
+      "url": "https://www.ft.com/content/47019489-f00e-4c96-bb79-5c628c89b3a1?syn-25a6b1a6=1"
+    },
+    {
+      "published": "2026-09-28T18:00:06+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Top News",
+      "title": "Anthropic launches cheaper AI model, its second release since CEO's call for a slowdown",
+      "url": "https://www.cnbc.com/2026/09/28/anthropic-sonnet-5-5-launch.html"
+    },
+    {
+      "published": "2026-09-28T08:06:00+00:00",
+      "publisher": "Wall Street Journal",
+      "source": "WSJ Markets (Google News)",
+      "title": "Gold Futures Down 3% on Fed Rate-Hike Bets - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSHJhMENUMUlZemJOcXZNWjlKd2FQY0lhZWh3RzRfTDNEVjUzQ0xqZ1VHdU9EcHY5Ty12MlQ5djY0WnllRUtKaF9SVkZ0LTRYNy1fZGtPOWZXa0xyMTBwUXdXU1piUEgtTzBEeF9jY3dOdjlIVDRYNFEzSzVXQi1VMzJOTVRPbUFIOE96Uk5QSW1xR3Q3QUNNYzk3eVRUZ0tjN1FQS2ZIZkFBUHpnRlF5d2dPczQ?oc=5"
+    },
+    {
+      "published": "2026-09-28T20:20:38+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters US Politics (Google News)",
+      "title": "White House weighs red-dyed diesel tax relief to lower fuel prices - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGVaUEhyZkFiZjllQjF6QzRaV2ZmVXk4TVdaUnJQNzg0VEhUZFFleC1WVHByOE16QV8wb3lucjNybVdCM2sxU1NWMTJTamV0MENoMVktQ0h0d0Y1VlpDRmhfbVBybng4dFhDTHN5WWQxZDV2V2lsWUtRUllsci1FQzk0S0cteTQxNlo1WU90UGg5dG4ydmpid3BPSjNGMlNQYl9xYWhMMFJjeFFRMUh6OHhncHhybmM?oc=5"
+    },
+    {
+      "published": "2026-09-28T21:43:40+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Top News",
+      "title": "Khanna to introduce AI safety bill with ban on 'recursive' technology until safeguards exist",
+      "url": "https://www.cnbc.com/2026/09/28/khanna-ai-safety-bill.html"
+    },
+    {
+      "published": "2026-09-28T11:15:52+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Markets (Google News)",
+      "title": "US Stocks Decline as Middle East Stalemate Pushes Oil Higher - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaTlMWU1xOW9nMExPeVBFR01fZkk5UnNwRXNmekJyZXBBNlRVWkx0SVV4WVlJT0R2Qk1kWmlldXpuU1ppaUVuR2dRazF1aHpLN0lyN0U4UjlrMXR5bnotd0pQcEVRNnkzRU1lRmY1VnA4eDRJZ0pfTzhEUkFyU2NzeHdYVTJYc05sNlYxQ29UcmtjS0ZWcnhEMzBPQlBDbDU5Q19hMG5XRXloZWZJcktoMw?oc=5"
+    },
+    {
+      "published": "2026-09-28T19:56:00+00:00",
+      "publisher": "Wall Street Journal",
+      "source": "WSJ Markets (Google News)",
+      "title": "U.S. Treasury Yields Climb to Fresh Highs Ahead Economic Data - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkg4dVZaRUxKcGtHVXhtbTZXQW9kekkzaUZkRDBSYVc3UjNOY2FwMDBYb3g2clY5WHY5aXhEdDcxUWoySlhZeV9hVWZIcmRZQXN1SjhESndPWkhScG1kemoxNDNyZ19ldU42Uzl3Nl9tcEk4QmdSckk4NmhtWnRCek1mNFM3cVl3UldDZkp2UkRfZVZNOG9DM1pwRl8?oc=5"
+    },
+    {
+      "published": "2026-09-28T16:56:21+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Markets (Google News)",
+      "title": "Man Group Says 5.5% Yields Risk Cracking AI Capex, US Consumer - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLWRaMlFWLTUzdjhUdl9XMXdtNGJ3YmFBNllVR1B5UzFBLXhQbmVtbnp6MThRREhTU2hqUTRpV1JkZkljd3BvZWtOYzl0VUpJOHBrOF80SEY0bTRlOTZ1UG8xSjFIWHhZblR0UlJCZ3VELWpFWkNwTlJTTlpRWEJJLTNuaVJNaE9qd3ljbmo2T3hlQzJFcWRaZkI4dXFqQ1VLTHRGaXNYZ2lERXZ3cElBRg?oc=5"
+    },
+    {
+      "published": "2026-09-28T17:46:30+00:00",
+      "publisher": "SEC Press Releases",
+      "source": "SEC Press Releases",
+      "title": "SEC Charges Registered Investment Adviser Zoe Financial for Failure to Disclose Conflict of Interest",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-94-sec-charges-registered-investment-adviser-zoe-financial-failure-disclose-conflict-interest"
+    },
+    {
+      "published": "2026-09-28T18:05:11+00:00",
+      "publisher": "The New York Times",
+      "source": "NYT US Business (Google News)",
+      "title": "China and the U.S. Pledge to Cut Tariffs on $60 Billion in Goods - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rdUg4QW9wLTQ0Q0NoSFRCckJveTFzQW1fN0gwNWpkT21xeExETUREUngtMV9aRWx5WHBLV1RPVTYyaU9XSnpzazc0QktxdFBoUl85cHJKV18zTlhCX2xVakN3Mnl2cHRPbFdyZjRJSG9OMlBUT1ZFZW01eDg?oc=5"
+    },
+    {
+      "published": "2026-09-28T09:41:35+00:00",
+      "publisher": "The New York Times",
+      "source": "NYT US Business (Google News)",
+      "title": "Oil Prices Climb on Continued Impasse in U.S.-Iran Talks - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wRlA1VlY2Nkw2SGJULTYySUR3QW9ILTRzMkJhSFZPUHJYNEZ3UFpjdUZCMk5xRlZGZGpBYzYzVzlOdmlacWNzU1NaSjlieXIxV1RPSGgyZjZhTVJTY0pfeE5uS2JGU2duWlRGQkZfbWduSXpXUWpGenJ3?oc=5"
+    },
+    {
+      "published": "2026-09-28T21:23:00+00:00",
+      "publisher": "MarketWatch",
+      "source": "MarketWatch Top Stories",
+      "title": "MongoDB’s stock is down nearly 20% as CEO decamps to Meta",
+      "url": "https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories"
+    },
+    {
+      "published": "2026-09-28T22:00:49+00:00",
+      "publisher": "Seeking Alpha Market News",
+      "source": "Seeking Alpha Market News",
+      "title": "Orion Digital regains Nasdaq compliance",
+      "url": "https://seekingalpha.com/news/4647822-orion-digital-regains-nasdaq-compliance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+    },
+    {
+      "published": "2026-09-28T20:43:00+00:00",
+      "publisher": "MarketWatch",
+      "source": "MarketWatch Top Stories",
+      "title": "Bond yields move relentlessly higher, as Wall Street wonders how much more tech stocks can take",
+      "url": "https://www.marketwatch.com/story/bond-yields-move-relentlessly-higher-as-wall-street-wonders-how-much-more-tech-stocks-can-take-dd050c39?mod=mw_rss_topstories"
+    },
+    {
+      "published": "2026-09-28T21:58:49+00:00",
+      "publisher": "Seeking Alpha Market News",
+      "source": "Seeking Alpha Market News",
+      "title": "RTX's Collins Aerospace unit wins $249.7M U.S. Navy contract",
+      "url": "https://seekingalpha.com/news/4647819-rtxs-collins-aerospace-unit-wins-2497m-us-navy-contract?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+    },
+    {
+      "published": "2026-09-28T04:04:16+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Economy",
+      "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August",
+      "url": "https://www.cnbc.com/2026/09/28/china-posts-weakest-industrial-profit-growth-this-year-expanding-4point2percent-in-august-.html"
+    },
+    {
+      "published": "2026-09-28T14:03:43+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters US Politics (Google News)",
+      "title": "In run for Brazil's presidency, Flavio Bolsonaro tests staying power of his father's legacy - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVGdjZXY2bW0yYWt5TFlaQ1lzTDhCN3ViOVlGUUZtYnlOUm40M1JFSmxDSzZSOEZwQlB6STMwT1RaVExfMjRXNzZ2bVFpeVprTm5rc1d6RlNUNzc4Nk5SdEU0OWp1S1VzUWw2YWVqdWM2VWY3ZXlpMUw0Rmx5cGJQNy1iVUV3dlRzRnBYLVYxb0FxbVBKcmNEYV9KTWtDZGtuQ3MtUnpIS1BNVkh5QVNERVgxR0xYa3l0Znp5Tzh0Z0VOd2wyZUJjSg?oc=5"
+    },
+    {
+      "published": "2026-09-28T15:55:00+00:00",
+      "publisher": "Politico",
+      "source": "Politico Economy Policy",
+      "title": "Trump's big regret: Consumers aren't buying his economic pitch. - Politico",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZEpoSnFscE83SDdsdUFVRGljU0lDQjJBTnI0N1VpZ08ydGRyX0UxSVFiVmtvV3JrQWtjUFE1UnBWbTBvZGcwZjAtY01ZenJxXzZDQkdDbXNNTU9KMEw5eVR2Q1lUSTNJMVpaakdLSGRITmxLNjBldnltUHNzQkd2Z0RYal93WnN6QTdIVnBLNXE3X2JKdkJmWER3?oc=5"
+    },
+    {
+      "published": "2026-09-28T19:24:00+00:00",
+      "publisher": "Politico",
+      "source": "Politico Economy Policy",
+      "title": "Inside the anti-climate campaign against researchers - Politico",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeXU3Sk9VcksweTFBUHRXaUVMQ194LXdKaVllRE5oaXg5LWluZzQtWmthRVBiMEN4UnN2V3RkOUZPcS1xRVJkMkRkaUVkNTlLOVpBSTlJdmRsLXV2VHpTX1cwUUtCV3lWaWk0X1F4LTFTek1ZVUpmOHlaaFZBdkhOa2dzQUxnbEp2cnBBaWVKT2FodkZVay1qZHVDSWFDYWprNjJB?oc=5"
+    },
+    {
+      "published": "2026-09-28T16:05:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "Fed Has Never Hiked In October Ahead Of US Elections: UBS",
+      "url": "https://www.zerohedge.com/markets/fed-has-never-hiked-october-ahead-us-elections-ubs"
+    },
+    {
+      "published": "2026-09-28T17:00:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "Gold, Banking, & A Historical Disturbance In The Force",
+      "url": "https://www.zerohedge.com/precious-metals/gold-banking-historical-disturbance-force"
+    },
+    {
+      "published": "2026-09-28T18:10:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "How The Data Center Debate May Shape The Midterms",
+      "url": "https://www.zerohedge.com/political/how-data-center-debate-may-shape-midterms"
+    }
+  ],
+  "date": "2026-09-28",
+  "generated_at_utc": "2026-09-28T23:13:16Z",
+  "items": [
+    {
+      "category": "Macro/Fed",
+      "impact": "high",
+      "key_numbers": [
+        "45000",
+        "4.1"
+      ],
+      "rank": 1,
+      "sectors": [
+        "Financials",
+        "Consumer",
+        "Real Estate"
+      ],
+      "sentiment": "neutral",
+      "source_name": "ZeroHedge",
+      "summary_th": "สัปดาห์นี้มีการเปิดเผยข้อมูลสำคัญของสหรัฐ ได้แก่ รายงานการจ้างงานเดือนกันยายนและดัชนีราคาสินค้าและบริการส่วนบุคคล (PCE) เดือนสิงหาคม ซึ่งเป็นตัวชี้วัดเงินเฟ้อที่ Fed ให้ความสำคัญ ข้อมูลเหล่านี้จะส่งผลต่อการตัดสินใจนโยบายการเงินและตลาดพันธบัตร โดยคาดว่าการจ้างงานจะเพิ่มขึ้นราว 45,000 ตำแหน่งและอัตราว่างงานคงที่ที่ 4.1% (ZeroHedge)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ตลาดแรงงานสหรัฐรอรายงานเดือนกันยายนและดัชนี PCE",
+      "url": "https://www.zerohedge.com/economics/key-events-week-jobs-core-pce-and-ism",
+      "watch_next": "ติดตามรายงานการจ้างงานและ PCE เพื่อประเมินทิศทางนโยบาย Fed"
+    },
+    {
+      "category": "Geopolitics",
+      "impact": "high",
+      "key_numbers": [
+        "107"
+      ],
+      "rank": 2,
+      "sectors": [
+        "Energy",
+        "Financials"
+      ],
+      "sentiment": "bearish",
+      "source_name": "ZeroHedge",
+      "summary_th": "ความขัดแย้งระหว่างสหรัฐและอิหร่านในช่องแคบฮอร์มุซยังไม่คลี่คลาย ทำให้ราคาน้ำมันดิบเบรนท์พุ่งขึ้นใกล้ 107 ดอลลาร์ต่อบาร์เรล และอัตราผลตอบแทนพันธบัตรรัฐบาลสหรัฐอายุ 10 ปีพุ่งขึ้นแตะระดับสูงสุดในรอบเกือบ 20 ปี ส่งผลให้ตลาดพันธบัตรอ่อนแอและสภาพคล่องตึงตัว (ZeroHedge)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ความตึงเครียดช่องแคบฮอร์มุซดันราคาน้ำมันและผลักดันอัตราผลตอบแทนพันธบัตรขึ้นสูงสุดรอบ 20 ปี",
+      "url": "https://www.zerohedge.com/political/bessent-begs-fed-mercy-hormuz-stand-sends-oil-soaring-and-10-year-yield-nearly-20-year",
+      "watch_next": "ติดตามสถานการณ์ช่องแคบฮอร์มุซและราคาน้ำมันที่อาจกระทบเงินเฟ้อและตลาดการเงิน"
+    },
+    {
+      "category": "Sector-specific",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 3,
+      "sectors": [
+        "Energy"
+      ],
+      "sentiment": "bullish",
+      "source_name": "Financial Times Companies",
+      "summary_th": "TotalEnergies บริษัทน้ำมันรายใหญ่ประกาศเพิ่มเงินปันผลและโปรแกรมซื้อหุ้นคืน หลังราคาน้ำมันดิบพุ่งสูงขึ้น ซึ่งสะท้อนความมั่นใจในรายได้และกระแสเงินสดที่แข็งแกร่งจากตลาดพลังงานที่ตึงตัว (Financial Times)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "TotalEnergies เพิ่มเงินปันผลและซื้อหุ้นคืนจากราคาน้ำมันที่พุ่งสูง",
+      "url": "https://www.ft.com/content/1cd3310e-da01-49da-9a3c-8029d59f5761?syn-25a6b1a6=1",
+      "watch_next": "ติดตามผลประกอบการและนโยบายเงินปันผลของบริษัทพลังงานรายใหญ่"
+    },
+    {
+      "category": "Earnings",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 4,
+      "sectors": [
+        "Tech"
+      ],
+      "sentiment": "neutral",
+      "source_name": "CNBC Top News",
+      "summary_th": "Anthropic เปิดตัวโมเดล AI รุ่นใหม่ที่มีราคาถูกลงเป็นครั้งที่สอง หลังจาก CEO เรียกร้องให้ชะลอการพัฒนา AI เพื่อความปลอดภัย การเปิดตัวนี้สะท้อนการแข่งขันและความกังวลด้านความปลอดภัยของเทคโนโลยี AI ที่กำลังเติบโต (CNBC)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "Anthropic เปิดตัวโมเดล AI ราคาถูก หลัง CEO เรียกร้องชะลอการพัฒนา",
+      "url": "https://www.cnbc.com/2026/09/28/anthropic-sonnet-5-5-launch.html",
+      "watch_next": "ติดตามการพัฒนาและนโยบายความปลอดภัย AI ที่อาจมีผลต่อตลาดเทคโนโลยี"
+    },
+    {
+      "category": "Macro/Fed",
+      "impact": "high",
+      "key_numbers": [
+        "5.5",
+        "68",
+        "69"
+      ],
+      "rank": 5,
+      "sectors": [
+        "Financials"
+      ],
+      "sentiment": "bearish",
+      "source_name": "WSJ Markets, ZeroHedge",
+      "summary_th": "อัตราผลตอบแทนพันธบัตรรัฐบาลสหรัฐอายุ 10 ปีและ 30 ปีพุ่งขึ้นแตะระดับสูงสุดในรอบหลายปี ท่ามกลางความกังวลว่า Fed อาจขึ้นดอกเบี้ยอีกครั้งในเดือนตุลาคม แม้ UBS ชี้ว่า Fed ไม่เคยขึ้นดอกเบี้ยในเดือนตุลาคมก่อนเลือกตั้ง (WSJ, ZeroHedge)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "อัตราผลตอบแทนพันธบัตรสหรัฐพุ่งสูง ท่ามกลางความกังวล Fed ขึ้นดอกเบี้ย",
+      "url": "https://www.zerohedge.com/markets/fed-has-never-hiked-october-ahead-us-elections-ubs",
+      "watch_next": "ติดตามการประกาศนโยบาย Fed และผลกระทบต่อตลาดพันธบัตรและหุ้นเทคโนโลยี"
+    },
+    {
+      "category": "Regulation",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 6,
+      "sectors": [
+        "Tech"
+      ],
+      "sentiment": "neutral",
+      "source_name": "CNBC Top News",
+      "summary_th": "ตัวแทน Khanna เตรียมเสนอร่างกฎหมายควบคุมความปลอดภัย AI โดยห้ามใช้เทคโนโลยี 'recursive' ที่สามารถพัฒนาตัวเองได้จนกว่าจะมีมาตรการป้องกันที่เหมาะสม เพื่อควบคุมความเสี่ยงจาก AI ที่อาจส่งผลกระทบต่อความมั่นคงและสังคม (CNBC)",
+      "tickers": [],
+      "time_horizon": "long-term",
+      "title_th": "สภาคองเกรสเตรียมเสนอร่างกฎหมายความปลอดภัย AI ห้ามใช้เทคโนโลยี 'recursive' จนกว่าจะมีมาตรการป้องกัน",
+      "url": "https://www.cnbc.com/2026/09/28/khanna-ai-safety-bill.html",
+      "watch_next": "ติดตามความคืบหน้ากฎหมาย AI และผลกระทบต่อตลาดเทคโนโลยี"
+    },
+    {
+      "category": "Geopolitics",
+      "impact": "medium",
+      "key_numbers": [
+        "60000000000"
+      ],
+      "rank": 7,
+      "sectors": [],
+      "sentiment": "bullish",
+      "source_name": "The New York Times",
+      "summary_th": "จีนและสหรัฐประกาศลดภาษีสินค้าร่วมกันมูลค่า 60,000 ล้านดอลลาร์ เพื่อบรรเทาความตึงเครียดทางการค้าและส่งเสริมการค้าระหว่างกัน ซึ่งอาจช่วยบรรเทาความเสี่ยงต่อห่วงโซ่อุปทานและตลาดโลก (The New York Times)",
+      "tickers": [],
+      "time_horizon": "long-term",
+      "title_th": "จีนและสหรัฐตกลงลดภาษีสินค้ามูลค่า 6 หมื่นล้านดอลลาร์",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rdUg4QW9wLTQ0Q0NoSFRCckJveTFzQW1fN0gwNWpkT21xeExETUREUngtMV9aRWx5WHBLV1RPVTYyaU9XSnpzazc0QktxdFBoUl85cHJKV18zTlhCX2xVakN3Mnl2cHRPbFdyZjRJSG9OMlBUT1ZFZW01eDg?oc=5",
+      "watch_next": "ติดตามผลกระทบการลดภาษีต่อการค้าระหว่างสหรัฐ-จีนและตลาดโลก"
+    },
+    {
+      "category": "M&A",
+      "impact": "medium",
+      "key_numbers": [
+        "249700000"
+      ],
+      "rank": 8,
+      "sectors": [
+        "Industrials"
+      ],
+      "sentiment": "bullish",
+      "source_name": "Seeking Alpha Market News",
+      "summary_th": "หน่วยธุรกิจ Collins Aerospace ของ RTX ได้รับสัญญาจากกองทัพเรือสหรัฐมูลค่า 249.7 ล้านดอลลาร์ เพื่อจัดหาอุปกรณ์และบริการที่เกี่ยวข้องกับการป้องกันประเทศ ซึ่งช่วยเสริมความแข็งแกร่งของธุรกิจในภาคอุตสาหกรรมป้องกันประเทศ (Seeking Alpha)",
+      "tickers": [
+        "RTX"
+      ],
+      "time_horizon": "short-term",
+      "title_th": "RTX ชนะสัญญากับกองทัพเรือสหรัฐ 249.7 ล้านดอลลาร์",
+      "url": "https://seekingalpha.com/news/4647819-rtxs-collins-aerospace-unit-wins-2497m-us-navy-contract?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "watch_next": "ติดตามสัญญาและการเติบโตของธุรกิจภาคป้องกันประเทศ"
+    },
+    {
+      "category": "Regulation",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 9,
+      "sectors": [
+        "Tech",
+        "Energy"
+      ],
+      "sentiment": "neutral",
+      "source_name": "ZeroHedge",
+      "summary_th": "การขยายตัวของศูนย์ข้อมูลในสหรัฐกลายเป็นประเด็นร้อนในช่วงเลือกตั้งกลางเทอม โดยมีความกังวลเรื่องการใช้น้ำ ไฟฟ้า และผลกระทบต่อชุมชนท้องถิ่น ทำให้ผู้สมัครที่สนับสนุนหรือคัดค้านศูนย์ข้อมูลได้รับผลกระทบต่อคะแนนเสียงในบางรัฐ เช่น ไวโอมิง (ZeroHedge)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ข้อถกเถียงเรื่องศูนย์ข้อมูลอาจมีผลต่อการเลือกตั้งกลางเทอมสหรัฐ",
+      "url": "https://www.zerohedge.com/political/how-data-center-debate-may-shape-midterms",
+      "watch_next": "ติดตามผลการเลือกตั้งและนโยบายเกี่ยวกับศูนย์ข้อมูลและ AI"
+    },
+    {
+      "category": "Sector-specific",
+      "impact": "low",
+      "key_numbers": [],
+      "rank": 10,
+      "sectors": [
+        "Energy"
+      ],
+      "sentiment": "neutral",
+      "source_name": "Financial Times Companies",
+      "summary_th": "Also in today’s newsletter: Donald Trump hosts Anthropic chief Dario Amodei at White House dinner and inside the House of Bolsonaro Also in today’s newsletter: Donald Trump hosts Anthropic chief Dario Amodei at White House dinner and inside the House of Bolsonaro",
+      "tickers": [],
+      "time_horizon": "immediate",
+      "title_th": "FirstFT: Oil price rise puts more pressure on government bonds",
+      "url": "https://www.ft.com/content/47019489-f00e-4c96-bb79-5c628c89b3a1?syn-25a6b1a6=1",
+      "watch_next": "ติดตามความคืบหน้าและผลกระทบที่ยืนยันได้จากข้อมูลรอบถัดไป"
+    }
+  ],
+  "jev_screen": {
+    "brief_kind": "us",
+    "error_type": "RuntimeError",
+    "input_count": 25,
+    "mode": "active",
+    "output_count": 25,
+    "status": "fail_open_error"
+  },
+  "model_used": "openai:gpt-4.1-mini"
+}
