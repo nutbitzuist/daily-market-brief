@@ -1,0 +1,227 @@
+{
+  "articles": [
+    {
+      "published": "2026-09-29T20:15:47+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/"
+    },
+    {
+      "published": "2026-09-29T18:35:00+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/"
+    },
+    {
+      "published": "2026-09-29T18:53:32+00:00",
+      "publisher": "NVIDIA Developer",
+      "source": "NVIDIA AI",
+      "title": "Lower the Cost of Building and Running Visual AI Agents with NVIDIA VSS Blueprint 3.3 | NVIDIA Technical Blog - NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM2hlQ0dycjFqRXl3T3Vabm83eTZIS25RSnB2dko4T0NneVdaM1NHMVVLYlJJMTlieURSdC1QSnFUZ2lhczdFeDEwOVN5VGl6SVl2S0RwRnVfRkZldWZHOFUzamc2UlZHb213eGd0OTI0bFRPUEhaZ0JZcVUxb3NoWFJteGMyUTBObld4aXRrSWVCWnZsZ1dsYmFLU01qZ2dOUG9EOHBpN1lKWFVHMGpLc2ZlWElld1E1ZUZKYQ?oc=5"
+    },
+    {
+      "published": "2026-09-29T17:16:36+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "EXCLUSIVE: Anthropic says rogue AI agents pose uncertain legal risk for the company - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNam1mZHNtdF9aRFc4Wm5FOXRnb1lXYm1vUGtYcHNsQS1GbnZyUV8xNHZhbDFuMjZFN3I5Mm9MeEc1NVh0Y1hoWFM4R2RmVVJybGpIZjczcmxVYlFkOUk3VFN4NzdvUnNkZ0hQUWt4cGpjTTlOSmVuLWdqNms0bktvU3BvZ1NjQlVjRGd0U1BxN0ZDT296bmthZ0tsSDlfTkZfV3hQYWlzZ2U0TGRseFVJeUsyS05XRmZP?oc=5"
+    },
+    {
+      "published": "2026-09-29T13:40:16+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "Nvidia, Anthropic CEOs to Attend Trump Meeting on AI Risks - bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM3lickZOd2RkR1RET0xHZmhBNjhkTDdGeEN1SVBHUkZlZl81Vm9xbFFrR2ZFbFFVbWVzbkc1aTMyS1ZYWTJBTUdKZWFENllXdkY4R1d0ajhVbWJ4UldKVlRkMEdwak5aMkE5TmZCTVhHcF9CQkRCQno2SmtDejd1LTZyOVhGWlhBRlBWenI4LUduZk9RSlJ1OFp4SUcwMm5BU3pNYnZkTDRERXVFQ2Y4endQbGg?oc=5"
+    },
+    {
+      "published": "2026-09-29T16:33:06+00:00",
+      "publisher": "NVIDIA",
+      "source": "NVIDIA AI",
+      "title": "GTC - NVIDIA - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IX1lvZGNiMnNKQkk5dzZ1X2g5Y2xnbjgzQU56cnlNcHhMM3V4Szdncl9MVUVEVmtaZzJXUXBxNGtUQ2lBZlNWeXhIWVBad0xVeW8tTWFxQkRmbjFtRHJMdkJETQ?oc=5"
+    },
+    {
+      "published": "2026-09-29T16:38:01+00:00",
+      "publisher": "Unite.AI",
+      "source": "Microsoft AI",
+      "title": "Microsoft Research Debuts Quine, a Multimodal World Model of Biology - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNVVKM2xsQ1VZaGZGZS1tN2M0QXUxMEtWYlUxcWZFSmJBMzc5N3pHR1ZqTjhHUEJTOW1Wak5oZHlMNmhUYlVfVmhMSnBDTVRRNzBoQTlkWi1yQVVPWmRZNFBqcVE5TGk1NnktZFVyU2ZCWVdrUUZUNUk2RDRJXzlmR2FYaFpLRThfdkotMk9FLU9XQ28?oc=5"
+    },
+    {
+      "published": "2026-09-29T16:57:17+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "China's AI agents can lie and scheme - just like their US rivals - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcV91dFhINlctVXNLUDJtUDE4SFRwdTBUVUJLYW9Ed09WSXlhZzB0RWFqRldma2FjVGd5NXBFWkMyQldUMGVPcTd5MjM0VjJ1TERaY0dfZkF5VklnbTZ6VzNBcmJkTmROUTJWVWkzRGhMbkZ1RktfX1BfNVBTUzFGMEljaElSUHU5Vnd6S25NZGVCUXpYYnJocnBPTG9Na0VxSnpLbGlWclk2TmlMRjcyelFhT0pIc0NpRFE?oc=5"
+    },
+    {
+      "published": "2026-09-29T16:59:21+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "Brookfield-Backed AI Data Center Developer 5C Eyes IPO - bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZV9zbVFJWlVES1pfb2ZsaXA3dzZnX1BVbThwamgxeW95OEJuNHI0dk5kc3o5eTZpWVJmSndBdzlPUmJ0T3JLalpySjNMb25fb2UwQm56WUlsNDBXMWxMQnZHS2tiUEwyUlZHV1ZzaXZILWUwbVRXb3BuMFN1aXJVMXdJa29qcUpNNnVCWEJ0UUtxQjhLXzFyT3UtUjNIRlVtdjZKN0J1Qmg?oc=5"
+    },
+    {
+      "published": "2026-09-29T15:36:00+00:00",
+      "publisher": "The Tech Buzz",
+      "source": "xAI / Grok",
+      "title": "Trump Admin Launches AI Government Site With Gemini, Grok - The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMlEwTGJYTmZsWXYyOUFWaWlrN05wd0Rac3RDNGxjczJyRFlndlUzTDUxWWZQTkJ6Njd2YTg3TlFrNFRkc2EzeFY4SHMzUkFScDBKNXlOd0xEZk1KNDZLOHFYeUM0Qlh2c01jSWxzRnlkRmtuOFJSVkNjQmYxZEhBc25qOHJSSWdxdFRCZk5wSkg1SWs?oc=5"
+    },
+    {
+      "published": "2026-09-29T16:43:04+00:00",
+      "publisher": "Embedded Computing Design",
+      "source": "AMD / TSMC AI",
+      "title": "AMD’s ROCm Runs on on SiFive’s BigSky Datacenter Development Platform - Embedded Computing Design",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcEt0Z1dRdTJ3aFVrakhhbnNhdHRBMUk5b3NUbFZyTXFUXzYwZ2tvWV8yQWthZnJUSDF2dVZQSS1aNldNQlhHUE1LRWxKMmxOYmUxdzRDQVRaVEw2XzJ0YURsempBaTNEMHdTcjRVMFBVMFpJUVpMdzB5TXZHa3NMY0ppRDJEVklOYmZ6Wl9GRkwzT3JJQi1CVHczd0tiZGkxeUZBbUxvYlV6T1lzUzd1WU8zblM1QU1iMjJ0X3BnNnlFbUU?oc=5"
+    },
+    {
+      "published": "2026-09-29T16:04:25+00:00",
+      "publisher": "Pluang",
+      "source": "AMD / TSMC AI",
+      "title": "The AI chip race shifts from GPUs to server CPU... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQm41M3MxaU0td01za0lXQkN2MmhSdlNlTlB6S3UtT0NGNTNvYlYxVEhtTS1PejdLUTVDQ2ZfdWI1VzdIU3VQNmRrRWlvVzZHX2EzZE4yMTMxVHI4dW5UT21Cd0tQajcyVFJoa2hiTENPU295YnVSYWNNenJhUjNVZWRGakdIQmZJdDZqMW5Hcw?oc=5"
+    },
+    {
+      "published": "2026-09-29T14:10:37+00:00",
+      "publisher": "StreetInsider",
+      "source": "Microsoft AI",
+      "title": "BastionGPT Launches Microsoft-Certified Power Platform Connector, Bringing HIPAA-Compliant AI to Power Automate, Power Apps, and Copilot Studio - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQcUdkUjAxS0ZwRC1CZGVMNm1sOTFCMEFhYVdtajE5aXFvVHVKcFBXdXZNWDFSQTllbFdKd2hlNGpRSDFfZXZUcVM4aW84RWIzUjdwenRNRERnNW5pWkVXNlV3bkg3S0hNaDl0MDg4bVZTN09PMTBEXzdQaHpLSVI0ZlNlSjY3T1JURURoazlwX2lKWUl6MDZQcE5oU2hfZUZ6cFJrZGxWdFFxZlVkYXM1SmhCZE5TdWlIRzNyanNZMGFaRXI1WmR1eG44SWEwZV9MOVB0X1JFY2FkYXl4WUVHcU5odXVVSC1WdVNIcHFEenIweXoxUVRIbXhpUlBiejVSSWE5OE1jVEw1TlBTNWE5cFI4a0hHS2kxMHVwZkhqcXhid1pKOG1wR3BOUkVQZzRDVmc?oc=5"
+    },
+    {
+      "published": "2026-09-29T12:00:00+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "Oracle Extends Fusion Agentic Applications with Introduction of Fusion Claw – Company Announcement - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbDM5UHNJN1lMVlNxR0szc3dLNjB5TFBkYWw1UzN6NUxfLUFyN0o1OFFFTDVFWDBONmVUeHRkWTVzSmFrZllZVTdRaGpEU1E0ZERTMDNxRmxiWFNMWWFlZWVxZnNLVEVrOFUwYks2bXk4dG52UEg2RWlWWlJzZV80N0dqVy0wVnhlZ2tDRHE3QUtTdUZkdmRZOQ?oc=5"
+    },
+    {
+      "published": "2026-09-29T16:28:59+00:00",
+      "publisher": "blog.google",
+      "source": "Google AI Blog",
+      "title": "Experience two artists’ perspectives on philosophy, science, and AI - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUlhmbFpnZFBxZXdtMk1xdVFWT1RqV2NiRmJLQ0RWQzVkUVpFZmR2TzFYb1pEU0FkTmpuSEN2Z3FUaWVmQmxTOGp2RHJxRFY1b3d3bDJucl9Db2xGNnRqSEFCa1BoNW5NdlpSLWFiMDFIWndETHFlQkxuQzlKSHZicDhBSGhsZWdYNHp3NnYyQ1ZOVkw2ZTItbEZ6QmtUd19YQUFnQTFB?oc=5"
+    },
+    {
+      "published": "2026-09-29T18:10:04+00:00",
+      "publisher": "blog.google",
+      "source": "Google AI Blog",
+      "title": "Game on: Henry Cavill is putting Googlebook to the test - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON0NNLVBCMVp5ZnlkbkI0NFJqWWJLU1RUUnJQcU5rU0lTVXJPTE9lOGYwT1laU2o5bmc3c2RzR1FPMHNZSVBFYTVPWHpOQm5kc1dsSmNIaVU3RzlBbzRHWXB5aDR3aGZ2VVd0TnpQdUh0M0ktSkl0MFdaSm9QLXNxWDgxRzF0Z0Jqc0xacGpIejByWU4wMU9GMlVhc2dpdw?oc=5"
+    },
+    {
+      "published": "2026-09-29T16:33:22+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "Snoop-and-scoop poses a real threat to science in the AI age - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTmoxUnhuUTdNX21hVFktbnZveUVETlNTanV5YTJKNENYNkRLU3JpUnhhYkVwVlU0cGVDajd5clJKcHc4bUtpdG50R3BZcW9wSlNuajRCYVZxWmYzRUNsdEJKbzdmSlNHaGVqSkxuTENLQ25tWnpFeVRHZ2xtV1lzODJuS0s?oc=5"
+    },
+    {
+      "published": "2026-09-29T17:35:03+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’ - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGJBenRicmptaFZjQ08tMnZ2U01BSDlkOEd3d1FIaHBxRlI0SjBZRUlza3F4TGZjYVpmdEtkY0xWd2V4VXloU2Q1VXpzM3NPQ0tUM0lUeDZfcS10c2xVODJRby01aHFlQU9CZzZOakVuV0JWQS13eE9KN0FlUkQ2Vkdra2Rhb0pWRVk4cG9jZGdjemcwbFJMb3lKcXhSWHZJR2tFWm9jaTJidF9SUnZmcmZ4d1FjQ1k?oc=5"
+    },
+    {
+      "published": "2026-09-29T17:19:07+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "Razer’s low-latency wireless gaming keyboard is almost half off - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV19HcjlqRG9Cb1Q4TTNCcU5xYl91TEdUWWJrNHZBelk1R2FEdnFMR1R1Y0pReTBXeFZ5UWV0c3JUeDJYaUFfeXVpcXVHTWh1YWpiYjlxZjYwdTljaFBMLU11MktEOUpEMDBnYXlXN3EyZjVKUm1iMmVQTDF3eXhGLUpyOW9ycEdhQ2pqbklGWGVCbTFJSnJuQ2xIeU1ROUNONDVB?oc=5"
+    },
+    {
+      "published": "2026-09-29T16:14:24+00:00",
+      "publisher": "Amazon Web Services (AWS)",
+      "source": "AWS AI",
+      "title": "Building an AI-powered contract intelligence platform with Amazon Quick and Amazon Bedrock AgentCore - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN01TY2VzeWtpb0txd0dmbU5UWEEyRFEyRlp4dFVuV1NIN2N0dWxnaVBJUHlTYTF0N3hmRnZxMXR0UXU2V3ozeU55Q1dZNVd0NUJxOVd5czV2QVI0M29PR3ljSVBmd1FoanMtU25nSlUxYlU1amwwdFItNmVOQUF2NkhaUnZiZ0EyQU1WYjEzNkVDXy1yRDZVM3FhdnVRdXpsWWcwTkNLYjZRcS1hS1VNS3FfcUNxY2hDZWZTUV9SNTN2cC1RQVNzRGYtVEJWQTNqRWdfbE9EeDNmTFZhNThtVg?oc=5"
+    },
+    {
+      "published": "2026-09-29T15:55:17+00:00",
+      "publisher": "Amazon Web Services (AWS)",
+      "source": "AWS AI",
+      "title": "How Condé Nast built multimodal video discovery with Amazon Bedrock - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUjJiRk90ZzVhZDN1bmR2TGtfY3djSndQbl9SSGxYTDBPNnlLWDVvQnk1Wnlkc01ldTdyWGlsWkE0VWtsU3B3dlJDRDlja1poVmlWRGNUQ0J4S2JfSGtjRzI3eVVRTXllakZrdHlqT2pOdFEtYnRYSGtHNHZsbHcxcjJzWTBjTFNuY1R1RDVDSXlJQkhwYTBFeXNsMUFydWpLaHJBWDRra2tjVE0taURzZGRSaVA?oc=5"
+    },
+    {
+      "published": "2026-09-29T10:30:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jdl9Ea3FYSzU2Vl9PSmhvZkdqaEl5SDlVNS12UnFBLWplQW9yRXc1alBlOEduRm92QmdCZjZhdGMtWEtjUUNmaUFkejRUT2JkSjdQNVhGb1RtaElsR00yUnlseFNTOTlRb3RxZ3EwVDYtakJXc0E?oc=5"
+    },
+    {
+      "published": "2026-09-29T10:45:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "How to Beat Surveillance Pricing Before It Bleeds You Dry - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQXRTeWR4NWhNOHZZQnkwZWJmRkFLZzE5NDFWNGF2VWxNUnNFM0lBVFVTcEJjdk9oV0k1ZExEbG5wekZPVnVwc0Fjc19sV1FYOVZKUkRqQVd0TFdZR1VBb3BMV0R2bjROSE1vdGszeFVDNFJBVlBnS3otVGI5Qm15bnVVOHB2TXhpbzlnNEpOQQ?oc=5"
+    },
+    {
+      "published": "2026-09-29T13:07:00+00:00",
+      "publisher": "Hugging Face Blog",
+      "source": "Hugging Face Blog",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source"
+    },
+    {
+      "published": "2026-09-28T22:13:16+00:00",
+      "publisher": "Amazon Web Services (AWS)",
+      "source": "xAI / Grok",
+      "title": "Grok 4.7 is now available on Amazon Bedrock | Amazon Web Services - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdXRnOWtrWnZLZnlGQ0t1MlVSYzc5VzlBcGg2UGR1anFwZWRFelFYb2VrZE5WQ1pPVVZYdnBBa2hqRGppUGVXSlZ2djR5SHE3ZVNBclFTSnFQYzBDT2huUUF3Z1h4Y3I5YlZid3IzMFpZSGRObG9oc3lsYzR4ZGVuUTNDTEdtZXZPUW9GbFhWeU5KNm9u?oc=5"
+    }
+  ],
+  "date": "2026-09-29",
+  "generated_at_utc": "2026-09-29T21:11:41Z",
+  "items": [
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "OpenAI เปิดตัวฟีเจอร์ใหม่ที่เปลี่ยน ChatGPT ให้กลายเป็นแพลตฟอร์มค้นหาและใช้งานแอปโดยตรง พร้อมระบบลงชื่อเข้าใช้ที่เชื่อมต่อสิทธิ์ AI ของผู้ใช้กับแอปภายนอก ส่งผลให้ผู้ใช้และนักพัฒนาสามารถเข้าถึงและสร้างแอป AI ได้ง่ายขึ้นในระบบเดียวกัน",
+      "title_th": "OpenAI ปฏิวัติรูปแบบแอปสโตร์ด้วยฟีเจอร์ใหม่ใน ChatGPT",
+      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "why_it_matters": "การเปลี่ยน ChatGPT เป็นศูนย์กลางแอป AI จะพลิกโฉมการแจกจ่ายซอฟต์แวร์และการใช้งาน AI อย่างมีนัยสำคัญ"
+    },
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "Nvidia เปิดตัว Open Agent Safety Platform เพื่อแก้ไขปัญหา AI agent ที่ทำงานผิดพลาดหรือเป็นอันตราย โดยมีบริษัทชั้นนำหลายแห่งเข้าร่วมยกเว้น OpenAI ซึ่งยังสนับสนุนเทคโนโลยีนี้แบบไม่เป็นทางการ แพลตฟอร์มนี้รวมซอฟต์แวร์ OpenShell ที่ช่วยป้องกัน agent หลบหนีจาก sandbox ได้",
+      "title_th": "Nvidia เปิดตัวแพลตฟอร์มความปลอดภัย AI Agent ร่วมกับพันธมิตรกว่า 100 บริษัท",
+      "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "why_it_matters": "ความร่วมมือระดับอุตสาหกรรมเพื่อความปลอดภัย AI agent ช่วยลดความเสี่ยงจาก AI ที่ควบคุมไม่ได้และส่งเสริมมาตรฐานความปลอดภัย"
+    },
+    {
+      "source": "Embedded Computing Design",
+      "summary_th": "AMD ประกาศให้ ROCm แพลตฟอร์มซอฟต์แวร์โอเพนซอร์สสำหรับการประมวลผล AI ทำงานร่วมกับ SiFive BigSky ซึ่งเป็นแพลตฟอร์มพัฒนาศูนย์ข้อมูลบนสถาปัตยกรรม RISC-V ส่งผลให้มีทางเลือกใหม่ในการใช้ CPU สำหรับงาน AI ที่มีประสิทธิภาพและยืดหยุ่น",
+      "title_th": "AMD ROCm รองรับแพลตฟอร์ม SiFive BigSky สำหรับศูนย์ข้อมูล",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcEt0Z1dRdTJ3aFVrakhhbnNhdHRBMUk5b3NUbFZyTXFUXzYwZ2tvWV8yQWthZnJUSDF2dVZQSS1aNldNQlhHUE1LRWxKMmxOYmUxdzRDQVRaVEw2XzJ0YURsempBaTNEMHdTcjRVMFBVMFpJUVpMdzB5TXZHa3NMY0ppRDJEVklOYmZ6Wl9GRkwzT3JJQi1CVHczd0tiZGkxeUZBbUxvYlV6T1lzUzd1WU8zblM1QU1iMjJ0X3BnNnlFbUU?oc=5",
+      "why_it_matters": "การรองรับ RISC-V ในซอฟต์แวร์ AI ของ AMD ช่วยขยายทางเลือกฮาร์ดแวร์สำหรับศูนย์ข้อมูล AI และลดการพึ่งพา GPU เพียงอย่างเดียว"
+    },
+    {
+      "source": "Amazon Web Services (AWS)",
+      "summary_th": "AWS ประกาศให้โมเดล AI Grok 4.7 ของ xAI พร้อมใช้งานบน Amazon Bedrock ซึ่งเป็นแพลตฟอร์มสำหรับสร้างและปรับใช้โมเดล AI แบบหลายผู้ให้บริการ ช่วยให้องค์กรสามารถเข้าถึงเทคโนโลยี AI ล่าสุดได้ง่ายและรวดเร็วขึ้น",
+      "title_th": "Amazon Web Services เปิดตัว Grok 4.7 บนแพลตฟอร์ม Amazon Bedrock",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdXRnOWtrWnZLZnlGQ0t1MlVSYzc5VzlBcGg2UGR1anFwZWRFelFYb2VrZE5WQ1pPVVZYdnBBa2hqRGppUGVXSlZ2djR5SHE3ZVNBclFTSnFQYzBDT2huUUF3Z1h4Y3I5YlZid3IzMFpZSGRObG9oc3lsYzR4ZGVuUTNDTEdtZXZPUW9GbFhWeU5KNm9u?oc=5",
+      "why_it_matters": "การผสานโมเดล AI ชั้นนำบนแพลตฟอร์มคลาวด์ช่วยเร่งการนำ AI มาใช้ในองค์กรและเพิ่มความยืดหยุ่นในการเลือกเทคโนโลยี"
+    },
+    {
+      "source": "Hugging Face Blog",
+      "summary_th": "Hugging Face เปิดตัว ProvenanceGuard ซึ่งเป็นระบบตรวจสอบความถูกต้องของคำตอบจากโมเดล AI ที่ใช้หลายแหล่งข้อมูล (MCP Agents) โดยสามารถระบุได้ว่าข้อมูลสนับสนุนคำตอบมาจากแหล่งใด เพื่อป้องกันการให้ข้อมูลผิดพลาดจากการสับสนแหล่งที่มา",
+      "title_th": "Hugging Face เปิดตัว ProvenanceGuard ระบบตรวจสอบความถูกต้องของข้อมูล AI แบบแยกแหล่งที่มา",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "why_it_matters": "การตรวจสอบแหล่งที่มาของข้อมูล AI อย่างแม่นยำเป็นกุญแจสำคัญในการเพิ่มความน่าเชื่อถือและลดความเสี่ยงจากข้อมูลผิดพลาดในระบบ AI"
+    }
+  ],
+  "jev_screen": {
+    "brief_kind": "ai",
+    "error_type": "RuntimeError",
+    "input_count": 25,
+    "mode": "active",
+    "output_count": 25,
+    "status": "fail_open_error"
+  },
+  "model_used": "openai:gpt-4.1-mini"
+}
