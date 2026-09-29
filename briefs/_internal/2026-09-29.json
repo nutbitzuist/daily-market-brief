@@ -1,0 +1,390 @@
+{
+  "articles": [
+    {
+      "published": "2026-09-29T16:50:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "IEA's Birol Says \"Ready To Act\" If Energy Shock Worsens As US Offers 40 Million-Barrel SPR Lifeline",
+      "url": "https://www.zerohedge.com/energy/eu-eyes-methane-rule-retreat-energy-crisis-deepens-iea-floats-another-emergency-oil-dump"
+    },
+    {
+      "published": "2026-09-29T20:30:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "Trump Shoots Down Federal AI Regulations, Floats Watchdog 'Committee' And Self-Policing",
+      "url": "https://www.zerohedge.com/ai/openai-scraps-planned-release-deceptive-new-model-rogue-agents-force-unprecedented-rollback"
+    },
+    {
+      "published": "2026-09-29T01:00:00+00:00",
+      "publisher": "Wall Street Journal",
+      "source": "WSJ Markets (Google News)",
+      "title": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbXZCOUR5RDZOTzRjOGhCVjJQRC1UR2I5SklaXzFSWW9WUzVDa2FZTTVoZ2xQakt1SXJCOThvckx5YnN0WWdYV0ZRWHA0YlB6ODFGdV9adng0ZHdjOC1PV3k5X05MYmE4VS15eW9RRkR6M3Y3TXhadmgyeU8tRnpONXBKQVB4TVBDb1RQQk5TQlZrQ1VfTUFMekFPNi03UkNkV2h2QTlsSmhPLVl4bVF2SHNQU0g2UzF4b19B?oc=5"
+    },
+    {
+      "published": "2026-09-29T22:25:44+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Top News",
+      "title": "Stock futures inch higher as traders weather latest rise in Treasury yields: Live updates",
+      "url": "https://www.cnbc.com/2026/09/29/stock-market-today-live-updates.html"
+    },
+    {
+      "published": "2026-09-29T21:23:22+00:00",
+      "publisher": "Financial Times",
+      "source": "Financial Times Companies",
+      "title": "Trump says US tech bosses agreed to ‘self-regulation’ of AI risks",
+      "url": "https://www.ft.com/content/a8c1d14d-97aa-4b09-8162-adbcac1d0029?syn-25a6b1a6=1"
+    },
+    {
+      "published": "2026-09-29T20:20:00+00:00",
+      "publisher": "Wall Street Journal",
+      "source": "WSJ Markets (Google News)",
+      "title": "Long-Term Treasury Yields Push Higher Despite Decline in Oil Prices - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZkdWNzdxdTZUb2RMeGctUGJJa2gweWdoSm8yRU05ZnFiQjUtdld4QmVVdXZwOFhHRUFmOFVqTHBwSXEyTlhPcFYzYkVsMDBheGhVdy1UT1B5dUc4VzVQcVVVMTV5WEUzNXV2RW82cWlEQnBTZWZ4LUJzdTNZeVZnNHdaNU1IdTJtZGUtLUltMUFKVnJZelowQjFhT1pncEhsaFdIWERpalowcUJUS1hLZ3Vlc04?oc=5"
+    },
+    {
+      "published": "2026-09-29T20:03:39+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Top News",
+      "title": "30-year Treasury bond yield scales to highest level since 2002",
+      "url": "https://www.cnbc.com/2026/09/29/treasury-yields-bonds.html"
+    },
+    {
+      "published": "2026-09-29T16:46:57+00:00",
+      "publisher": "Financial Times",
+      "source": "Financial Times Companies",
+      "title": "Middle Eastern oil exports rise to highest level since Iran war began",
+      "url": "https://www.ft.com/content/26c54c8c-931c-4d84-9cf3-fd3e9b5e215d?syn-25a6b1a6=1"
+    },
+    {
+      "published": "2026-09-29T06:22:00+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Markets (Google News)",
+      "title": "China Signals Economic Stimulus to Counter Worsening Slowdown - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjl0SVVLdWt2S2drT1d4SEhVYTJRcV84R2RiRV9hYXM1cUNiTlhERVVwaWRtUGFhVjlCZnJMOTFjSWVEVlZ6cElqbkZTdFNtUGh1X0hkSXhOS2Y4NG9SbGNDanVUbm5zTUhCY1NNX0cyQUFYcGx2SmViOGZ6TVFtWWxzYTN6ZzczaTZRS3FtMENPQWJBYVh2RXRPODhuWnhZeWllNkxpTXU5VGoxb1RqWVBn?oc=5"
+    },
+    {
+      "published": "2026-09-29T07:53:24+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Markets (Google News)",
+      "title": "Demand Boost for US Crops Still Unclear After China Tariff Cuts - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU3BxanVseGp0Zmx1TVdIdXA1UXN1dmt6VWstLUVZNnQxckEzS0g1TTdMaHZIYUJmQ3YtcmprenUzZnQxckRyM09ObFV5ZEFmaTBaOVJLTkNiajVJMkxidFR2c3VJVG1SNzIzSUlQQTI1Y01aVHlaWnJoWEpMWWdGS0ctbTB2NzNUcDB5ZVE0SzJtS01rR1FpRUFSRGowMGtSRGdxNUMzU3ZhdUgzWDA5SGF2SEg?oc=5"
+    },
+    {
+      "published": "2026-09-29T13:55:53+00:00",
+      "publisher": "SEC Press Releases",
+      "source": "SEC Press Releases",
+      "title": "SEC Charges Multiple Entities in Fraud Schemes Totaling at Least $15 Million That Used WhatsApp and Other Platforms to Lure Investors",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-95-sec-charges-multiple-entities-fraud-schemes-totaling-least-15-million-used-whatsapp-other-platforms"
+    },
+    {
+      "published": "2026-09-29T21:59:30+00:00",
+      "publisher": "Seeking Alpha Market News",
+      "source": "Seeking Alpha Market News",
+      "title": "Lockheed Martin inks $297M U.S. Navy contract and $724M in missile defense contract",
+      "url": "https://seekingalpha.com/news/4648294-lockheed-martin-inks-297m-us-navy-contract-and-724m-in-missile-defense-contract?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+    },
+    {
+      "published": "2026-09-29T17:41:56+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters US Politics (Google News)",
+      "title": "Germany intends to block sale of logistics firm to China's Cosco, newspaper reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMHRvT2QzLTk2cDVLc3RCRTdHaDhyNmFqb0tSTXV5UnJPdUtJSWpXTTJvdnJRTDBIS09JUllRSUlUTzJXMUllNzZjM1lDaXdaQVZ3b3ROZGxkVExOYzN5R0ZPc1p4NEdlRkpLVExPa0hVVmNBeWRHX05RT0dfck5sY2NKQWh4MURpZTQ0azFJWGtHVi03emRBVjZiWWh2YnJRM0MyaHZqRzZHUmFjT2FZLVlvZlBpeG1QQ1E4Wg?oc=5"
+    },
+    {
+      "published": "2026-09-29T21:52:24+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters US Politics (Google News)",
+      "title": "EXCLUSIVE: Anthropic IPO prospectus lays bare deep dependence on Big Tech partners - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ1Q4X3lqOUdZYllBZFVuZFBIWGt6dmdua2JoVnZ0aVVnWnd0M2lscWd0UFB6c3QxRmNJdXJ2T3ppbXR5TW8wZ2lzQU5obDR2U2t0WldJUWx4MEo2V29HVldhSEtVUWVPdkdIQ1dVSUtkcG5hTE5UWDVKek9hTjhkNGU4eGNKcmRPY1JjWmRaTXJVblBoWldzNU1PalhocDRfRHdPRnhxVEV5ckRsenJZ?oc=5"
+    },
+    {
+      "published": "2026-09-29T04:01:13+00:00",
+      "publisher": "The New York Times",
+      "source": "NYT US Business (Google News)",
+      "title": "US Hits Canada With Ban on Some Dairy and Liquor Products - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaVRvU1BXVDZTV1dpSVZfOWtoYjYyTWdIcmZGcUJCZVNoVWMzRFBoWnphRjFGVWlRbUZGNkZIOWE5UGhRRm4yenlUSUE4Vm9HRjA3aHo0RXJLY3hCb24ySHBFQVpsWlRIYnpvQWR0RmRaczlZaER0dlFNRzh2dGQ4Nw?oc=5"
+    },
+    {
+      "published": "2026-09-29T20:00:00+00:00",
+      "publisher": "Federal Reserve Press Releases",
+      "source": "Federal Reserve Press Releases",
+      "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm"
+    },
+    {
+      "published": "2026-09-29T20:39:00+00:00",
+      "publisher": "AP News",
+      "source": "AP US Economy",
+      "title": "New York Gov. Hochul pushes for investigation into Cornell's handling of a 2024 gang rape allegation - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYS0wVnJ3Szc0NVY5X2NPeFYwZTAtekcybHFRcHJWMXVJRWpSMEd4MFlLZjdEMTJENG9xdXdhRUhMdEpLSllDR2t6aGVDdlFCSi1EYndlTS10THI0aGJ3bWFmWmZRaDVKYVpxRmR2azFVZTdhZWl4bUxUNkZUMmhiMDQtWGpKUy1MWWRLOWliSkZJbzd2d0N2Y0hFdzFOOWc?oc=5"
+    },
+    {
+      "published": "2026-09-29T22:41:12+00:00",
+      "publisher": "AP News",
+      "source": "AP US Economy",
+      "title": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5"
+    },
+    {
+      "published": "2026-09-29T19:59:11+00:00",
+      "publisher": "The New York Times",
+      "source": "NYT US Business (Google News)",
+      "title": "Tankers Are Loading Oil Again From a Vital Saudi Pipeline - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdFNXVWJfZHpCT0NnS2t4MnRJMFNVbjlEb0xidV85S0xqVHRCc0JfczVydHFBVEhLc212OGpJRGhhS2NjWFZWN08zaHFGeG1Ta2plcFV3bWlUMUNYMk8wQlF4dGpGVG5rVGVVMy13VGpjVHpTTk5iR1ZudVkwbXlHUlN4OA?oc=5"
+    },
+    {
+      "published": "2026-09-29T20:52:00+00:00",
+      "publisher": "MarketWatch",
+      "source": "MarketWatch Top Stories",
+      "title": "Nvidia’s historic buyback announcement underscores a sharp divide in Big Tech",
+      "url": "https://www.marketwatch.com/story/nvidias-historic-buyback-announcement-underscores-a-sharp-divide-in-big-tech-ac04a001?mod=mw_rss_topstories"
+    },
+    {
+      "published": "2026-09-29T22:00:57+00:00",
+      "publisher": "Seeking Alpha Market News",
+      "source": "Seeking Alpha Market News",
+      "title": "Here are the major earnings before the open Wednesday",
+      "url": "https://seekingalpha.com/news/4648026-here-are-the-major-earnings-before-the-open-wednesday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+    },
+    {
+      "published": "2026-09-29T21:52:00+00:00",
+      "publisher": "MarketWatch",
+      "source": "MarketWatch Top Stories",
+      "title": "The real prize in AMD’s $8 billion World Labs acquisition isn’t what you’d think",
+      "url": "https://www.marketwatch.com/story/the-real-prize-in-amds-8-billion-world-labs-acquisition-isnt-what-youd-think-6f609d0f?mod=mw_rss_topstories"
+    },
+    {
+      "published": "2026-09-29T19:42:35+00:00",
+      "publisher": "Axios",
+      "source": "Axios US Policy",
+      "title": "Luke Pettit, architect of Trump Accounts, leaving Treasury for private sector - Axios",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sc0gxTWlnMWh5YUdzTGs1bDFjNUVEQ3VkcnMwNmZwQU90ajFiYW1hanRYRkdRcXF1eXVEQ21GWC1CQUdvWmEwakFSVDF5VHZIbi0tYTAzZU9oMXp2ZFlnQldIZG00VWl3eG9CTUg5MklKRV9DZzVz?oc=5"
+    },
+    {
+      "published": "2026-09-29T14:53:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "source": "US Consumer Housing Credit",
+      "title": "Retirement Nightmare: Serious Credit Card Delinquencies for Seniors Hit 15-Year High - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcTB3SlotNTNPU3JFaUVkbXFfVmRuSUJabGNvb2pmXy1JNnBmUWl6SHFSMFZZaGVlMDc1dVA5WGwyTlVtejR4dUpaWlhiTkJUSjZwUURGRkZxSnlDZ0JOSWhlbE9yY2JNWDZYMlBmRUo1RHFuSHRJZ3czWkhublQ2am9aWVhQUlNlZ2wtOVRBZmJPTHlEd0tIR0pEQmRlci1kdlQ1RDFoWjZXNWV2MmotdVdvM09QdTN2SnMyUXZxaEhiVFRXV3c?oc=5"
+    },
+    {
+      "published": "2026-09-29T22:15:47+00:00",
+      "publisher": "Politico",
+      "source": "Politico Economy Policy",
+      "title": "Headlines - Politico",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAwRHNwRVVrUGtMdlJEMEpUcEswNUY3eFhtVVBkbUhvOTlZNExzdmlHa21neHJuZ3hFUGI2RENpci0yQi1R?oc=5"
+    }
+  ],
+  "date": "2026-09-29",
+  "generated_at_utc": "2026-09-29T23:13:13Z",
+  "items": [
+    {
+      "category": "Commodity",
+      "impact": "high",
+      "key_numbers": [
+        "40",
+        "285",
+        "400"
+      ],
+      "rank": 1,
+      "sectors": [
+        "Energy"
+      ],
+      "sentiment": "neutral",
+      "source_name": "ZeroHedge",
+      "summary_th": "กระทรวงพลังงานสหรัฐฯ เสนอปล่อยน้ำมัน 40 ล้านบาร์เรลจากคลังน้ำมันสำรอง (SPR) เพื่อบรรเทาวิกฤตพลังงานที่ลุกลาม โดยยังเหลือน้ำมันในคลังประมาณ 285 ล้านบาร์เรล ซึ่งเป็นระดับต่ำสุดตั้งแต่ปี 1980 หัวหน้า IEA ระบุพร้อมดำเนินการเพิ่มเติมหากวิกฤตลุกลามหนักขึ้น ขณะที่สหภาพยุโรปพิจารณาผ่อนผันกฎการปล่อยมีเทนเพื่อเพิ่มซัพพลายพลังงาน",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "สหรัฐฯ เสนอปล่อยน้ำมัน 40 ล้านบาร์เรลจากคลังน้ำมันสำรอง SPR รับมือวิกฤตพลังงาน",
+      "url": "https://www.zerohedge.com/energy/eu-eyes-methane-rule-retreat-energy-crisis-deepens-iea-floats-another-emergency-oil-dump",
+      "watch_next": "ติดตามการตัดสินใจปล่อยน้ำมันเพิ่มเติมจาก SPR และผลกระทบต่อตลาดน้ำมันโลก"
+    },
+    {
+      "category": "Macro/Fed",
+      "impact": "high",
+      "key_numbers": [],
+      "rank": 2,
+      "sectors": [
+        "Financials",
+        "Tech"
+      ],
+      "sentiment": "bearish",
+      "source_name": "CNBC",
+      "summary_th": "อัตราผลตอบแทนพันธบัตรรัฐบาลสหรัฐฯ อายุ 30 ปี ปรับตัวขึ้นแตะระดับสูงสุดในรอบ 24 ปี แม้ราคาน้ำมันลดลง การขึ้นของอัตราผลตอบแทนสะท้อนความกังวลเกี่ยวกับเงินเฟ้อและนโยบายการเงินของ Fed ซึ่งอาจส่งผลต่อตลาดหุ้นและต้นทุนการกู้ยืมในระยะสั้น",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "อัตราผลตอบแทนพันธบัตรรัฐบาลสหรัฐฯ อายุ 30 ปี แตะระดับสูงสุดนับตั้งแต่ปี 2002",
+      "url": "https://www.cnbc.com/2026/09/29/treasury-yields-bonds.html",
+      "watch_next": "ติดตามการเคลื่อนไหวของอัตราผลตอบแทนพันธบัตรและนโยบาย Fed ต่อไป"
+    },
+    {
+      "category": "Regulation",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 3,
+      "sectors": [
+        "Tech",
+        "Communication Services",
+        "Healthcare"
+      ],
+      "sentiment": "neutral",
+      "source_name": "ZeroHedge",
+      "summary_th": "ประธานาธิบดีทรัมป์ปฏิเสธการออกกฎระเบียบ AI จากรัฐบาลกลาง โดยเสนอให้จัดตั้งคณะกรรมการกำกับดูแลอุตสาหกรรม AI แบบสมัครใจและเน้นการกำกับดูแลตนเองของบริษัทเทคโนโลยีใหญ่ เช่น Meta และ Anthropic ที่เข้าร่วมประชุมที่ทำเนียบขาว การตัดสินใจนี้อาจส่งผลต่อนโยบายและการพัฒนา AI ในสหรัฐฯ",
+      "tickers": [],
+      "time_horizon": "long-term",
+      "title_th": "ทรัมป์ปฏิเสธกฎระเบียบ AI ของรัฐบาลกลาง เสนอให้ใช้การกำกับดูแลด้วยตนเอง",
+      "url": "https://www.zerohedge.com/ai/openai-scraps-planned-release-deceptive-new-model-rogue-agents-force-unprecedented-rollback",
+      "watch_next": "ติดตามความคืบหน้าของนโยบาย AI และการตอบรับจากบริษัทเทคโนโลยี"
+    },
+    {
+      "category": "Earnings",
+      "impact": "high",
+      "key_numbers": [
+        "235000"
+      ],
+      "rank": 4,
+      "sectors": [
+        "Tech"
+      ],
+      "sentiment": "bullish",
+      "source_name": "MarketWatch",
+      "summary_th": "Nvidia ประกาศขยายโปรแกรมซื้อหุ้นคืนเป็นมูลค่า 235,000 ล้านดอลลาร์ สะท้อนความมั่นใจในธุรกิจ AI ขณะที่บริษัทเทคโนโลยียักษ์ใหญ่อย่าง Alphabet และ Meta หยุดซื้อหุ้นคืนและหันไปลงทุนในโครงการ AI แทน การเคลื่อนไหวนี้ชี้ถึงความแตกต่างในกลยุทธ์ของบริษัทเทคโนโลยีใหญ่",
+      "tickers": [
+        "NVDA",
+        "GOOGL",
+        "META"
+      ],
+      "time_horizon": "short-term",
+      "title_th": "Nvidia ขยายโปรแกรมซื้อหุ้นคืนเป็น 2.35 แสนล้านดอลลาร์ ขณะที่ Alphabet และ Meta หยุดซื้อคืน",
+      "url": "https://www.marketwatch.com/story/nvidias-historic-buyback-announcement-underscores-a-sharp-divide-in-big-tech-ac04a001?mod=mw_rss_topstories",
+      "watch_next": "ติดตามผลประกอบการและการลงทุน AI ของบริษัทเทคโนโลยีใหญ่"
+    },
+    {
+      "category": "M&A",
+      "impact": "medium",
+      "key_numbers": [
+        "297",
+        "724"
+      ],
+      "rank": 5,
+      "sectors": [
+        "Industrials",
+        "Defense"
+      ],
+      "sentiment": "bullish",
+      "source_name": "Seeking Alpha",
+      "summary_th": "Lockheed Martin ได้รับสัญญาจากกองทัพเรือสหรัฐฯ มูลค่า 297 ล้านดอลลาร์ และสัญญาป้องกันขีปนาวุธมูลค่า 724 ล้านดอลลาร์ รวมเป็นกว่า 1 พันล้านดอลลาร์ การสัญญานี้ช่วยเสริมความแข็งแกร่งด้านการป้องกันประเทศและสนับสนุนรายได้ของบริษัทในระยะยาว",
+      "tickers": [
+        "LMT"
+      ],
+      "time_horizon": "long-term",
+      "title_th": "Lockheed Martin เซ็นสัญญากับกองทัพเรือสหรัฐฯ มูลค่ารวม 1.02 พันล้านดอลลาร์",
+      "url": "https://seekingalpha.com/news/4648294-lockheed-martin-inks-297m-us-navy-contract-and-724m-in-missile-defense-contract?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "watch_next": "ติดตามการดำเนินงานและสัญญาใหม่ของ Lockheed Martin"
+    },
+    {
+      "category": "Geopolitics",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 6,
+      "sectors": [
+        "Energy"
+      ],
+      "sentiment": "bullish",
+      "source_name": "Financial Times",
+      "summary_th": "การส่งออกน้ำมันจากตะวันออกกลางกลับมาฟื้นตัวสูงสุดนับตั้งแต่เริ่มสงครามอิหร่าน หลังการควบคุมช่องแคบฮอร์มุซผ่อนคลายลง ส่งผลให้ซัพพลายพลังงานโลกมีเสถียรภาพมากขึ้นและช่วยลดความกังวลราคาน้ำมันในตลาดโลก",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ยอดส่งออกน้ำมันตะวันออกกลางฟื้นตัวสูงสุดนับตั้งแต่สงครามอิหร่าน",
+      "url": "https://www.ft.com/content/26c54c8c-931c-4d84-9cf3-fd3e9b5e215d?syn-25a6b1a6=1",
+      "watch_next": "ติดตามสถานการณ์ความมั่นคงในช่องแคบฮอร์มุซและราคาน้ำมันโลก"
+    },
+    {
+      "category": "Regulation",
+      "impact": "medium",
+      "key_numbers": [
+        "15"
+      ],
+      "rank": 7,
+      "sectors": [
+        "Tech",
+        "Consumer"
+      ],
+      "sentiment": "bearish",
+      "source_name": "SEC",
+      "summary_th": "คณะกรรมการกำกับหลักทรัพย์และตลาดหลักทรัพย์ (SEC) สหรัฐฯ แจ้งข้อกล่าวหาหลอกลวงนักลงทุนรายย่อยหลายร้อยรายในสหรัฐฯ มูลค่ารวมอย่างน้อย 15 ล้านดอลลาร์ โดยใช้แพลตฟอร์ม WhatsApp และช่องทางอื่นๆ เป็นเครื่องมือในการล่อลวง การดำเนินการนี้เป็นการเตือนถึงความเสี่ยงของการฉ้อโกงในตลาดทุน",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "SEC แจ้งข้อกล่าวหาหลอกลวงนักลงทุนมูลค่ากว่า 15 ล้านดอลลาร์ผ่าน WhatsApp",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-95-sec-charges-multiple-entities-fraud-schemes-totaling-least-15-million-used-whatsapp-other-platforms",
+      "watch_next": "ติดตามการดำเนินคดีและมาตรการป้องกันการฉ้อโกงในตลาดทุน"
+    },
+    {
+      "category": "Regulation",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 8,
+      "sectors": [
+        "Consumer"
+      ],
+      "sentiment": "bearish",
+      "source_name": "New York Times",
+      "summary_th": "สหรัฐฯ ประกาศห้ามนำเข้าสินค้าผลิตภัณฑ์นมและเครื่องดื่มแอลกอฮอล์บางประเภทจากแคนาดา การดำเนินการนี้อาจส่งผลกระทบต่อความสัมพันธ์ทางการค้าระหว่างสองประเทศและตลาดสินค้าเกษตรและเครื่องดื่มในภูมิภาค",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "สหรัฐฯ ห้ามนำเข้าสินค้าผลิตภัณฑ์นมและเครื่องดื่มแอลกอฮอล์บางชนิดจากแคนาดา",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaVRvU1BXVDZTV1dpSVZfOWtoYjYyTWdIcmZGcUJCZVNoVWMzRFBoWnphRjFGVWlRbUZGNkZIOWE5UGhRRm4yenlUSUE4Vm9HRjA3aHo0RXJLY3hCb24ySHBFQVpsWlRIYnpvQWR0RmRaczlZaER0dlFNRzh2dGQ4Nw?oc=5",
+      "watch_next": "ติดตามผลกระทบทางการค้าระหว่างสหรัฐฯ และแคนาดา"
+    },
+    {
+      "category": "M&A",
+      "impact": "medium",
+      "key_numbers": [
+        "8000"
+      ],
+      "rank": 9,
+      "sectors": [
+        "Tech"
+      ],
+      "sentiment": "bullish",
+      "source_name": "MarketWatch",
+      "summary_th": "AMD ประกาศซื้อกิจการ World Labs ด้วยมูลค่า 8 พันล้านดอลลาร์ เพื่อเข้าถึงโมเดลปัญญาประดิษฐ์เชิงพื้นที่และเสริมความสามารถในการพัฒนา AI พร้อมได้ผู้นำทีมที่มีประสบการณ์มาช่วยดึงดูดบุคลากรและขยายการใช้งาน AI ในโลกจริง",
+      "tickers": [
+        "AMD"
+      ],
+      "time_horizon": "long-term",
+      "title_th": "AMD ซื้อกิจการ World Labs มูลค่า 8 พันล้านดอลลาร์ เสริมแกร่งด้าน AI และเทคโนโลยีเชิงพื้นที่",
+      "url": "https://www.marketwatch.com/story/the-real-prize-in-amds-8-billion-world-labs-acquisition-isnt-what-youd-think-6f609d0f?mod=mw_rss_topstories",
+      "watch_next": "ติดตามการรวมกิจการและผลกระทบต่อการแข่งขันในอุตสาหกรรม AI"
+    },
+    {
+      "category": "Regulation",
+      "impact": "medium",
+      "key_numbers": [
+        "15"
+      ],
+      "rank": 10,
+      "sectors": [
+        "Financials"
+      ],
+      "sentiment": "neutral",
+      "source_name": "Federal Reserve",
+      "summary_th": "ธนาคารกลางสหรัฐฯ เผยแพร่จดหมายตอบรับแผนแก้ไขปัญหาหรือ resolution plan สำหรับธนาคารใหญ่ 15 แห่ง เพื่อเตรียมความพร้อมรับมือความเสี่ยงทางการเงินและป้องกันวิกฤตในระบบธนาคาร การดำเนินการนี้ช่วยเสริมความมั่นคงของระบบการเงินสหรัฐฯ",
+      "tickers": [],
+      "time_horizon": "long-term",
+      "title_th": "ธนาคารกลางสหรัฐฯ เผยจดหมายตอบรับแผนแก้ไขปัญหาสำหรับ 15 ธนาคารใหญ่",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
+      "watch_next": "ติดตามการดำเนินการและผลกระทบต่อเสถียรภาพระบบการเงิน"
+    }
+  ],
+  "jev_screen": {
+    "brief_kind": "us",
+    "error_type": "RuntimeError",
+    "input_count": 25,
+    "mode": "active",
+    "output_count": 25,
+    "status": "fail_open_error"
+  },
+  "model_used": "openai:gpt-4.1-mini"
+}
