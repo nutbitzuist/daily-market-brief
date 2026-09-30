@@ -1,0 +1,227 @@
+{
+  "articles": [
+    {
+      "published": "2026-09-30T15:13:12+00:00",
+      "publisher": "NVIDIA Blog",
+      "source": "NVIDIA AI",
+      "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI - NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PX3hWVnRiNjdFdVFOWXVGM3R6RXJPOEd4ektLc3lqczcwc3Y0N3VfeVhMejhySC1tV3N0dE1Fa25OM2dJa0ZBbFZJYWhna3FIbUpLa1NEcUM3WktfTXl6RTgzaWdPSWl0QmdZY0pFNA?oc=5"
+    },
+    {
+      "published": "2026-09-30T19:00:57+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/"
+    },
+    {
+      "published": "2026-09-30T19:21:56+00:00",
+      "publisher": "NVIDIA Developer",
+      "source": "NVIDIA AI",
+      "title": "Expanding AI Storage Access with NVIDIA cuObject and the NVIDIA SCADA Server SDK | NVIDIA Technical Blog - NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMjRuWHBlX29NVm1qVW5sYVFYbFEtY1hqRjZfbloxdHZtb1ZMaTZfU2xpN2VGSnhHTmlNQjFBMTJiM1NXVUdKTGo5QWNWUFpKazhjUmFrak5qT1hWdGJkNkxQNUJKUVA1SW9vV1JTdmR2Rzg4ZU1RWWVMeWFwZnNnazV4dTZjREdTUmY1N0pZT01KNk4ycXJZdWRhV2NlSk9oa1NmbFNXNEhBSTFIUXNPbzNud0lPQQ?oc=5"
+    },
+    {
+      "published": "2026-09-30T18:17:19+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "FTC opens probe into AI giants including Anthropic and OpenAI - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdzYzcTVSY1JmRld3cFRBRlRaX0w0YVZHTjU3NWVvVG5BcXFIZGFwdXViLXBLNnhJQ3d0RS13T2VURWdNQ19ySkJuVXNlV2NWX0E3LUExYUZQaFBsTTVEaC1NMXJtR0RGYlllQVotQmM3VlRaVmd2em04YWdzTXFkMjhsUlQ0b1JlcVJBRENNRFFBT1NLcU00YUtqU0N5LUlJa0YxaEhzdU1mR1lkUTJ0MFhLMjA3a1FJVlQ5RXpMOEIxdw?oc=5"
+    },
+    {
+      "published": "2026-09-30T14:27:11+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+      "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/"
+    },
+    {
+      "published": "2026-09-30T16:18:05+00:00",
+      "publisher": "blog.google",
+      "source": "Google AI Blog",
+      "title": "Let skills in Gemini tackle your most repetitive tasks - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjFmZWMwbHQ2UFlvUm9INXp5ZEprR20yWU05Skw5NXlpU2xsUGlGeGNxZnRCUzc3RlctLUEtbTFTS1JiU3VfajBYcWgxSWx3Yy00NERNU1FmYmFuaG9JWlJwOUo1YnRpdFlwZWJ5Y3NPZGwzUFF1WWw5M2tPcHhBZXlzSi1WdTJpT19Hc3pyWQ?oc=5"
+    },
+    {
+      "published": "2026-09-30T20:05:43+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "Google announces Gemini 4 flagship AI model after months of delays - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0kxM3JDazhISnQtVGJ1Q2phRmxPR2Mtb2R4X1dQX0U3TkVZLWV0YUZNSnRfQ25OQnRuWHpNczNHSzhCZFFkdHFCWEVXYUhuazBDLWJ0eV92WU9nMDR6Nnl5ZDRCOG5UdWtwNnpTNkVtS2NLejVrX1Y3eXFvbDRMc0Y2Q2hvN0Q5YTEzTVA3NDFLaHprbnpuNWVBejNPVUlKemJCSHZUcHZSVE9iNmt3TWxXMXFBWkU?oc=5"
+    },
+    {
+      "published": "2026-09-30T05:07:00+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "DeepSeek Unveils Huawei AI Chip Tools That May Replace Nvidia’s - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVlMbU1WWGh0VkFFanFnSF90Z3dRRGlFcEJzYnZJZExZb2VqSy11a2V2MXZHQ3JuQ3lVVU5UeS1VQTJqSVY4WTNLLUNXZl9nWlZXbzBxLUsxNktKV2dLRFNsWC14eE9SaGw4NzhDSmVRUU9FZzF0c3c5bVlSMTJ3dzU4akpnYmpleHdYeEJ2Q1JyZTY4ZlMybHhCcVUxRkxGb0pEUzdjdGVvMGZhc1l3UFhLVE4?oc=5"
+    },
+    {
+      "published": "2026-09-30T15:19:39+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "All the latest news on Meta’s cute, creepy Muse AI agent - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlWUtkMVdfazhRYVRqeE84TkVSeXpSd2s5ZE9Wb0psMUd5MkRrMi1pdlAwenRfSlJJNGJaaFM1WDJQakJITU51S0R2Y1VUeUdkSk9ZOEFfQUc5V3M2c0pkU09Fek4teC1CTjVXX2FyOE9uQWh3R3NLYXBVOTU?oc=5"
+    },
+    {
+      "published": "2026-09-30T19:30:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "The Battle to Be Your Personal AI Agent Is Here - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5SdDdLUHI0c3Vtci1XaGdPX2ZGR3JybU9QWVhXaW16bUZCbzJtcUJBb3hKMGcwOV9qRlRKVExzd0xiT01pMEtQbGN2eFBRMndTTWZGSGhxVXg1d0xtZzA1VzF2VlRsMDRlUk9vZDdORWZTbGRINWdWdnRGWQ?oc=5"
+    },
+    {
+      "published": "2026-09-30T14:56:45+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "AI Upstarts Pressured to Get Big-Tech Backstops for Data Centers - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEhuNG8tLUgyMEZsNXNpRzZpLWtHUWk5QUVnWUhlWDZ5TUxIN0hLMlpDdnhKRXByOXlUZDdMcDJQYlNHWHJWUHB2bzBMYkstR3BhN3RpaW54RmFRR2psdm5qN2RPSTB5MUJXdGFNNi1mRnQtUGJkenVWdy1Vc0t4c01fOVd4ZFVvdWtwRkJuR2htTUtDSEZBZjROMnBWS1Vaa0hrMTdfU3pmdGxsTGp1dTBpVGdZdw?oc=5"
+    },
+    {
+      "published": "2026-09-30T14:54:00+00:00",
+      "publisher": "The Motley Fool",
+      "source": "AMD / TSMC AI",
+      "title": "Should You Buy AMD Stock as the AI-Agent Chip Race Heats Up? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVm5CTmNQMXhaVjNPVXA5YXBZcTY3NTUwQ0ZmanR2SExEaXJRWHA2bEFpTHhUZFFKZC0xWGN3UTBXeHRpWFZGWlh4aHNnem1jQVNxWjhNNlI5eVZYb2RiOV9iajBwTVotcklxU2NMT0FoWnhqZTVJUTR5TndfR2dlU0tqeXlhbVVqekR2UTRNanhocWpwR2Vxbg?oc=5"
+    },
+    {
+      "published": "2026-09-30T14:14:00+00:00",
+      "publisher": "aol.com",
+      "source": "AMD / TSMC AI",
+      "title": "Should You Buy AMD Stock as the AI-Agent Chip Race Heats Up? - aol.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Na1hJUXhtRTc0RW9oRHVwY3JobHZvbVBCLUZPaTdMeWdkOXJZUjNveUNUNGgzWDRzclpXM1lHblJPYTc5MDNyam9qVUFKMFp3OU5IRkhtUXZRUGNFYktiM0NUejJtREJ2U25fSWpMSTdYeDBh?oc=5"
+    },
+    {
+      "published": "2026-09-30T19:04:31+00:00",
+      "publisher": "redmondmag.com",
+      "source": "Microsoft AI",
+      "title": "Microsoft Presses Forward Maia Custom AI Silicon - redmondmag.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSnRoN3JOSzhReXN2WklYV045dDQxM1JONTJOWXhRR3JVYjEyV3B6ZDZNQ2o5eUxFRzQ0RWhmbWt5Sl9SaTBRbEtaUUozNHBoMFBwaTZZd1lKYVVvRTNnTEVHUVh4eWVPeGNsN2RhYVBXbDkydVVUbFFlYUd2RHF3b2FYbTV5aGVYY2h0ODQwbGIzS2Q2ejQzSTg0dy1TN1VEX2Y2OUhB?oc=5"
+    },
+    {
+      "published": "2026-09-30T18:58:23+00:00",
+      "publisher": "HPCwire",
+      "source": "Microsoft AI",
+      "title": "Semarchy Publishes Intelligent Data Products and Semantic Context to Microsoft Fabric - HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTmpaTEloRklSQ0RXT05jVGFTYUx0VEo5RzA1TzY3Z0Fmc0YyVXRmZHZTTGwtWTk2cEFWXzJpZlhsYzBGVU56TkJ4SkV0SlM3NjdZc0FsZlg5WFFsOHZSaXpnZGZ2RnlWQ0poUGMzNW5IdFVBUlpUZzNTdTZ6RkJwRXJXQnRTUnBqUWlFQ0RNZUNIUGFCeW1RSkxTaEwwM2YxQ3RaLWxRVkVidEdrQmVhbXpHblZveURDLVRsRjRtN2gxYzhsZHpV?oc=5"
+    },
+    {
+      "published": "2026-09-30T01:13:12+00:00",
+      "publisher": "Amazon Web Services (AWS)",
+      "source": "AWS AI",
+      "title": "Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore | Artificial Intelligence - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWTNtMXgtdWtVVEVOMFNNSll4UHpvS3h6Um9ld3FGVTA2SzF6UnZrWXo0QmdOaWVyV0ttQnc2OGRXSHozWkxMa1B0MlBIT3hhMEN5TkNmdVJMSUJOVXB1N2p3LVI4S0dJdVhZR3pma2JaclMxMTUtS0pneDU0YlRoWlA3Yk1HcGlyd0xLUExTUmtrYVAya1RrNzJkaEZFNmRxNXg3eHB2WWp1V0JyeFIzMDBCaEJGNmh0d2VUXzRTNmo1Wk9seFR6ODRURC04RmV0WDNDWEsyYw?oc=5"
+    },
+    {
+      "published": "2026-09-30T14:37:10+00:00",
+      "publisher": "gurufocus.com",
+      "source": "Oracle / Datacenter AI",
+      "title": "Oracle's Massive AI Data Center Push Just Hit a Power Bottleneck - gurufocus.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMnVTUTR3YjVjT3l4MDhmZjEtaGFkcXk1dFg0bFF6T25ZSTk4WGdCZFFaZkR3WGdwaWJsSU40cHdyaXdzd2pGUUJIc3g3RVQ1OTQ2c0psUWstX0JKSHExTWFzWUFndVA1MF9OMWFqVm5lNXgxWWJDQ2pRd3ZTcEJlR2k4eVItWm41eWFFa2JjUFZ0cERGUFJ4Z29KYVlLcjVJM25hYg?oc=5"
+    },
+    {
+      "published": "2026-09-30T15:31:21+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "How will Donald Trump ‘accord’ for AI to ‘self-regulate’ work? - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTDRSLUZTUGJ6aUJzbWVtUTdDODVJcFAtcmZmM09lT3NxaHBKM1RhX2pzeHN2UkcwclM1aUhDWHhKY0U0OHZyMDVwc0xvY1ZxVE5ndWFmZG84dTVBOVpmdXpmazFZQ2xSNzN4Y0toWmtHckUwZTU3T2RkQjRmc2pOVHJvY2M?oc=5"
+    },
+    {
+      "published": "2026-09-30T04:00:00+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "Trump shrugs off AI regulation - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb0xDY2pBMjZSc291MlZjQXpRaHVJMnV2NlFycUhsY3Q0dG1rQS1yUjkwYXZjMEU3WGlSamxqZGE4Ri1yU3VRUHJyN1dpbm5zZW56V09mZlV6QW5VbHpxSmpHU3duNWhtQi1vTHA0OGhFN0twdVRhSmlQM1daRW1pVl85el8?oc=5"
+    },
+    {
+      "published": "2026-09-30T18:07:38+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "The AI Tamagotchis are coming - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS0lkaWZxXzM5OUNfUFRZWGNIdzBfbWxpMHMybFpDc0dTa3NaeHIyM3d3b01YRUxOYVRxMlYzbG5iSGtkUVRJTTgwUDIzRUxlQnQtZ0YxR0dEbFJzd3QzTXZxeVU2WXhnYUpKdndvWGsyQm01bElRcW82b3REV0RmSW9kSnFyV0pOWVY0OGFYU0hTVm1GaW1XWWptZkVlWnAwSjhMalNqNXlJZUoy?oc=5"
+    },
+    {
+      "published": "2026-09-30T19:09:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "Furry Airline Pilots Are Just Minding Their Own Business - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2NEQ1ZmQ2c5RjM2OEVpU2taQkhKZDQxdXZ6MnV6cnIwNUhjcjZGWDBQeTN5Rzg4X0FyMzFsTzAwTDVrbUp2NENnUjNNXzBQMTN4bnEyb0ZkY1VxZlR3akVLUnhPVDFaS2FPZkJOcy1CRDMxWXg0STlNQmt3LUhNT2RHSW9xa1R5Sm9WeVRR?oc=5"
+    },
+    {
+      "published": "2026-09-30T17:46:22+00:00",
+      "publisher": "Investing.com",
+      "source": "xAI / Grok",
+      "title": "SpaceXAI considers four-tier pricing model for Grok and X users - Bloomberg - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMVprRHNKeGY1dW5PYzd3MnA0c3NJNGJadXFWamJVd01PLTZrOENjWWM4NHktNVRpYndYQ0U1Zms1NmZycUh1OUgzbGxMLW1ZNDRYdHduWFpwVHpOdWF6TnlyalRJVXNNSzNRZ3hCTlVBdklkLUtQSk1GVW8yTFdiU3JmTlZqRGltZ25NeTlLcWhlMVA3OFg2NzBiZXJ0TkQ5TXNIVTMxQmxLdzk0OGNvRjVPcHZVZXcwZkhzT3A4TjlydzVlcWNZQVVR?oc=5"
+    },
+    {
+      "published": "2026-09-30T15:21:57+00:00",
+      "publisher": "Amazon Web Services (AWS)",
+      "source": "AWS AI",
+      "title": "Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSGd3VUY5WmJVTTFhTlV5SExNVlg5X0tmX3I4dkkxbFp2SWZzZS0zdFhITHlSUlF0ZlVYVlpHWDMzNjZ6V25rVFRVX2pQMU5VNHVnN0hiaXpPVENyRWRMMmxUQ3VlQTJfRTgxRXlzaTZGWlZnVHJYREpXdHlPMFA0TWtELThUc0IyNnV3aVkwY1RUeHEycVNmdnl0d3FVLVdTbGYtS1h0b0I4bTlqWTZweTdsY19WYXo5cGVleXpvUGJpXzdqUjR3TmFVYnE3czJFYzhSdw?oc=5"
+    },
+    {
+      "published": "2026-09-30T16:01:00+00:00",
+      "publisher": "Anthropic",
+      "source": "Anthropic",
+      "title": "Can we predict the jobs robots will do? - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JM0E2czMxTW96bFJFdTVVZXk4SzktdVYya2tuYy1WYmdKN29TeTZ2U3J5V2dqMVZFRUpxelgxemY0a2c2RTl4c2FCRFh1M3ZWOUtETVJNY0NQNEhLZVh0TTRqb2l0ZkQ1NFE?oc=5"
+    },
+    {
+      "published": "2026-09-30T18:30:07+00:00",
+      "publisher": "Quantum Zeitgeist",
+      "source": "Quantum Computing",
+      "title": "Paik, UMD Alum, Helped Build IBM’s First 16-qubit Quantum Computer - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4dDhrQV9iTzNyNDNCUTRMUHF3djZ0VVBTMUZrSVVHOXhYeEJGa0I4WG5ZcVM0dUNDeGltVkVqQ2ROazFZRVNQZVM4TExUZi1LejNwVDlvSW9TU1lxU1dYcTNQWEkwMGEtbFFuNFQ4WWVMc0E?oc=5"
+    }
+  ],
+  "date": "2026-09-30",
+  "generated_at_utc": "2026-09-30T21:11:39Z",
+  "items": [
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "OpenAI เปิดตัว Decisions API ซึ่งเป็นโมเดล AI ที่เน้นการตัดสินใจอย่างรวดเร็วและประหยัดค่าใช้จ่าย เหมาะสำหรับงานที่ต้องเลือกตัวเลือกหลายทาง เช่น การจำแนกภาพและพฤติกรรมของเอเยนต์ ส่งผลให้การพัฒนาแอปพลิเคชัน AI มีประสิทธิภาพมากขึ้น",
+      "title_th": "OpenAI เปิดตัว Decisions API ช่วยเร่งความเร็วและลดต้นทุนซอฟต์แวร์อัตโนมัติ",
+      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "why_it_matters": "การเร่งความเร็วและลดต้นทุนของ AI จะช่วยขยายการใช้งานซอฟต์แวร์อัตโนมัติในวงกว้าง"
+    },
+    {
+      "source": "Reuters Tech",
+      "summary_th": "Google ประกาศเปิดตัว Gemini 4 โมเดล AI รุ่นเรือธงที่พัฒนามาหลายเดือน โดยตั้งเป้าสร้างความก้าวหน้าด้านความสามารถและประสิทธิภาพของ AI ส่งผลกระทบต่อวงการ AI และผู้ใช้งานที่ต้องการเทคโนโลยีล้ำสมัย",
+      "title_th": "Google เปิดตัวโมเดล AI รุ่นเรือธง Gemini 4 หลังล่าช้ามานาน",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0kxM3JDazhISnQtVGJ1Q2phRmxPR2Mtb2R4X1dQX0U3TkVZLWV0YUZNSnRfQ25OQnRuWHpNczNHSzhCZFFkdHFCWEVXYUhuazBDLWJ0eV92WU9nMDR6Nnl5ZDRCOG5UdWtwNnpTNkVtS2NLejVrX1Y3eXFvbDRMc0Y2Q2hvN0Q5YTEzTVA3NDFLaHprbnpuNWVBejNPVUlKemJCSHZUcHZSVE9iNmt3TWxXMXFBWkU?oc=5",
+      "why_it_matters": "โมเดล AI รุ่นใหม่จาก Google จะเป็นตัวชี้วัดทิศทางและการแข่งขันในวงการ AI ระดับโลก"
+    },
+    {
+      "source": "Reuters Tech",
+      "summary_th": "คณะกรรมการการค้าแห่งสหรัฐฯ (FTC) เริ่มสอบสวนบริษัท AI ชั้นนำอย่าง Anthropic และ OpenAI เพื่อประเมินผลกระทบและความปลอดภัยของเทคโนโลยี AI ที่กำลังเติบโตอย่างรวดเร็ว ส่งผลต่อการกำกับดูแลและนโยบาย AI ในอนาคต",
+      "title_th": "FTC สหรัฐฯ เปิดการสอบสวนบริษัท AI รายใหญ่รวม Anthropic และ OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdzYzcTVSY1JmRld3cFRBRlRaX0w0YVZHTjU3NWVvVG5BcXFIZGFwdXViLXBLNnhJQ3d0RS13T2VURWdNQ19ySkJuVXNlV2NWX0E3LUExYUZQaFBsTTVEaC1NMXJtR0RGYlllQVotQmM3VlRaVmd2em04YWdzTXFkMjhsUlQ0b1JlcVJBRENNRFFBT1NLcU00YUtqU0N5LUlJa0YxaEhzdU1mR1lkUTJ0MFhLMjA3a1FJVlQ5RXpMOEIxdw?oc=5",
+      "why_it_matters": "การสอบสวนนี้อาจกำหนดกรอบกฎหมายและมาตรฐานความปลอดภัยสำหรับ AI ในระดับสากล"
+    },
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "สตาร์ทอัพ Restate ได้รับเงินลงทุน 20 ล้านดอลลาร์ เพื่อพัฒนาโครงสร้างพื้นฐานที่ช่วยให้ AI Agent ทำงานต่อเนื่องและทนทานต่อข้อผิดพลาด เหมาะกับการใช้งานในองค์กรขนาดใหญ่และระบบที่ต้องการความน่าเชื่อถือสูง",
+      "title_th": "Restate ระดมทุน 20 ล้านดอลลาร์ เสริมโครงสร้างพื้นฐาน AI Agent ที่ทนทาน",
+      "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+      "why_it_matters": "โครงสร้างพื้นฐานที่แข็งแกร่งคือกุญแจสำคัญในการขยายการใช้งาน AI Agent ในภาคธุรกิจและอุตสาหกรรม"
+    },
+    {
+      "source": "Bloomberg Tech",
+      "summary_th": "DeepSeek เปิดตัวเครื่องมือพัฒนาชิป AI ของ Huawei ซึ่งมีศักยภาพที่จะมาแทนที่ชิปของ Nvidia ในตลาด AI ส่งผลให้การแข่งขันในตลาดชิป AI เข้มข้นขึ้นและอาจเปลี่ยนสมดุลอำนาจในอุตสาหกรรมฮาร์ดแวร์ AI",
+      "title_th": "DeepSeek เปิดเครื่องมือชิป AI ของ Huawei ที่อาจท้าทาย Nvidia",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVlMbU1WWGh0VkFFanFnSF90Z3dRRGlFcEJzYnZJZExZb2VqSy11a2V2MXZHQ3JuQ3lVVU5UeS1VQTJqSVY4WTNLLUNXZl9nWlZXbzBxLUsxNktKV2dLRFNsWC14eE9SaGw4NzhDSmVRUU9FZzF0c3c5bVlSMTJ3dzU4akpnYmpleHdYeEJ2Q1JyZTY4ZlMybHhCcVUxRkxGb0pEUzdjdGVvMGZhc1l3UFhLVE4?oc=5",
+      "why_it_matters": "การมีตัวเลือกชิป AI ใหม่จาก Huawei จะกระตุ้นนวัตกรรมและการแข่งขันในตลาดฮาร์ดแวร์ AI"
+    }
+  ],
+  "jev_screen": {
+    "brief_kind": "ai",
+    "error_type": "RuntimeError",
+    "input_count": 25,
+    "mode": "active",
+    "output_count": 25,
+    "status": "fail_open_error"
+  },
+  "model_used": "openai:gpt-4.1-mini"
+}
