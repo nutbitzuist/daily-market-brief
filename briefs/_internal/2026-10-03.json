@@ -1,0 +1,391 @@
+{
+  "articles": [
+    {
+      "published": "2026-10-02T18:15:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "Trump Says Inflation Will Pay Off The $40 Trillion Debt \"Very Rapidly\"",
+      "url": "https://www.zerohedge.com/political/trump-says-inflation-will-pay-40-trillion-debt-very-rapidly"
+    },
+    {
+      "published": "2026-10-02T19:05:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "Iran's Disappearing Oil Is Becoming Everyone's Problem",
+      "url": "https://www.zerohedge.com/energy/irans-disappearing-oil-becoming-everyones-problem"
+    },
+    {
+      "published": "2026-10-02T22:01:17+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Top News",
+      "title": "DOJ says it will not reopen criminal probe into former Fed Chair Powell",
+      "url": "https://www.cnbc.com/2026/10/02/doj-says-it-will-not-reopen-criminal-probe-into-former-fed-chair-powell.html"
+    },
+    {
+      "published": "2026-10-02T13:29:27+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Top News",
+      "title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
+      "url": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html"
+    },
+    {
+      "published": "2026-10-02T21:22:37+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters US Politics (Google News)",
+      "title": "Fed may skip October but pull rate hike trigger in December - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOVRfM1dqWHpoenJab09IVXh3am1peVNMWFFPOFhOSjl1SkI5MklDUDl6VFpkSkZxUE8tU0Q4S3R3VXNxd0t5Mlc3NGxXNTBid1N4U0czdVA2b09hVmRyT0VtaEU3M243T09TQjVTSzVMYURvSkg5WjBSc2tjVnpzM29ZMHdTMC1hUGlRUzBJRXBQdWk3bG9heTJOQjQ3QQ?oc=5"
+    },
+    {
+      "published": "2026-10-02T15:13:59+00:00",
+      "publisher": "Financial Times",
+      "source": "Financial Times Companies",
+      "title": "Quant hedge funds reap big gains from global bond sell-off",
+      "url": "https://www.ft.com/content/75b0ab84-a252-4ea1-9058-c9ee7ca07f4f?syn-25a6b1a6=1"
+    },
+    {
+      "published": "2026-10-02T12:19:10+00:00",
+      "publisher": "Financial Times",
+      "source": "Financial Times Companies",
+      "title": "US puts sanctions on Kremlin-backed fintech A7 for allegedly assisting Iran",
+      "url": "https://www.ft.com/content/29e2d078-4476-41f2-a180-faf0b2001068?syn-25a6b1a6=1"
+    },
+    {
+      "published": "2026-10-02T20:00:00+00:00",
+      "publisher": "Federal Reserve Press Releases",
+      "source": "Federal Reserve Press Releases",
+      "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm"
+    },
+    {
+      "published": "2026-10-02T20:37:00+00:00",
+      "publisher": "AP News",
+      "source": "AP US Economy",
+      "title": "US stocks rise near their record after the latest jobs report eases worries about inflation - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcEpmQTJ6Qi0ySWN5R2ZORU5OSUNyaWl0R0FpQ2w1aFlpcnJPVFlHQ0ZpSEc5eFNTUnphbnlXeTI4MXBoX2VGWTJGNGRCMDVIRGJwN3dqYlhIa2hZRVU3bVl2dExqNDgwcUtxaE5Lc0Jfa2FDU2t6LUI1c0dLbDhSZHY0cjNmQXZSQWhmbHRRMU8?oc=5"
+    },
+    {
+      "published": "2026-10-02T19:54:49+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Markets (Google News)",
+      "title": "Bond Traders Pull Back on Fed Hike Bets After Soft Jobs Data - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT3NEbUxSZ2pfNEduTEI3V3VrS0FlMVlfTmFOSGVoOVFraUJOdG9LeUhkUHNDclFYZ20tMXo4dHp3YTE3NFFCZHNuX0RZMlpOR0lqRjV2dW9iMFVxbE05Yi12bW4wTmhmWkJzaXQ0WXVpektXT2VNNEFyWTJZcmcya0tnQ1k0S2RBV3hlLUxvOFVNdTRyeDdnMTNROWJVcWNZeGgtVUh3OEpOTEd5NENwcw?oc=5"
+    },
+    {
+      "published": "2026-10-02T20:43:04+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters US Politics (Google News)",
+      "title": "Wall St Week Ahead Spiking bond yields, midterms, earnings to test US stocks' typical fourth-quarter strength - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLWE0blFwNjQtYzV3UTJuODNjRmZQbTJydkY1SkVmZjd3bkFjVW5ET0JKS1U3aTEyb3N0MUN0RWNRUEdXX2YzSnpBMG9mbk9Ock8tNjZUMzdLRWRoN2lGMTlYY3BDVVdTeW5SdFlyNzVDbXBVSmJwWWdWTVcwSVFwaXgySHlleW56TS1ZN1k0S2ZlekxDemVmaWpnU3dWWHFQQlZfLXRvUEM2UGZVdjdJWThvRTd1djlsbWJuUkVFNUlpUQ?oc=5"
+    },
+    {
+      "published": "2026-10-02T20:26:00+00:00",
+      "publisher": "MarketWatch",
+      "source": "MarketWatch Top Stories",
+      "title": "Europe’s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
+      "url": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories"
+    },
+    {
+      "published": "2026-10-02T20:15:51+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Markets (Google News)",
+      "title": "US Stock Futures Advance Ahead of September Payrolls Data - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUFJWVUgxTnd0dTl3aE9FRkV1VkhKdDR3MzB5MjhBWlEzNkdveWtoa1h4M0ppc3QtazRUZTN3VGQ5Q2R3dWpvYUVkR09menl2ZlFGU1F1MkxOdDljNW8xb1FKemFOVF9LdXVHb2JZSTdBX2U4end0WW9mZ2JTWlgxdHBLd0U4NjU2ZEdKOUlEMjYwOVVqYmdveXM3NXo1QjVmNWJHbXJsVmVMZ2Rx?oc=5"
+    },
+    {
+      "published": "2026-10-02T20:30:00+00:00",
+      "publisher": "Wall Street Journal",
+      "source": "WSJ Markets (Google News)",
+      "title": "Nasdaq Leads Stocks Higher as Hiring Softens - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNllYU095N0ttVXFUeGVSNEdFYkhPV0xzZURveERVUk11alFtdWQ4SUdodzhhaTRITHRxV1ZNekdCMS1xZnlPd3JJUFI5Q3JlVWJYQzZZVUppVW5kSUtSTVNyNEZhZ0hlQzNpck9Yb2NIZFJoZktFa0swXzVhd0VMQi10QXA0WEpZZXdJREpLbDhObVlMOEE?oc=5"
+    },
+    {
+      "published": "2026-10-02T21:30:00+00:00",
+      "publisher": "Wall Street Journal",
+      "source": "WSJ Markets (Google News)",
+      "title": "U.S. Stocks Rise as Jobs Report Tempers Rate Outlook - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdVFWS1puTWRJM1VGc2xzcU5lM1c1RUVUM2JUdXhueHd6Y2ozM0l4eVNLZkJKVjJSOENYV0xCbVppU1hDOEc4amo5ZnVGNVJpSjNLSXdDcHdSRUhuNWotWWtsUlB5NFJSUnpzaEI3d3VBMVlzUUVtc0dhMWE2ZWtqY3NVMmVmV0VtSzBMR0hyQmE5cnB4SHRPbkJ5RQ?oc=5"
+    },
+    {
+      "published": "2026-10-02T20:45:00+00:00",
+      "publisher": "Federal Reserve Press Releases",
+      "source": "Federal Reserve Press Releases",
+      "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm"
+    },
+    {
+      "published": "2026-10-02T15:50:14+00:00",
+      "publisher": "The New York Times",
+      "source": "NYT US Business (Google News)",
+      "title": "Soft Jobs Report Boosts Market Bets Fed Will Skip October Rate Increase - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaXlVWmhNUF9PdTVEQlFNZFNhbHRab3dOSHlQdXBrN3N3M2dwSUIzTVFHbWd5c0RvOWNPSnJqOFQ5R3Q1OWdxX0NtNTRhaXZNWEpEamFzaGxwaVp0NHhNYTNrRm9EUHlGTGoyNXJ3ZktiR18yLVplcjRjd3lFLW9UdnpGU3ppNzE1LUNVeHFkQm4?oc=5"
+    },
+    {
+      "published": "2026-10-02T21:35:27+00:00",
+      "publisher": "Seeking Alpha Market News",
+      "source": "Seeking Alpha Market News",
+      "title": "Gold futures turn lower as weak U.S. payrolls fail to sustain gains",
+      "url": "https://seekingalpha.com/news/4649985-gold-futures-turn-lower-as-weak-us-payrolls-fail-to-sustain-gains?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+    },
+    {
+      "published": "2026-10-02T21:54:00+00:00",
+      "publisher": "MarketWatch",
+      "source": "MarketWatch Top Stories",
+      "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
+      "url": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories"
+    },
+    {
+      "published": "2026-10-02T17:09:45+00:00",
+      "publisher": "The New York Times",
+      "source": "NYT US Business (Google News)",
+      "title": "Hiring Slows as U.S. Jobs Report Shows Labor Market Shifting Into Lower Gear - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUTgzSzJQRjlHNnJvczdDMlpONE1wVzVDdGpaQ1dDT3pQT25BYUdEUUxPbThTZVBWakJBREhYT2REVWppb3NMSlhQeUR0bzVBUS1iZ0JtbWF0OGZoaWR5MVZKRXBPVXFFemduaU9fWUxFTV9MSzh4Yk15V2UzQ1hsZW1pZVJBZUlN?oc=5"
+    },
+    {
+      "published": "2026-10-02T13:36:00+00:00",
+      "publisher": "Politico",
+      "source": "Politico Economy Policy",
+      "title": "US job growth slows, easing pressure on Fed to hike rates before midterms - Politico",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeWx0c2t0TUYzY0R3SVN6VkVkMjBaUkhMaktjNHhaR0JvbUFWTWk0cTRISkxsZ3hiRndSNjNpdFdLSnhza0hSMk5tTHFOOFA0MnRGR1dMY0g2S0R2VDlYMVNVelI5dTVXUmpUVUhyNXliUmozVFhyT0duNENnTkxvNjU5SVZ3U0E?oc=5"
+    },
+    {
+      "published": "2026-10-02T14:58:42+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Markets",
+      "title": "Rivian tops Q3 delivery expectations, reconfirms 2026 guidance",
+      "url": "https://www.cnbc.com/2026/10/02/q3-vehicle-deliveries.html"
+    },
+    {
+      "published": "2026-10-02T09:10:39+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Markets",
+      "title": "Accenture stock rallies after earnings beat expectations",
+      "url": "https://www.cnbc.com/2026/10/01/accenture-rallies-more-than-20percent-after-earnings-beat-heads-for-best-day-ever.html"
+    },
+    {
+      "published": "2026-10-02T22:16:07+00:00",
+      "publisher": "Seeking Alpha Market News",
+      "source": "Seeking Alpha Market News",
+      "title": "Petrobras makes another oil discovery in Brazil's Foz do Amazonas basin",
+      "url": "https://seekingalpha.com/news/4649978-petrobras-makes-another-oil-discovery-in-brazils-foz-do-amazonas-basin?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+    },
+    {
+      "published": "2026-10-02T20:52:38+00:00",
+      "publisher": "AP News",
+      "source": "AP US Economy",
+      "title": "Judge temporarily blocks border wall construction in Texas’ Big Bend region - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdjN0YzY1ak8wdTlJWUlKNTFvRnNqVkxwaUhtRS05OHFtaGE0MGpualRfTnJRc3lvbEdsR2czLUNFUDZLN1B2N05EaXJUS01HM0RsWWJlbjJoV1FPa0lGZVVNc2duV09yN3dNOWJmSUZ1UEU1LVdQOFRYajZtQmdzQndDZTFwRWxnenRpZE4yNWJWaFFWZTVVR0Fzb2lUanhDM1hMMGc3bzFldw?oc=5"
+    }
+  ],
+  "date": "2026-10-03",
+  "generated_at_utc": "2026-10-03T01:46:36Z",
+  "items": [
+    {
+      "category": "Macro/Fed",
+      "impact": "high",
+      "key_numbers": [],
+      "rank": 1,
+      "sectors": [
+        "Financials"
+      ],
+      "sentiment": "neutral",
+      "source_name": "CNBC Top News",
+      "summary_th": "รายงานจ้างงานเดือนกันยายนออกมาอ่อนแอกว่าคาด ส่งผลให้โอกาสที่ Fed จะขึ้นดอกเบี้ยในเดือนตุลาคมลดลงอย่างมาก ตลาดจึงคาดว่า Fed อาจเลื่อนขึ้นดอกเบี้ยไปเป็นเดือนธันวาคมแทน ซึ่งมีผลต่อตลาดพันธบัตรและหุ้นอย่างมีนัยสำคัญ",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ตลาดคาด Fed อาจไม่ขึ้นดอกเบี้ยในเดือนตุลาคมหลังรายงานจ้างงานอ่อนแอ",
+      "url": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
+      "watch_next": "ติดตามการประชุม Fed รอบถัดไปและรายงานจ้างงานเดือนถัดไป"
+    },
+    {
+      "category": "Macro/Fed",
+      "impact": "high",
+      "key_numbers": [],
+      "rank": 2,
+      "sectors": [
+        "Labor"
+      ],
+      "sentiment": "neutral",
+      "source_name": "The New York Times",
+      "summary_th": "รายงานจ้างงานล่าสุดแสดงให้เห็นว่าการจ้างงานในสหรัฐเริ่มชะลอตัวลง สะท้อนการเปลี่ยนแปลงของตลาดแรงงานไปสู่ภาวะเติบโตต่ำลง ซึ่งช่วยลดแรงกดดันให้ Fed ต้องขึ้นดอกเบี้ยอย่างรวดเร็วก่อนการเลือกตั้งกลางเทอม",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "รายงานจ้างงานสหรัฐชี้ตลาดแรงงานเริ่มชะลอตัว",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUTgzSzJQRjlHNnJvczdDMlpONE1wVzVDdGpaQ1dDT3pQT25BYUdEUUxPbThTZVBWakJBREhYT2REVWppb3NMSlhQeUR0bzVBUS1iZ0JtbWF0OGZoaWR5MVZKRXBPVXFFemduaU9fWUxFTV9MSzh4Yk15V2UzQ1hsZW1pZVJBZUlN?oc=5",
+      "watch_next": "ติดตามตัวเลขเศรษฐกิจและนโยบาย Fed ในช่วงไตรมาสสุดท้าย"
+    },
+    {
+      "category": "Macro/Fed",
+      "impact": "high",
+      "key_numbers": [],
+      "rank": 3,
+      "sectors": [
+        "Equities"
+      ],
+      "sentiment": "bullish",
+      "source_name": "AP US Economy",
+      "summary_th": "ตลาดหุ้นสหรัฐปรับตัวขึ้นใกล้ระดับสูงสุดประวัติการณ์ หลังรายงานจ้างงานเดือนกันยายนที่อ่อนแอช่วยลดความกังวลเรื่องเงินเฟ้อและความเป็นไปได้ที่ Fed จะขึ้นดอกเบี้ย ส่งผลบวกต่อตลาดหุ้นและพันธบัตร",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "หุ้นสหรัฐปรับขึ้นใกล้ระดับสูงสุด หลังรายงานจ้างงานลดความกังวลเงินเฟ้อ",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcEpmQTJ6Qi0ySWN5R2ZORU5OSUNyaWl0R0FpQ2w1aFlpcnJPVFlHQ0ZpSEc5eFNTUnphbnlXeTI4MXBoX2VGWTJGNGRCMDVIRGJwN3dqYlhIa2hZRVU3bVl2dExqNDgwcUtxaE5Lc0Jfa2FDU2t6LUI1c0dLbDhSZHY0cjNmQXZSQWhmbHRRMU8?oc=5",
+      "watch_next": "ติดตามการเคลื่อนไหวตลาดหุ้นและรายงานเศรษฐกิจถัดไป"
+    },
+    {
+      "category": "Earnings",
+      "impact": "medium",
+      "key_numbers": [
+        "3.29",
+        "18.68",
+        "3.18",
+        "18.03",
+        "13.97",
+        "74.2"
+      ],
+      "rank": 4,
+      "sectors": [
+        "Tech",
+        "Consulting"
+      ],
+      "sentiment": "bullish",
+      "source_name": "CNBC Markets",
+      "summary_th": "Accenture รายงานกำไรต่อหุ้น 3.29 ดอลลาร์และรายได้ 18.68 พันล้านดอลลาร์ในไตรมาส 4 ปี 2026 สูงกว่าคาดการณ์ โดยธุรกิจ AI เป็นแรงขับเคลื่อนสำคัญ พร้อมยืนยันเป้าหมายเติบโตปี 2027 ที่ 3-6% ส่งผลให้หุ้นปรับตัวขึ้นกว่า 16%",
+      "tickers": [
+        "ACN"
+      ],
+      "time_horizon": "short-term",
+      "title_th": "Accenture รายงานผลประกอบการเกินคาด ขยายธุรกิจ AI อย่างรวดเร็ว",
+      "url": "https://www.cnbc.com/2026/10/01/accenture-rallies-more-than-20percent-after-earnings-beat-heads-for-best-day-ever.html",
+      "watch_next": "ติดตามผลประกอบการบริษัทเทคโนโลยีและบริการที่เกี่ยวข้องกับ AI"
+    },
+    {
+      "category": "Commodity",
+      "impact": "medium",
+      "key_numbers": [
+        "5"
+      ],
+      "rank": 5,
+      "sectors": [
+        "Energy"
+      ],
+      "sentiment": "neutral",
+      "source_name": "MarketWatch Top Stories",
+      "summary_th": "ผู้นำยุโรปตกลงปล่อยดีเซลจากคลังสำรองเพื่อบรรเทาผลกระทบจากราคาน้ำมันที่สูง ส่งผลให้ราคาน้ำมันดิบลดลงสูงสุดถึง 5% ซึ่งมีผลต่อราคาพลังงานและตลาดน้ำมันโลกในช่วงก่อนการเลือกตั้งกลางเทอมสหรัฐ",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ราคาน้ำมันโลกลดลงหลังยุโรปปล่อยดีเซลจากคลังสำรอง",
+      "url": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
+      "watch_next": "ติดตามสถานการณ์ราคาน้ำมันและนโยบายพลังงานโลก"
+    },
+    {
+      "category": "Regulation",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 6,
+      "sectors": [
+        "Financials"
+      ],
+      "sentiment": "bearish",
+      "source_name": "Financial Times Companies",
+      "summary_th": "สหรัฐประกาศคว่ำบาตรบริษัทฟินเทครัสเซีย A7 ที่ได้รับการสนับสนุนจากเครมลิน เนื่องจากช่วยเหลืออิหร่านในกิจกรรมที่ผิดกฎหมาย ซึ่งเป็นส่วนหนึ่งของมาตรการกดดันทางเศรษฐกิจและการเงินต่ออิหร่านและรัสเซีย",
+      "tickers": [],
+      "time_horizon": "long-term",
+      "title_th": "สหรัฐคว่ำบาตรบริษัทฟินเทครัสเซีย A7 ฐานช่วยเหลืออิหร่าน",
+      "url": "https://www.ft.com/content/29e2d078-4476-41f2-a180-faf0b2001068?syn-25a6b1a6=1",
+      "watch_next": "ติดตามมาตรการคว่ำบาตรและผลกระทบต่อความสัมพันธ์ระหว่างประเทศ"
+    },
+    {
+      "category": "Geopolitics",
+      "impact": "high",
+      "key_numbers": [
+        "1.4",
+        "1.76",
+        "1.8",
+        "0.26",
+        "0.74",
+        "0.89",
+        "0.25",
+        "0.98",
+        "0.475",
+        "160",
+        "106",
+        "128",
+        "86",
+        "23",
+        "13"
+      ],
+      "rank": 7,
+      "sectors": [
+        "Energy"
+      ],
+      "sentiment": "bearish",
+      "source_name": "ZeroHedge",
+      "summary_th": "การส่งออกน้ำมันอิหร่านลดลงอย่างมากหลังสหรัฐปิดกั้นการขนส่งในช่องแคบฮอร์มุซ ส่งผลให้จีนซึ่งเป็นผู้ซื้อหลักต้องหาน้ำมันจากแหล่งอื่นเพิ่มขึ้น ซึ่งทำให้ตลาดน้ำมันโลกตึงตัวมากขึ้นและเพิ่มความเสี่ยงทางภูมิรัฐศาสตร์",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "น้ำมันอิหร่านหายจากตลาด ท่ามกลางความตึงเครียดในช่องแคบฮอร์มุซ",
+      "url": "https://www.zerohedge.com/energy/irans-disappearing-oil-becoming-everyones-problem",
+      "watch_next": "ติดตามสถานการณ์ความตึงเครียดในช่องแคบฮอร์มุซและตลาดน้ำมันโลก"
+    },
+    {
+      "category": "Macro/Fed",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 8,
+      "sectors": [
+        "Financials"
+      ],
+      "sentiment": "neutral",
+      "source_name": "Bloomberg Markets",
+      "summary_th": "นักลงทุนพันธบัตรลดน้ำหนักการคาดการณ์ว่า Fed จะขึ้นดอกเบี้ย หลังรายงานจ้างงานเดือนกันยายนออกมาอ่อนแอ ส่งผลให้ผลตอบแทนพันธบัตรรัฐบาลสหรัฐลดลงและตลาดพันธบัตรมีความผันผวนน้อยลง",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ตลาดพันธบัตรถอยหลังจากคาดการณ์ Fed ขึ้นดอกเบี้ยลดลงหลังข้อมูลจ้างงานอ่อน",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT3NEbUxSZ2pfNEduTEI3V3VrS0FlMVlfTmFOSGVoOVFraUJOdG9LeUhkUHNDclFYZ20tMXo4dHp3YTE3NFFCZHNuX0RZMlpOR0lqRjV2dW9iMFVxbE05Yi12bW4wTmhmWkJzaXQ0WXVpektXT2VNNEFyWTJZcmcya0tnQ1k0S2RBV3hlLUxvOFVNdTRyeDdnMTNROWJVcWNZeGgtVUh3OEpOTEd5NENwcw?oc=5",
+      "watch_next": "ติดตามอัตราผลตอบแทนพันธบัตรและนโยบาย Fed ต่อไป"
+    },
+    {
+      "category": "Regulation",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 9,
+      "sectors": [
+        "Financials"
+      ],
+      "sentiment": "neutral",
+      "source_name": "CNBC Top News",
+      "summary_th": "กระทรวงยุติธรรมสหรัฐประกาศว่าจะไม่เปิดสอบสวนอาญาเกี่ยวกับอดีตประธาน Fed เจอโรม พาวเวลล์ หลังจากมีข่าวลือเรื่องการกระทำผิดใดๆ ซึ่งช่วยลดความไม่แน่นอนทางการเมืองและตลาดการเงิน",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "DOJ ไม่เปิดสอบสวนอาญาอดีตประธาน Fed เจอโรม พาวเวลล์",
+      "url": "https://www.cnbc.com/2026/10/02/doj-says-it-will-not-reopen-criminal-probe-into-former-fed-chair-powell.html",
+      "watch_next": "ติดตามความเคลื่อนไหวทางกฎหมายและนโยบาย Fed ต่อไป"
+    },
+    {
+      "category": "Regulation",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 10,
+      "sectors": [
+        "Government",
+        "Infrastructure"
+      ],
+      "sentiment": "neutral",
+      "source_name": "AP US Economy",
+      "summary_th": "ศาลสหรัฐมีคำสั่งระงับชั่วคราวการก่อสร้างกำแพงชายแดนในพื้นที่ Big Bend ของรัฐเท็กซัส เนื่องจากข้อพิพาททางกฎหมายที่อาจส่งผลกระทบต่อโครงการด้านความมั่นคงชายแดนและงบประมาณรัฐบาล",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ศาลสหรัฐชั่วคราวระงับการก่อสร้างกำแพงชายแดนในเท็กซัส",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdjN0YzY1ak8wdTlJWUlKNTFvRnNqVkxwaUhtRS05OHFtaGE0MGpualRfTnJRc3lvbEdsR2czLUNFUDZLN1B2N05EaXJUS01HM0RsWWJlbjJoV1FPa0lGZVVNc2duV09yN3dNOWJmSUZ1UEU1LVdQOFRYajZtQmdzQndDZTFwRWxnenRpZE4yNWJWaFFWZTVVR0Fzb2lUanhDM1hMMGc3bzFldw?oc=5",
+      "watch_next": "ติดตามความคืบหน้าทางกฎหมายและนโยบายชายแดนสหรัฐ"
+    }
+  ],
+  "jev_screen": {
+    "brief_kind": "us",
+    "error_type": "RuntimeError",
+    "input_count": 25,
+    "mode": "active",
+    "output_count": 25,
+    "status": "fail_open_error"
+  },
+  "model_used": "openai:gpt-4.1-mini"
+}
