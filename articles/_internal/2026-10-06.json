@@ -1,0 +1,227 @@
+{
+  "articles": [
+    {
+      "published": "2026-10-05T20:36:48+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
+    },
+    {
+      "published": "2026-10-05T21:45:00+00:00",
+      "publisher": "analyticsindiamag.com",
+      "source": "AWS AI",
+      "title": "Anthropic Brings Claude In-Country Inference to India Through Amazon Bedrock - analyticsindiamag.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVENOa2RMendCX1R1bjRzNjUzd3VHVUZtWDJtRW82RnhqVksxaTBmV211MUdaWjV2cEpXb21kZnZUNE1ZeGJILVc2LWtacjRmYjF6YTMyd3A1OE00OE1RZ2JJZUZiZXFJbUVaS2wtcE5rUDJ0ZUx1UGFBV1BwREYzcnpfQTQ3S1VZRDQtUHAyYW1YenNZZ1dVRlU4anpEZTh4TGR0ZDVZYm5EVjU5Z2l0QWJvcEo?oc=5"
+    },
+    {
+      "published": "2026-10-05T14:15:59+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "Nvidia, Broadcom shielded as AI power crunch hits chip supply chain, says Morgan Stanley - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMF9lcTkxVU5OWUp5THhibUJWc3U0MWo5c2dreS02dFk3TGt4SlBXLVdpX0htOV85SnVsc3RUZjZJZDJac3p3bFgzS05uU2hjVXh5N0RjcFVtQml0TnBRSllwREVDdUVFOTBoTTRMT01RMnVUNGQtZk1ZY0ZIdUZHWHNBbjlaMk10dEpJZ3J5eTZHYjlDQW9JdEg4STBBLVNYNlFRb1J1aUJudHJkS2lmT0otSUJHdE5wVnJaXw?oc=5"
+    },
+    {
+      "published": "2026-10-05T19:08:32+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "Wikipedia operator says OpenAI's rogue agents possibly tied to data service disruption in May - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRW51ZFBsNXhuaDZnTUxzNzc5M280OVE1VmZEUGdXaFVJeGJITWRJbEpCWXV1UjlGaGZIZXQ2ZXVybU85UWZaRWx4UjZRRU1rZzV3MVB0cXo4R1JFcW4zQWpIa0tmU2FGRW16LUF5U0JPWGgybDZCZnZFckNubFRmbXBwYlV0WVM1dDZkVndtTmNCaG9oRVQ4THI4V0VtRFA2UFl0eFZrRm1nN2N1MVF0VjdGVHgwUmlRWWc?oc=5"
+    },
+    {
+      "published": "2026-10-05T21:41:38+00:00",
+      "publisher": "NVIDIA Blog",
+      "source": "NVIDIA AI",
+      "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps - NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWM1Q4SlZ2X3NFbEpCc3FqZEQ0NjRRZWtFQV9IdnVWTWpZYk5MM2E2U0drZ09EWFJXbTZYcWw5UTNwR1cwR3NBZHlJUGsxQzFKdE9DbUtSYVdWRDlJM2FJMVRJNTc5WWc?oc=5"
+    },
+    {
+      "published": "2026-10-05T23:06:12+00:00",
+      "publisher": "TradingView",
+      "source": "Microsoft AI",
+      "title": "Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZW5VMGdHeXdud2FrSEZGZVRoZ2o3dW9hQldhQWlDcEV1RDlnUHZsV0t0UVl1R0E5SmpaZThpNkFSSTB5VGhDVVU5b0ZyY19iZ21UYWMtWmZvb1hiSjFGSE1TTkRnZ0xRTGtsSVNTd0lKLUxoZGhmSC1oTkNzZGJqMExZY3V5X2RUV0RTZEhRc2dOMEhEaW1WYVZGaVNFakczSm5nQmtGSzFFVUF1dVAwRHdUZFRlT3lMLXY3YWtBNHJHVEFzREprRDhSdXRpTFBaZElmYkhVa3dQRGd2dURRUTF2TTNobm12?oc=5"
+    },
+    {
+      "published": "2026-10-05T18:54:30+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/"
+    },
+    {
+      "published": "2026-10-05T18:14:00+00:00",
+      "publisher": "The Information",
+      "source": "Microsoft AI",
+      "title": "Meta and Microsoft Push to Kick Their Claude Habits - The Information",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaEpVcFVhSDFxejVlaUt2WWdBeFIxU0Z4bmVqVFVPZHJTVDc1VzQ3SjA2a1JzTTViLUlwTjRZSWFXLTZFWGZGZ09wM1JVUnJ3NnlIaTBKdXRTQ3JScURTMUw0UVQ2Uzl6aUw1dnJ4ZHBpWGYtX1AwOVhxMmQ4dGNKYlBjTjJaSFlYVm54S3JCb3Z0QQ?oc=5"
+    },
+    {
+      "published": "2026-10-05T14:34:32+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "The dangerous myth behind AI agent hacks - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DOHhxN1Z6WUIzbkNpTlVSSDBhOFppQnJyYmZUTkhNREFnX0w1a1p1d2ZBUEdWeGppTjhIOUFQVE5BNzA2M3hyVHptQ2VNLXVZcXFYY1hPQkQ2d201bjFCeVl2Y3VfSlhSTUV1M3VfcjQ?oc=5"
+    },
+    {
+      "published": "2026-10-05T14:05:16+00:00",
+      "publisher": "Pluang",
+      "source": "AMD / TSMC AI",
+      "title": "TSMC's Oct 15 report will impact Broadcom and N... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS1o2ak5RX2lZN25ZTmxNaGJia3c5LWJ5R3hCa3VMZ1YtTjlPNzdmZk9oM0tMWlFnX1lOYS0xMFZBamUwU2FMaHM0b2VmX3dLYVl3LU5CM2JJbUx3dGlqSFlhUnpIV3hiN0x2T3dWU0lRTUpPTGtCS21oZHRMMDV6R3pveUlfQVc4QndNUGFkNndEUWRXQldWWjB3RmliNUV4OE1Vc1hhZlpSS1ZWR2c?oc=5"
+    },
+    {
+      "published": "2026-10-05T15:53:56+00:00",
+      "publisher": "Amazon Web Services (AWS)",
+      "source": "AWS AI",
+      "title": "Agentic retrieval with LangChain and Amazon Bedrock Knowledge Bases - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZUhWSHdPQnREelBZX1RTdXV0VzZrTUZJNkdFckFLVUpYQUFkR3BfY2ZOVVNwWlNUZzhfRFBRQkFFb24yQnpYTUpaQjd4Qko4LWExdXNRRDVhcWNCcFV5cXBnbWhHZG1OLW1zcV9zTXc1OF9kVWF5ZUw1QXBoZ3o2ZTZ6c21yZVhENUM1U0x5bmJVaElkRURVd1ZsSmpHR0VIakhUWWVETTJSZEdWNU9lUlZPRG4?oc=5"
+    },
+    {
+      "published": "2026-10-05T20:38:18+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "White House Blocks Politico From Air Force One Amid Legal Fight - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQkx0dmF5YkEyTEZnUTVKZjZ1Z0JWSTB4SG10R215eGtfTGZGdHkyNGFtZHNXM2pkc1VIMEh6a21aRWt0NEtBTnVZdW1HdjYyNkpXZFlUOWFHcHRlRGgyY0ZLUk9LbDk1cE50TW9GcjVpSmxnYWwtSmktd1BLamlkaEFFT0NLaGRiS0pjRWpsTjY2VkdIVFlieXd1STBNWkJXelV1VVhzdkUwYXRzc3hDTDRuT0w?oc=5"
+    },
+    {
+      "published": "2026-10-05T21:52:46+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "All the drama around AI’s takeover of mathematics - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOXzNEckh1SXVQTGtqbTI4OXRuaHRPc25iV1NtSUxGdUUwZG9oOFM1NzRoNmpzMjRMeFFvRDZHbzVtTW1JWU5UcjZkS0ZiUVphNVdUNW5wbHdxRlkyYjFhQTZnY1BWSE5rWHJ5anNzWnZLZzQyOEpPY3FoWUl3SUY1RFkxSEdZYmsyc3AxZGk1RDljLVJmUlNpdm8taHI?oc=5"
+    },
+    {
+      "published": "2026-10-05T20:14:57+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "This startup is issuing AI-generated acne prescriptions - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZXk2aDM0bkVucFFwUnpQWGhReHJxWWVpZVBtalRBUjBxUC13QlJWMTJWTHNXM0dLREVHNmdfbzFoYkVGcC1XTzFNeUZlQkI5MWh0S1NfQlpSWllmQ2p4WENnR0puanplNEVsN2lwWTZwbklUQXE3X0hBUC1JelVtM0VSQ1NIbGdEMkxucEQxeEZmNjBVMWdrQWJn?oc=5"
+    },
+    {
+      "published": "2026-10-05T19:58:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "Elon Musk’s Exes Are the Most Damning Part of a Massive New Documentary - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdUkyVmVWcTFicVJNQm1TdlI2NnhlZE16bDk0Qk5QdFVKNDRWdDRqcUx1V1NWY0YyU2xuZHVxZ0pxRWFSckxGMThWRWhNMU9XOFlRb21GUlZxcUFKOTRVY2pGMUtQYTlLM3hYcnJjR3lCa1llSXpYZjIwZF9GTmdpdWxzX3Buc19UOXNDUU9HVkJYcmZFTXJCdmwxZWtsQXgt?oc=5"
+    },
+    {
+      "published": "2026-10-05T16:32:20+00:00",
+      "publisher": "blog.google",
+      "source": "Google AI Blog",
+      "title": "Technology is helping my fellow math teachers trade weekend prep for personalized learning. - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVlB1XzhHRkhWSUtNek82QjVfVklhZm5XWk9XTnUxVU52MnpuRl83S3dpNktBaER2elBOZmlxTzdEZFRGODltYXk3MXRTQ1llbW5remRXWV9VN1ZiZC1ST2MtVTNwMXZ1OVVEakppV1FRMHhMQV9CclhsZjNuZEVSeGowT1ZXc3ktai1tV2RVQ2Y?oc=5"
+    },
+    {
+      "published": "2026-10-05T16:11:05+00:00",
+      "publisher": "blog.google",
+      "source": "Google AI Blog",
+      "title": "I use technology to give students a voice and become critical digital citizens. - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeS0yR2V5QWV4TzlpU2xvVGR0ZnBZV0R2SzRyRDd5Tk1wTTFjNFVNcFNUVDRxVVFuT1VTbmZzWkYwUVoxOEs2eVlzTkI4WGRuRDVlc3ZPakFHQTF6ZUIxVWkzcWlsVm1YSHp4X1R6YXRaLUNVbW9neGZUaXcwNkc5NXNYaWxpRERKTm9XVg?oc=5"
+    },
+    {
+      "published": "2026-10-05T20:52:00+00:00",
+      "publisher": "Investor's Business Daily",
+      "source": "AMD / TSMC AI",
+      "title": "Chip Stocks Pause After Two-Day Pop. AMD Stock Gets Price-Target Hikes. - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT043SWVaUnRPMHFnUjNLSHFrOG84cEt2WXZ5SGRZbUN3a3RJZGVRdlJjblk3UFpuemJOMTlKanpUVFp0YXR6SXYyTHp1ZDZCZGViXzFyRXctOWp3S0VTTm9Ha1psT2JFWTN0emxLclhPZGc0a1dsYjNieEdWZURBRzdxcklMV081MVY1RWlfVlhIZm8?oc=5"
+    },
+    {
+      "published": "2026-10-05T15:34:45+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "NATO Drafts Plan to Defeat a Russian Attack With Drones and AI - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeE1HdE90Tm9CdjF4dmM0dHhpRlpjTlZPX2FsWmxETmxwcU9hNzd6bGxzeENEMm5JSjNpNXdjTVdINnN0RnhYRVNqR2FzbzVLMnF1YjhRYjZKZE5pT0JYNS15bVJTS3JWT002VXB5UFcwbFQ5OHVacFJ5YzdSdzBoeFR2eWRsNGlRV1ZQbmwxeXB3YUJkeDZMWHRVWjN6empLcDExZ0M2QXZWdEppcUVtdkNORQ?oc=5"
+    },
+    {
+      "published": "2026-10-05T19:00:03+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "Reflection AI boosts US ambition to compete with Chinese ‘open’ models - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV2E3TzJoN21LWHZGNlV5cTJOTWFIU1ZRRC1VQWI4bzRYQkRTZHhpZ2t3anVWQUlaVzlpSU9DZ1ZUdWFRTTFUMGNBUXBCUk0zbDAwQlpoUnNuU1Y3eXpNWkJqSEhCTElBdUNEai1hdjl5UEpRZTJLaEhVQlVEbUtUV1BhaFg?oc=5"
+    },
+    {
+      "published": "2026-10-05T13:29:32+00:00",
+      "publisher": "MIT Technology Review",
+      "source": "MIT Tech Review AI",
+      "title": "Bringing predictive analytics to the agentic AI era - MIT Technology Review",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDBhMUlVZ2NZVXFLdldjN1FrQVh6UG9MdkhrYkc3Y3IxS0Jaa1owUWduMkUwNWlfNE1sRWtqWmZRaDZrMlNoSHFBQlhYTUxScVNmMXB0STVtMmhNODhBcUYtTmNseEo3eUFfX0ltdDBROTRFakFsNGZ6QkZCbnFpQVRic3lVV0Fzdk5yQUVCWWRJb0ZxODZsRkRPSE5uNDlEWi02dmxEc9IBrAFBVV95cUxNVXBmdTc4X0VtTFZhR0UyNExQeGpyMEFoNUxGdlNaU3laTGd0V0EtdkxyamhpOG0zYXgyM3o5RVdaTTM1S0lYakpLOHFFelozVTBRRFBTVmZRTzRtZktBRGVyeU1qQ0JENlNjUTFPbl9HWXpUcTllZ0YwekppZjkyS2VCVEg5VkM4alZwWHFBQTQzcUkxdEVxZ2hjM0pmb2YxZ0pxeVdiVzdSSjFp?oc=5"
+    },
+    {
+      "published": "2026-10-05T18:15:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "Astronomers Confirm Discovery of the Youngest Known Exoplanet Ever - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQlExU2psTTRsQW82WDRUZUN4UkpET2k2QTJ6eGU2ZVd6enhCNVpLVWFuMUI2ZGs2WEk5OW1JT3FKU0lsYWhxbE9vT1lCUHRDdTNKM2JLTXhKN3U4b0hzQVJuWGVaWWpGYUM4WXFnWl85VGxWSC0xTE1McS1qMjRaSl9LQWNDVDhBTkVXQndZZGdESGNvS1E?oc=5"
+    },
+    {
+      "published": "2026-10-05T15:47:52+00:00",
+      "publisher": "MIT Technology Review",
+      "source": "MIT Tech Review AI",
+      "title": "Connecting AI agents to enterprise knowledge - MIT Technology Review",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON0ZxZVNnZjZpNGgtVnd5WjUzdVBnaWwtZ29nVnJDaDJiOGtPVXdwVHBSMVd4RmdRMF9McGV1cGNIajgyVzRSUklRU08tdktmN2N1aFcxTVBpMnpVbzluUDdmb3lyV1Z6ZTFreDBqNzg4UDhYZEs5djNWS1RieG1TbVRPc3VSdEpMSWRtekFQek14TmxlN0laVTBNLXpoQdIBowFBVV95cUxOSG9lYUYxTGg4Y2RDcE0tUHFDcmxhckt3YW9SbHZIdkRpeXVWb2tLWTFXU1lPNnV1SGNoOHdDaXJFdE9BaExjYkliLTRYU2JRcjBUOVhjY1Fza3JSSUNOS0dPQ0cxdVdkYWRRT3ZfUzM5ZGlrYlhTZF93bEpZZm9oS3MwMlZpXzRHWTRxeDhzTExuTlZzaks0dHFYUVRqX2lYX1FF?oc=5"
+    },
+    {
+      "published": "2026-10-05T16:25:56+00:00",
+      "publisher": "Quantum Computing Report",
+      "source": "Quantum Computing",
+      "title": "Quantinuum and The University of Western Australia Partner to Advance Australia’s Hybrid Quantum-AI-HPC Ecosystem - Quantum Computing Report",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaFUyMVJfMDdxdkhOSndCejRjMXVoYVFWcVp5TnhzQzgtMjg0bjlvdXpMdzVYLXVwbnYxYlZlanhWQjd6ZDVGWUdlSDlpMFhaaUJsRlROTFB4ZjNoVk9tV2NjSnJfZk54Y2dzdVJjQ1BHQXpub3pfMGF1S2tHVy02MVhBZnZZLXZtSVljdzc0VGs5QmFyRVN3dzBWVGVVdmVUWDRLcHc5a3ByU3lYX0UyRi0zODhKOWw2cGtiWUZFZzV2NzYzc1RwZ0hQWkJUMWVSZm1iMm9wTkxkYlpsQnd6S2h30gHnAUFVX3lxTE5VYUQ2S2QweS1PQVVMNHNqVVdXTHZacUpyQkZJX3FCdzZDb0E4RDlOSU12ZC0zMjRSSUFIWndxc2FtMUFQNVhueTRhRHZWQ2U2Yy01Q2Z1cVRHWjIxUDN3Y1RjZl9SQjMwZ1AtSTY1dGp1LXdyUnJTSDBXUGtuM1pVUXRNZGZLeV9tMDhzbWpWWHkzcDhjNzlDOEc2TnJLc1lhQmFDWHBnVGs5SDVwUkxtblJleG41WGhPbGxiUS1NNDIwMk5UdVliLUs2VS02VktnZVBYS2JJcVBEaFd6ZDdlSjI5M2NvOA?oc=5"
+    },
+    {
+      "published": "2026-10-05T14:21:35+00:00",
+      "publisher": "Thailand Business News",
+      "source": "Quantum Computing",
+      "title": "Quantinuum and The University of Western Australia Partner to Advance Australia's Quantum Capability - Thailand Business News",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd2hBak9CbUpnczlOcFlqLTdTV2RUd3RmNWYtTU9uQVpEWFcwZ1VmQ2tCV1ZMVER6ajVOTEpiaDZkMWpLT1RObWc0Mmc3V3Uxekc0VVFVOEhRWUQwRWZCazlLcnZwRXNPYzBXVkVfZ19jV1NTZmtESTlUNVJWUHNXSzBXRlNxS0t6cWMzTXhKTDg0cGtWblRpbktVeFB2YnVsQlF2VWRSV0toRVJrSmgwbjZxVGdpVGMwWDhvUkY1eWVISEE0c0hjWkxEVll6bW5CdmJnWDRucURPc2hEbzdz?oc=5"
+    }
+  ],
+  "date": "2026-10-06",
+  "generated_at_utc": "2026-10-06T01:39:51Z",
+  "items": [
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "OpenAI จะเริ่มใส่ลายน้ำที่มองไม่เห็นในข้อความที่สร้างโดย ChatGPT และ Codex ในสหภาพยุโรปเพื่อให้สอดคล้องกับกฎหมาย AI ของ EU ที่บังคับให้แสดงความโปร่งใสในการระบุเนื้อหาที่สร้างโดย AI ส่งผลต่อผู้ใช้ใน EU และนักพัฒนาทั่วโลกที่ใช้ API ของ OpenAI.",
+      "title_th": "OpenAI เริ่มใส่ลายน้ำข้อความ AI ในสหภาพยุโรปตามกฎหมาย AI ของ EU",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "why_it_matters": "เป็นก้าวสำคัญในการบังคับใช้ความโปร่งใสและความรับผิดชอบของ AI ตามกฎหมายระดับโลก."
+    },
+    {
+      "source": "Reuters Tech",
+      "summary_th": "Morgan Stanley รายงานว่า Nvidia และ Broadcom ได้รับผลกระทบน้อยจากปัญหาขาดแคลนพลังงานที่ส่งผลกระทบต่อห่วงโซ่อุปทานชิป AI ทั่วโลก ซึ่งเป็นข่าวดีสำหรับตลาดชิปและอุตสาหกรรม AI ที่ต้องการฮาร์ดแวร์ประสิทธิภาพสูง.",
+      "title_th": "Nvidia และ Broadcom ปลอดภัยจากปัญหาขาดแคลนพลังงานในห่วงโซ่อุปทานชิป AI",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMF9lcTkxVU5OWUp5THhibUJWc3U0MWo5c2dreS02dFk3TGt4SlBXLVdpX0htOV85SnVsc3RUZjZJZDJac3p3bFgzS05uU2hjVXh5N0RjcFVtQml0TnBRSllwREVDdUVFOTBoTTRMT01RMnVUNGQtZk1ZY0ZIdUZHWHNBbjlaMk10dEpJZ3J5eTZHYjlDQW9JdEg4STBBLVNYNlFRb1J1aUJudHJkS2lmT0otSUJHdE5wVnJaXw?oc=5",
+      "why_it_matters": "ชี้ให้เห็นความมั่นคงของซัพพลายเชนฮาร์ดแวร์ AI ที่สำคัญในยุคที่ความต้องการพลังงานสูง."
+    },
+    {
+      "source": "Bloomberg Tech",
+      "summary_th": "NATO กำลังร่างแผนการใช้โดรนและเทคโนโลยี AI เพื่อรับมือและป้องกันการโจมตีทางทหารจากรัสเซีย ซึ่งสะท้อนถึงการนำ AI มาใช้ในยุทธศาสตร์ความมั่นคงและการป้องกันประเทศ.",
+      "title_th": "NATO วางแผนใช้โดรนและ AI ป้องกันการโจมตีจากรัสเซีย",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeE1HdE90Tm9CdjF4dmM0dHhpRlpjTlZPX2FsWmxETmxwcU9hNzd6bGxzeENEMm5JSjNpNXdjTVdINnN0RnhYRVNqR2FzbzVLMnF1YjhRYjZKZE5pT0JYNS15bVJTS3JWT002VXB5UFcwbFQ5OHVacFJ5YzdSdzBoeFR2eWRsNGlRV1ZQbmwxeXB3YUJkeDZMWHRVWjN6empLcDExZ0M2QXZWdEppcUVtdkNORQ?oc=5",
+      "why_it_matters": "แสดงให้เห็นการบูรณาการ AI ในด้านความมั่นคงระดับโลกที่เพิ่มขึ้นอย่างรวดเร็ว."
+    },
+    {
+      "source": "AWS AI",
+      "summary_th": "Anthropic เปิดให้บริการ AI Claude สำหรับการประมวลผลในประเทศอินเดียผ่านแพลตฟอร์ม Amazon Bedrock เพื่อเพิ่มความเร็วและลดความล่าช้าในการใช้งาน AI สำหรับลูกค้าในภูมิภาคนี้.",
+      "title_th": "Anthropic นำ Claude AI ให้บริการประมวลผลในประเทศอินเดียผ่าน Amazon Bedrock",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVENOa2RMendCX1R1bjRzNjUzd3VHVUZtWDJtRW82RnhqVksxaTBmV211MUdaWjV2cEpXb21kZnZUNE1ZeGJILVc2LWtacjRmYjF6YTMyd3A1OE00OE1RZ2JJZUZiZXFJbUVaS2wtcE5rUDJ0ZUx1UGFBV1BwREYzcnpfQTQ3S1VZRDQtUHAyYW1YenNZZ1dVRlU4anpEZTh4TGR0ZDVZYm5EVjU5Z2l0QWJvcEo?oc=5",
+      "why_it_matters": "ช่วยขยายการเข้าถึง AI ขั้นสูงในตลาดเกิดใหม่ที่มีประชากรจำนวนมากและความต้องการสูง."
+    },
+    {
+      "source": "MIT Tech Review AI",
+      "summary_th": "บทความจาก MIT Technology Review อธิบายแนวทางการเชื่อมต่อ AI Agents กับฐานข้อมูลและความรู้ขององค์กรเพื่อเพิ่มประสิทธิภาพการทำงานและการตัดสินใจในธุรกิจยุคใหม่.",
+      "title_th": "MIT Technology Review วิเคราะห์การเชื่อมต่อ AI Agents กับฐานความรู้ขององค์กร",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON0ZxZVNnZjZpNGgtVnd5WjUzdVBnaWwtZ29nVnJDaDJiOGtPVXdwVHBSMVd4RmdRMF9McGV1cGNIajgyVzRSUklRU08tdktmN2N1aFcxTVBpMnpVbzluUDdmb3lyV1Z6ZTFreDBqNzg4UDhYZEs5djNWS1RieG1TbVRPc3VSdEpMSWRtekFQek14TmxlN0laVTBNLXpoQdIBowFBVV95cUxOSG9lYUYxTGg4Y2RDcE0tUHFDcmxhckt3YW9SbHZIdkRpeXVWb2tLWTFXU1lPNnV1SGNoOHdDaXJFdE9BaExjYkliLTRYU2JRcjBUOVhjY1Fza3JSSUNOS0dPQ0cxdVdkYWRRT3ZfUzM5ZGlrYlhTZF93bEpZZm9oS3MwMlZpXzRHWTRxeDhzTExuTlZzaks0dHFYUVRqX2lYX1FF?oc=5",
+      "why_it_matters": "เป็นกุญแจสำคัญในการนำ AI มาใช้ในองค์กรเพื่อเพิ่มประสิทธิภาพและสร้างมูลค่าใหม่."
+    }
+  ],
+  "jev_screen": {
+    "brief_kind": "ai",
+    "error_type": "RuntimeError",
+    "input_count": 25,
+    "mode": "active",
+    "output_count": 25,
+    "status": "fail_open_error"
+  },
+  "model_used": "openai:gpt-4.1-mini"
+}
