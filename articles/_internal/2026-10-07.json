@@ -1,0 +1,227 @@
+{
+  "articles": [
+    {
+      "published": "2026-10-06T19:15:17+00:00",
+      "publisher": "NVIDIA Developer",
+      "source": "NVIDIA AI",
+      "title": "How DOCA GPUNetIO Unifies GPU-Initiated Networking Across the NVIDIA Software Stack | NVIDIA Technical Blog - NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnpvTTJ2OVFQSlFDaEJxby03Z3VhSmpkYkM0WUg2MEFySDdzOWpJZkx4YnU2WjJSZWZEbXJZOXRUVV9KYlpxaGIyVGFNSWowa09ydmZMSXVfMjh4OXlfaVcwVkJhT3ZnRnRVRkczSXk0bTdOWkcyTlU4dGtRTzdJc0hrelE?oc=5"
+    },
+    {
+      "published": "2026-10-06T16:00:00+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/"
+    },
+    {
+      "published": "2026-10-06T14:33:16+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/"
+    },
+    {
+      "published": "2026-10-06T16:15:56+00:00",
+      "publisher": "NVIDIA Developer",
+      "source": "NVIDIA AI",
+      "title": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration | NVIDIA Technical Blog - NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR1pIWHVsaDFjbTdyNzFtQnZBcVJNTVlGOTZsRmlPY21uV1dILUoxV3hsUHVOVmkwemlmQ05NTEYtNzJFZ0RQU2RuNk9US3V4Wmx1Tzc4NnNkMmhnbnoxejNUQjVmNFdBbFB0YW9pUmktV0FjbVNVUU55VUpiQnBObGhjX3pyU2pRVnRqZ1NQWUlmTy1TYlRzYXF1QzBXdw?oc=5"
+    },
+    {
+      "published": "2026-10-06T10:17:00+00:00",
+      "publisher": "The Times of India",
+      "source": "Microsoft AI",
+      "title": "How Meta and Microsoft’s ‘Claude message’ to employees show Anthropic has a ‘complicated problem’ - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPaDVIRVVOaEE1b2FFSmIyQWs5NThScG9NSWdCS0tJUUNINFVJSmRGUWFHbE5lWUJsbFlfUnlFb2FwRG03ekFLOGVpUVpUSjNXRUhCZlF6S2RVMTE1eGRsWW94R3BEa0F2SWdGNWR0QnltN3FMQXRLM2o4WFVJMThTUUk0VmtvOUY5d1FsblpBUWMyTFVXTjFFeEg4RHVkVThRMmpXbzhWZ3JBcUFfSFN1ODhneFpObHVINFVvVGt4VmQxNGZtaWh2SDNWaVRDNjA1UWxfOG96b2Nzc0dCSVJLSXdwMGVfMG1iMEVMbEk2YlZyRE14WkpZekNwbGc4dUhJMVVtQU1B0gGLAkFVX3lxTE1fWGk2b1ktYjZtWHRNdXJwcnduMk1FbUxwNDQyV05hWjRXSlFlODdLd2hMa3BCS2hvUEtnbmkzTHdiaHB2cHlnbjRKVGtBcEFDWjQyZ1JEQWo4dDBMa2JRUjNSVnlpa2hnSzN0cWJsYk9UTDNvQkFjdjMwd3pTakczaVNjSjZUa285U21wUGFlVjBZc0U0ZDFETUtCd1FNUjQ1ZW1KWE80YmdNNk5JeTZfRl82cTFKNDB3clhkaVpwdDVHb1hUcnZkaUM4TjdyaVJPYS1GU3lYSGdOeWxXV0JNWVBSRVAwZ0pfbU5xYklDZVpRVk9sRUY1Qm5CYW9jS1MwSExxTFc2Qm9aaw?oc=5"
+    },
+    {
+      "published": "2026-10-06T17:15:53+00:00",
+      "publisher": "fundsforNGOs - Grants and Resources for Sustainability",
+      "source": "AWS AI",
+      "title": "Build on Trainium: Call for Proposals for Agentic Recursive Improvement of AI Kernels and Frameworks – Fall 2026 - fundsforNGOs - Grants and Resources for Sustainability",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbE5xZmlDYUxhS1NSVkVhVnlCTGQwaDRveDliSFItMWZVcmZtWHVZVDNhREtJUldLTHZzcEZiQ0dUUzVsYkpQNFc4NG1tQmVGRVRCa21ROUNQbVg3aTc0eEprUE1zZUduWG1JNTRHQ3h4M1J6djVVUGpUZDAtUEFMOEtHMFV3N0ttTTQ0SzRJWHltUkROR01SN3NxbXFDaXJzc01sN1ZsUGtEX3RfRDRnQzJQeWphRm_SAbwBQVVfeXFMTUlLVXl4ZWszZWNxUDAwWE9fYi1zN1ZoMjVRZTllZnpFeVZYUjg5Y1BhYVdWOFBFMmNWX1A2aE5kTzJNazRXVUhYbllzOXJlT3JUUGZ5TEwyVmJYZ005M092YjUzMmVmVkJTLThzX1MwdnVCMEEyNTZNTHJ1QmJOMXU3amY1QzB3bUNOazlPMHlrNk5VT3ZPVkF0c3dwdjFTb2lDeDc2ZE9NdUNlRk9vR25zNU41dlF6cnU3ZlI?oc=5"
+    },
+    {
+      "published": "2026-10-06T20:56:39+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "Marvell raises 2028 revenue forecast on strong AI data center demand - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcDJISmlqQ09tSDQ4NnNJNElrbWtnQlpVZGlrd3NCQjlvVktSMm00UE1JZDBHZGFqOUVUWjUxbU1KcTM4NXBCMDdGSUY4UW9kd202NzFXT0NBTzdFQU5xbmdqMWFYelRYVmNRTnhDNmlpdlJRODVCMHVpZ21XWnRldHVDd3p6RjJlQjRTMWZiMnE3LTVJM1FMZW1yaktxNHNDQnBTc2ZnZ3JZYjVsZnhj?oc=5"
+    },
+    {
+      "published": "2026-10-06T23:26:38+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "OpenAI drops another batch of mathematical breakthroughs - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHZQUTNwZGRwZWR1QV9Vbi04X1AwUDRLdkVsWVItbTJmbFVrQm1RNzlWbXhTVDJFcFNISmlndmxkdnpKTFNLX3IyTm93MHp1aEI1T2xQM3cwaVFjaFpYbW5YSVFvSk0wemYxbHFBQm94ZTZpNEZFRk85dzBrUl92eWRzYmgxZm4wd3g0b0lfWQ?oc=5"
+    },
+    {
+      "published": "2026-10-06T20:32:10+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "Google’s power-hungry data centers crave nuclear energy - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeDdlSy0xMm84bzlDY0pJNE4zZURPWWFTdjh2em1GOFdIdVo0R3JIS0h6UkhpelhWYnRZaFQ1Yk1PVXFUU2d3Y21rSmJ2VmFyU2JPeHU4WGllcWpfbzdlYm5xYUZ6OUJ4TlVVZkMxLTk1UXdyandZQ0ZJbHNCNk1IOEhHMmtwc2I0OUdMNnplM1h5bVg5OEdQb3pQcE1ULUY2Z0Fv?oc=5"
+    },
+    {
+      "published": "2026-10-06T23:19:19+00:00",
+      "publisher": "OpenAI",
+      "source": "OpenAI",
+      "title": "How Jump Trading is scaling quant research with ChatGPT - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93YUJfZWFpb2VQNEEzdENGbGR4aEE0UkZYWjE0XzhrM0lsLU82WWtXRG9TQ2VITXJuMnp4MVpLbWNOR20zV0VwNV9CcnJhZGs?oc=5"
+    },
+    {
+      "published": "2026-10-06T16:22:22+00:00",
+      "publisher": "blog.google",
+      "source": "Google AI Blog",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZnFld2xRdDVNUloweENSSVlzYXVZQ1ZUM2F3RXFFdl8yOHhudlZiUnkxdEJBcEtaWnJYcFh3UnI5QkFnbWRpVldxa1RjYTQzNVFhUzZHaE1OZllLWUoyVjZvLWhudjlZdTEzdkJWZW5TUTBHZGhkMS1KemlhbjkzaWVtN1BxQ2RHcGJn?oc=5"
+    },
+    {
+      "published": "2026-10-06T15:44:15+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "France's Mistral launches AI model it says outperforms some Chinese rivals - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjVFRUV6ZzZmeXFiN3NIWmZwUTBGWTR3ZUx1UUhjLWRLMC0wZThtLW00a1FYNjloa3BiSTFveFdZZFkxWnd5d283Qi04MnU1UC1IUl9KdlBkX2o2X3JpQ0pUZVRZQzJ3Uk1fRzR5VnJIdGhwVGI3Q0JWc2RWOGtBZTZzek4tcWQxRTAxZnB3eWJyV2gzY2FlNjdYVk95b2lQX2UtLVNWandvMDA?oc=5"
+    },
+    {
+      "published": "2026-10-06T16:15:12+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "Startup Hark Debuts AI Agent Ahead of 2027 Hardware Launch - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYklpRDlBREdYMmNhZ09VUjM4TGUzR0NwUklfNmtsS3FPaE9hRExwdmJ2NnJ3S1E5alBleFh6ZlJYaTU5N01jY0hHallvdFU3TndudXNBNFdtdTB4NFE2QnBrRkQ5dFFHVEFfVGM5SV85bmdlWmhzTy1YQjZibmxqbHBaNVdYdENEaUdySl9wZFhxU0l1STdiQXZIdmh1MTVraG4wdUUyZHhZRFZlbVlWNGRpSUNPQXpfZEwtS3BPQVJaZTNo?oc=5"
+    },
+    {
+      "published": "2026-10-06T15:25:14+00:00",
+      "publisher": "Gadget Review",
+      "source": "xAI / Grok",
+      "title": "GPT-6 Astra Drove a Real Car Around a Cone Course: Grok Failed - Gadget Review",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNjlnYk1DYjVONXRrMkhoUW5WdmdUQWxyMlppdm0tVXgzM29ZRzlxOWxXYi0tWWtVcWhBQzliVXNwVXhGZDZzaDgzTnRycDNKVDRxTXVUV09lcFdWbFVTd0RYNUc5UVVFaXpZX3E2OEdlenl6bGVOTnljWS1veHAxSkJjaXFhUEZTNVdIcjZDX1ZzNUM3?oc=5"
+    },
+    {
+      "published": "2026-10-06T18:35:12+00:00",
+      "publisher": "TradingView",
+      "source": "Microsoft AI",
+      "title": "Microsoft Keeps Winning in AI. The Stock Is Still Waiting - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU3RqY1BxVEZVN3FSSklXdkY2UFNaUF9FaEZ3YTBra3ptbW5yVnNlQnBuckYzUm55bEU0bVQwVm5vSG5HZ3V2WUlKbkhENWx0dFpDaW81M1RsdUs0bEtuTlpxUGtKU0NOZXdJdWx4SEVKS1o0Q1VpZWVTQUFjQzA2dGhuTG1QWVpxaEVXOTZVd0FYeHMwcWlnRUhleUk4clhXeHRQVlRvV2JKQzUzSmNSaVlfb3BMdmc?oc=5"
+    },
+    {
+      "published": "2026-10-06T21:37:12+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "How AI Created an Unlikely New Breed of Billionaires - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWjJrcXBjc2tnTHBacmU2Tjgyd280Tk1QQnl2bnBxbFhtWjE1emZNWVJ1LXZfZklIcFMzSTdTSlZWek9BRE1RVkJHMWJoNnpEWnFGaWRuemc4eDF2QmR3WlE0M3RJSDNVSGZVNEMya2d2dzRGdnpvTWJ6ZmlhZnJuSHlMQUtkdS1WUjhmU0w4STNPUGhTUm9xcmpVeFlzZmJjXzdvdWdQQU1YUGVyRV9oNEFTOWNQbm8?oc=5"
+    },
+    {
+      "published": "2026-10-06T18:45:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWHZjTnFJTGZBM1hhUDVNVklzallMUE5heGRnVVBXOU5Gc19TYVVhRU1pMEZSLThEZUowM3NRUlZjTlVFMnFVNW9ET3dnWXNPVmRjSjdDYU52Mm4tbjBiNHZ0RXZSY1lnU1F2TUhiblpHc1Yxd19DU3hVd1dVcnNyWXExMTc4Tm5jMWxILXdfTjhWdDBrMDd1NGNxaW51bzlURTZUcg?oc=5"
+    },
+    {
+      "published": "2026-10-06T21:39:12+00:00",
+      "publisher": "Stocktwits",
+      "source": "AMD / TSMC AI",
+      "title": "AMD CEO Lisa Su Reportedly Signals ‘Substantial’ 2027 Chip Supply Increase – And Citi Sees A $800 Opportunity - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVjVXeUw5SkhZYXM2eDQ0c0Vsd3d4S2RXeHFnaV9VenhrNTA4VzA1Vmp0NHBKTjF4WjVwZG5ialpxSzFWQWY2TTI4eGNzUDR0aFQ2TE95UVZZX2FTX1g1STU4b1J0UFpVRlR1YUhfNWR4Q3hUMjVGNFhoM3Z5LTQzTi1YRVcxNnlFUll2d2F0cnVZdUFsUDFUUHAyMzBjaFVvbXFMTkV0MjhWS3JfQ1JjNk9mS2tjeWIyY1NnYnhVbWgwc0UxVHctdTF4b2tDdXJZODVJeHZIY0hDTWRmb3JyUkpFMUVZbFE?oc=5"
+    },
+    {
+      "published": "2026-10-06T20:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "source": "AMD / TSMC AI",
+      "title": "AMD vs. Marvell Technology: Which AI Chip Stock Is a Better Buy in 2026? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTTAzRjR3eWVzTWplNHpfdkNLVEFPSXBSVzdTak9GbWYwdGJ6bFp4OWVXSks0eUUyRk1ic0RwcEItTC0xbzRlTWE2WFVBMHhra3B5S0VKanFKOXE0UExCMzg0bWZQbVdoZUZNdHNtNFJ6UnFwV3RjMTczX19FZEdCUnZQZDNSbndET1h6N1ZLUjNpaEc2aHV4MUVLYVAtNm9jaFVSUUk0b1FhOG52Q2lvRGdhYks?oc=5"
+    },
+    {
+      "published": "2026-10-06T19:19:15+00:00",
+      "publisher": "Amazon Web Services (AWS)",
+      "source": "AWS AI",
+      "title": "Building a context-aware AI assistant on AgentCore and OpenClaw - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0ZlYnBlVEYxTDRkQ09jejBoRzFadmpLM3k4U09vVnhWZGVDZEsyLU1ZT0hFcy1IbklKLTZ6UmVBTXB3UkdKZ1BrOWxRNHREX1VsNFQtUjdIY2x0VS1ydEkzTUgwSy14MjJHLVpqWlFRZTlKNi0taFI3aklwcUxfZEREck1mTE9yd2YzaUxTYUVGbVA0MlBqc2VEVFhfVzVyWEFSdjIzbG13RjBKMUNB?oc=5"
+    },
+    {
+      "published": "2026-10-06T13:30:05+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "S&P 500 hits record high as AI stocks shrug off bond market slump - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd25OOGtLZGFQYm9wMjExWWRaWlhUTUdFQjJFTG5oLThEaFFWcUh2QThaeXd5NWVNeVhOQWZ1U1VGRGprN2xueDFqSVRHRWNMMTVLNjlrRHBGbV8wV0dScERTOXh1VzRaTlh4RkZBQTFPVGFGMnJvSkdmLUZLamllRmVHTWg?oc=5"
+    },
+    {
+      "published": "2026-10-06T16:00:07+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "Artificial Intimacy — Sherry Turkle’s stark warning against AI ‘companionship’ - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CMk9JUzhvRm9iY1hmd0JXN1B2el82OUlxY2xfdWhKZ3FLVHBicTZoeEJTOGtOdnNxelRoa0dRYklpUnBhQ1hYNDhNTWRZZk5lR19XQ21iS2k1bWFtcklRV1NpWF8yV3oxdmU0LUVIYWE?oc=5"
+    },
+    {
+      "published": "2026-10-06T17:39:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "‘Mike Rogers Is Watching You’: New Ad Blitz From Abdul El-Sayed Attacks Surveillance Support - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN0RFQVJBaFJkTU95RjdSa3BqQ3ZNdXEwZGt2TWptaU5kMTlsRHJmc1VSem9kMVRDVTIwbUY5Q0JHMTdUWTNhQU1UeVpRVVFrd0szVjlzbklpcDFDcFFLb2hsLTg0aE5mQmJLRjJlQ3FYN0NIQmgtY1M0Q0JwYmJxSUVSZG9vbUtWcVVfMmVvakF0aFVQV2pWNV9wb3pJQUJHeEUydVZTbTYzbVBEUjdNMU52aldZa0hybXc?oc=5"
+    },
+    {
+      "published": "2026-10-06T06:26:00+00:00",
+      "publisher": "The Economic Times",
+      "source": "AI Regulation / Legal",
+      "title": "EU vows AI rules will protect Europeans. Will they? - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMWRQUHYzaVZwbTFaNWttZ2pZYWFERXFmQ1hvbTU5N2NTN3ktODlkTTlxU2tXakZmN2o2SWo0QURaeGMxeDJ4WmlMLWxEc0lnQS1DMHJkelNZZHR1cHloUXUyV3lyWklXVGw5aThSZFhPYWpiUEYwV2M1cVNGdWxJeDdrb0JIdEl3RTdMVnNqVlNsMFMtS2ttTVB6WUJsaDNRNFZZN0xBNlB5QUpXbTdnRXhVNTBsZElua3JsaEV4Y0hFQmRzREdrYnMzNzVIenJy0gHQAUFVX3lxTE4xZFBQdjNpVnBtMVo1a21nallhYURFcWZDWG9tNTk3Y1M3eS04OWRNOXFTa1dqRmY3ajZJajRBRFp4YzF4MnhaaUwtbERzSWdBLUMwcmR6U1lkdHVweWhRdTJXeXJaSVdUbDlpOFJkWE9hamJQRjBXYzVxU0Z1bEl4N2tvQkh0SXdFN0xWc2pWU2wwUy1La21NUHpZQmxoM1E0Vlk3TEE2UHlBSldtN2dFeFU1MGxkSW5rcmxoRXhjSEVCZHNER2ticzM3NUh6cnI?oc=5"
+    },
+    {
+      "published": "2026-10-06T21:00:00+00:00",
+      "publisher": "Quantum Zeitgeist",
+      "source": "Quantum Computing",
+      "title": "Quantinuum Trains 30 Chemistry And Quantum Computing Researchers - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqSVZrenVBbmVFcm9RQy1EWUZWX2t0ZjFoWmRMWnM4NWhQQ1BSWk1YQ1pCdFFWcjBEUkZObE0yV1dhQWRpR0sxZjhWaXJqbnQ5OVJqMHpZNzhjd243VE5rd1R1VmFkazJqUFNMd1h2bnR5ZG8?oc=5"
+    }
+  ],
+  "date": "2026-10-07",
+  "generated_at_utc": "2026-10-07T00:22:26Z",
+  "items": [
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "บริษัท Mistral จากฝรั่งเศสเปิดตัวโมเดล AI ชื่อ Mistral Large 4 ที่มีขนาด 1 ล้านล้านพารามิเตอร์ มุ่งเน้นการใช้งานในด้านไซเบอร์ซีเคียวริตี้ การเงิน และออกแบบชิป โดยโมเดลนี้จะเปิดเผยน้ำหนักโมเดลแบบเปิดในอีก 3 สัปดาห์หลังผ่านการทดสอบความปลอดภัยแล้ว ส่งผลให้ตลาด AI มีทางเลือกใหม่ที่เน้นความโปร่งใสและความปลอดภัยมากขึ้น",
+      "title_th": "Mistral เปิดตัวโมเดล AI ขนาด 1 ล้านล้านพารามิเตอร์ แข่งขันกับคู่แข่งสหรัฐและจีน",
+      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "why_it_matters": "โมเดล AI ขนาดใหญ่จากยุโรปที่เน้นความโปร่งใสและความปลอดภัย เป็นทางเลือกสำคัญในตลาดที่แข่งขันระหว่างจีนและสหรัฐฯ"
+    },
+    {
+      "source": "Reuters Tech",
+      "summary_th": "Marvell บริษัทผู้ผลิตชิปประกาศปรับเพิ่มคาดการณ์รายได้ในปี 2028 เนื่องจากความต้องการชิป AI สำหรับศูนย์ข้อมูลเพิ่มสูงขึ้นอย่างรวดเร็ว การเติบโตนี้สะท้อนถึงการขยายตัวของโครงสร้างพื้นฐาน AI และความต้องการฮาร์ดแวร์ประมวลผลที่มีประสิทธิภาพสูง",
+      "title_th": "Marvell ปรับเพิ่มคาดการณ์รายได้ปี 2028 จากความต้องการชิป AI สำหรับศูนย์ข้อมูล",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcDJISmlqQ09tSDQ4NnNJNElrbWtnQlpVZGlrd3NCQjlvVktSMm00UE1JZDBHZGFqOUVUWjUxbU1KcTM4NXBCMDdGSUY4UW9kd202NzFXT0NBTzdFQU5xbmdqMWFYelRYVmNRTnhDNmlpdlJRODVCMHVpZ21XWnRldHVDd3p6RjJlQjRTMWZiMnE3LTVJM1FMZW1yaktxNHNDQnBTc2ZnZ3JZYjVsZnhj?oc=5",
+      "why_it_matters": "ความต้องการฮาร์ดแวร์ AI ที่เพิ่มขึ้นสะท้อนการเติบโตของอุตสาหกรรม AI และผลักดันการพัฒนาชิปประสิทธิภาพสูง"
+    },
+    {
+      "source": "The Verge AI",
+      "summary_th": "Google เปิดเผยว่าศูนย์ข้อมูลของตนที่ใช้พลังงานสูงเพื่อรองรับงาน AI ต้องการพลังงานนิวเคลียร์เป็นแหล่งพลังงานหลัก เพื่อให้มีความยั่งยืนและเพียงพอต่อความต้องการที่เพิ่มขึ้นอย่างรวดเร็วของระบบ AI ขนาดใหญ่",
+      "title_th": "Google ศูนย์ข้อมูลพลังงานสูงต้องการพลังงานนิวเคลียร์เพื่อรองรับ AI",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeDdlSy0xMm84bzlDY0pJNE4zZURPWWFTdjh2em1GOFdIdVo0R3JIS0h6UkhpelhWYnRZaFQ1Yk1PVXFUU2d3Y21rSmJ2VmFyU2JPeHU4WGllcWpfbzdlYm5xYUZ6OUJ4TlVVZkMxLTk1UXdyandZQ0ZJbHNCNk1IOEhHMmtwc2I0OUdMNnplM1h5bVg5OEdQb3pQcE1ULUY2Z0Fv?oc=5",
+      "why_it_matters": "การใช้พลังงานนิวเคลียร์ในศูนย์ข้อมูล AI ช่วยแก้ปัญหาการใช้พลังงานสูงและส่งเสริมความยั่งยืนของอุตสาหกรรม AI"
+    },
+    {
+      "source": "AI Regulation / Legal",
+      "summary_th": "สหภาพยุโรปประกาศกฎระเบียบใหม่เกี่ยวกับ AI ที่มุ่งเน้นการปกป้องความเป็นส่วนตัวและความปลอดภัยของประชาชนยุโรป กฎนี้จะมีผลกระทบต่อบริษัท AI ทั่วโลกที่ต้องการดำเนินธุรกิจในยุโรป โดยเน้นการควบคุมและตรวจสอบการใช้งาน AI อย่างเข้มงวด",
+      "title_th": "สหภาพยุโรปประกาศกฎระเบียบ AI เพื่อปกป้องประชาชนยุโรป",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMWRQUHYzaVZwbTFaNWttZ2pZYWFERXFmQ1hvbTU5N2NTN3ktODlkTTlxU2tXakZmN2o2SWo0QURaeGMxeDJ4WmlMLWxEc0lnQS1DMHJkelNZZHR1cHloUXUyV3lyWklXVGw5aThSZFhPYWpiUEYwV2M1cVNGdWxJeDdrb0JIdEl3RTdMVnNqVlNsMFMtS2ttTVB6WUJsaDNRNFZZN0xBNlB5QUpXbTdnRXhVNTBsZElua3JsaEV4Y0hFQmRzREdrYnMzNzVIenJy0gHQAUFVX3lxTE4xZFBQdjNpVnBtMVo1a21nallhYURFcWZDWG9tNTk3Y1M3eS04OWRNOXFTa1dqRmY3ajZJajRBRFp4YzF4MnhaaUwtbERzSWdBLUMwcmR6U1lkdHVweWhRdTJXeXJaSVdUbDlpOFJkWE9hamJQRjBXYzVxU0Z1bEl4N2tvQkh0SXdFN0xWc2pWU2wwUy1La21NUHpZQmxoM1E0Vlk3TEE2UHlBSldtN2dFeFU1MGxkSW5rcmxoRXhjSEVCZHNER2ticzM3NUh6cnI?oc=5",
+      "why_it_matters": "กฎระเบียบ AI ของยุโรปจะเป็นมาตรฐานสำคัญที่กำหนดทิศทางการพัฒนาและใช้งาน AI อย่างปลอดภัยและรับผิดชอบ"
+    },
+    {
+      "source": "The Verge AI",
+      "summary_th": "OpenAI ประกาศชุดความก้าวหน้าทางคณิตศาสตร์ล่าสุดที่ช่วยเพิ่มประสิทธิภาพและความสามารถของโมเดล AI ส่งผลให้การพัฒนา AI มีความแม่นยำและทรงพลังมากขึ้น ซึ่งจะมีผลต่อทั้งนักวิจัยและผู้ใช้งาน AI ทั่วโลก",
+      "title_th": "OpenAI เผยแพร่ความก้าวหน้าทางคณิตศาสตร์ใหม่ ๆ เพื่อพัฒนา AI",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHZQUTNwZGRwZWR1QV9Vbi04X1AwUDRLdkVsWVItbTJmbFVrQm1RNzlWbXhTVDJFcFNISmlndmxkdnpKTFNLX3IyTm93MHp1aEI1T2xQM3cwaVFjaFpYbW5YSVFvSk0wemYxbHFBQm94ZTZpNEZFRk85dzBrUl92eWRzYmgxZm4wd3g0b0lfWQ?oc=5",
+      "why_it_matters": "ความก้าวหน้าทางคณิตศาสตร์ช่วยยกระดับความสามารถ AI สู่ระดับใหม่ เพิ่มประสิทธิภาพและขอบเขตการใช้งาน"
+    }
+  ],
+  "jev_screen": {
+    "brief_kind": "ai",
+    "error_type": "RuntimeError",
+    "input_count": 25,
+    "mode": "active",
+    "output_count": 25,
+    "status": "fail_open_error"
+  },
+  "model_used": "openai:gpt-4.1-mini"
+}
