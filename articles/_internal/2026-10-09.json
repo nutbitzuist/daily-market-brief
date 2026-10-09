@@ -1,0 +1,227 @@
+{
+  "articles": [
+    {
+      "published": "2026-10-08T18:18:00+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/"
+    },
+    {
+      "published": "2026-10-08T21:33:40+00:00",
+      "publisher": "NVIDIA Developer",
+      "source": "NVIDIA AI",
+      "title": "5 Steps to Create SimReady Assets for Robotics with Frontier AI Models | NVIDIA Technical Blog - NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb29oVGtZV3BUeFkwcENKZHJ3UmtzaTAtdXFkU3FfWDFScVo5VnlJRkt3QU0xaVBKRVItcjVndjZaOFFKOWJtRWQ2N0k4cHdoYl9QX2xaY0JIaktfSEJyT2RsVXRVSDZ5SmFTaDZRYnBtbF9EaVJCS1ktVU9pQUs1Y0xaSUtGc3dNcFk0UXhEQkh4NV91OXZ1cEJBMTlLR01NVExxaDdFNXc?oc=5"
+    },
+    {
+      "published": "2026-10-08T19:19:32+00:00",
+      "publisher": "NVIDIA Developer",
+      "source": "NVIDIA AI",
+      "title": "Building Reliable Data Analytics Agents: Lessons from the KDD Cup | NVIDIA Technical Blog - NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ2wyaVBiM0lXc3k3UGFxRTJneXdsWDNSaEQ0eEZtbEVFUVoxODVSeGxLdnAwdldJQ2c5a1BiaTBCOG85QVNGa0pvODRKR1RySjNRa3JaZUFVT19yQmtQV2gxOF9QS1RNajNCdFdaandEa1RMZ0xhdTRoMmFrZWl0VkJqSG9xcE8tYTNBS2pZc2hwWTI3amN0TXVUVVQxUjJv?oc=5"
+    },
+    {
+      "published": "2026-10-08T18:16:24+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Anthropic changes usage policy to ban model abuse and election interference",
+      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/"
+    },
+    {
+      "published": "2026-10-08T15:11:43+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "Google Cloud introduces Gemini agent for work as AI race heats up - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSlVSeTZYa0pSOFppNk9GdFF0Y0VZa19lYnRKTjRXb0FpZUhaTlBEUmRLUW04N3E1azhGalpULTNwN2Y0SnhFWGhOTktSdTVMMTJDc2VRX013NGNuSzJYRGxiWVJyU2dzS0lGdGN4YXlxQzR3TWl0eVQwbjFKWW5JVG1kQXdJYVVwd2J2OTZ5NDZYT0JQM09Ycmt2amRmekhNWTBfR0pR?oc=5"
+    },
+    {
+      "published": "2026-10-08T15:39:44+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "USA Today sues OpenAI for copyright infringement over AI training - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX1ZpWlNlN2RRMzA2d0JLeVQ3WC1teVdBQ3hGYTYxZEtwdVFKampVb0tyaXp4RmdYV3FWMDEyT2ZKcXg4Z1BMeDRpcjNZYzd3bGNmSkducG42cHBaOGVXdDI5dURWbHpFXzRzQ1p1ajk2TWNfX2RTREJpVGpxbC1OTzA0QVNEYkw4aUdoS0Z6dGcxNTB1Q3JMVmhyakhJMFNmTWwtTU9lQzl3V09COXIwYnZSdXZtUDh1?oc=5"
+    },
+    {
+      "published": "2026-10-08T17:00:00+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRHp1a0RodHB0TloxZW1vN3pSUFl6VkJyLWFvUXk3RHp5ZWVadUFJWlotZTk2SG5oanR6V3JRMGRMVDB5YThFUVBWaVYyZWFfalBneDl0THFXb0U0NmZHUVQzN1RZS1dGNmZ6X01rMlBoeWNpZEhrYmQzalItcVpyS2p1WFJDMUFMMHBFREZWeHJaNlh1Q0Vka0lHQWxHNy1S?oc=5"
+    },
+    {
+      "published": "2026-10-08T14:00:00+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "How Meta got ahead of OpenAI in the AI agent race - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYW5BUV93UHpJcndUc3NSWDZrNHN2Y0lLamtmODNrdWJjUEJxLUJCdkdENFBrQzFiT2hoSFlqRllaa3JQZ1BxZ0t5aTh2T080aUhULXMtUm80VzQ3Nnk4SEpQTElUOExEMkhnMnB0TE9jSkxnNTRzMFVyU2dEc0VNV0tHbVhVQ1BFdE5ETDhCemRzMUU?oc=5"
+    },
+    {
+      "published": "2026-10-08T23:05:00+00:00",
+      "publisher": "www.crn.com",
+      "source": "Microsoft AI",
+      "title": "Microsoft Touts ‘Hybrid Intelligence,’ Agent Security Push And New AI PCs - www.crn.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZXplOVBsQW9ZeHpSMTJJaXNaQ1ZqM3U2N0M5QUd4N2JRLVZRY0VybjZUblNxWS0waTlIdjYxS2JHTVpmZ2VNODJDTUdTcUJ0NTNoejBIem9ELUJrUzZ0eDYtNUMxbWpocl95dWdyczVBaXBON05vc0JJVEhPSElJY0ItcUEtRmJRZEs5VDhxVWhzdHBzVXY4UmVvQWM2dEh4RTk5dFNR?oc=5"
+    },
+    {
+      "published": "2026-10-08T10:15:00+00:00",
+      "publisher": "Fortune",
+      "source": "Microsoft AI",
+      "title": "Microsoft revamps Windows for agentic AI - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Scl8wWHNtNmtyV0pHSlFsRE5TUkpaZmN0UU1RRVVWTUdTbDhSQ2xWUk9jb2hqSHZQQ0pGRHJRbDUyNlpkY3h5TWhWZjBBU0dQdFJYa05idE1TNzNoaUd0RF9lSElQM0d2Q3o5ZTJMS3d1eHF2SVN3?oc=5"
+    },
+    {
+      "published": "2026-10-09T00:33:14+00:00",
+      "publisher": "36 Kr",
+      "source": "xAI / Grok",
+      "title": "Elon Musk Unveils Major Update: Grok Bot Gains Free Full Access to Claude Opus 5.5 and All X Platform Features - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QZHM1WW90dmI1ZWhEUWUzTjlxaTNCVzlJLXZtbXo3TGprTXFXRmdNencwNzlUV2lUUF9hUWdPb3drZWlyXzlsWkFZMGk1ZUZzU0Q4?oc=5"
+    },
+    {
+      "published": "2026-10-08T20:46:36+00:00",
+      "publisher": "TradingView",
+      "source": "AMD / TSMC AI",
+      "title": "Broadcom Stocks Fall 2.2% Despite TSMC's Record AI Quarter - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYnNvZjEtVUhQRGhBQnRFNGZORmJ1Zk9Nbm9NZGhQSW9iMkZqVG45OGZLbnVhSl9XaEZZbkRycFQzZGt5SFFOTG03ajhCT0s5bjJaYW5vYUpoU0labG5oUGRKMm5DdzNNazRqdHBhd0ZOYnlSLXIxOWJBU0VJV1NrTG1ydkwtc3ZTaTd4RjViVzh3N2RUX0c5a05kbUt6VFd2RlZvS3dFcEYwZjhBaUVfY01aTEdUVGhV?oc=5"
+    },
+    {
+      "published": "2026-10-08T15:00:11+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "Former Cognition, Ramp Staffers Want AI Agents Running Businesses - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZnBKWmxDelhMOTQ0SU43YTNPMlpEMmhKY193aldWaF9JMGRITHZoZXNadHEyOWZhRVRyLVM4T0M2Mm1rUHU4TVUySjJPbWFiczFWbHRrTmh0ZV9HX2E1ZUZ0eXBuNWNpb2RwZU1MQ1locng2dkRDUW9iNmVxTGE1QTFmQkY5azNEd284dzdNUDBjelV4aUpKdk1IbkVzV0l6NzNaM1FJOVpmbXRKQ2w3Y2VzZC0?oc=5"
+    },
+    {
+      "published": "2026-10-08T16:44:08+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "Big Tech sets out its pitches on AI agents - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWWVGbVZ6NG8xRjd1bGVxZlpLTFQ4SUV0dTRSVFloUEQ0em45dkFJUEsxRDdHQXBfa0RKbkI2Zm9pOWVyUUcweDJBejBNM0pkeE5Yck9uMXBISUswWUpQZGdqcU40ZjR1NnU4REdwVGRLc0Z2RTZ0OVVKTnFYVk5tUGhVZ3g?oc=5"
+    },
+    {
+      "published": "2026-10-08T13:00:00+00:00",
+      "publisher": "www.trendingtopics.eu",
+      "source": "xAI / Grok",
+      "title": "Musk’s Grok Bot Turns to Claude for Help - www.trendingtopics.eu",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wbkN0bGNhMlJUWEFPN0dQT2lCRU5qRldxTFdRa09CalBGQXNWLVNGUlUwT2JaUF9kUXhEZkcwS0tDczY2Tzh0T205ME90RDliNkpaajhjVVRCejNpQ3N0QWhFXy1wdzdCV2lSTnNYMFVVSjNYRVBTaQ?oc=5"
+    },
+    {
+      "published": "2026-10-08T18:33:29+00:00",
+      "publisher": "Amazon Web Services (AWS)",
+      "source": "AWS AI",
+      "title": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWVdvZkNxT3drTGp5eHJ1YlpDQjYwOXVQajJaODU2NDNEMEFhRmJfZ0h1VUQ2MVcwMFVvMEswR2RXb0JxOGdjdjlCbzNYQXZuV3N6RjZmNXp2bnU3NmJhcnFvdGxtQkdzaFpYNjF4Y3Z3QTNLU2tRZjJiUGtFVjhMeVp0NFpXaWhFYXd5TnUxVm53NUN0Y2F6TE5GUXpfM3RyUnZvanBtY2U4ZWM4VU1XMkhFYXpZS1F3eXBJRllTOWJPM0UyZ2c5Z2pjWUJxdHRGWUtteG1zZzU?oc=5"
+    },
+    {
+      "published": "2026-10-08T22:24:51+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "AI Debt Spree Hammers Tech Debt as Traders Rush to Reprice Risk - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObk5YcEpZRFh1R3h2eENqU3dBbkpRVm1lbDFLTkxVZkl2dWRGd3BhYjJ3NWFQZ0lMZWpJTVZ5aGswc01EbkRBVW5KTDBjdHpENVNLVFVsbmtUQ0JSVDR0ZnptMFFWQVVVaDNaZWxheTJQMm1kV0JJcFZBT2hVZVZiX1F4Q2FOZFhhS21DdWlLUl84S0R0X1lTY3BCZkw5MXRPN1V2djg5eG4zckV1dWI1UmJLQmw?oc=5"
+    },
+    {
+      "published": "2026-10-08T22:03:23+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "Amex fined $350mn for failing to flag suspected money laundering - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSm10MEs5NzRuNFp2VF9CYkxiZWdiRTRTanpmZVNyM25TYkVFZFBDOGJqUVdQVkNORWFVT2FpM1d6TEV0aHY2RWRGTkJwczBMbVdPT3VtQXZIZ1NJaVl0OXQ3eVM5YWJDd0VVXzNjMmktSUt3dWlfdG5TS3h5YzN2QnJfX0M?oc=5"
+    },
+    {
+      "published": "2026-10-08T19:30:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "She Designed Meta’s New AI Logo. Then Came the Hate - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNclBXTlR4OEpmOVA2QzZSWTFIUVZ2Uy1Ed09xeGNoM3pYeVg3bmM1MVNCTk8tZjlNTHBJVGZPcFJBZVdza3E3emxfdk5QSGxzSlFoYWtBX29XM2Q5Q3FpWFZQeFZFV0xaSzJlOWFkcHltYUVJcDVZVzN6Zzh1cjVoUW51Z3g?oc=5"
+    },
+    {
+      "published": "2026-10-08T22:40:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "ICE Emails Discuss Using Palantir-Supported Tool to Investigate Voter Fraud - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM3FQWVIxaXdRLUZaNVdOR0FWZllmaUtGQm4xa1dZYVdLOWwwUFZFemVpX1RHdHMwMXQ1dUM5V2tWSXZzS0V0S0RrWldKQTh0czk1djNqczJ0LUF2V01Ja0VWWDBrbnhkWFIxbDd6c1ZSYV84bExVRUo1SkZYM25EREJ6cWVremNkVnQ0UjVlQXRCYkVEcU5XWGV6RDY0UTVTQXU1MDg2TQ?oc=5"
+    },
+    {
+      "published": "2026-10-08T22:34:01+00:00",
+      "publisher": "TheStreet",
+      "source": "AMD / TSMC AI",
+      "title": "AMD CEO delivers stark warning on chip market’s future - TheStreet",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUFpOZmdvU29LcWxrYzZxZExhNmNabXU4RUUyS3JfbmxtSDRlc2dGQUlUakswN0pOLTVhNVZBSWtWNmw5cWlJZWYxTUVwOXBJMVM1aWhaamg3Zm9jcUxVcnVfY0ZodXdqOWo1QTVhMkVnczdaWHR5WGlsdU1WdnNOZ0hGNkRTbkE?oc=5"
+    },
+    {
+      "published": "2026-10-08T21:10:38+00:00",
+      "publisher": "Dark Reading",
+      "source": "AWS AI",
+      "title": "'AgentCorruption' Puts AWS Environments At Risk With Single Prompt - Dark Reading",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWZ3bkNxeDRPWEQxWk1BbEZLQVVnZUM3MWw2ckI3LW9oRHlEajR4REIzN0ZOWE4zb0J1dVRGWi1mQndjZWJfVXl3LXdqTE55SGJPTUxES2haSVItUkRRYVdlLTZaRzVoeHdISDIxVl96WVM2c01WZ0h0VnhtdlA1QXRwMHh4RnpUdVBCbTVxNWJ4Wlp3YlR2c2tFYjR5Zw?oc=5"
+    },
+    {
+      "published": "2026-10-08T14:11:00+00:00",
+      "publisher": "Small Business Trends",
+      "source": "Oracle / Datacenter AI",
+      "title": "Oracle Powers AI Growth with 1.7 GW Wind Energy Investment in Texas - Small Business Trends",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOW9KUDhGdkJfbXhRdzJRUG92OVZhbFVxcktzbFZsVVRra0tFQXFfYlFWc1pEaDJsVUZNS1pCOC1ZTnp2ZjhJYkFwOTBiSUxTV1V3bGlMXzkzZnBBbEtSQlZxWURBQUwwc19RbGxsTlBldEhsb1ZnbE1jWHNmaUR1cFFUaDBJV3RsUkYtVWR2WmRGRWI0b1BVRXJQMA?oc=5"
+    },
+    {
+      "published": "2026-10-08T04:41:49+00:00",
+      "publisher": "36Kr",
+      "source": "Open Source AI",
+      "title": "Overseas Open-Source AI Models Speed Up Development: Mistral & \"US Version of DeepSeek\" Unveil New Breakthroughs - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5telRYSHNhWE5EaTN4ZVRpZGExQ3Y3eTlKalV2eDRFNXBqN3VQT1lOc3BnTUVLSFlaMXRKSGQ0bUdfMkotNmVTdDQ2VjhTRFl1cUVn?oc=5"
+    },
+    {
+      "published": "2026-10-08T07:24:44+00:00",
+      "publisher": "SolarQuarter",
+      "source": "Oracle / Datacenter AI",
+      "title": "Oracle Partners with Scout Clean Energy for Renewable Power - SolarQuarter",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaWk1anRuaFZSamF1M3MwU3RxUHVBUEYySnNnZ2dsMG9YdE5CZ2hnNUlIR3kwemlmUFhVdmFmN1hzblVuTUtRZF83QkF5S3VUai1UVzJ0bENyeUdOV3dpaUZ0VmxJeE9VTTM4WlhBX3pxLXdZQUU4d1NUSFA0Z0p6SjBMTF9BaDJvdzlvVDdMMkt2SERmVGFIOFBGVVlhQzNwQXJiUXhPdTE2ZHpaZlJZWHcyc19lT0IyMHZvenRBOWZVTWVzZmZQNlRITC1BclA2WU9VSDB0anRPNWxyal8wRWhWRUttT3VibVdQYWJB?oc=5"
+    }
+  ],
+  "date": "2026-10-09",
+  "generated_at_utc": "2026-10-09T00:59:31Z",
+  "items": [
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "กูเกิลพัฒนา Gemini ให้เป็น AI agent ที่สามารถวางแผนและทำงานข้ามแอปธุรกิจได้ พร้อมมีตัวตนในที่ทำงานและอีเมลของตัวเอง ส่งผลให้ธุรกิจสามารถใช้ AI ช่วยบริหารงานได้อย่างมีประสิทธิภาพมากขึ้น",
+      "title_th": "กูเกิลเปิดตัว Gemini AI Agent สำหรับธุรกิจ",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "why_it_matters": "การเปลี่ยน Gemini เป็น AI agent เต็มรูปแบบเป็นก้าวสำคัญในการนำ AI มาช่วยงานธุรกิจจริงจัง"
+    },
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "Anthropic ออกนโยบายใหม่ที่ห้ามการใช้โมเดล Claude ในการละเมิดอย่างรุนแรง รวมถึงการแทรกแซงการเลือกตั้งและการสร้างซอฟต์แวร์อาวุธ ส่งผลให้ผู้ใช้ต้องปฏิบัติตามมาตรฐานจริยธรรมที่เข้มงวดขึ้น",
+      "title_th": "Anthropic ปรับนโยบายการใช้งาน ห้ามใช้ AI ในการละเมิดและแทรกแซงการเลือกตั้ง",
+      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "why_it_matters": "การกำหนดกฎชัดเจนช่วยป้องกันการใช้ AI ในทางที่ผิดและเพิ่มความน่าเชื่อถือของ AI"
+    },
+    {
+      "source": "Microsoft AI",
+      "summary_th": "ไมโครซอฟท์ประกาศแผนพัฒนา AI agent ที่ผสมผสานความฉลาดของมนุษย์และ AI พร้อมเพิ่มความปลอดภัยในการใช้งาน และเปิดตัวคอมพิวเตอร์ AI รุ่นใหม่ที่รองรับเทคโนโลยีนี้ ส่งผลต่อองค์กรและผู้ใช้ทั่วไป",
+      "title_th": "ไมโครซอฟท์เปิดตัวแนวคิด 'Hybrid Intelligence' พร้อมเน้นความปลอดภัยของ AI agent และ PC รุ่นใหม่",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZXplOVBsQW9ZeHpSMTJJaXNaQ1ZqM3U2N0M5QUd4N2JRLVZRY0VybjZUblNxWS0waTlIdjYxS2JHTVpmZ2VNODJDTUdTcUJ0NTNoejBIem9ELUJrUzZ0eDYtNUMxbWpocl95dWdyczVBaXBON05vc0JJVEhPSElJY0ItcUEtRmJRZEs5VDhxVWhzdHBzVXY4UmVvQWM2dEh4RTk5dFNR?oc=5",
+      "why_it_matters": "การผสาน AI กับความปลอดภัยและฮาร์ดแวร์ใหม่จะเปลี่ยนวิธีการใช้ AI ในชีวิตและงาน"
+    },
+    {
+      "source": "Open Source AI",
+      "summary_th": "ทีมพัฒนาโมเดลโอเพนซอร์สจากต่างประเทศอย่าง Mistral และ DeepSeek รุ่นสหรัฐฯ เปิดตัวนวัตกรรมใหม่ที่ช่วยเร่งการพัฒนา AI ส่งผลให้ชุมชนและนักพัฒนาสามารถเข้าถึงเทคโนโลยี AI ขั้นสูงได้ง่ายขึ้น",
+      "title_th": "โมเดลโอเพนซอร์ส Mistral และ DeepSeek รุ่นสหรัฐฯ เร่งพัฒนา AI อย่างรวดเร็ว",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5telRYSHNhWE5EaTN4ZVRpZGExQ3Y3eTlKalV2eDRFNXBqN3VQT1lOc3BnTUVLSFlaMXRKSGQ0bUdfMkotNmVTdDQ2VjhTRFl1cUVn?oc=5",
+      "why_it_matters": "โมเดลโอเพนซอร์สช่วยกระจายโอกาสและเร่งนวัตกรรม AI ทั่วโลก"
+    },
+    {
+      "source": "Oracle / Datacenter AI",
+      "summary_th": "Oracle ลงทุนในโครงการพลังงานลมขนาดใหญ่ที่เท็กซัสเพื่อรองรับความต้องการพลังงานสูงของศูนย์ข้อมูล AI ส่งผลให้การพัฒนา AI มีความยั่งยืนและลดผลกระทบต่อสิ่งแวดล้อม",
+      "title_th": "Oracle ลงทุนพลังงานลม 1.7 GW ในเท็กซัสเพื่อสนับสนุนการเติบโตของ AI",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOW9KUDhGdkJfbXhRdzJRUG92OVZhbFVxcktzbFZsVVRra0tFQXFfYlFWc1pEaDJsVUZNS1pCOC1ZTnp2ZjhJYkFwOTBiSUxTV1V3bGlMXzkzZnBBbEtSQlZxWURBQUwwc19RbGxsTlBldEhsb1ZnbE1jWHNmaUR1cFFUaDBJV3RsUkYtVWR2WmRGRWI0b1BVRXJQMA?oc=5",
+      "why_it_matters": "การลงทุนพลังงานสะอาดช่วยให้ AI เติบโตอย่างยั่งยืนและรับผิดชอบต่อสิ่งแวดล้อม"
+    }
+  ],
+  "jev_screen": {
+    "brief_kind": "ai",
+    "error_type": "RuntimeError",
+    "input_count": 25,
+    "mode": "active",
+    "output_count": 25,
+    "status": "fail_open_error"
+  },
+  "model_used": "openai:gpt-4.1-mini"
+}
