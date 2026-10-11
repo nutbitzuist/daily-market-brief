@@ -1,0 +1,394 @@
+{
+  "articles": [
+    {
+      "published": "2026-10-11T00:50:11+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "Ukraine's Drones Reach Russia's Arctic \"Gas Capital\"; Is Nornickel's Palladium Next?",
+      "url": "https://www.zerohedge.com/commodities/ukraines-drones-reach-russias-arctic-gas-capital-nornickels-palladium-next"
+    },
+    {
+      "published": "2026-10-11T00:45:03+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "Trump Says \"Time For Ukraine To Get A New Leader\" After Zelensky Ignored Six Pleas To Stop Refinery Strikes",
+      "url": "https://www.zerohedge.com/energy/payback-trump-cut-putin-diesel-deal-after-zelensky-ignored-six-pleas-stop-refinery-strikes"
+    },
+    {
+      "published": "2026-10-10T13:42:36+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Top News",
+      "title": "Putin relayed Iran war proposal to Trump, Kremlin says",
+      "url": "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html"
+    },
+    {
+      "published": "2026-10-10T02:09:00+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Top News",
+      "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
+      "url": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html"
+    },
+    {
+      "published": "2026-10-10T20:26:06+00:00",
+      "publisher": "Financial Times",
+      "source": "Financial Times Companies",
+      "title": "Hurricane Isaias kills at least two and disrupts US oil and gas production",
+      "url": "https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1"
+    },
+    {
+      "published": "2026-10-10T15:39:17+00:00",
+      "publisher": "Wall Street Journal",
+      "source": "WSJ Markets (Google News)",
+      "title": "U.S. Stocks Mixed as Oil Spikes, AI Profit Doubts Hit Tech - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcmRmSzBtSkZNNUdzbkJoOThxUHFJNlhXVDQ3aUhtQklNTTlCN2lyckhrSGxJY2d2OGV3QnFlYzdXYTltUmdvb01Kd3Uwa0ZGYnJ3VnE2OFkxUzRpSWpLUURoX2hkcVVhc056UXAxTEdrR0k3S3A1U3RUOUhjMlVjNk5WM1JXazV6VFpBY2lZeUpPa0E4YVBmZEFQVzhuWUZCNWc?oc=5"
+    },
+    {
+      "published": "2026-10-10T22:28:54+00:00",
+      "publisher": "Wall Street Journal",
+      "source": "WSJ Markets (Google News)",
+      "title": "U.S. Stocks Slip, Oil Rises on Fresh Tanker Attack - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQnpOX3pQSGJpZi1qRFNMSVR3SzRoaEJPaVFIYVQ2NGNETExDT0RjWEFjS1lUUzVOVVBsLWtnY2lHU3NmV3FNQjNpMllWb01sdWpmYXdhd29oSXNVTXYyaFhRZzZUX3JoWGNtV1VPaW1IcldFbEdXeGRaVkZyTG9nUmJDS1ptSmFQZWxITkhpMVRTM19SMzlneDBHMzFrS2xrZHFHMFBnNURhdE40?oc=5"
+    },
+    {
+      "published": "2026-10-10T13:58:33+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Markets (Google News)",
+      "title": "India Police Detain Protesters, Lock Down Delhi Over Voter Rolls - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWGtsNElxSEw2SW9JX0ZfR0ZHQWZ4Y0RuRko0eHQtZFFLdTRjdGtJVTN0WjFjekc2aE9FZE5tVXA3QklFRmMwUHE0NGxsLWNrZ1JzZ1Zod2pkeUlLRFY4cU9TeWJIN2JnZDlFSnM1SkozTFVZdWZZZUlrSHppVW5LV3pqdEVIR3ZPV2xIRlhqc1k0TkJIWU1Jd0JoaDVlQWZsNk5UY0hzRnl6a0ZJaDNj?oc=5"
+    },
+    {
+      "published": "2026-10-10T19:44:00+00:00",
+      "publisher": "MarketWatch",
+      "source": "MarketWatch Top Stories",
+      "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
+      "url": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories"
+    },
+    {
+      "published": "2026-10-10T18:14:28+00:00",
+      "publisher": "Financial Times",
+      "source": "Financial Times Companies",
+      "title": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
+      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1"
+    },
+    {
+      "published": "2026-10-10T19:44:00+00:00",
+      "publisher": "MarketWatch",
+      "source": "MarketWatch Top Stories",
+      "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
+      "url": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories"
+    },
+    {
+      "published": "2026-10-10T09:53:56+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Markets (Google News)",
+      "title": "China Passenger Vehicle Retail Sales Drop 24% in September - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT1gtd3Z0REN3OUVUT1ZneTRMSVBCdkZXOWgwNncyeWVxRzgzMWl6Z0tIS2p6bUdQMXB4TnhRS2QtZFBKTG9EempaS2xlY3psVy1wcmg1dU84VjJjZHdROHZGQTVTcXN6SnhGRDUzYmQ2VmNzM01tcVRnYTFUcDFja0luOE5yek13aEJOeFVmNWVkUE1yYlNYb2lINWQ2N256T0hNMW11aUFCcS1C?oc=5"
+    },
+    {
+      "published": "2026-10-10T11:00:05+00:00",
+      "publisher": "The New York Times",
+      "source": "NYT US Business (Google News)",
+      "title": "Opinion | Why Should Students Write? Let Us Count the Ways. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YdlNtdUZRdlFaRm5PMVBabncybF9GbkRmZkFleDZMRFNTUG5FUEE4VHRCTEdGZ2VvMjZSR2xDTzZGc3NtOXRTalVvYXJ5NVFoVHphdzY2MVI5dExTYks2NXB4UXRHMHhwOU1JNHF4V2xyR1pFdS04Wjhxc25yQQ?oc=5"
+    },
+    {
+      "published": "2026-10-10T01:58:00+00:00",
+      "publisher": "AP News",
+      "source": "AP US Economy",
+      "title": "EU and China strike interim trade deal that could cut Chinese hybrid exports, EU envoy says - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTm5ZNlVIY2tFZ2M4aFVENmNnVlBPbFJVSkplZ0x1UWZBMjEtQkR0Y0tpYjRJWEVqakZGakpvbDNvTUs5M0ZWZjZKNzQ3bXpyai1NWElyc1lEc0dxTnYzNEZTeGU1QXdIUmZzYVhtRF9IY3ZVN3VDWDk1Nl93ODhGZzdoaElXd0NOOUE?oc=5"
+    },
+    {
+      "published": "2026-10-11T00:30:09+00:00",
+      "publisher": "Seeking Alpha Market News",
+      "source": "Seeking Alpha Market News",
+      "title": "Trump says Ukraine should replace Zelenskyy, stop hitting Russian refineries",
+      "url": "https://seekingalpha.com/news/4651915-trump-says-ukraine-should-replace-zelenskyy-stop-hitting-russian-refineries?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+    },
+    {
+      "published": "2026-10-10T17:45:57+00:00",
+      "publisher": "AP News",
+      "source": "AP US Economy",
+      "title": "South Korea signals military exemption cuts for athletes after Asian Games backlash - AP News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdmxaQ3FiejBoVzBHNExCcnRTdlF1X0dCc1N2WUZxVm1zb09LUHczQl9hb2RsYVdQMzdvZUhfcEwxSm4wOU1ReTJlS291VVF3dFBxR3I3QTRSajlwRWhPR0dOcVhiaXhUM1o0NFVUUTdXcWNUa3JnRWpLOHRWdkpuUWpldzlnM090UXkyMHpJWFJ0Wm01MENXU1VjX3lKRUtMTkxpVmhTM09Ud2E2WXoxLQ?oc=5"
+    },
+    {
+      "published": "2026-10-10T19:28:54+00:00",
+      "publisher": "The New York Times",
+      "source": "NYT US Business (Google News)",
+      "title": "Rebuking Ukraine Over Oil Strikes, Trump Says It Should ‘Get a New President’ - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPemRINWVHeU1PM2lHVjQ0RXNIamU0eDYwcDBkYW9PTnNxa2tNVjVhTHpLdFUzbVpOWnhXNmFvZVdmdEUtZ2pGT3VES2Z3c3R2bFBLdUVhOVBLRDA1VS1Fem9HWElCeWQ1ZjRpUjl2U0JvOUdMal9VNC1TRXBidDU4bW9ITGQ2aUFWM2UxclR2aw?oc=5"
+    },
+    {
+      "published": "2026-10-11T01:09:38+00:00",
+      "publisher": "Seeking Alpha Market News",
+      "source": "Seeking Alpha Market News",
+      "title": "Lockheed Martin raises dividend by 4.3% to $3.60",
+      "url": "https://seekingalpha.com/news/4651916-lockheed-martin-raises-dividend-by-43-to-360?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+    },
+    {
+      "published": "2026-10-10T11:05:19+00:00",
+      "publisher": "myMotherLode.com",
+      "source": "US Consumer Housing Credit",
+      "title": "2 Inflation reports, retail sales and big bank profits all arrive in the coming week - myMotherLode.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUDVZQUplNHJLNUxEcDViYjhnSkMzcFNKZXBmV3RWZHJyZVVGdmdYYVNVc1JMdUMzbWpWYmttcHRQdklvRVN1Vks1MEUzQmp3aW9EMkJTc05ab2xzZkVJUnk5S0FHVmNpcVR1Y3BsZTNncTFnQklQVVdGeEtablBJTUlFOEw1T1otMVNiM3JBYzRpc2ZmZ2NSMkotbFNlN292U1NJYnprZzViMXFTQVNoOUhVc3NmNTMtanhaQVNUdUdtS2ZtS0lRUUxCTDlZQTNoLWfSAdcBQVVfeXFMTVRFUDZkN2l6cWRNWWlyd0ktZ3Jidm10Nm5PYnd1MlMza29wQ2hjSkgxT1JlWnlSQ3RzQW9lWDV1dlRBbVYzSVBudHVMY1JUZDN3eEZhSlJmTHp3cnlaTVJYSU5zTE5xYURpS3VldnFlQXNGcld0VnpIUF8zRjl5ck52dVhnWi1scDBEanZCdDVSNW1RaG9fcWk4eS15MERURlVRcHhIa3ZOeUhRSzJ2WXBRVy05OXVxR1J0dVlfcU1iQl9kRkxnYmNYbnRiT1c1RVVBMmpmNzA?oc=5"
+    },
+    {
+      "published": "2026-10-10T14:41:13+00:00",
+      "publisher": "Politico",
+      "source": "Politico Economy Policy",
+      "title": "The GOP’s affordability boomerang - Politico",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWkNjbE1oYVlXTld2UEsta1JpM1UtejN3dnpzU1RXZnRmR1BHWlJHRGJ1eVlmeFZnNWh6ZEctZ2VTVFpTR05hNGIyekFxNmRKbXhWVXZ4U2FpSklrcmMwN3hGeHZrajRhUDVZNVV3cFRvMkJrWHI1U21oOThjbjc4S2pvcjFxWWtuVWRuczZXT3k2c285dnVsZjBndlBjaU0?oc=5"
+    },
+    {
+      "published": "2026-10-10T13:06:54+00:00",
+      "publisher": "Axios",
+      "source": "Axios US Policy",
+      "title": "The big unknown behind Democrats' polling leads - Axios",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS1Zib3UzdWplcUNqeVNVY1FvR2NaQ1dwMGI2MHhEUkZyd2JxR0VfRFVTbUFoRjdjQXVoOGlBY1JuMjFYblJYWGZJYkxCbVNscDZKWUJlb3hYdUlqVEhzY0hfRWppWHVjaG1DZDd5bTBGZnBFU1h2cXdWcnhpbHpUYThBNnZlaUE?oc=5"
+    },
+    {
+      "published": "2026-10-10T11:00:00+00:00",
+      "publisher": "Politico",
+      "source": "Politico Economy Policy",
+      "title": "Eric Schmitt and the Twilight of the Covid Republican - Politico",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZlcxZHBGVlNkZ0hKVVpwZllKaENCV3ZyQ2ZtVlpROGEtcXdDRVFvRDZ0NVBubTRaeUdFSU9INE9mdzZ5U1h3WUFJM0x4WWlUTmxLY2xVX2JoOVphU0g2MVZ4SHB2MzFXbkNyTTNNeXJXamlPR1JJREV5ejNrMGJna3A3UTdFTnc5dnJSOTY2QTlFUQ?oc=5"
+    },
+    {
+      "published": "2026-10-11T00:25:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "Moraes Orders Eduardo Bolsonaro Jailed For Lobbying Washington On Sanctions As His Brother Heads Into Brazil Runoff",
+      "url": "https://www.zerohedge.com/political/moraes-orders-eduardo-bolsonaro-jailed-lobbying-washington-sanctions-his-brother-heads"
+    },
+    {
+      "published": "2026-10-10T20:20:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "Trump Threatens Billions In Federal Funds If NYC Doesn't Put 'Little Italy' Back On Map",
+      "url": "https://www.zerohedge.com/political/trump-threatens-billions-federal-funds-if-nyc-doesnt-put-little-italy-back-map"
+    },
+    {
+      "published": "2026-10-10T15:25:22+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "Blackwater Bloodied: Erik Prince's Congo Force Ambushed, Ex-UFC Star Tim Kennedy Shot In The Fight For The World's Cobalt",
+      "url": "https://www.zerohedge.com/geopolitical/blackwater-bloodied-erik-princes-congo-force-ambushed-ex-ufc-star-tim-kennedy-shot"
+    }
+  ],
+  "date": "2026-10-11",
+  "generated_at_utc": "2026-10-11T01:37:30Z",
+  "items": [
+    {
+      "category": "Geopolitics",
+      "impact": "high",
+      "key_numbers": [],
+      "rank": 1,
+      "sectors": [
+        "Energy",
+        "Financials"
+      ],
+      "sentiment": "bearish",
+      "source_name": "ZeroHedge, Seeking Alpha, AP News",
+      "summary_th": "ทรัมป์กล่าวว่ายูเครนควรมีผู้นำใหม่ หลังประธานาธิบดียูเครนยังคงโจมตีโรงกลั่นน้ำมันรัสเซีย แม้ได้รับคำขอหยุดโจมตีถึง 6 ครั้ง เพราะส่งผลให้ราคาน้ำมันดีเซลโลกพุ่งสูงขึ้นและกระทบเกษตรกรสหรัฐฯ (ZeroHedge, Seeking Alpha, AP News)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ทรัมป์เรียกร้องให้ยูเครนเปลี่ยนผู้นำ หลังโจมตีโรงกลั่นน้ำมันรัสเซีย",
+      "url": "https://www.zerohedge.com/energy/payback-trump-cut-putin-diesel-deal-after-zelensky-ignored-six-pleas-stop-refinery-strikes",
+      "watch_next": "ติดตามผลกระทบต่อตลาดน้ำมันและนโยบายสหรัฐฯ ต่อยูเครน"
+    },
+    {
+      "category": "Geopolitics",
+      "impact": "high",
+      "key_numbers": [
+        "4000000",
+        "300000",
+        "500000",
+        "1000000",
+        "3000000"
+      ],
+      "rank": 2,
+      "sectors": [
+        "Energy"
+      ],
+      "sentiment": "neutral",
+      "source_name": "CNBC, Financial Times",
+      "summary_th": "ทรัมป์ประกาศข้อตกลงกับปูตินให้รัสเซียส่งดีเซลกว่า 4 ล้านตันสู่ตลาดโลกเพื่อบรรเทาราคาน้ำมันที่พุ่งสูง ขณะที่กระทรวงการคลังสหรัฐฯ ยกเว้นมาตรการคว่ำบาตรดีเซลรัสเซียชั่วคราวถึงเมษายน 2027 (CNBC, Financial Times)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ทรัมป์และปูตินตกลงปลดล็อกการส่งออกดีเซลรัสเซียสู่ตลาดโลก",
+      "url": "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
+      "watch_next": "ติดตามผลต่อตลาดน้ำมันและความขัดแย้งยูเครน-รัสเซีย"
+    },
+    {
+      "category": "Geopolitics",
+      "impact": "medium",
+      "key_numbers": [
+        "3000",
+        "19500000",
+        "13400000"
+      ],
+      "rank": 3,
+      "sectors": [
+        "Energy",
+        "Industrials",
+        "Materials"
+      ],
+      "sentiment": "bearish",
+      "source_name": "ZeroHedge",
+      "summary_th": "ยูเครนใช้โดรนบินไกลกว่า 3,000 กม. โจมตีโรงงานก๊าซในเขตยามาโล-เนเนตส์ ของรัสเซีย ซึ่งเป็นพื้นที่ที่เคยถือว่าปลอดภัย ส่งผลให้รัสเซียเพิ่มค่าตอบแทนสำหรับการยิงโดรนที่ถูกทำลายในพื้นที่นี้ (ZeroHedge)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ยูเครนใช้โดรนโจมตีโรงงานก๊าซในอาร์กติกของรัสเซีย",
+      "url": "https://www.zerohedge.com/commodities/ukraines-drones-reach-russias-arctic-gas-capital-nornickels-palladium-next",
+      "watch_next": "ติดตามการตอบโต้ของรัสเซียและผลกระทบต่ออุตสาหกรรมพลังงาน"
+    },
+    {
+      "category": "Macro/Fed",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 4,
+      "sectors": [
+        "Tech",
+        "Energy"
+      ],
+      "sentiment": "neutral",
+      "source_name": "WSJ",
+      "summary_th": "ตลาดหุ้นสหรัฐฯ เคลื่อนไหวผสม โดยราคาน้ำมันปรับตัวขึ้นจากความตึงเครียดในตะวันออกกลาง ขณะที่นักลงทุนกังวลเกี่ยวกับกำไรของบริษัทเทคโนโลยีที่ลงทุนใน AI (WSJ)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "หุ้นสหรัฐฯ ปรับตัวผสม ขณะที่ราคาน้ำมันพุ่งและความกังวลกำไร AI",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcmRmSzBtSkZNNUdzbkJoOThxUHFJNlhXVDQ3aUhtQklNTTlCN2lyckhrSGxJY2d2OGV3QnFlYzdXYTltUmdvb01Kd3Uwa0ZGYnJ3VnE2OFkxUzRpSWpLUURoX2hkcVVhc056UXAxTEdrR0k3S3A1U3RUOUhjMlVjNk5WM1JXazV6VFpBY2lZeUpPa0E4YVBmZEFQVzhuWUZCNWc?oc=5",
+      "watch_next": "ติดตามรายงานผลประกอบการบริษัทเทคโนโลยีและราคาน้ำมัน"
+    },
+    {
+      "category": "Earnings",
+      "impact": "medium",
+      "key_numbers": [
+        "4.3",
+        "3.6"
+      ],
+      "rank": 5,
+      "sectors": [
+        "Tech",
+        "Industrials"
+      ],
+      "sentiment": "bullish",
+      "source_name": "Seeking Alpha",
+      "summary_th": "Lockheed Martin ประกาศเพิ่มเงินปันผลขึ้น 4.3% เป็น 3.60 ดอลลาร์ต่อหุ้น สะท้อนความมั่นใจในผลประกอบการและกระแสเงินสดของบริษัทในภาคอุตสาหกรรมเทคโนโลยีและป้องกันประเทศ (Seeking Alpha)",
+      "tickers": [
+        "LMT"
+      ],
+      "time_horizon": "short-term",
+      "title_th": "Lockheed Martin เพิ่มเงินปันผล 4.3% เป็น 3.60 ดอลลาร์",
+      "url": "https://seekingalpha.com/news/4651916-lockheed-martin-raises-dividend-by-43-to-360?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "watch_next": "ติดตามผลประกอบการไตรมาสถัดไปและนโยบายปันผลของบริษัท"
+    },
+    {
+      "category": "Commodity",
+      "impact": "medium",
+      "key_numbers": [
+        "2"
+      ],
+      "rank": 6,
+      "sectors": [
+        "Energy"
+      ],
+      "sentiment": "bearish",
+      "source_name": "Financial Times",
+      "summary_th": "พายุเฮอริเคน Isaias ทำให้มีผู้เสียชีวิตอย่างน้อย 2 รายและส่งผลกระทบต่อการผลิตน้ำมันและก๊าซในสหรัฐฯ โดยกระทบต่อซัพพลายและอาจกดดันราคาพลังงานในระยะสั้น (Financial Times)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "พายุเฮอริเคน Isaias คร่าชีวิต 2 รายและกระทบการผลิตน้ำมันและก๊าซสหรัฐฯ",
+      "url": "https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1",
+      "watch_next": "ติดตามสถานการณ์พายุและผลกระทบต่อซัพพลายพลังงาน"
+    },
+    {
+      "category": "M&A",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 7,
+      "sectors": [
+        "Tech"
+      ],
+      "sentiment": "bullish",
+      "source_name": "Financial Times",
+      "summary_th": "Nvidia กำลังเจรจาเข้าซื้อ Reflection AI ซึ่งเป็นสตาร์ทอัพสหรัฐฯ ด้านโมเดล AI แบบเปิด เพื่อเสริมศักยภาพในตลาด AI ที่แข่งขันสูงและขยายฐานเทคโนโลยีของบริษัท (Financial Times, Seeking Alpha)",
+      "tickers": [
+        "NVDA"
+      ],
+      "time_horizon": "long-term",
+      "title_th": "Nvidia เจรจาเข้าซื้อสตาร์ทอัพ AI ‘Reflection AI’",
+      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
+      "watch_next": "ติดตามความคืบหน้าและผลกระทบต่อตลาด AI และหุ้น Nvidia"
+    },
+    {
+      "category": "Regulation",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 8,
+      "sectors": [],
+      "sentiment": "neutral",
+      "source_name": "Axios",
+      "summary_th": "โพลล์เลือกตั้งกลางเทอมสหรัฐฯ แสดงแนวโน้มดีสำหรับพรรคเดโมแครต แต่มีความกังวลเรื่องความแม่นยำของโพลล์ เนื่องจากการตอบแบบสอบถามของผู้สนับสนุนทรัมป์ต่ำกว่าค่าเฉลี่ย อาจส่งผลต่อการคาดการณ์ผลเลือกตั้งจริง (Axios)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ความไม่แน่นอนของผลโพลล์เลือกตั้งกลางเทอมสหรัฐฯ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS1Zib3UzdWplcUNqeVNVY1FvR2NaQ1dwMGI2MHhEUkZyd2JxR0VfRFVTbUFoRjdjQXVoOGlBY1JuMjFYblJYWGZJYkxCbVNscDZKWUJlb3hYdUlqVEhzY0hfRWppWHVjaG1DZDd5bTBGZnBFU1h2cXdWcnhpbHpUYThBNnZlaUE?oc=5",
+      "watch_next": "ติดตามผลเลือกตั้งจริงและการวิเคราะห์โพลล์เพิ่มเติม"
+    },
+    {
+      "category": "Regulation",
+      "impact": "medium",
+      "key_numbers": [
+        "4",
+        "2"
+      ],
+      "rank": 9,
+      "sectors": [
+        "Tech",
+        "Energy",
+        "Communication Services"
+      ],
+      "sentiment": "bearish",
+      "source_name": "ZeroHedge",
+      "summary_th": "ศาลสูงบราซิลออกหมายจับ Eduardo Bolsonaro ลูกชายอดีตประธานาธิบดี Jair Bolsonaro ฐานล็อบบี้กดดันสหรัฐฯ ให้คว่ำบาตรเจ้าหน้าที่บราซิลและเพิ่มภาษีการส่งออก ก่อนการเลือกตั้งประธานาธิบดีบราซิลรอบสอง (ZeroHedge)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "คำสั่งศาลบราซิลจับกุมลูกชายทรัมป์ฐานล็อบบี้คว่ำบาตร",
+      "url": "https://www.zerohedge.com/political/moraes-orders-eduardo-bolsonaro-jailed-lobbying-washington-sanctions-his-brother-heads",
+      "watch_next": "ติดตามผลกระทบทางการเมืองในบราซิลและความสัมพันธ์สหรัฐฯ-บราซิล"
+    },
+    {
+      "category": "Geopolitics",
+      "impact": "medium",
+      "key_numbers": [
+        "20"
+      ],
+      "rank": 10,
+      "sectors": [
+        "Industrials",
+        "Materials",
+        "Tech",
+        "Financials"
+      ],
+      "sentiment": "bearish",
+      "source_name": "ZeroHedge",
+      "summary_th": "ทีมงานของ Erik Prince ในคองโกถูกซุ่มโจมตี มีผู้เสียชีวิตและบาดเจ็บประมาณ 20 ราย รวมถึงอดีตนักสู้ UFC Tim Kennedy ที่ถูกยิงขา เหตุการณ์นี้สะท้อนความขัดแย้งรุนแรงในพื้นที่แหล่งแร่โคบอลต์สำคัญของโลก (ZeroHedge)",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "กลุ่ม Blackwater ของ Erik Prince ถูกซุ่มโจมตีในคองโก มีผู้บาดเจ็บสาหัส",
+      "url": "https://www.zerohedge.com/geopolitical/blackwater-bloodied-erik-princes-congo-force-ambushed-ex-ufc-star-tim-kennedy-shot",
+      "watch_next": "ติดตามสถานการณ์ความมั่นคงในแอฟริกาและผลกระทบต่อซัพพลายเชนแร่โคบอลต์"
+    }
+  ],
+  "jev_screen": {
+    "brief_kind": "us",
+    "error_type": "RuntimeError",
+    "input_count": 25,
+    "mode": "active",
+    "output_count": 25,
+    "status": "fail_open_error"
+  },
+  "model_used": "openai:gpt-4.1-mini"
+}
