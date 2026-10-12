@@ -1,0 +1,397 @@
+{
+  "articles": [
+    {
+      "published": "2026-10-11T13:20:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "Equity Risk Premium Has Vanished, And Stocks Aren't Cheap...",
+      "url": "https://www.zerohedge.com/markets/equity-risk-premium-has-vanished-and-stocks-arent-cheap"
+    },
+    {
+      "published": "2026-10-11T19:30:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "Diesel And Yields",
+      "url": "https://www.zerohedge.com/markets/diesel-and-yields"
+    },
+    {
+      "published": "2026-10-12T00:15:51+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Top News",
+      "title": "S&P 500 futures are little changed with big banks set to kick off earnings season: Live updates",
+      "url": "https://www.cnbc.com/2026/10/11/stock-market-today-live-updates.html"
+    },
+    {
+      "published": "2026-10-11T19:00:00+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Markets (Google News)",
+      "title": "US Bond Traders Await CPI, Warsh For Insight on Fed’s Rate Path - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM3lYa092MnRSV0FXYUtRRjVRSHN2akl0ZzM3UWlJcjh6bXNpbVE4dHJQUDM0bS1iWklWekQ0aENwMDRCdWhZbUZMTHFOMmVrZzZzYmFIMG5BamMzSTFfTE0wVjZsWjFBZ2ZQTmFWM0h4NUZkZlVseDlCM05QSFNyczJfdk5BV1IzVmd1NXlnaTdVVnNyOXV0TmxjSW9IRFZWWkEtZlZ1c25jcXU4WXQ1QmRNbw?oc=5"
+    },
+    {
+      "published": "2026-10-11T22:16:40+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Top News",
+      "title": "Trump Media advisor Katie Zacharia named White House press secretary",
+      "url": "https://www.cnbc.com/2026/10/11/trump-katie-zacharia-white-house-press-secretary.html"
+    },
+    {
+      "published": "2026-10-11T20:09:57+00:00",
+      "publisher": "Seeking Alpha Market News",
+      "source": "Seeking Alpha Market News",
+      "title": "Treasury yields near 24-yr high as investors await inflation data, Fed signals",
+      "url": "https://seekingalpha.com/news/4651948-treasury-yields-near-24-yr-high-as-investors-await-inflation-data-fed-signals?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+    },
+    {
+      "published": "2026-10-11T11:46:11+00:00",
+      "publisher": "CNBC",
+      "source": "CNBC Markets",
+      "title": "JPMorgan Chase, Goldman and other big banks report earnings this week. What to expect",
+      "url": "https://www.cnbc.com/2026/10/11/bank-earnings-jpmorgan-goldman.html"
+    },
+    {
+      "published": "2026-10-11T19:53:56+00:00",
+      "publisher": "Financial Times",
+      "source": "Financial Times Companies",
+      "title": "US hits commercial tanker in Gulf of Oman as tensions flare",
+      "url": "https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1"
+    },
+    {
+      "published": "2026-10-11T20:15:00+00:00",
+      "publisher": "MarketWatch",
+      "source": "MarketWatch Top Stories",
+      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+      "url": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories"
+    },
+    {
+      "published": "2026-10-11T04:28:25+00:00",
+      "publisher": "Financial Times",
+      "source": "Financial Times Companies",
+      "title": "US justice department probes TV networks over Trump pool coverage",
+      "url": "https://www.ft.com/content/3004a030-d64e-4ff7-a70d-ea379b4784af?syn-25a6b1a6=1"
+    },
+    {
+      "published": "2026-10-11T14:00:00+00:00",
+      "publisher": "Wall Street Journal",
+      "source": "WSJ Markets (Google News)",
+      "title": "When Companies Stop Driving a Hard Bargain, This Fed Official Starts Worrying - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNXNtSmVTVTk4YjRiVWRoSVNXLVBaMWZjZ09xT0Jtd2xXazY4MThaVU01WGtMUVFPb2tFbG1jY0Z4SGs5cEhEWWJBWERTaEFMemlLc3NQVmFpVGhDdGw0U05oS3BDbVRETHpZclJXVWI2VzFWV3ptVXNYQ2E3Ui1RYUVLU3N1cUx6aUxz?oc=5"
+    },
+    {
+      "published": "2026-10-11T11:56:07+00:00",
+      "publisher": "Wall Street Journal",
+      "source": "WSJ Markets (Google News)",
+      "title": "India Locks Down Heart of Capital to Thwart Voter Rights Protest - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUVg5R1hULXhaQ0w2eXJOQ2k4bW0xTDZLYlo3NzY2OVVkVnMzSG9oVE5zMTRFZEFvNENhczRla3o2OFpVRmNLZHJDTFBLUGtCcnBYTlA3am9HbXk5MjRSeEJyZUZ4THkyWS1SbTFKQ21HYmJ4b3NVU2pkc0JfRjhxZ0pVakNHRm1jUUNzZGlOelpqeWdyVFk0Rzg4UUVvYm0zTHpRR3NOTVo?oc=5"
+    },
+    {
+      "published": "2026-10-11T14:00:00+00:00",
+      "publisher": "MarketWatch",
+      "source": "MarketWatch Top Stories",
+      "title": "We’re about to get a huge read on whether earnings can keep propping up the stock market",
+      "url": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories"
+    },
+    {
+      "published": "2026-10-11T13:00:00+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Markets (Google News)",
+      "title": "Consumers Are Tapped and Wall Street Fears That’s a Rally Killer - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbTNqeVp6SnlPeS1mSkdaWGs3bVYwcjhLWHM3YkxTbkp0a0xhbTY4S1BsRkRqdW9pWGE2cVB3NjJBWlowSGxydmloaWlBZ3k0SGQ4UmVkVlgwcnBXOVdQa1lZcXN0Zlo4aXJJc1pLR28xZ1NfamREZUFPNmFCb1hVNTl2SGVteGZ0VXZ5YWVhb0ZIM0M5Y3ExUnlkRnZWU3B3d2ZWaHpnNUdwbUR5YUYyb2w5QWhEdw?oc=5"
+    },
+    {
+      "published": "2026-10-11T23:11:36+00:00",
+      "publisher": "Seeking Alpha Market News",
+      "source": "Seeking Alpha Market News",
+      "title": "Oil tops $105 as Houthi attacks on Saudi Arabia raise inflation fears",
+      "url": "https://seekingalpha.com/news/4651953-oil-tops-105-as-houthi-attacks-on-saudi-arabia-raise-inflation-fears?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
+    },
+    {
+      "published": "2026-10-11T05:07:04+00:00",
+      "publisher": "Axios",
+      "source": "Axios US Policy",
+      "title": "House Republican, invoking Reagan, moves to block Trump's Russia oil deal - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT0ZSVG5SSkJWekROWFF6Q2NVU1lXWGR4c1hzcUZfOTN6NFIzeENYUlJFX0lJb2xTTk1uVE5ITGhPbUJNUlJ6VkJaTmtaNXVYU05uZE5ydHY4bnlUbG5CWXRSTzBzb2ZjdHVhczhKVmpuNEJnZW0xWVlWSXpsRHdGWmYxVjhMMGZNRzhV?oc=5"
+    },
+    {
+      "published": "2026-10-11T04:03:00+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters US Politics (Google News)",
+      "title": "Middle East war, high debt levels to dominate IMF-World Bank meetings in Bangkok - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWlZqTVZkYlUxR2xKODRtSHFhLUI5ZVk4MWlwUURPZTRJSy1UYjdKak1ZbzdGMG80dmNOTVlVbUtvbW1zUU9hWE5QeU9xc19wWE50TnR4M05sQ0c0aFI0ZmYtTGN6Q0hwanJUajNzSlRfaVBQNXdPMUlfQlpfb1JHTGlQWkg5aVdOTE5SZ29NRXZLSW85enZHa2dCOVFSWmFpUEptcWMxa1JxVW15ZGhLLTRRcDEyeXBEWkw0RnJR?oc=5"
+    },
+    {
+      "published": "2026-10-11T09:00:12+00:00",
+      "publisher": "The New York Times",
+      "source": "NYT US Business (Google News)",
+      "title": "A Reporter Returns to China to Find it Richer, but Also Highly Paranoid. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWkhxdDgxNWgwc2szQmJkc1k5Y291X3F4cHc3RGI4Rko5a0huejREMHhDUDFOYlRTY1B2MTlRNEp5bGZNUDVycGJlTXpSM2RobHN6LTdXczBnVkhBQ2lIOWtfQTNWdXpKS0ExQmFKd2VLd1QxZmZxbkpYV1lxOGVhbjdaVUxEOXpiY0lv?oc=5"
+    },
+    {
+      "published": "2026-10-11T23:07:00+00:00",
+      "publisher": "The New York Times",
+      "source": "NYT US Business (Google News)",
+      "title": "Economic Pain and an Unpopular Trump Put G.O.P. on its Heels With Three Weeks to Go - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVlRJc2xoYnJJbE1iQUN4TFNOeURKbjRhVEgxbE5CZ1dybVppclFaRDN4MDMzbkJPajdiTHh4Mmw2UTRFbm5VaXBXcFVjWURVOHY4VEFzU2dSWGRzSzUtSkZwdjhNel9WMzRhZjYtbDEwLWkyS1hNTzkyZi12YWxtajNFRUt2UTRiX1JjclQySmdYUQ?oc=5"
+    },
+    {
+      "published": "2026-10-11T10:03:10+00:00",
+      "publisher": "Axios",
+      "source": "Axios US Policy",
+      "title": "The big unknown behind Democrats' polling leads - Axios",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS1Zib3UzdWplcUNqeVNVY1FvR2NaQ1dwMGI2MHhEUkZyd2JxR0VfRFVTbUFoRjdjQXVoOGlBY1JuMjFYblJYWGZJYkxCbVNscDZKWUJlb3hYdUlqVEhzY0hfRWppWHVjaG1DZDd5bTBGZnBFU1h2cXdWcnhpbHpUYThBNnZlaUE?oc=5"
+    },
+    {
+      "published": "2026-10-11T22:15:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "Oil Rises After MidEast Attacks Spread And Escalate, Stoking Supply Fears",
+      "url": "https://www.zerohedge.com/energy/oil-rises-after-mideast-attacks-spread-and-escalate-stoking-supply-fears"
+    },
+    {
+      "published": "2026-10-12T02:00:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "ATF Drops Registration For Suppressors And Short-Barreled Rifles Nationwide After DOJ Declines To Appeal",
+      "url": "https://www.zerohedge.com/political/atf-drops-registration-suppressors-and-short-barreled-rifles-nationwide-after-doj"
+    },
+    {
+      "published": "2026-10-12T00:00:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "America Let China Outbuild The U.S. Navy, And Is Now Scrambling To Close The Gap",
+      "url": "https://www.zerohedge.com/geopolitical/america-let-china-outbuild-us-navy-and-now-scrambling-close-gap"
+    },
+    {
+      "published": "2026-10-11T18:20:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "Riyadh Airport Struck Again, A Day After Houthi Attack Killed 12, Including An American",
+      "url": "https://www.zerohedge.com/geopolitical/saudis-vow-retaliation-after-deadly-airport-strike-houthi-threat-puts-gulf-edge"
+    },
+    {
+      "published": "2026-10-11T19:00:00+00:00",
+      "publisher": "ZeroHedge",
+      "source": "ZeroHedge",
+      "title": "Trump Declares Ukraine Energy Ceasefire; Zelensky Says \"News To Me\" As Russia Attacks Powerplant",
+      "url": "https://www.zerohedge.com/geopolitical/trump-declares-ukraine-energy-ceasefire-zelensky-says-news-me-amid-new-russian-attack"
+    }
+  ],
+  "date": "2026-10-12",
+  "generated_at_utc": "2026-10-12T02:08:50Z",
+  "items": [
+    {
+      "category": "Macro/Fed",
+      "impact": "high",
+      "key_numbers": [
+        "5.31"
+      ],
+      "rank": 1,
+      "sectors": [
+        "Financials",
+        "Tech"
+      ],
+      "sentiment": "bearish",
+      "source_name": "Seeking Alpha Market News",
+      "summary_th": "ผลตอบแทนพันธบัตรรัฐบาลสหรัฐฯ อายุ 10 ปี ปิดที่ระดับ 5.31% ซึ่งเป็นระดับสูงสุดในรอบ 24 ปี นักลงทุนจับตาข้อมูลเงินเฟ้อที่จะประกาศเร็วๆ นี้และสัญญาณจากธนาคารกลางสหรัฐฯ (เฟด) เพื่อประเมินทิศทางดอกเบี้ยในอนาคต ซึ่งจะส่งผลต่อตลาดหุ้นและพันธบัตรอย่างมาก",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ผลตอบแทนพันธบัตรสหรัฐฯ ใกล้ระดับสูงสุดในรอบ 24 ปี นักลงทุนรอข้อมูลเงินเฟ้อและสัญญาณเฟด",
+      "url": "https://seekingalpha.com/news/4651948-treasury-yields-near-24-yr-high-as-investors-await-inflation-data-fed-signals?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "watch_next": "ติดตามข้อมูลเงินเฟ้อและถ้อยแถลงเฟดเพื่อประเมินทิศทางดอกเบี้ย"
+    },
+    {
+      "category": "Macro/Fed",
+      "impact": "high",
+      "key_numbers": [
+        "3.7",
+        "5.31",
+        "1.6"
+      ],
+      "rank": 2,
+      "sectors": [
+        "Financials",
+        "Tech",
+        "Energy",
+        "Consumer"
+      ],
+      "sentiment": "bearish",
+      "source_name": "ZeroHedge",
+      "summary_th": "ดัชนี S&P 500 มีอัตราผลตอบแทนจากกำไรประมาณ 3.7% ต่ำกว่าผลตอบแทนพันธบัตรรัฐบาลอายุ 10 ปีที่ 5.31% ทำให้ส่วนต่างผลตอบแทนระหว่างหุ้นและพันธบัตร (Equity Risk Premium) เป็นลบ ซึ่งเป็นครั้งแรกในรอบหลายสิบปี แม้จะมีการเติบโตกำไรสูง แต่หุ้นไม่ได้ให้ผลตอบแทนพิเศษที่น่าสนใจเมื่อเทียบกับพันธบัตร",
+      "tickers": [],
+      "time_horizon": "long-term",
+      "title_th": "ความเสี่ยงหุ้นลดลงเมื่อเทียบกับพันธบัตร: ผลตอบแทนหุ้นต่ำกว่าพันธบัตร 1.6 จุดเปอร์เซ็นต์",
+      "url": "https://www.zerohedge.com/markets/equity-risk-premium-has-vanished-and-stocks-arent-cheap",
+      "watch_next": "ติดตามการเปลี่ยนแปลงของส่วนต่างผลตอบแทนหุ้นและพันธบัตรเพื่อประเมินความน่าสนใจของตลาดหุ้น"
+    },
+    {
+      "category": "Earnings",
+      "impact": "high",
+      "key_numbers": [],
+      "rank": 3,
+      "sectors": [
+        "Financials"
+      ],
+      "sentiment": "neutral",
+      "source_name": "CNBC Markets",
+      "summary_th": "JPMorgan Chase, Goldman Sachs และธนาคารใหญ่รายอื่นๆ จะเริ่มรายงานผลประกอบการไตรมาส 3 ในสัปดาห์นี้ ซึ่งจะเป็นตัวชี้วัดสำคัญสำหรับตลาดหุ้นว่ากำไรบริษัทใหญ่ยังสามารถสนับสนุนตลาดได้หรือไม่ ท่ามกลางความกังวลเรื่องอัตราดอกเบี้ยและราคาน้ำมันที่ผันผวน",
+      "tickers": [
+        "JPM",
+        "GS"
+      ],
+      "time_horizon": "short-term",
+      "title_th": "ธนาคารใหญ่สหรัฐฯ เตรียมรายงานผลประกอบการสัปดาห์นี้",
+      "url": "https://www.cnbc.com/2026/10/11/bank-earnings-jpmorgan-goldman.html",
+      "watch_next": "ติดตามผลประกอบการธนาคารใหญ่เพื่อประเมินแนวโน้มตลาดหุ้น"
+    },
+    {
+      "category": "Commodity",
+      "impact": "high",
+      "key_numbers": [
+        "105"
+      ],
+      "rank": 4,
+      "sectors": [
+        "Energy"
+      ],
+      "sentiment": "bearish",
+      "source_name": "Seeking Alpha Market News",
+      "summary_th": "ราคาน้ำมันดิบ WTI พุ่งขึ้นหลังเกิดเหตุโจมตีเรือบรรทุกน้ำมันในช่องแคบฮอร์มุซและสนามบินในริยาดซึ่งเป็นส่วนหนึ่งของความตึงเครียดในตะวันออกกลาง ส่งผลให้ตลาดน้ำมันตึงตัวและเพิ่มความเสี่ยงเงินเฟ้อในสหรัฐฯ และทั่วโลก",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ราคาน้ำมันพุ่งเกิน 105 ดอลลาร์ หลังการโจมตีในตะวันออกกลางเพิ่มความกังวลเรื่องอุปทาน",
+      "url": "https://seekingalpha.com/news/4651953-oil-tops-105-as-houthi-attacks-on-saudi-arabia-raise-inflation-fears?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "watch_next": "ติดตามสถานการณ์ความตึงเครียดในตะวันออกกลางและการตอบโต้ของซาอุดีอาระเบีย"
+    },
+    {
+      "category": "Geopolitics",
+      "impact": "high",
+      "key_numbers": [
+        "12",
+        "300"
+      ],
+      "rank": 5,
+      "sectors": [
+        "Energy",
+        "Industrials",
+        "Financials"
+      ],
+      "sentiment": "bearish",
+      "source_name": "ZeroHedge",
+      "summary_th": "สนามบินนานาชาติคิงคาลิดในริยาดถูกโจมตีอีกครั้งโดยกลุ่มฮูธิหลังจากเหตุโจมตีครั้งก่อนที่มีผู้เสียชีวิต 12 ราย รวมถึงชาวอเมริกัน เหตุการณ์นี้ทำให้สนามบินปิดและโรงเรียนในริยาดเปลี่ยนเป็นเรียนออนไลน์ สะท้อนความตึงเครียดในภูมิภาคและความเสี่ยงที่อาจลุกลามเป็นความขัดแย้งในอ่าวเปอร์เซีย",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ซาอุดีอาระเบียถูกโจมตีสนามบินริยาดซ้ำ หลังเหตุโจมตีครั้งก่อนมีผู้เสียชีวิต 12 ราย",
+      "url": "https://www.zerohedge.com/geopolitical/saudis-vow-retaliation-after-deadly-airport-strike-houthi-threat-puts-gulf-edge",
+      "watch_next": "ติดตามการตอบโต้ของซาอุดีอาระเบียและสถานการณ์ในอ่าวเปอร์เซีย"
+    },
+    {
+      "category": "Geopolitics",
+      "impact": "medium",
+      "key_numbers": [
+        "65.8",
+        "1700",
+        "5"
+      ],
+      "rank": 6,
+      "sectors": [
+        "Industrials",
+        "Defense"
+      ],
+      "sentiment": "neutral",
+      "source_name": "ZeroHedge",
+      "summary_th": "กองทัพเรือสหรัฐฯ ขอเงินงบประมาณ 65.8 พันล้านดอลลาร์สำหรับปี 2027 เพื่อเพิ่มกำลังการผลิตเรือรบ หลังจีนมีการผลิตเรือมากกว่าถึง 1,700 ลำต่อปี ขณะที่สหรัฐฯ ผลิตเพียง 5 ลำต่อปี ความล่าช้าและต้นทุนสูงเป็นอุปสรรคสำคัญในการฟื้นฟูอุตสาหกรรมการต่อเรือของสหรัฐฯ",
+      "tickers": [],
+      "time_horizon": "long-term",
+      "title_th": "สหรัฐฯ เพิ่มงบประมาณเรือรบเป็น 65.8 พันล้านดอลลาร์ปี 2027 เพื่อเร่งปิดช่องว่างกับจีน",
+      "url": "https://www.zerohedge.com/geopolitical/america-let-china-outbuild-us-navy-and-now-scrambling-close-gap",
+      "watch_next": "ติดตามการอนุมัติงบประมาณและความคืบหน้าการผลิตเรือรบของสหรัฐฯ"
+    },
+    {
+      "category": "Geopolitics",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 7,
+      "sectors": [
+        "Energy",
+        "Utilities",
+        "Communication Services"
+      ],
+      "sentiment": "bearish",
+      "source_name": "ZeroHedge",
+      "summary_th": "ประธานาธิบดีทรัมป์ประกาศผ่านโซเชียลมีเดียว่ารัสเซียและยูเครนตกลงหยุดยิงด้านพลังงานทันที แต่ประธานาธิบดยูเครนกล่าวว่าไม่ทราบเรื่องนี้และยังมีการโจมตีโครงสร้างพื้นฐานพลังงานในเคียฟต่อเนื่อง เหตุการณ์นี้สะท้อนความตึงเครียดทางการเมืองระหว่างสหรัฐฯ กับยูเครนและผลกระทบต่อสงครามพลังงาน",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ทรัมป์ประกาศหยุดยิงพลังงานระหว่างรัสเซีย-ยูเครน แต่เคียฟปฏิเสธข่าว",
+      "url": "https://www.zerohedge.com/geopolitical/trump-declares-ukraine-energy-ceasefire-zelensky-says-news-me-amid-new-russian-attack",
+      "watch_next": "ติดตามสถานการณ์สงครามพลังงานและความสัมพันธ์สหรัฐฯ-ยูเครน"
+    },
+    {
+      "category": "Regulation",
+      "impact": "medium",
+      "key_numbers": [
+        "300000"
+      ],
+      "rank": 8,
+      "sectors": [
+        "Energy",
+        "Political"
+      ],
+      "sentiment": "bearish",
+      "source_name": "Axios US Policy",
+      "summary_th": "ส.ส.รีพับลิกัน Brian Fitzpatrick เตรียมเสนอร่างกฎหมาย 'Ronald Reagan Peace Through Strength Act' เพื่อบล็อกข้อตกลงน้ำมันดีเซลระหว่างสหรัฐฯ กับรัสเซียที่ทรัมป์ผลักดัน โดยมีเป้าหมายลดรายได้ของรัสเซียจากสงครามยูเครนและตอบโต้ความไม่เห็นด้วยจากฝ่ายนโยบายและสาธารณะ",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "สภาผู้แทนฯ สหรัฐฯ เตรียมลงมติบล็อกข้อตกลงน้ำมันรัสเซียของทรัมป์",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT0ZSVG5SSkJWekROWFF6Q2NVU1lXWGR4c1hzcUZfOTN6NFIzeENYUlJFX0lJb2xTTk1uVE5ITGhPbUJNUlJ6VkJaTmtaNXVYU05uZE5ydHY4bnlUbG5CWXRSTzBzb2ZjdHVhczhKVmpuNEJnZW0xWVlWSXpsRHdGWmYxVjhMMGZNRzhV?oc=5",
+      "watch_next": "ติดตามการลงมติในสภาและการตอบโต้จากฝ่ายบริหาร"
+    },
+    {
+      "category": "Regulation",
+      "impact": "medium",
+      "key_numbers": [
+        "0",
+        "200"
+      ],
+      "rank": 9,
+      "sectors": [
+        "Tech",
+        "Legal"
+      ],
+      "sentiment": "neutral",
+      "source_name": "ZeroHedge",
+      "summary_th": "สำนักงาน ATF ประกาศไม่บังคับให้ลงทะเบียนและขออนุมัติจากรัฐบาลกลางสำหรับเครื่องลดเสียงและปืนสั้นแบบบางชนิด หลัง DOJ ตัดสินใจไม่อุทธรณ์คำตัดสินศาลเท็กซัสที่ระบุว่าการเก็บภาษีโอนอาวุธเหล่านี้เป็น 0 ทำให้การบังคับใช้กฎหมายเดิมไม่ชอบด้วยกฎหมาย แต่กฎหมายยังคงอยู่และอาจเปลี่ยนแปลงได้ในอนาคต",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ATF ยกเลิกการลงทะเบียนอาวุธปืนบางประเภท หลัง DOJ ไม่อุทธรณ์คำตัดสินศาล",
+      "url": "https://www.zerohedge.com/political/atf-drops-registration-suppressors-and-short-barreled-rifles-nationwide-after-doj",
+      "watch_next": "ติดตามผลกระทบทางกฎหมายและนโยบายอาวุธปืนในระดับรัฐและท้องถิ่น"
+    },
+    {
+      "category": "Macro/Fed",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 10,
+      "sectors": [
+        "Consumer",
+        "Financials"
+      ],
+      "sentiment": "bearish",
+      "source_name": "Bloomberg Markets",
+      "summary_th": "รายงานจาก Bloomberg ระบุว่าผู้บริโภคในสหรัฐฯ ใช้จ่ายจนเต็มที่แล้ว ส่งผลให้ความสามารถในการขับเคลื่อนเศรษฐกิจและตลาดหุ้นลดลง วอลล์สตรีทจึงกังวลว่านี่อาจเป็นปัจจัยลบที่ทำให้ตลาดหุ้นหยุดชะงักหรือปรับฐานในระยะสั้น",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "ผู้บริโภคสหรัฐฯ ใช้จ่ายเต็มที่แล้ว วอลล์สตรีทกังวลอาจทำให้ตลาดหุ้นหยุดชะงัก",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbTNqeVp6SnlPeS1mSkdaWGs3bVYwcjhLWHM3YkxTbkp0a0xhbTY4S1BsRkRqdW9pWGE2cVB3NjJBWlowSGxydmloaWlBZ3k0SGQ4UmVkVlgwcnBXOVdQa1lZcXN0Zlo4aXJJc1pLR28xZ1NfamREZUFPNmFCb1hVNTl2SGVteGZ0VXZ5YWVhb0ZIM0M5Y3ExUnlkRnZWU3B3d2ZWaHpnNUdwbUR5YUYyb2w5QWhEdw?oc=5",
+      "watch_next": "ติดตามข้อมูลการใช้จ่ายผู้บริโภคและผลกระทบต่อตลาดหุ้น"
+    }
+  ],
+  "jev_screen": {
+    "brief_kind": "us",
+    "error_type": "RuntimeError",
+    "input_count": 25,
+    "mode": "active",
+    "output_count": 25,
+    "status": "fail_open_error"
+  },
+  "model_used": "openai:gpt-4.1-mini"
+}
