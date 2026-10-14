@@ -45,5 +45,16 @@ class DeliveryTests(unittest.TestCase):
             self.assertEqual(pulse.run(), 0)
             send.assert_not_called()
 
+    def test_next_morning_keeps_trading_session_date(self):
+        from datetime import timezone
+        source_date = "2026-10-14"
+        next_morning = datetime(2026, 10, 15, 0, 30, tzinfo=timezone.utc)
+        data = {name: TrackerResult(name=name, ok=True, summary="verified", data={"date": source_date}) for name, _ in pulse.TRACKERS}
+        with tempfile.TemporaryDirectory() as folder, patch.object(pulse, "PULSE_DIR", Path(folder)), patch.dict(os.environ, PULSE_SESSION_DATE=source_date, DRY_RUN="0"), patch.object(pulse, "datetime") as clock, patch.object(pulse, "run_all", return_value=data), patch.object(pulse.summarizer, "th_market_pulse_commentary", return_value=("Verified commentary", "test")), patch.object(pulse, "send_pulse_digest") as send:
+            clock.now.return_value = next_morning
+            self.assertEqual(pulse.run(), 0)
+            self.assertEqual(send.call_args.args[0], source_date)
+            self.assertTrue((Path(folder) / "2026-10-14.md").exists())
+
 if __name__ == "__main__":
     unittest.main()

@@ -5,7 +5,13 @@ on:
     # 10:30 UTC = 17:30 Asia/Bangkok, Mon-Fri (SET trading days only)
     # Use :30 instead of top-of-hour to reduce GitHub Actions schedule delays.
     - cron: "30 10 * * 1-5"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      session_date:
+        description: 'Incomplete trading session to finish (YYYY-MM-DD); blank means today'
+        required: false
+        default: ''
+        type: string
 
 concurrency:
   group: thai-market-pulse-delivery
@@ -41,6 +47,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           REPO_URL: https://github.com/${{ github.repository }}
+          PULSE_SESSION_DATE: ${{ inputs.session_date }}
         run: python scripts/th_market_pulse.py
 
       - name: Commit & push

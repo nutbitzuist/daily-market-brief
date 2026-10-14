@@ -16,7 +16,7 @@ import json
 import logging
 import os
 import sys
-from datetime import datetime, timezone
+from datetime import date, datetime, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -203,7 +203,10 @@ def send_pulse_digest(date_str: str, results: dict[str, TrackerResult],
 def run() -> int:
     dry_run = os.environ.get("DRY_RUN") == "1"
     now_utc = datetime.now(timezone.utc)
-    date_str = now_utc.astimezone(ZoneInfo("Asia/Bangkok")).strftime("%Y-%m-%d")
+    today = now_utc.astimezone(ZoneInfo("Asia/Bangkok")).date()
+    date_str = os.environ.get("PULSE_SESSION_DATE") or today.isoformat()
+    if date.fromisoformat(date_str) > today:
+        raise RuntimeError("Pulse session cannot be in the future")
     receipt_path = PULSE_DIR / f"{date_str}.delivery.json"
     if not dry_run and receipt_path.exists() and json.loads(receipt_path.read_text()).get("complete", False):
         log.info("ALREADY_DELIVERED date=%s", date_str)
