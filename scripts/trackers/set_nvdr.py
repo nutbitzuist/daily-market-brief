@@ -80,10 +80,13 @@ def run() -> TrackerResult:
     #   sortBy=netSellValue → only net-sell names (descending sell)
     # We need both to build top buy + top sell. Merge by symbol.
     merged: dict[str, dict] = {}
+    source_dates: set[str] = set()
     for sort_key in ("netBuyValue", "netSellValue"):
         payload = fetch_json(s, STOCK_URL,
                             params={"sortBy": sort_key},
                             referer=NVDR_REFERER)
+        if isinstance(payload, dict) and payload.get("date"):
+            source_dates.add(str(payload["date"])[:10])
         rows = _parse_stock(payload) if payload is not None else []
         log.info("[%s] sortBy=%s → %d rows", NAME, sort_key, len(rows))
         for r in rows:
@@ -99,7 +102,9 @@ def run() -> TrackerResult:
     top_buy = sorted(parsed, key=lambda r: r["net_value"], reverse=True)[:10]
     top_sell = sorted(parsed, key=lambda r: r["net_value"])[:10]
 
-    today_date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    if len(source_dates) != 1:
+        return TrackerResult(name=NAME, ok=False, summary="(NVDR source date unavailable or inconsistent)", error="source date gate")
+    today_date = next(iter(source_dates))
     append_today(NAME, {
         "date": today_date,
         "top_buy": top_buy,

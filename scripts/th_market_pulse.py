@@ -18,6 +18,9 @@ import os
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
+
+import requests
 
 ROOT = Path(__file__).resolve().parent.parent
 if str(ROOT) not in sys.path:
@@ -167,11 +170,32 @@ def send_pulse_digest(date_str: str, results: dict[str, TrackerResult],
     token = os.environ.get("TELEGRAM_BOT_TOKEN")
     chat_id = os.environ.get("TELEGRAM_CHAT_ID")
     if not token or not chat_id:
-        log.warning("Telegram secrets missing; skipping notify")
-        return
+        raise RuntimeError("Telegram credentials missing")
     text = build_pulse_digest(date_str, results, commentary, repo_url)
+    message_ids = []
     for chunk in notify._chunk(text):
-        notify._send(token, chat_id, chunk)
+        try:
+            response = requests.post(
+                notify.TG_API.format(token=token),
+                json={"chat_id": chat_id, "text": chunk,
+                      "parse_mode": "MarkdownV2", "disable_web_page_preview": True},
+                timeout=30,
+            )
+        except requests.RequestException:
+            raise RuntimeError("Telegram delivery uncertain; inspect before retry") from None
+        payload = response.json()
+        if response.status_code != 200 or not payload.get("ok"):
+            raise RuntimeError("Telegram rejected pulse delivery")
+        message = payload["result"]
+        if str(message["chat"]["id"]) != str(chat_id) or not message.get("message_id"):
+            raise RuntimeError("Telegram receipt target mismatch")
+        message_ids.append(message["message_id"])
+    receipt = {"date": date_str, "delivered": True, "message_ids": message_ids,
+               "source_dates": {name: str((r.data or {}).get("date", ""))[:10] for name, r in results.items()},
+               "complete": len(results) == len(TRACKERS) and all(r.ok for r in results.values()),
+               "delivered_at_utc": datetime.now(timezone.utc).isoformat()}
+    (PULSE_DIR / f"{date_str}.delivery.json").write_text(json.dumps(receipt), encoding="utf-8")
+    log.info("TELEGRAM_DELIVERED date=%s message_ids=%s", date_str, message_ids)
 
 
 # ---------- main ----------
@@ -179,12 +203,32 @@ def send_pulse_digest(date_str: str, results: dict[str, TrackerResult],
 def run() -> int:
     dry_run = os.environ.get("DRY_RUN") == "1"
     now_utc = datetime.now(timezone.utc)
-    date_str = now_utc.strftime("%Y-%m-%d")
+    date_str = now_utc.astimezone(ZoneInfo("Asia/Bangkok")).strftime("%Y-%m-%d")
+    receipt_path = PULSE_DIR / f"{date_str}.delivery.json"
+    if not dry_run and receipt_path.exists() and json.loads(receipt_path.read_text()).get("complete", False):
+        log.info("ALREADY_DELIVERED date=%s", date_str)
+        return 0
     generated_at = now_utc.strftime("%Y-%m-%dT%H:%M:%SZ")
 
     results = run_all()
     n_ok = sum(1 for r in results.values() if r.ok)
     log.info("trackers ok: %d/%d", n_ok, len(results))
+    source_dates = {name: str((result.data or {}).get("date", ""))[:10]
+                    for name, result in results.items()}
+    if receipt_path.exists() and not dry_run:
+        previous = json.loads(receipt_path.read_text())
+        if previous.get("delivered") and previous.get("source_dates") == source_dates:
+            log.info("ALREADY_DELIVERED_SOURCE_DATES %s", source_dates)
+            return 0
+    for name, result in results.items():
+        if not result.ok or source_dates[name] != date_str:
+            results[name] = TrackerResult(name=name, ok=False,
+                summary=f"Today's data not yet available (latest verified source date: {source_dates[name] or 'unavailable'})",
+                data=result.data, error="current-session freshness gate")
+    n_ok = sum(result.ok for result in results.values())
+    if n_ok == 0:
+        log.warning("WAITING_FOR_CURRENT_SESSION expected=%s source_dates=%s", date_str, source_dates)
+        return 0
 
     # Build LLM input
     pulse_data = {k: (r.data if r.ok else {"unavailable": r.summary,
