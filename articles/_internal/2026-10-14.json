@@ -1,218 +1,218 @@
 {
   "articles": [
     {
-      "published": "2026-10-13T19:35:00+00:00",
-      "publisher": "WIRED",
-      "source": "Wired AI",
-      "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaDJMY1hCMEJlRTJiNnNuY2xsV1FVN0dtME52djVacVF2R2pTRnhVNlpXeno5X05Fa2lENlNzemR4dnlYRkU2Z1RqVDNlMjBZbkFFcEc0R3pETmY0TDVuRFpuLThITkt5aDNnbndwOW05Y0dlQUJWWDFmUUhXa2tYUzVKblFBdDF2OUNaTA?oc=5"
+      "published": "2026-10-14T20:40:52+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "Eight US states sue OpenAI, claiming ChatGPT harms young users - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVjc1cUY3cXJlLWNETVRLdnEzVGt4QzlBRFFFZ2p1aUVqdFRGMUNxMHFnNTlZVk5Pcmg0dUUyUkVhWnFJeWpLWnI5a2lMNjR3WGVRRlV6NnZiOTZnUXUtUnJteWZ2VEVwVW1wX1NkdThUSE9kck41ZFc1ZmlwS0FLVmxQS0k5WFEyMDM0cS0xVWxyQnBzVUJka0lhRm04Znp4TUE?oc=5"
     },
     {
-      "published": "2026-10-13T13:01:42+00:00",
-      "publisher": "Legal IT Insider",
-      "source": "Microsoft AI",
-      "title": "Exclusive: Jylo unveils ‘3.0’ with agentic workflows, Microsoft add-ins and AI spend controls - Legal IT Insider",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdXpLaXh2NmlRQ1NPZUVkUnA2cktaY0VRRGlfRGNjV3lEV3oxWkgxUWF3M3gtWmNZNmJkdC1lY0o3T3NybW9fS0dkMzkyZjRSMXljMW5Sa0RydTExOGQxUV9SVTVzRlBiSG9sOTRGQ3ZDSDBoWEU2UVJUQ3dSVjY5UWN2aDBCRHd3X0JiOF9jaUZSNlJTa25xR2IyS0lQcjQ2T0p4N1lYNWRZU3h4Wmx4enJhbUV0TkU0S0E?oc=5"
+      "published": "2026-10-14T21:11:28+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNlo1R0x0MHpBNU1ydVY2aXNEYnRNX2NlWjhkWjJCWEdmVVdkMWprcThLQTFOc25iSldNWlVrRDVINGZvcWpVMHJMX2F5Rlg2bUhLMG9YeEQwTUE3RlJYYW82d0txQkVFNFJTdVVtaGQ2ZmRyUEFXMTlOVVBaSzdUcVZwSFFXQ0hFT3pzT1puQldTU3JYdEdaZGgtbGk?oc=5"
     },
     {
-      "published": "2026-10-13T20:36:44+00:00",
+      "published": "2026-10-14T16:16:42+00:00",
+      "publisher": "NVIDIA Developer",
+      "source": "NVIDIA AI",
+      "title": "Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym - NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUUtZWjdMZWpRUFVYTHNFTTRJNUNnclI4R2ttbmhfamJMX1R0Sk1JOEZfR2wxMXg2enlYOWxVMjhudDl3Wk5jaWluNEN1RHVhdWhSN2hoYm53WkRQZm0xVWc2ZzJjT0pUeHlFeHhOTUNIOGh2emhzR0R1SVh6bjRiX1pjRWJtd2JXVmRJdFJZcDZEZkpuLV95V3VVVTBRYnN1QnI2Z0ZIOVFkdlh5YXhRck1hZzNieUFXQXU3T3ZHZVFzVy1zRDlTWQ?oc=5"
+    },
+    {
+      "published": "2026-10-14T18:00:00+00:00",
       "publisher": "TechCrunch AI",
       "source": "TechCrunch AI",
-      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/"
+      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/"
     },
     {
-      "published": "2026-10-13T18:14:01+00:00",
-      "publisher": "blog.google",
-      "source": "Google AI Blog",
-      "title": "Developing Gemini 4 Argon responsibly and safely - blog.google",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2ExMndUd3p2T0tCT080TWJ2QWFjYWt4Tk14dDllRVpHOTk1SWswdDlucUh0SVBaRUN1VGJVZUdGVk5taUxkcldvTm96MWVHd1Bxek5VR0Y0OER1Yi01RjhSdkNCbEdmRTJYcF9sUUlRdnpfWUQyNDRFR21sN190dnRJS3VNOURqclNNQlFYUVJnZjlsUnhzLVp3UHU?oc=5"
-    },
-    {
-      "published": "2026-10-13T20:17:08+00:00",
+      "published": "2026-10-14T06:03:30+00:00",
       "publisher": "NVIDIA Blog",
       "source": "NVIDIA AI",
-      "title": "NVIDIA Lands in Europe for GTC Berlin - NVIDIA Blog",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4M3FmV0ljcFlSbm5UNGpFNlFFU01jc2MwbmtaUGFtNnExMVVMejNyV2tBX0xoaC1xajZmeFVDU3JVMGNsWnhzMnpWRmZvSjdSb3o1MF9ud3Y2Zw?oc=5"
+      "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations - NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mU01rUUJVYmZVeVFELWp3azNXc2xOTGF2cGg4clFwSlpyTmhLRmdFV0ZhcU5kOE5fWlBEbEx0WDhYOTdtQWp6VnFZT0FPUmNJVjFoX2p2b2pFZEZQUEs1SXQtdlBUaThzeDFjNkJ1bWQtOVgtTzRUU0hR?oc=5"
     },
     {
-      "published": "2026-10-13T21:35:22+00:00",
-      "publisher": "Jon Peddie Research",
-      "source": "Microsoft AI",
-      "title": "Microsoft builds Maia 300 for inference - Jon Peddie Research",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHWGZZMXlRV3NoVkxvbVdKSXFta2czVDV6d0xlY09iS3Q3TmE1eV9qem95YXVkMHBCVWNPby1Zb2FSRWgzTzk0ZzBLel93YWRaVmZ1NWxYM1BuTFVWaGVWTzEtam42dnRfTElHbnVwWmtVa01kYmRzUVNLZw?oc=5"
+      "published": "2026-10-14T14:15:32+00:00",
+      "publisher": "Barchart.com",
+      "source": "AMD / TSMC AI",
+      "title": "Advanced Micro Devices Just Unveiled Its Helion Blueprint for Agentic AI. What That Means for AMD Stock. - Barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ2IxRGtOT0lrWVlRVGR5RmZCbENWX2NMZDFFUjBJZXlWdS13bWNaSThUby0wcTVxaFZGS2N6ZjB6ZG4tb2h6U0dteXRFUDF5Z0NhbDdqRlp2d3QtZG40VFo0M3RhbDlpWVhRSVJBQ3pXRmVvTU12SUtab19keW1SU0FQcnphQmpOcWI3ZjVteTRrM2FMellDem93UFBSYW1LWTFRaXRGcjBPUGxrUVFhNVdncjRGV0d6ZEVsOC1PWjduVEVQTEt0NVA0eWEzWXNXUzJDNWVYNFNBeEhheFhz?oc=5"
     },
     {
-      "published": "2026-10-13T18:56:57+00:00",
+      "published": "2026-10-14T20:17:49+00:00",
+      "publisher": "OrcaRouter",
+      "source": "xAI / Grok",
+      "title": "Grok Voice 3.0 vs GPT-Live-1: Which Voice Model Wins? - OrcaRouter",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DXzROZUs1NEVZSXJXV1VlM1NnS0g0blVvUWM1WFhZNmVjaDVTVzFvYmRUS2FzdUhTQ0FFbGl1cjRJdHpBTjJYOWxBOFF4c1NTSDAyNU1YWVFfRmdLai1vWi1DT0ZNeWpvUUpr?oc=5"
+    },
+    {
+      "published": "2026-10-14T19:54:21+00:00",
+      "publisher": "OrcaRouter",
+      "source": "xAI / Grok",
+      "title": "Grok Voice 3.0 vs Gemini 3.8 Live: Mana yang Lebih Baik? - OrcaRouter",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vcVY5bUEybk9nbVhMRVBYb3BNdnJadGFDQVpWdEFHaU43SmRQWjBOQ3JCbWlFNnB5Y1l3cVpqWjRUSENYazdSUzNYVC1rcncxV29feHdNc1pqbU16eTlLVkllY0Y3TC14eDc0V1pnbzVrR1pWS3c?oc=5"
+    },
+    {
+      "published": "2026-10-14T15:48:25+00:00",
       "publisher": "Reuters",
       "source": "Reuters Tech",
-      "title": "Nvidia buys stakes in French tech startups Doctolib, Genesis AI - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPem1BSmpvVlh6YW1EbjdzZEV1eC1EM0Jmcm5RS1pnNWdqQTlua19zbWtZVW9UeGJoV2lucjJFajItdWVmSVZ2dHk3YzBRbEFGLVlHZ1U4UnBSWFBhTlJZTnByRjRmcWVGenVkcTB2OXVQeWx3Z19qbTBSdFFleTBpbGlaVWFLZlJVMHdUeE9RNVExX2VlT09EZkI4ekg2SEdhVmlqdW45VGhBbzRadERGZ3AwQlI?oc=5"
+      "title": "Google Deepmind's Hassabis calls AI hacks 'early warning shots' - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUpQLTQySlpPSFREYzVycnZUeHhKeWh5TFZTSmw0elFKaVB0THNKYU44eHdhQnJBOS1aNFk2MzlRblBlbzZEa0J4ZFk0VFkxaTdubmpWNVUwaFNwV3pkbHpHYU1XWFlaTGp1MU1vRlNMdkU0Tm9ZU3BweUktbDgxbktvWXl2UzZsVW93LVFPbkZyVDFudHQ2Z3FzQjM1bnZRa3RfbWQ1ME44RFBhVXJiM19aWQ?oc=5"
     },
     {
-      "published": "2026-10-13T10:11:23+00:00",
-      "publisher": "Financial Times",
-      "source": "FT Tech",
-      "title": "Anthropic warns rogue AI agents may ‘self-replicate’ to hijack everyday devices - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVdrSG5aLUJNY3BCQ3F1SV9TQXMwV04wM3V1ZnNnYTFHQVRZTFJHMHduMllELUVFWHNZV0t5UnlrWm9hVEJSdVA0X3phRjNfVWp0UHJ6eGVjb1N3aUJERG45LUVYaVNrTk0wVzI5VHo0eHhNdEU0dmdkbk9HTEhwMExxeWQ?oc=5"
-    },
-    {
-      "published": "2026-10-13T19:42:42+00:00",
+      "published": "2026-10-14T15:19:02+00:00",
       "publisher": "The Verge",
       "source": "The Verge AI",
-      "title": "Shopify opens its catalog up to more AI agents - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObUVyNl95UmVCWlUxYUl6VUhkSUFvZGtNQ3VFeElMRUhIWDRXdGEzN3h6SmFMMjZKWlNON3EyaUEwTF9fZE4yX2t2OWxCdC1RMWNuMkxfX3hvRGFaTF8tU01mSW1PTVl6aUsydDEtYXlnUVFuaEgyRkxDS0V1bHpqd2M2WkxmTTdhLTM0OA?oc=5"
+      "title": "Anthropic’s self-replicating AI warning is alarming deja vu - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVmlsZkg4MjVmSXE4WDBLY29yUEZxZmo1SG9hcHlZdmRFLTF3V2lyWUpqbEZhNHF1aXpaWG9BdGdhREx6Tnk5Mjc4dWpkRUIyR0huejRDN29tM2hZQW1iNjJqM1FSdUF3cVJKS2VScUVNbG1mRFBjM3ZUV3RHeXV6TjNFM01EeW1vS2Q3SHc0TXJZcnNPb2JoMmNhNk5nQk9tTXprczFfbmlKeFBx?oc=5"
     },
     {
-      "published": "2026-10-13T17:30:00+00:00",
+      "published": "2026-10-14T21:30:33+00:00",
       "publisher": "TechCrunch AI",
       "source": "TechCrunch AI",
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"
+      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+      "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/"
     },
     {
-      "published": "2026-10-13T16:16:01+00:00",
+      "published": "2026-10-14T08:10:35+00:00",
       "publisher": "blog.google",
       "source": "Google AI Blog",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems - blog.google",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSnlfSFAtZ3F0bFlnbTVkTUJHb2ZMa2ZLR2Q0Zm4wUi1yd0dPNjk0Z1dxalhMZ0x3WFpmNGF0bnA5SGpnalRXSFZEcjc0M2VsNjlHOFZtU1dVVUlrUGpNN24zLW02V0U0NFk5Z3dwbDZFcE1kS0ZSaFNxOHVHUWdTWURZSWIyUENmbXdjeTRwOGQ3SkhOSHMxaHlBMVpEbWw2?oc=5"
+      "title": "We’re powering European scientific discovery with advanced AI compute and frontier models. - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQc2V4bi1NU0RDWWo5VVZqZUZScnQ2YVdkZDhoYjRNM1hNanBtWmFYMnd0SXBDRTZCODVWOE9BdHo3dHJWdmtlYnZLSUVFZWZDVFlsckdUdDNlOWoxY0lEZzF0ZGRMUkVoMHNrTU5RLUJBMlZ5VjZpOFVIVUNEdzc2WUZQT09wMGNhN18yQVZYVllnUldTZHg4NFFRMjQ3bmVnVHB0aTVXRFlMR0hYMTRFRXJHZnFibkNnSHNmbFhqMFhtRjdubHlKNm9vUVhGRjNkM0tyRDFWeEpfRUlfYjdBOWhEWm1TeFl3emFDRjFyZkcwUWpfQ2c?oc=5"
     },
     {
-      "published": "2026-10-13T08:20:17+00:00",
-      "publisher": "Wccftech",
-      "source": "AMD / TSMC AI",
-      "title": "AMD Shows Next-Gen EPYC Verano CPU, Featuring LPDDR5X Memory & Up To 192 Cores To Accelerate Agentic AI Workloads - Wccftech",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdl93OE42My1uM3ZSeFZGQVVwZ09xbW9ydC1Dc01NQzdRME9LWGpPcWRGNWVIbW9kejF4YU1tamV0Vm1nWDJoSjNnRFpTVHVJS0k1LUxyZTFKQVp0R1ktWkRZMzJsejZNRG9hb0RPa3Fua0U3ZGZPbDJTYkt5dVB5STJaUVBDOS030gGOAUFVX3lxTFBTZHVwbGlHa0N6T3lEMVNfNjJZVFhobkZZUUxQNUl1em1hOFlXMTVuYmlkcF9Ma094NXJjLXR2TkQ2dUVreGIxTU9mQzFRbXJ6a0MyZXV1eERSck9OVGpyQzBGbXliSUdrVU5FNUt2OWJPZE1tZTF1aVUyVDhjZFVyRlRkU0tONll1b0FUQkE?oc=5"
+      "published": "2026-10-14T21:16:03+00:00",
+      "publisher": "Decrypt",
+      "source": "Microsoft AI",
+      "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY1M3MDEzdHZKYXRQb0hWdDdLUVF3MjhtTDVLSkxDSXlJc1daNmlFLS1yd2ZNYzV6aDNRNEpQckhxV3hQN2hlWmlqTkFLcXJQWFRCSlNsVUFpdHVqR3dPdGFUYlNiUUEwTTN0TGxrbEdxNmhaRFNROV8xNy1RREtIblRxc01nQ0EzdEtMYU4yTQ?oc=5"
     },
     {
-      "published": "2026-10-13T13:23:02+00:00",
-      "publisher": "Bloomberg",
-      "source": "Bloomberg Tech",
-      "title": "Moderna Founder Calls for Urgent Regulation of AI Agents - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeFQxWUlwYkFrOUtucEdHUTByWVp6Wmo4YmtMUF8zWnM3VHBpcUNaTmxfeE9mWGpfcG9yT2VudURUUXNLczlqOXFDWnpwQkl5M2dLNnMxd3UtLVZaWV8zWHBlVGtjN3NsM0pncl9IdE0zLUFRbHpEU2s3d3oyYTRZTmhXOVNfZkZ6SmdKVGMwcDhFcEZtN3RGMURmUWVwSFVEOUxTVWNVOHVhZ1U?oc=5"
-    },
-    {
-      "published": "2026-10-13T13:12:18+00:00",
-      "publisher": "Bloomberg",
-      "source": "Bloomberg Tech",
-      "title": "Power and Talent Biggest AI Bottlenecks, Say Data Center Firms - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTWNUeURhM3NjYlhuNFFQN0FpV21vUmJ1ZnlhM0NMV1lDTzk0RXZFelpkclJSRHIxTTBILTc4TUlMOGEwYzA0cV9IaUJENWM3bHBMLXIxc3UxZ0hranFSZUlabjJxVHhkX1JsakllUGpIOS1sc3NtaTI4ZVlWVXMzOTdXNWpRWEdIZmZCLVc0NWNENkhvbmZfdDJsdlZadmJUNldGUEpFZm9xdWFjcFF6R0xR?oc=5"
-    },
-    {
-      "published": "2026-10-13T15:52:20+00:00",
-      "publisher": "Amazon Web Services (AWS)",
-      "source": "xAI / Grok",
-      "title": "Build long-horizon agents with Grok 4.7 on Amazon Bedrock - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcmVFMlgwU1VKNEJOQnBHSUdfTFI1U01iUzNWclptektSNDJyZHg2al81Ti1wWjd5eE1XVTQwdFZqcDlseEh5bWdrUXZCMnNKeGtkYlVxbzc5WjRzLVhLblNMUnpwclJBOVB1Nk8wUm1FbjhGZUotdHh5SlA0eVpyVGFuYXl0cS1uQlhMSGxXYnBhS2t6WlRYX2M3LVp0NmhHa2phTkNEZw?oc=5"
-    },
-    {
-      "published": "2026-10-13T13:00:00+00:00",
-      "publisher": "Kalkine Media",
-      "source": "AMD / TSMC AI",
-      "title": "Can Advanced Micro Devices (NASDAQ:AMD) Keep Gaining Ground In AI Data Centers? - Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcV9PckJBM3hUdDdPc2ZEYUlEbEhfNE0wWEQtZDZFSHc2YXRsREhUaWFpczdwMXlYTlNZd2ptTXJ6aTVCT19POFZRcFVJeDFUTVNOWF81eUVpNGdodnR6cDI5dk5ucFo3N3RQYXh1ZTY2cUpfaE10YzhaVUI0NV9UQTRSX3ROdGdOb1B2WFNnc2w1N2RicUFDMzFLZk4wUzdUSFp6VmloLVB1NDhjbmxONnQ2ak9VaElBTDE4cnhmcWRPbFNGN2JBMWV2d0Yzdnc?oc=5"
-    },
-    {
-      "published": "2026-10-13T21:50:46+00:00",
-      "publisher": "Reuters",
-      "source": "Reuters Tech",
-      "title": "Apple bets on new screen gadget, Siri AI in home device push - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNVpsSWNUUWZvOTRSMFEwZVRpLUhfbmZwdDkxbUI5b0RVeE5FZGpZTTd5QzNoWUdyLWY5YWRPY2ZVZ0F2RVVlUWhJUXRjOWJCLUFaQXJBOTFvQ3M2OE5tbzdlZXFPM0s1ZUhGaEVMZ0JvaWVIYW5GMFRYc0lPVVFvYWJSUGk2cGhTNG9uLVZNNC1yUzJiSVFEUXBRTjRBNjJ1RURVRVZtYVVWSExUei1MM1kxSE4wbG84d3oxbHdyZnZvQQ?oc=5"
-    },
-    {
-      "published": "2026-10-13T19:00:48+00:00",
-      "publisher": "The Verge",
-      "source": "The Verge AI",
-      "title": "Xbox is officially embracing the chaos of AI-powered game ports - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMlpkVThfZGd3VlpBQzIxdkJDdUxYNDBWQWVYM1RkMVBldEw4N1pvS1BmMmxXRS12SnBvTHVmNHlVT1FLREhETWVUMWI4VlZ1V1JKTVN1azBUZDdKeUhKZjUxQVI5NnJHOUM1Um1hSTBwUzlZMnlBb3hDSURlTW1mQmJXUGNKY3ZTTzB4SmNUSQ?oc=5"
-    },
-    {
-      "published": "2026-10-13T13:00:00+00:00",
-      "publisher": "WIRED",
-      "source": "Wired AI",
-      "title": "Apple Reboots Its Smart-Home Strategy With New Hardware and a ‘Home Collection’ - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlRhZFNvcHpaOElOVllEUXlFeTE2YVVDeXFUSlA4ZDI4MjJPbmhMcHBhUUJDN0dhaGhWNlJNd3ZfRGNYU0FXYUlhOUNodlNXRURFZGotQ2VfelBLYzlZUkgtcDBSTi1BazVidzNwRjRUWHdkaTVLT1VxMlR5QnZBS2NfQ3hVQ1l3d21CV1JTckhOMHpCMktlcWhTNjdGeFJWMGtrbVROUQ?oc=5"
-    },
-    {
-      "published": "2026-10-13T13:25:00+00:00",
+      "published": "2026-10-14T18:25:00+00:00",
       "publisher": "BigGo Finance",
-      "source": "xAI / Grok",
-      "title": "Elon Musk's Hyped Grok Bot Falls Short in Real-World Testing: Price Comparison and Booking Prove Hollow, Subscription Model Hides Strategic Play - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12VXdqaDlaNnlaUmR6bFJUZDJGMjEzcWRyS0RHMEpnMTFUSU0xV2RMbF9wOHExY2prWEk2T0EyR01SZGxsWi1YaloxVWtNSWtCZlM0YXdpT1E4QktoQW53bUY1eDdNRUtLa1lqdTdCdi1aTFhja2c?oc=5"
+      "source": "Microsoft AI",
+      "title": "Developer Who Cloned Adobe Apps With AI Now Unveils Free Microsoft Office Rivals - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kaWNUTHJ4dE82LURpZHdlS3JqMmN2eEVnVmEzd1RrRWthS21PNDYweXlFd0Z3OF9TTjFUWjVpMEhQUzJyXzkwdHlVel93czJwVjROM3JaTHJudXcwRV9abHdTQ1BJOERSVC1FSmxWWEdPRV9uakE?oc=5"
     },
     {
-      "published": "2026-10-13T08:06:34+00:00",
+      "published": "2026-10-14T16:08:21+00:00",
+      "publisher": "Harvard Business Review",
+      "source": "AWS AI",
+      "title": "From Bedrock to Business: The Last Mile of Agentic AI - Harvard Business Review",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZXN0QzlKbkpQQTFLMm1KRzh1dzVmV1ZyMWxyRG9jaGdmM3ZkWmZKSjNlbU1YZ0pHU01zTDdyTkJKUGlkOVF2TVJtYlZWd2NTXzlQYndKek9xMnRtUmhqZkMyOUs1QkRKTzRoV0x2QjluWFlhbEhWb0RpTEdkNm5WeTh2cEVBVmJ4NHVLRkMwVQ?oc=5"
+    },
+    {
+      "published": "2026-10-14T19:50:37+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "Apple Prepares to Debut First AI Features in China in December - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzl6TER0VWJDcVVzTm52elZnc2NHWDNhd09wS1ZfQ25XUFhOS3hqS1QwQ3VNbGlmUFVqbTlzeTVac21zUFVNMXRJZHM4RjZXMW5qaTE2UXQzRXA0RFRRcnlJUk1CR3lzb1BKZGljbkxvZ0RJOC1oREttNHNtTHQ4NVpUUm42MWpUTDE4Vk5LLUlBV2pNaWVYVTRzVndLbm1VUzFMRHFsejVHSURlQlc5UU5rSQ?oc=5"
+    },
+    {
+      "published": "2026-10-14T20:36:21+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "S&P 500 Ends Longest Streak of Calm Since 2020 as AI Trade Sinks - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb0NPWUlGNHA5MHJPQzczSEFzenVjOFVjX0NCUW5zNnhxNmRsSFVwdGZyaFdyZHhvWFU1NDVZY041TllRSjkxazNibUVVc0FTSEN2YmQtQVpzcnB3SE9HYWZTSDQzLWoyY3ZGQUZ5ejZxVEhGWE1ONkp4N0k0eXZsc2pCYTBoeEZjdFo3ZlJSOThNeUlYM1pqd1BISnUwWG9Cd2UzMmVtMGxmeDhDSE9xSVNWcHk4Zw?oc=5"
+    },
+    {
+      "published": "2026-10-14T19:33:09+00:00",
       "publisher": "Financial Times",
       "source": "FT Tech",
-      "title": "Cyber attack on French supermarket fridges raises alarm over food security - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMVgxbHR0Ni1sZnBpSnM2WHhtWmtETVZHR204UUxRemFVcHFqT3p5dU90OUd0WUg4MndTQUZhVEdjcVYwVmF4SkZjdXdjNFVYQ3NFMTFwTFVtSS1SeDlxeG44VnBWanFTMllpSW1HNVlsMDB3c201Wnl5dVhYbVVlclRRQVM?oc=5"
+      "title": "US chip stocks slide as inflation and AI debt fears unsettle investors - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV010dndEUEEtbWpidDZDc3dSbk1wMnNqdmV6V1QxN3VqektkZ2dlY010cVhrOXgzQkJrRWhxdXk1WVg4VlBId2lTNVFMRXowVTlBZGJKeHhpWDhjOER6NlZmdGZFWnc1SmhVSTRvTzJpbmdfTmk1d2xYWHg1N0VFUXFTaUY?oc=5"
     },
     {
-      "published": "2026-10-13T17:05:48+00:00",
-      "publisher": "Hugging Face Blog",
-      "source": "Hugging Face Blog",
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
+      "published": "2026-10-14T22:06:31+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "Anthropic tells investors quarterly revenue up 50% to $16.8bn ahead of IPO - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPREFXR25nQUF4WXJFTFcwN01WaS1OUWphZkFKWmRLVFlza2c3Q194d1JVdWdpRU9LWlNyZlE4REZEUEdhZzA4Ykc4UEpxZmdaaUp5ckZIcG5zNXdOYUdIYm9WQ3JxOXktR2I0d1Jab0g1T0lRcERma2FrUmx6ekZoRGJPazE?oc=5"
     },
     {
-      "published": "2026-10-13T16:00:43+00:00",
-      "publisher": "Anthropic",
-      "source": "Anthropic",
-      "title": "Redesigning source control at Anthropic \\ Anthropic - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrYlpJeHk2enVYSG9CYl8wRndZeW1XOUpvWHA2NXVHREZBV2JoSFhmTW0tLU1MWDNrWlZVNU9yMDZCbVd5YUZyNFJDaXVxbFo4V1hURTAySlBUVmowR3BVMzJxbmNLdDMtSW5KV3U0NlBqdw?oc=5"
+      "published": "2026-10-14T18:15:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "AI Came for Math. Now It’s Chasing the Rest of Science - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43WENwOFc0OTMwN2s3RzJKZXl5eklYQTkwTHluem03V1ZoQzk5RWJTa0thcENsUFZvWnZDYWJVSktaRlFKa29qZWVBSUhfM3ZWQVRtWDVEVlY5N2xRT1F2Z0ZqQkZiQUdoYWJOd2dHNk1DTUZIakM4?oc=5"
     },
     {
-      "published": "2026-10-13T11:49:45+00:00",
-      "publisher": "The Next Web",
-      "source": "AWS AI",
-      "title": "Amazon in talks to buy AI chip software startup Decart for about $7bn - The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15MTREM1pjMWYzRjFxS21fRzVHNi1kUW9KNUpTMUFFbHNfVXpIT21xN2E5NDJPTUFqWUwyeENoNllfNHNzc2pZU1FWSzFhY3R2MlhLNUhYWVYwekJ2TWN3ZFBRenVmcTVzX1pza0RzNzBDY2ZQREE?oc=5"
+      "published": "2026-10-14T21:00:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "Trump Aides Admit the House is a Lost Cause - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42UTM4ZVRVX0dpTWM5cE92RUZuTXZGeUNQb3F4d2M0MUg2emNoaTU2WmdpYjFqVC0zdmkydDRmbTNzckF3YlFVMk9ncUZPdkUzS0lDR3VLSGdNTk0yak5NbS1kT0syZUlIMjhuRFp3aWU5YkN2NjNOY3lEdE0?oc=5"
     },
     {
-      "published": "2026-10-13T10:51:41+00:00",
-      "publisher": "The Globe and Mail",
+      "published": "2026-10-14T20:46:00+00:00",
+      "publisher": "Barron's",
+      "source": "AMD / TSMC AI",
+      "title": "AMD Stock Takes a Bigger Hit as Cracks Emerge in the AI Trade - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBucjRrUkMta1k0LWpMUE5NSnZIbVAweFNyZWI3RG9aaGZydDdSLV93Z2tjRS1qY3ltNkFhZXFERWFNc2dFTU9yN1RTSGQ2YVhVbGdxNjlweGNwUUUwWjVyR3hva3UwekhJd0doMVdwc0Uyam41YXBXQzI2cVZhZw?oc=5"
+    },
+    {
+      "published": "2026-10-14T18:16:34+00:00",
+      "publisher": "The Motley Fool",
       "source": "Quantum Computing",
-      "title": "Innodata vs. IonQ: Which Technology Stock Is a Better Buy in 2026? - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUFY0eW5tODFuQmJwRkVzOGFUUWxQclZRYkFPd3JCSF9NZlNVekNiMnhXZEppelAzRzd3d0hTdEowd2lmb0xLSGhybE1DZU5Rb1BabkZicWVlRVdMN0xselpUcHBseWNsNzcwUy1vMWZQbk96SEhhQm5ic2xPSWx2blZWV2ttTEVqbnJHY1F6UDJUcmxZVW1HdDRTOTA4SEFRUnpXZEdVWXh3WXluUV9DRjVMUzZJVUpZQnpyRXJLSTBVaUxrR2dxN1FXdFFocmM3TzZSaGhNRXh5UQ?oc=5"
+      "title": "Innodata vs. IONQ: A Look at Revenue Trends Between Artificial Intelligence and Quantum Computing Innovators - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM2pIUVFRZ2dMckt2VEdOLTJpX3NOVzFTZWp6a1BVUk9iOTZFOThjeGZyTTkySU8tM0l0d3JZTkF2NFFpWm9VYVRibTNVNzdNWFdFaVU5dFpFYnoyMjBYQzBmQ3ZZOHcxM2E2OUZyNHFqNXc0STlPLVRUWlZ0ZWdVRG1PV1k0eHBmZWxyZjYtM3d2NjJwT293S2RmWmtyNkh0YllHVWlzcExaYmwxdjVic1FnMEdkcVJTWUVfNjRNTEZTSlpSamdvb2puYnZhUldfLVlkZ2hQdl9PcFZLTk50eDQ4cmpUNThBOGZz?oc=5"
+    },
+    {
+      "published": "2026-10-14T18:42:41+00:00",
+      "publisher": "HPCwire",
+      "source": "Quantum Computing",
+      "title": "INmune Bio and QCi Combine Quantum Computing and AI to Study Drug Applications - HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYkdIZWZ5SnN4dzVwQURmbVRzLVEzSjVwX3FPLVV3Q0ctNEl6MVJZQU5pRTU5OWxvOS12ZVRycmUybWdvUTVQbVYxOXg3ZHRJaTlwWk1CWW5LdmgxSllSdHNSM25DWFpXVnFfcVZVZlJQdXhJbFdwME5NZUQybUxENkx0WG4zelpnYUNFaHVpaFJmS0cwel9KWnNVX0E1WVdlYVN4aEtlb2FDVGh1QWt5dDdCT0gzUlE?oc=5"
+    },
+    {
+      "published": "2026-10-14T09:00:00+00:00",
+      "publisher": "MIT Technology Review",
+      "source": "MIT Tech Review AI",
+      "title": "The US military’s race to make fake blood - MIT Technology Review",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMjBUcmg5ZUJfaEFmVXhoS09FQ2VZcGFPX05iLTdJbkpzaXRTcGotelBCYVNPR0I5Zk50U3o3YWNHVUpFUklzNlJRN1dndlE1YXhkOVpCWk42eEdXX043TFMtX3I3dkxYMGZodXlmX2RUcllmWGMyRGNCalRJUDNPMlNtTThxOGlwRVJkd0pxRDR4UdIBlwFBVV95cUxQRTNiNkd5dldFUkh4bUxWSUduVURmT04zSHZYVFJvczExTlplaDdJQnFZQWliWkx3Y2tCRGhnWUtHZTdUMkZkazF2MjFLd2lycmM1T3VmYXpITlNIdDN6YlFjeVJaSWhET3pVU0Q3Yms3ZkNFS2dIc3QzQm1zczFVNnE1SnIxMGg2dkxrb2NoUmNWeG5May1J?oc=5"
     }
   ],
   "date": "2026-10-14",
-  "generated_at_utc": "2026-10-14T00:09:06Z",
+  "generated_at_utc": "2026-10-14T23:42:50Z",
   "items": [
     {
-      "source": "Microsoft AI",
-      "summary_th": "Microsoft เปิดเผยชิป Maia 300 รุ่นที่สามที่ออกแบบมาเพื่อประมวลผล inference ของโมเดล AI โดยมีประสิทธิภาพสูงกว่า Maia 200 ถึง 7 เท่าและประหยัดพลังงานมากขึ้น พร้อมแผนติดตั้งในศูนย์ข้อมูลขนาดใหญ่ในปี 2027 ชิปนี้รองรับงานที่ต้องการความจำสูงและตอบสนองรวดเร็ว เช่น การสนทนาและตัวแทนอัจฉริยะ",
-      "title_th": "Microsoft เปิดตัวชิป Maia 300 สำหรับงาน inference AI พร้อมแผนขยายกำลังไฟระดับกิกะวัตต์",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHWGZZMXlRV3NoVkxvbVdKSXFta2czVDV6d0xlY09iS3Q3TmE1eV9qem95YXVkMHBCVWNPby1Zb2FSRWgzTzk0ZzBLel93YWRaVmZ1NWxYM1BuTFVWaGVWTzEtam42dnRfTElHbnVwWmtVa01kYmRzUVNLZw?oc=5",
-      "why_it_matters": "ชิปใหม่ช่วยเพิ่มประสิทธิภาพและลดต้นทุนการประมวลผล AI ในศูนย์ข้อมูลขนาดใหญ่ ตอบโจทย์งาน AI ที่ต้องการความเร็วและความจำสูง"
+      "source": "Reuters Tech",
+      "summary_th": "แปดรัฐในสหรัฐอเมริกาได้ยื่นฟ้อง OpenAI โดยกล่าวว่า ChatGPT มีผลกระทบที่เป็นอันตรายต่อผู้ใช้เด็กและเยาวชน ส่งผลกระทบต่อความปลอดภัยของเด็กในสังคมออนไลน์",
+      "title_th": "8 รัฐในสหรัฐอเมริกาฟ้องร้อง OpenAI กล่าวหา ChatGPT เป็นอันตรายต่อเด็ก",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVjc1cUY3cXJlLWNETVRLdnEzVGt4QzlBRFFFZ2p1aUVqdFRGMUNxMHFnNTlZVk5Pcmg0dUUyUkVhWnFJeWpLWnI5a2lMNjR3WGVRRlV6NnZiOTZnUXUtUnJteWZ2VEVwVW1wX1NkdThUSE9kck41ZFc1ZmlwS0FLVmxQS0k5WFEyMDM0cS0xVWxyQnBzVUJka0lhRm04Znp4TUE?oc=5",
+      "why_it_matters": "ประเด็นความปลอดภัยของ AI ต่อเด็กเป็นเรื่องเร่งด่วนที่ต้องได้รับการควบคุมอย่างจริงจัง"
+    },
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "Apate.ai ส่งเอเจนต์ AI ปลอมตัวเป็นเหยื่อเพื่อดักจับและเก็บข้อมูลแก๊งค์หลอกลวงออนไลน์ ช่วยธนาคารและองค์กรต่างๆ ป้องกันการฉ้อโกงได้อย่างมีประสิทธิภาพ",
+      "title_th": "สตาร์ทอัพออสเตรเลียใช้เอเจนต์ AI ปลอมตัวล่อจับแก๊งค์หลอกลวงออนไลน์",
+      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "why_it_matters": "การใช้ AI เชิงรุกในการต่อต้านอาชญากรรมไซเบอร์เป็นนวัตกรรมสำคัญที่ช่วยเพิ่มความปลอดภัยทางดิจิทัล"
+    },
+    {
+      "source": "Reuters Tech",
+      "summary_th": "หัวหน้า Google DeepMind กล่าวว่าเหตุการณ์แฮ็ก AI ที่เกิดขึ้นเป็น 'สัญญาณเตือนล่วงหน้า' ที่ชี้ให้เห็นถึงความเสี่ยงและความจำเป็นในการเสริมความปลอดภัยของระบบ AI",
+      "title_th": "Google DeepMind เตือนเหตุการณ์แฮ็ก AI เป็นสัญญาณเตือนล่วงหน้า",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUpQLTQySlpPSFREYzVycnZUeHhKeWh5TFZTSmw0elFKaVB0THNKYU44eHdhQnJBOS1aNFk2MzlRblBlbzZEa0J4ZFk0VFkxaTdubmpWNVUwaFNwV3pkbHpHYU1XWFlaTGp1MU1vRlNMdkU0Tm9ZU3BweUktbDgxbktvWXl2UzZsVW93LVFPbkZyVDFudHQ2Z3FzQjM1bnZRa3RfbWQ1ME44RFBhVXJiM19aWQ?oc=5",
+      "why_it_matters": "ความปลอดภัยของ AI เป็นประเด็นสำคัญที่ต้องเตรียมรับมือก่อนเกิดความเสียหายใหญ่หลวง"
     },
     {
       "source": "AMD / TSMC AI",
-      "summary_th": "AMD เปิดตัวซีพียู EPYC Verano ที่ออกแบบมาเพื่อเร่งประสิทธิภาพงาน AI แบบ agentic ด้วย Zen 6C cores สูงสุด 192 คอร์ และรองรับหน่วยความจำ LPDDR5X ที่ประหยัดพลังงานและมีแบนด์วิดท์สูง ซีพียูนี้จะช่วยให้ระบบ AI ทำงานได้รวดเร็วและมีประสิทธิภาพมากขึ้นในศูนย์ข้อมูล",
-      "title_th": "AMD เปิดตัวซีพียู EPYC Verano รุ่นใหม่ รองรับหน่วยความจำ LPDDR5X และแกนประมวลผลสูงสุด 192 คอร์",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdl93OE42My1uM3ZSeFZGQVVwZ09xbW9ydC1Dc01NQzdRME9LWGpPcWRGNWVIbW9kejF4YU1tamV0Vm1nWDJoSjNnRFpTVHVJS0k1LUxyZTFKQVp0R1ktWkRZMzJsejZNRG9hb0RPa3Fua0U3ZGZPbDJTYkt5dVB5STJaUVBDOS030gGOAUFVX3lxTFBTZHVwbGlHa0N6T3lEMVNfNjJZVFhobkZZUUxQNUl1em1hOFlXMTVuYmlkcF9Ma094NXJjLXR2TkQ2dUVreGIxTU9mQzFRbXJ6a0MyZXV1eERSck9OVGpyQzBGbXliSUdrVU5FNUt2OWJPZE1tZTF1aVUyVDhjZFVyRlRkU0tONll1b0FUQkE?oc=5",
-      "why_it_matters": "ซีพียูใหม่ที่ออกแบบเฉพาะสำหรับงาน AI agentic ช่วยเพิ่มประสิทธิภาพและประหยัดพลังงานในศูนย์ข้อมูล ตอบโจทย์การเติบโตของ AI ระดับองค์กร"
-    },
-    {
-      "source": "Anthropic",
-      "summary_th": "Anthropic พัฒนาระบบควบคุมซอร์สโค้ดภายในชื่อ Scion เพื่อรองรับการเปลี่ยนแปลงโค้ดจำนวนมหาศาลที่เกิดจากการใช้ AI Claude ในการเขียนโค้ดอัตโนมัติ ระบบนี้ช่วยให้การจัดการโค้ดขนาดใหญ่และการทำงานร่วมกันมีประสิทธิภาพสูงขึ้นมากกว่าระบบ Git แบบเดิม",
-      "title_th": "Anthropic เปิดตัวระบบควบคุมซอร์สโค้ดใหม่ Scion รองรับการพัฒนา AI ด้วย Claude ที่รวดเร็วมากขึ้น",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrYlpJeHk2enVYSG9CYl8wRndZeW1XOUpvWHA2NXVHREZBV2JoSFhmTW0tLU1MWDNrWlZVNU9yMDZCbVd5YUZyNFJDaXVxbFo4V1hURTAySlBUVmowR3BVMzJxbmNLdDMtSW5KV3U0NlBqdw?oc=5",
-      "why_it_matters": "ระบบควบคุมซอร์สโค้ดใหม่ช่วยรองรับการพัฒนา AI ที่รวดเร็วและขนาดใหญ่เกินขีดจำกัดของเครื่องมือเดิม สะท้อนการเปลี่ยนแปลงโครงสร้างพื้นฐานของการพัฒนา AI"
-    },
-    {
-      "source": "AWS AI",
-      "summary_th": "Amazon กำลังเจรจาซื้อ Decart สตาร์ทอัพซอฟต์แวร์สำหรับชิป AI ด้วยมูลค่าประมาณ 7 พันล้านดอลลาร์ ซึ่ง Decart มีเทคโนโลยีและโมเดล AI ที่ทำงานบนชิป Trainium ของ Amazon อยู่แล้ว การซื้อครั้งนี้จะช่วยเสริมศักยภาพด้านฮาร์ดแวร์และซอฟต์แวร์ AI ของ Amazon",
-      "title_th": "Amazon เจรจาซื้อสตาร์ทอัพซอฟต์แวร์ชิป AI Decart มูลค่าราว 7 พันล้านดอลลาร์",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15MTREM1pjMWYzRjFxS21fRzVHNi1kUW9KNUpTMUFFbHNfVXpIT21xN2E5NDJPTUFqWUwyeENoNllfNHNzc2pZU1FWSzFhY3R2MlhLNUhYWVYwekJ2TWN3ZFBRenVmcTVzX1pza0RzNzBDY2ZQREE?oc=5",
-      "why_it_matters": "การเข้าซื้อสตาร์ทอัพซอฟต์แวร์ชิป AI ช่วย Amazon ขยายขีดความสามารถด้านฮาร์ดแวร์และซอฟต์แวร์ AI ในตลาดที่แข่งขันสูง"
+      "summary_th": "AMD เปิดเผยแผนงาน Helion ที่มุ่งเน้นการพัฒนา AI แบบเอเจนต์ที่สามารถทำงานอัตโนมัติและตัดสินใจได้เอง ส่งผลต่อการพัฒนาชิปและเทคโนโลยี AI ในตลาดองค์กร",
+      "title_th": "AMD เปิดตัวแผนงาน Helion สำหรับ AI เชิงปฏิบัติการ",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ2IxRGtOT0lrWVlRVGR5RmZCbENWX2NMZDFFUjBJZXlWdS13bWNaSThUby0wcTVxaFZGS2N6ZjB6ZG4tb2h6U0dteXRFUDF5Z0NhbDdqRlp2d3QtZG40VFo0M3RhbDlpWVhRSVJBQ3pXRmVvTU12SUtab19keW1SU0FQcnphQmpOcWI3ZjVteTRrM2FMellDem93UFBSYW1LWTFRaXRGcjBPUGxrUVFhNVdncjRGV0d6ZEVsOC1PWjduVEVQTEt0NVA0eWEzWXNXUzJDNWVYNFNBeEhheFhz?oc=5",
+      "why_it_matters": "การพัฒนาชิป AI ที่รองรับเอเจนต์อัจฉริยะจะเร่งการใช้งาน AI ในภาคธุรกิจและอุตสาหกรรม"
     },
     {
       "source": "Wired AI",
-      "summary_th": "Privacy Center Currently, only residents from GDPR countries and certain US states can opt out of Tracking Technologies through our Consent Management Platform. Additional options regarding these technologies may be available on your device, browser, or through industry options like AdChoices. Please see our Privacy Policy for more information. Social Media - [x] On These cookies are set by a range of social media se",
-      "title_th": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaDJMY1hCMEJlRTJiNnNuY2xsV1FVN0dtME52djVacVF2R2pTRnhVNlpXeno5X05Fa2lENlNzemR4dnlYRkU2Z1RqVDNlMjBZbkFFcEc0R3pETmY0TDVuRFpuLThITkt5aDNnbndwOW05Y0dlQUJWWDFmUUhXa2tYUzVKblFBdDF2OUNaTA?oc=5",
-      "why_it_matters": "ประเด็นนี้อยู่ในชุดข่าวสำคัญที่ต้องติดตามต่อ"
+      "summary_th": "AI ที่เคยช่วยแก้ปัญหาทางคณิตศาสตร์ กำลังถูกนำไปใช้ในสาขาวิทยาศาสตร์อื่นๆ เพื่อเร่งการค้นพบและพัฒนานวัตกรรมใหม่ๆ ในหลายสาขา",
+      "title_th": "AI กำลังเปลี่ยนแปลงวงการวิทยาศาสตร์จากคณิตศาสตร์สู่สาขาอื่นๆ",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43WENwOFc0OTMwN2s3RzJKZXl5eklYQTkwTHluem03V1ZoQzk5RWJTa0thcENsUFZvWnZDYWJVSktaRlFKa29qZWVBSUhfM3ZWQVRtWDVEVlY5N2xRT1F2Z0ZqQkZiQUdoYWJOd2dHNk1DTUZIakM4?oc=5",
+      "why_it_matters": "AI เป็นเครื่องมือสำคัญที่ช่วยเร่งการค้นคว้าวิจัยและพัฒนาทางวิทยาศาสตร์อย่างก้าวกระโดด"
     }
   ],
   "jev_screen": {
