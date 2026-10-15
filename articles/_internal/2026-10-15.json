@@ -1,0 +1,227 @@
+{
+  "articles": [
+    {
+      "published": "2026-10-15T18:14:03+00:00",
+      "publisher": "NVIDIA Developer",
+      "source": "NVIDIA AI",
+      "title": "Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72 | NVIDIA Technical Blog - NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSGRJekpZczhaUHVVVVJDeUY0R0NvZFktQm5BTXBteVhUdWJ6OWYxMW8xZEtqTmxGbVpVV0FGM0I3WHYxVUZkY2dRbzl4d3gzV2kxQ3F3UXNjRXVGcjR1VlFuZWhEenk1SEZqWjRlMlZrNmdYRHZTcU9pMElTRXVVeHpGTzA5elJUTzhkalNVazhHNEt4UU0tVmZNSTFWX0tFcDdNajRSR3ViMTZJVFhKUlZWTEU?oc=5"
+    },
+    {
+      "published": "2026-10-15T15:01:34+00:00",
+      "publisher": "NVIDIA Developer",
+      "source": "NVIDIA AI",
+      "title": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning | NVIDIA Technical Blog - NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSW82SDRIOTB3UElVN0NhamZVakJWcEF2ZHg4aWhfODdHYTVmRTFlQzdaR005SXV4U2d0d0FJUnAtenRibGNLUHMxUmM1N24tdS04a3phX1E2ZzEySVZsMFZKQmVoVU9yMk50b2t5bG0wN3BCeUoxaGg5ai1ndzZKNk9XUzY3SUlXNHo3bkprYUU2SmY5TGFJNUEyYUxJVmlwbExoRW5QSE9mQmx4c2FmbXRSbFFWQQ?oc=5"
+    },
+    {
+      "published": "2026-10-15T14:50:34+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "US FTC subpoenas OpenAI and Anthropic over consumer harms, Axios reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSjB0ci1GS09NczVkMHZGUlZQVE5PUWJuYlZUODlnZUtxWWxQVVNNcGRHVjh2U0p3ZU9iTHQ3aThVOWpnYXVZRGQxaTc0Q293bGFoeUowbnloOU1qNm1ZMlloOGl0c251c2pQRXh6cExNQXo5OXQ3ZDRpSVZZZ211alY0ZENWb0FJT3QwRzQyb1lRejMxTkFreExtLXhIUm9oUFBkRzRCZ1dzSGN6MVhNSGl3?oc=5"
+    },
+    {
+      "published": "2026-10-15T19:14:26+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/"
+    },
+    {
+      "published": "2026-10-15T12:12:35+00:00",
+      "publisher": "Yahoo Finance",
+      "source": "AMD / TSMC AI",
+      "title": "Wall Street is 'tiring of the Bank of Nvidia, the Bank of AMD and the Bank of Broadcom': Baird's Mortonson - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORkdyc3Y4YW9yMy16ZURxa09KMnc4Yk9YelpKVHpmNU5EcEpBODJKNXJiOE9jU1hkMnFFckNRbWJoVHRZSDNfOVg2WHpBdFlTSHdYV2VUcmxYeGUtR2Z1Zk95X09NVF84dFNaWHM1VWJIVDJud0ZJUmRSMFpfMl9lYkJCOWNUa1VRajQwQlNOU0gteml2Vlk4ZVQyNE0xX2cxOG5nQU82eW1iUXRBcnVBZEdxRjZsanlhQ2JsbW1jdkp1bmN6blJVYlRSYzMzbTRBMVJfYl9iRy1XWFcxeEJYRmxxLUxMalFyRXk1RkpqSQ?oc=5"
+    },
+    {
+      "published": "2026-10-15T23:31:00+00:00",
+      "publisher": "Business Insider",
+      "source": "Microsoft AI",
+      "title": "Microsoft AI chief says the company beat OpenAI at its own game, using a quarter of the computing power - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUm9QUUxrcmFLc2hGRGljQUd3N1JKbXNVYVZPb0xfbno1eWhaVDZ4UnJXSzBkU0VBcTlCbC1Hdkc4eXZ6QzB3eEh5cEdKM3ZmWnEyNWxkWUxEeWl1anY3ald1b1JISkh4R1BmY2wxaDQ0YXJCMndhTmw3UlJGT3RFSUd3Q3hLVFFybHdlYmROV0pQZUE2X0J6RlhXQlhYc0E?oc=5"
+    },
+    {
+      "published": "2026-10-15T19:59:13+00:00",
+      "publisher": "Visual Studio Magazine",
+      "source": "Microsoft AI",
+      "title": "Microsoft and GitHub Keep Giving AI Agents More Power -- and More Restrictions - Visual Studio Magazine",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMHlHZDY1QlNrWTF6T3hMNktyVHVTb1o5TjJIRWZZNllTbFNSWFIzcEg0WUtPSVY1Q1JSSmExV0NpUkp0Q2pIVG5tVGUwaHNGalVUVVBURndKb0tVTWplR3JZb1FFeTI3LXRSazBzWFV1LW9JcW1DUm8wVThzZWJzY2hncjhsc2QwZWUtRHZ3T0x0Yk1FTWJmclpPNEZMX2tVNi1Tc3NXSVZyOURTdng0Q0lJUUVPRDVtVTZQRlJ4Qmd6eXFvX29PbjBrekxpUQ?oc=5"
+    },
+    {
+      "published": "2026-10-15T21:20:09+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Tech",
+      "title": "Meta releases open-weight Muse Spark model for coding, agentic tasks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDgySGFsc1IyeDdOaXR4di1nZWVqa3BrR3hhN3g2S2dHMkoyUUxGS3ZRdG12SlRwY08tWE1EUjRSVjlLTGVuTE5icXhYYjM4Qnd3VGFwc0pnb1FVUFQ2UWlVTk5XTERoYkNYNXZZYldISnJiR0FCVmNJTF94bUp4Y0R3Q2Q1UWg4dHdJdVpWQWRXMEJjcTR3WThFYzFaTmFHcm5tMVVyZVdndFRp?oc=5"
+    },
+    {
+      "published": "2026-10-15T19:12:29+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "Anthropic grants non-profit METR ‘employee-like’ access to monitor AI risks - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ2NzMHJNSXozSjVOR1hlSWtqYnF6VjdSTU92TC00YmhySU1raDUxVDJQbDMtOXhBZExBQWpROEpwZjc0SnpvaVZsZzJHTC1BaDdTU2c2UWZkWXprS1ZDTjRaM2pGVk5uQ2k1ZllFQXlXU3pwc1hrZDd1Qk5meHdvdWplYjY?oc=5"
+    },
+    {
+      "published": "2026-10-15T22:43:23+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "ChatGPT can peek at your Chrome tabs now - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMklyRUVwUUszMzRkOExId2JkeG9SbzJGSWN6SllVbHlLU19lV1NjQ09jZ1NNbWpyczZVV3p2YjRGNzlkS29NaDJ2aVhlTjZLUWt0TFlRSDNiSTlsb3g2SnVPSlBrNlhJZzltOS05WHlJTWFGNW5uWUQ4bzBEXzZ3ZF9uNmZMQmhSam95SXZ5dTlzdDdjM1M4Yg?oc=5"
+    },
+    {
+      "published": "2026-10-15T15:02:36+00:00",
+      "publisher": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "AI agents are coming to Rivian’s cars",
+      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/"
+    },
+    {
+      "published": "2026-10-15T10:30:00+00:00",
+      "publisher": "The Motley Fool",
+      "source": "AMD / TSMC AI",
+      "title": "Agentic AI Could Push This Trillion-Dollar Chipmaker to New Heights, According to Wall Street Analysts - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNkMwdG5sVDgyMlZMa0FubkpYeTVJdmpVb3BJM3dHc05ZVmV1M1hfdWZtU28xU1dVYzAxZldNZzNBYjVtZkIyYUluUm5BOEVlZWRpeWtGYV9mZVhRdTkta2w1bVRKWnlUUjJ1ZXVnaGFtcDNRMGVIODFvdFBVVzdrbWt6NzZwazBPLUFZSkp1NHZqRjMyM3JYRw?oc=5"
+    },
+    {
+      "published": "2026-10-15T17:34:00+00:00",
+      "publisher": "Bloomberg",
+      "source": "Oracle / Datacenter AI",
+      "title": "Red States Join Fight Over Pipeline for Oracle AI Data Center - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaENudTZjVFQxY0ZLeGRrRW1ZdVlkODBEajY0bTc4QTVfZ0xGeFlKNVhNcUxta1ZvVllJcXBfNUNaaGNyNUZ2S3dPb3VxMHFXeXpyc3dhZS1pTGw3bEFjVFhPUlo0M2w5U2s5b1lUcFN6QXRIaEVwUUlMVVM4MzVQTTZla3M2YjFIQkhmZ0tMSXliNEZRcjR3X3ZxUHFDYVlYVkxYek1UeFNCUUJtSFZZS1hxTkYzUFU?oc=5"
+    },
+    {
+      "published": "2026-10-15T16:21:45+00:00",
+      "publisher": "The Verge",
+      "source": "The Verge AI",
+      "title": "Friends don’t let friends feed their data to AI agents - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ocnlkUTRVRUl5X0U1UGVnNmJ1V005cE5RNWY4Rk52QWUwOFl4blpyS1ExQ1dkU29jTlNrOFI3azI1R2luZkc3WklnU0pxZ3RydldMancyekZjd1FQQy1jQzdURVpvT29JazJrOHlhUXFGZWFr?oc=5"
+    },
+    {
+      "published": "2026-10-15T18:20:27+00:00",
+      "publisher": "blog.google",
+      "source": "Google AI Blog",
+      "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa2R6b28zVWVNazBoaTJJdkN6c0lwb3FYVDZsaGx6d05lY0V5eUo4aHF4VWU1STRnVUZaam8tMjdwblhzdXNhQzBhWF9qd1RNc0NHX2JONUhHWjNJSzhXWk1CYUVvZXZtSVZ3RG9fRWttYTRGWnpHdlZGZlRNSmlHZzh3SGhNQ08zcFhrTGVYandES2VGaFJMMlBCd0Z6a1pFcDhIbXlsbk5RanhzS3gwZjkwdXVGMlZvUGc?oc=5"
+    },
+    {
+      "published": "2026-10-15T18:15:06+00:00",
+      "publisher": "blog.google",
+      "source": "Google AI Blog",
+      "title": "Check if a text message is a scam using Circle to Search. - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa041TC1ya1kzcEdlcXl5UDJNTllrak1fdC00V25TV19KSVZFYzFSMDFYY015TWlwMTlvdURLeTZ2cGxvX1pCYUpPa2h0eHdwcWdmRFNSeTdhNXRYRFNfbFRwNE5RdWdZcFBoV3I5dlhMckVtSHA2ZGJmamMxbE9VRUNiaERzMThYZWk2aW93V3M0NWM4QkVpcFF2Sk5GZEhkYzRqdm1zZURWdU9iTWc?oc=5"
+    },
+    {
+      "published": "2026-10-15T21:00:02+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "Nscale’s AI Buildout Hit by Fire, Delays and Angry Workers Ahead of IPO - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMnpyNVg3ZjVJQjNZUDJaSTliUGt1ZWlEb1ZnWE12M1lpYVVOaVFGSUtkME5RUFotV1I3Zm5TQkRUUENSUG5KZmlfaFl3b1BZV3BBS3N2aEpLa1RiWm5zQ0dSRnM2Q25MVVhYYWt6UTNPREJHZEdzbmNBWjE0Z2hHUnIybk4tOFd4QzVSb0VFeXF6NUU2d2RFazd0T0RVd1lUYXFDVE5zV0s2NUN4VF92QjE0OA?oc=5"
+    },
+    {
+      "published": "2026-10-15T20:14:05+00:00",
+      "publisher": "Bloomberg",
+      "source": "Bloomberg Tech",
+      "title": "Dollar Wraps Its Worst Day in Over a Month on AI Risk Concerns - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQkN1V1ZwcG5ZSTYxRWR5SndIR2FQc0RrYkhldVduR2JncXRwcm1sNEpKazNSODFvWU8zc1RTYmVJMGRXVUhXNjBJS0FPRVYycTVQUWpZQXhWOFdFSzhXMGYxZ0U4OXFBeVZ0ZVBGUVFXMjluMW8xTlluOHVyUFRkVG5lT2QxenpCaXM1ajZELWRZZWFfQk1hS0YwSzVnZnZ1UzZqazZxNlh5U1pyalJqNklGdw?oc=5"
+    },
+    {
+      "published": "2026-10-15T18:08:24+00:00",
+      "publisher": "Financial Times",
+      "source": "FT Tech",
+      "title": "Harvard’s endowment returns surge on back of AI and SpaceX investments - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd3VvaEFaNDV2Q2NMT0t6TE01SDd4QzBxT1NMZnJVMFpYY052Y1QtT3hldDdfRVRpRWFiUGNQYlBEeGUzX3E0dDl2QUtBdC1yUno1Yi1WNjVWQlYwZGFVRm5oMlg5VzhSRTU1ZWhnRHU5bVhLczNNS0ZGTEpvUVUyT0trWU0?oc=5"
+    },
+    {
+      "published": "2026-10-15T21:00:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa1FBaDJIQ3dXckg5QnpPZ240YUNJVDZrNGkwQTZqV3o4ZE5XRWdnUGZnWDlNZDNLa090SXU2eWhPSmtfMlQxN2lNXzI4T2hQamNVYmhoaTdwRVphV2NhWWFUOEhVZUxZYm11X3RIeWVGREtjYUVrcmtxa1NQaHEybmhzOXBRU0JVTFZqR3NOQQ?oc=5"
+    },
+    {
+      "published": "2026-10-15T20:09:33+00:00",
+      "publisher": "TechRepublic",
+      "source": "xAI / Grok",
+      "title": "SpaceXSI Launches Grok Voice 3.0 for AI Customer Support - TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOXVaSlBXdTcwTXlfQkQ1SzhveW96UWdqU19WbFdZMUJOWDZpekczbllZaFhKVXNLS0tMVThWUEVVOGdtT2J3WWJFNERzMWVOV3l1SmEtNnlpa0N2YXo2emE5VVRGRXVSN1NCUDVfcTRuWkh3T28wWGFEbUxUSkMzY3gtMG44SnRac2E1Mg?oc=5"
+    },
+    {
+      "published": "2026-10-15T17:05:00+00:00",
+      "publisher": "WIRED",
+      "source": "Wired AI",
+      "title": "White House Press Secretary Katie Zacharia Was an Affiliate Marketer for a Fitness MLM - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONDNtRURCNE9RT3dWYzU0a3FCX3pzZTRrYmpmdW9DbU52UGV0bXMtaGJ1OWVuX2lfeF96Ump1azZZZTBjVDNadV9KSmxScHBfZjBvWGdIWl9PUDVyaHlRendYZGJoZjhDSHRoZzhFQm1Kang0VFRNSkdtbGh3YlFXUUUtdWtjNHlMMlNBck5CSF9LZGtkOTU4OGxOLVlNRnJOWmRKVXdYRTRxNnBsak9iVi0wbEVfUQ?oc=5"
+    },
+    {
+      "published": "2026-10-15T05:18:54+00:00",
+      "publisher": "MarkTechPost",
+      "source": "xAI / Grok",
+      "title": "Meet Grok Voice 3.0: SpaceXAI Voice Agent Model Ranks #1 on Artificial Analysis - MarkTechPost",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTEdFQ0QxRzBoUm01V1MxZ1NnM3ppbU83cE01cHhNaE9BSkx3a3VGc2tTOXVEaG8yNEE2STlhR2RieEZoallCRWZOZ3UtUmhZYzZPRnNIY0I3ck43c2pyTjVHb21kdXlWd2wxQW51eWJHdjdTVzZzS2VVME5UbHFQemVzRDhYYzU3eHB1c2xXOFVGdVVOMEUtRzk1TE9NS1RnallIcmdQQnpIQTlsSm5JTnVhMFJBX1dZS2fSAboBQVVfeXFMT0xHRUNEMUcwaFJtNVdTMWdTZzN6aW1PN3BNNXB4TWhPQUpMd2t1RnNrUzl1RGhvMjRBNkk5YUdkYnhGaGpZQkVmTmd1LVJoWWM2T0ZzSGNCN3JON3Nqck41R29tZHV5VndsMUFudXliR3Y3U1c2c0tlVTBOVGxxUHplc0Q4WGM1N3hwdXNsVzhVRnVVTjBFLUc5NUxPTUtUZ2pZSHJnUEJ6SEE5bEpuSU51YTBSQV9XWUtn?oc=5"
+    },
+    {
+      "published": "2026-10-15T22:49:38+00:00",
+      "publisher": "The Globe and Mail",
+      "source": "Quantum Computing",
+      "title": "Prediction: IonQ Will Cross $100 Per Share in 2027 (It's Less Than $40 Per Share Now) - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPV2hpVXlvRVhpNVFLYXJKTHg0Y0tETHBWNGhhTTFoeGFxTXJHek1oT1FUQlp6SmNOZVpMVWFFTmZGTE1IVFBXbkk3Y3JZRGo0MDFQUXNlZFktcmFETjJaZGNRUGo0STNKV3RPVG56akN4X05QZG1WRndBRmxyRTN3d0NNdFk2X1JNQVlDby1mY0xVb3hVUkd4NzQtdlB4RjdhSU04SG1Zb3BLV0dhNEUycndfcVUtTFZpQjhIQkhqY2tGU2VqMnRiNzhKekVRb3J1SGlwMTVXTnBtN2p6b2hZUmg5WlA3cHRrQ0tzWGNUcllLZkxjaU93TFhn?oc=5"
+    },
+    {
+      "published": "2026-10-15T17:10:00+00:00",
+      "publisher": "Investor's Business Daily",
+      "source": "Quantum Computing",
+      "title": "Quantinuum Upgraded On Valuation, Tech Road Map Vs. Other Quantum Computing Stocks - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUVMtTzVIV3NheXdJMjI0ZFFNalpWM2NFb0xTY0xVWHFadTNQOGtHdkJZWG1YU3NIYkwzb1pjR3lpbGRPUHRuLWtVU3pycWlwV1AtdmxGV1dLcHJCRnE3dWFBUmhBNkN1S2pEdmV1U2ZYOEJTRkZvbFdJOVdVWnV5VEZVOHhoVjRWNjBIdkt2TnJjRHhld2tIeWFHX2hwQQ?oc=5"
+    }
+  ],
+  "date": "2026-10-15",
+  "generated_at_utc": "2026-10-15T23:32:35Z",
+  "items": [
+    {
+      "source": "Reuters Tech",
+      "summary_th": "คณะกรรมาธิการการค้าแห่งสหรัฐฯ (FTC) ได้ออกหมายเรียกเอกสารจาก OpenAI และ Anthropic เพื่อตรวจสอบความเสี่ยงและผลกระทบที่โมเดล AI อาจก่อให้เกิดต่อผู้บริโภค การไต่สวนครั้งนี้ส่งผลให้สองค่าย AI ชั้นนำต้องเปิดเผยข้อมูลการดำเนินงานและความปลอดภัยเชิงลึกต่อหน่วยงานกำกับดูแล",
+      "title_th": "FTC สหรัฐฯ ออกหมายเรียกตรวจสอบ OpenAI และ Anthropic ประเด็นผลกระทบต่อผู้บริโภค",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSjB0ci1GS09NczVkMHZGUlZQVE5PUWJuYlZUODlnZUtxWWxQVVNNcGRHVjh2U0p3ZU9iTHQ3aThVOWpnYXVZRGQxaTc0Q293bGFoeUowbnloOU1qNm1ZMlloOGl0c251c2pQRXh6cExNQXo5OXQ3ZDRpSVZZZ211alY0ZENWb0FJT3QwRzQyb1lRejMxTkFreExtLXhIUm9oUFBkRzRCZ1dzSGN6MVhNSGl3?oc=5",
+      "why_it_matters": "สะท้อนแรงกดดันทางกฎหมายที่เข้มงวดขึ้นต่อบริษัทพัฒนาโมเดล AI แถวหน้าในประเด็นการคุ้มครองผู้บริโภค"
+    },
+    {
+      "source": "Reuters Tech",
+      "summary_th": "Meta ปล่อยโมเดล AI แบบเปิดน้ำหนัก (Open-weight) ในชื่อ Muse Spark ที่ออกแบบมาเพื่อรองรับงานเขียนโปรแกรมและกระบวนการทำงานแบบ Agentic โดยเฉพาะ นักพัฒนาและองค์กรสามารถนำโมเดลนี้ไปปรับแต่งและรันบนระบบประมวลผลประสิทธิภาพสูงเพื่อสร้างผู้ช่วยเขียนโค้ดอัตโนมัติได้อิสระ",
+      "title_th": "Meta เปิดตัว Muse Spark โมเดลโอเพนเวตสำหรับงานเขียนโค้ดและระบบ Agent",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDgySGFsc1IyeDdOaXR4di1nZWVqa3BrR3hhN3g2S2dHMkoyUUxGS3ZRdG12SlRwY08tWE1EUjRSVjlLTGVuTE5icXhYYjM4Qnd3VGFwc0pnb1FVUFQ2UWlVTk5XTERoYkNYNXZZYldISnJiR0FCVmNJTF94bUp4Y0R3Q2Q1UWg4dHdJdVpWQWRXMEJjcTR3WThFYzFaTmFHcm5tMVVyZVdndFRp?oc=5",
+      "why_it_matters": "เร่งการแข่งขันของระบบ AI ช่วยเขียนโค้ดและตอกย้ำกลยุทธ์โอเพนซอร์สของ Meta เพื่อท้าชนโมเดลแบบปิด"
+    },
+    {
+      "source": "TechCrunch AI",
+      "summary_th": "Anthropic อนุญาตให้นักวิจัยจากองค์กรไม่แสวงหากำไร METR เข้าถึงระบบและเครื่องมือประเมินความเสี่ยงภายในระดับเดียวกับพนักงาน เพื่อตรวจสอบความปลอดภัยของโมเดล frontier AI อย่างอิสระ ข้อตกลงนี้ยังให้อำนาจ METR เผยแพร่ผลการประเมินความเสี่ยงต่อสาธารณะได้โดยที่บริษัทไม่มีสิทธิ์ระงับ",
+      "title_th": "Anthropic ให้สิทธิ์นักวิจัยอิสระ METR เข้าถึงระบบภายในระดับพนักงานเพื่อตรวจสอบความปลอดภัย AI",
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "why_it_matters": "สร้างมาตรฐานใหม่ด้านความโปร่งใสและการตรวจสอบจากภายนอกเพื่อป้องกันความเสี่ยงจาก AI ขั้นสูง"
+    },
+    {
+      "source": "xAI / Grok",
+      "summary_th": "xAI เปิดตัว Grok Voice 3.0 โมเดลประมวลผลเสียงรุ่นล่าสุดที่ออกแบบมาสำหรับงานบริการลูกค้าและการโต้ตอบแบบเรียลไทม์ ตัวโมเดลชูจุดเด่นด้านความรวดเร็วในการตอบสนองและความเป็นธรรมชาติของเสียงเพื่อรองรับการใช้งานเชิงพาณิชย์",
+      "title_th": "xAI เปิดตัว Grok Voice 3.0 โมเดลสั่งการด้วยเสียงสำหรับงานบริการลูกค้าและระบบ AI Agent",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTEdFQ0QxRzBoUm01V1MxZ1NnM3ppbU83cE01cHhNaE9BSkx3a3VGc2tTOXVEaG8yNEE2STlhR2RieEZoallCRWZOZ3UtUmhZYzZPRnNIY0I3ck43c2pyTjVHb21kdXlWd2wxQW51eWJHdjdTVzZzS2VVME5UbHFQemVzRDhYYzU3eHB1c2xXOFVGdVVOMEUtRzk1TE9NS1RnallIcmdQQnpIQTlsSm5JTnVhMFJBX1dZS2fSAboBQVVfeXFMT0xHRUNEMUcwaFJtNVdTMWdTZzN6aW1PN3BNNXB4TWhPQUpMd2t1RnNrUzl1RGhvMjRBNkk5YUdkYnhGaGpZQkVmTmd1LVJoWWM2T0ZzSGNCN3JON3Nqck41R29tZHV5VndsMUFudXliR3Y3U1c2c0tlVTBOVGxxUHplc0Q4WGM1N3hwdXNsVzhVRnVVTjBFLUc5NUxPTUtUZ2pZSHJnUEJ6SEE5bEpuSU51YTBSQV9XWUtn?oc=5",
+      "why_it_matters": "ขยายขีดความสามารถของ Grok สู่ตลาด Voice Agent เชิงธุรกิจเพื่อแข่งขันกับบริการเสียงของคู่แข่งรายใหญ่"
+    },
+    {
+      "source": "Google AI Blog",
+      "summary_th": "ทีมวิจัย Google เปิดเผยความสำเร็จในการแก้ปัญหาคอขวดสำคัญของการประมวลผลเชิงควอนตัม ซึ่งช่วยลดข้อผิดพลาดและเพิ่มเสถียรภาพของระบบ ความก้าวหน้านี้ถือเป็นก้าวสำคัญที่จะช่วยเร่งการผสานเทคโนโลยีควอนตัมเข้ากับการประมวลผลและการเทรน AI ในอนาคต",
+      "title_th": "Google ประกาศความก้าวหน้าครั้งสำคัญ ทลายคอขวดด้าน Quantum Computing",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa2R6b28zVWVNazBoaTJJdkN6c0lwb3FYVDZsaGx6d05lY0V5eUo4aHF4VWU1STRnVUZaam8tMjdwblhzdXNhQzBhWF9qd1RNc0NHX2JONUhHWjNJSzhXWk1CYUVvZXZtSVZ3RG9fRWttYTRGWnpHdlZGZlRNSmlHZzh3SGhNQ08zcFhrTGVYandES2VGaFJMMlBCd0Z6a1pFcDhIbXlsbk5RanhzS3gwZjkwdXVGMlZvUGc?oc=5",
+      "why_it_matters": "ปูทางสู่โครงสร้างพื้นฐานการประมวลผลยุคถัดไปที่อาจพลิกโฉมขีดความสามารถของปัญญาประดิษฐ์ในระยะยาว"
+    }
+  ],
+  "jev_screen": {
+    "brief_kind": "ai",
+    "error_type": "RuntimeError",
+    "input_count": 25,
+    "mode": "active",
+    "output_count": 25,
+    "status": "fail_open_error"
+  },
+  "model_used": "google/gemini-3.7-flash"
+}
