@@ -1,0 +1,412 @@
+{
+  "articles": [
+    {
+      "published": "2026-10-16T23:45:00+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "รื้อปัญหาโครงสร้างเศรษฐกิจ ผู้ว่าฯ แบงก์ชาติหวังฟื้น GDP โต 3-4%",
+      "url": "https://www.prachachat.net/finance/news-2082056"
+    },
+    {
+      "published": "2026-10-16T06:24:45+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "SCB EIC ห่วงหนี้ครัวเรือนลดแค่ตัวเลข แบงก์กู้ยาก-โรงรับจำนำโตสวน",
+      "url": "https://www.prachachat.net/finance/news-2081805"
+    },
+    {
+      "published": "2026-10-16T08:07:57+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "บลจ.เอ็กซ์สปริงจับตา ‘เควิน วอร์ช’ เข้มเงินเฟ้อ ส่อขึ้นดอกเบี้ยปลายปี",
+      "url": "https://www.prachachat.net/finance/news-2081930"
+    },
+    {
+      "published": "2026-10-16T22:31:00+00:00",
+      "publisher": "Bangkok Post Business",
+      "source": "Bangkok Post Business",
+      "title": "AI demand drives Thai electronics earnings in Q3",
+      "url": "https://www.bangkokpost.com/business/general/3338599/ai-demand-drives-thai-electronics-earnings-in-q3"
+    },
+    {
+      "published": "2026-10-17T00:17:11+00:00",
+      "publisher": "InfoQuest",
+      "source": "InfoQuest",
+      "title": "ภาวะตลาดทองคำนิวยอร์ก: ทองปิดบวก $11 แต่ลดลงรายสัปดาห์ หวั่นเฟดขึ้นดอกเบี้ย",
+      "url": "https://www.infoquest.co.th/2026/665194"
+    },
+    {
+      "published": "2026-10-16T20:25:27+00:00",
+      "publisher": "bangkokbiznews",
+      "source": "MoneyChannel TH (Google News)",
+      "title": "โบรกจับสัญญาณ ’เควิน วอร์ช‘ กั๊กดอกเบี้ย พยุงหุ้นโลก SET รับอานิสงส์ ‘Relief Rally’ ระยะสั้น ลุ้นแตะ 1,590 จุด - bangkokbiznews",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKNTZ5TGxzMTZtY1M3Z2toTlYtMFAzUWd2Y18wTFRaOVpzMzBzQWZuUkhiWGNxYUdpTDJzSEM4OXotVlk2UXdaZHlRZ3FvWEhtbUNrUlNHWGQ5VzE5ZzZaTjBR?oc=5"
+    },
+    {
+      "published": "2026-10-16T12:45:00+00:00",
+      "publisher": "Bangkok Post Business",
+      "source": "Bangkok Post Business",
+      "title": "US Fed chief surprised by world economy’s ‘resilience’",
+      "url": "https://www.bangkokpost.com/business/general/3338205/us-fed-chief-surprised-by-world-economys-resilience"
+    },
+    {
+      "published": "2026-10-17T01:16:46+00:00",
+      "publisher": "InfoQuest",
+      "source": "InfoQuest",
+      "title": "ภาวะตลาดหุ้นลอนดอน: FTSE ปิดบวก 0.4% รับแรงซื้อหุ้นกลุ่มปลอดภัย-เชื่อมั่นวินัยการคลังอังกฤษ",
+      "url": "https://www.infoquest.co.th/2026/665200"
+    },
+    {
+      "published": "2026-10-16T04:26:33+00:00",
+      "publisher": "Facebook",
+      "source": "MoneyChannel TH (Google News)",
+      "title": "#ทันหุ้น #ปันผล #Thailand #ลงทุน #ตลาดหุ้น #SET #MSCI เล็งถอดอินโดนีเซียออกจาก Emerging Markets จับตาเงินทุนเคลื่อนย้าย - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi5wVBVV95cUxQRkNrSkpTQ3NLaUgxeDhyeWhwQ29QSnp6cXg1MXlib1VQOGtSMG9yUGNrOTJSLUlfaldtcktQUVhoZnc3dlYxODNWSUdBcjFHZ1R6c3liLVZLQ2xOY0NaRXhCd2swdUdzUncwUTMzYVk0eTFzQ01KMTE0ekJfdzlrT1VKUWJ0SGtIdkhwbmR4QTEyOEVXU25IZDh6Zmg0bjZPcmY3ZjdSMWZBNzVUUjluR2wxdVA4Q2lnYUFqLUpWQlZ0dWZsa3ZzaFlMRXFzM3hmd1RkaTFaUEhKQ1h3bjgyQVlfMmk3YVRhbkxnajVBN21WTGljMzJ2TWJSRUVXTjViem9tWmFDaUliU09KTEdGMFljNUJuYjhscVZJSUFiUlNhd1BNU0p1azRNcUlJSWdUdmV0S3hwVWdrSFJYT0tMNUw1Q3ZlS3daVmZBXzlsaF9td0dEVDFhNHJuVndQZVZZM2tneVNEZ1hUT25INmF0UGlES2tpWlltcUMyTldsMTBhZzVWUGd6dGlRVUN5YlZnTGpONWJybS02SjE4MUVuNlBaM0tJRWlBS2NsdzdWVFZmR0NFQTdUX18zV2stTnFMSUt3S08zRkd3bFBEZ1g4WUh3RG9aYVZ2eTZCTFAyOHdScU5oT1g1TGNpY2FsT21NRW5mSnZiVFJYRlFYMTN4V2szeHFyeVR2MElxU0hlNnVNdlBqdmxMNUVKZkNDMlJuYzc5OVdoazZDMzVMd1pxQ280c3k0TnNjdThhRnJUQ2lCR2xIdVdwbHZ2cGZhMjF4dl93LWh3N1lnZWhpcnd6all3QlVDWGs3R2hyUEN1WW45UFNibHAtNHQzR0tqdnV1TkdHdWlOQ1VKTEN4a2VXOVFHNHZKTkZnVFJOaXB3Zmx0QzEzbzJpRWRkZ2xIN2pBMDdoRlFQODBHS2Q4X2V1UEFpTzhuQjBXNWZXdGVJc0NrZXdiNjhtM21ZZ3h5U0lUYTMwUlhMVQ?oc=5"
+    },
+    {
+      "published": "2026-10-16T08:35:00+00:00",
+      "publisher": "Bangkok Post Business",
+      "source": "Bangkok Post Business",
+      "title": "Asian bonds record biggest monthly foreign outflow since March 2020",
+      "url": "https://www.bangkokpost.com/business/general/3338253/asian-bonds-record-biggest-monthly-foreign-outflow-since-march-2020"
+    },
+    {
+      "published": "2026-10-16T16:34:20+00:00",
+      "publisher": "InfoQuest",
+      "source": "InfoQuest",
+      "title": "ดอลลาร์อ่อนค่า เก็งเฟดไม่ปรับขึ้นอัตราดอกเบี้ยในการประชุมเดือนนี้",
+      "url": "https://www.infoquest.co.th/2026/665182"
+    },
+    {
+      "published": "2026-10-16T11:18:57+00:00",
+      "publisher": "LINE TODAY",
+      "source": "MoneyChannel TH (Google News)",
+      "title": "หุ้นไทยภาคเช้า ปิดลบ 8.99 จุด เงินเฟ้อสหรัฐพุ่งทุบหุ้นเทคฉุด DELTA ร่วงตาม เงินหมุนซบ Value Stock ช่วยประคอง - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yRTZWMnRhSDZDLUt1OUl3WTFHSVRVYlVyWTZwMkRSV09UVmpIcHk4ZmtLaFVVc1BNYnEwaUhJcnZ5SkM0bUJsS1lRV0VRaTFaMXVreTJ3?oc=5"
+    },
+    {
+      "published": "2026-10-16T07:05:37+00:00",
+      "publisher": "RYT9",
+      "source": "RYT9 Economy (Google News)",
+      "title": "นายกฯ หารือเยอรมนี เดินหน้าดึงลงทุนเทคฯ ขั้นสูง เร่งผลักดัน FTA อียู หนุนบทบาทไทยประตูสู่อาเซียน - RYT9",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4VGEwVVBrU3Z6Y0Zlb21mWVJGMGdHOVVEbk44QXV2anl6NXpWYVZYWktURGxDdGhIUjQxUXN1LTI4dUZ0dmtKOVNR?oc=5"
+    },
+    {
+      "published": "2026-10-16T02:56:00+00:00",
+      "publisher": "Reuters",
+      "source": "Reuters Thailand (Google News)",
+      "title": "World Bank's Banga sets goal of quintupling critical minerals financing in five years - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMURDQ2RXU1hVUVRzWnlhdG1vclRwaEFnWlRvVGY2bFJ0SFhfWDNOR0ktX28zRC1mUjFGbklkRThPckpQa0FfUXNkZHZJRm9hTnB0YmFNMzJIdVNOa3dtMlBUbGVSbFRscFVjYmx6TS0xRHA0WFk2RVJPRkdpVnl5MDNsUFlfUmU0ZDg4RmpoaVJZVVJBT29FdGtPZFF5TTFGNnlXOXpqUExLTU9tV2RfY1M5Q3hrRHd2a01JNDBUemNiNC1iVTBScXItYw?oc=5"
+    },
+    {
+      "published": "2026-10-16T08:18:19+00:00",
+      "publisher": "RYT9",
+      "source": "RYT9 Economy (Google News)",
+      "title": "นายกฯ พบประธาน FED ชูเสถียรภาพรัฐบาลไทย ย้ำความเชื่อมั่นรับมือเศรษฐกิจโลกผันผวน - RYT9",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mb1MxTGMyNFRUdlI3RE5saVBkTVhBSmNiczdDU3g1RnlSY3liTUN6NWdEMUcxeFd2OEM0UzBpQS1yX3lwQnJvR1Rn?oc=5"
+    },
+    {
+      "published": "2026-10-16T14:52:40+00:00",
+      "publisher": "RYT9",
+      "source": "RYT9 Economy (Google News)",
+      "title": "โกลด์แมน แซคส์ฟันธง! เฟดคงดอกเบี้ยเดือนนี้ แม้ เควิน วอร์ช ไม่ส่งสัญญาณนโยบายการเงิน - RYT9",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAweVVEZ3pVZ3NUX2lDRTJISWNhaEV4eWpyUEE0UWxEQ0tSaDEwTHZPeU9IWWtjZ3Z4UENHUWs4VnlQODhpS2JPeDZR?oc=5"
+    },
+    {
+      "published": "2026-10-16T10:28:36+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "SCBX และ SCB ผลักดันกรุงเทพฯ สู่เวทีเสวนาด้านกรีนไฟแนนซ์ระดับเอเชีย",
+      "url": "https://www.prachachat.net/finance/news-2082028"
+    },
+    {
+      "published": "2026-10-16T07:46:29+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "‘อินโนเวสท์ เอกซ์’ จับตาเฟดอุบไต๋ดอกเบี้ย เงินเฟ้อสหรัฐยังสูง-AI พลิกเศรษฐกิจโลก",
+      "url": "https://www.prachachat.net/finance/news-2081887"
+    },
+    {
+      "published": "2026-10-16T03:14:41+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "ธุรกิจ 4 เซ็กเตอร์ชะลอออกหุ้นกู้ยอดคงค้าง 3 ปีลดฮวบ",
+      "url": "https://www.prachachat.net/finance/news-2080305"
+    },
+    {
+      "published": "2026-10-16T12:29:57+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "เอกนิติ ปลื้ม ‘เฟด’ ชมไทย สนใจการปราบสแกมเมอร์-ทุนเทา",
+      "url": "https://www.prachachat.net/finance/news-2082195"
+    },
+    {
+      "published": "2026-10-16T09:06:35+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "148 วัน เควิน วอร์ช AI พลิกโฉมการเงินโลก บนเวที IMF ที่ไทย",
+      "url": "https://www.prachachat.net/world/news-2081949"
+    },
+    {
+      "published": "2026-10-16T08:15:25+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "NCB แลกเปลี่ยนมุมมองดึง ‘Alternative Data’ มาใช้ คลังชี้ช่วยเพิ่มความน่าเชื่อถือให้ผู้กู้เงิน",
+      "url": "https://www.prachachat.net/finance/news-2081943"
+    },
+    {
+      "published": "2026-10-16T09:59:28+00:00",
+      "publisher": "ประชาชาติธุรกิจ Finance",
+      "source": "ประชาชาติธุรกิจ Finance",
+      "title": "ก.ล.ต.ชู 3 นโยบายปลุกตลาดทุนไทย ดัน TISA-BOI to IPO-Tokenization เชื่อมเงินทุนโลก",
+      "url": "https://www.prachachat.net/finance/news-2082058"
+    },
+    {
+      "published": "2026-10-17T00:40:47+00:00",
+      "publisher": "InfoQuest",
+      "source": "InfoQuest",
+      "title": "ภาวะตลาดเงินนิวยอร์ก: ดอลลาร์อ่อนค่า ตลาดลดคาดการณ์เฟดขึ้นดอกเบี้ย กังวลแรงขายหุ้น AI",
+      "url": "https://www.infoquest.co.th/2026/665196"
+    },
+    {
+      "published": "2026-10-16T23:30:37+00:00",
+      "publisher": "InfoQuest",
+      "source": "InfoQuest",
+      "title": "ภาวะตลาดหุ้นนิวยอร์ก: ดาวโจนส์ปิดลบ 175.28 จุด หุ้นเทคฯ ถูกเทขาย-ราคาน้ำมันพุ่ง กังวลเงินเฟ้อสหรัฐฯ",
+      "url": "https://www.infoquest.co.th/2026/665190"
+    }
+  ],
+  "date": "2026-10-17",
+  "generated_at_utc": "2026-10-17T01:22:44Z",
+  "items": [
+    {
+      "category": "นโยบายการเงิน-ธปท.",
+      "impact": "high",
+      "key_numbers": [
+        "{'label': 'คาดการณ์ GDP ไทยปีนี้โดย ธปท.', 'value': '2.3%'}",
+        "{'label': 'คาดการณ์ GDP ไทยปี 2569 โดย IMF', 'value': '2.1%'}"
+      ],
+      "rank": 1,
+      "sectors": [
+        "Macro",
+        "Banking",
+        "Technology"
+      ],
+      "sentiment": "neutral",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "ผู้ว่าการธนาคารแห่งประเทศไทยระบุเศรษฐกิจไทยเริ่มดีกว่าคาดการณ์เดิม โดย ธปท. คาด GDP ปีนี้ขยายตัว 2.3% ขณะที่ IMF ประเมินไว้ที่ 2.1% อย่างไรก็ดี การจะผลักดันให้เศรษฐกิจกลับมาเติบโต 3-4% ต่อปีอย่างยั่งยืน จำเป็นต้องเร่งแก้ปัญหาเชิงโครงสร้าง ทั้งด้านขีดความสามารถการแข่งขันและผลิตภาพแรงงาน แม้ไทยจะเริ่มได้รับอานิสงส์จากวัฏจักร AI และการลงทุนทางตรงจากต่างประเทศ (FDI) แล้วก็ตาม",
+      "tickers": [],
+      "time_horizon": "long-term",
+      "title_th": "ผู้ว่าฯ ธปท. ชี้เศรษฐกิจไทยต้องเร่งแก้เชิงโครงสร้าง หวังดัน GDP ฟื้นตัวโต 3-4%",
+      "url": "https://www.prachachat.net/finance/news-2082056",
+      "watch_next": "จับตาความคืบหน้าของมาตรการปฏิรูปเชิงโครงสร้างและการส่งผ่านประโยชน์จากการลงทุน FDI สู่เศรษฐกิจจริง"
+    },
+    {
+      "category": "เศรษฐกิจมหภาค",
+      "impact": "high",
+      "key_numbers": [
+        "{'label': 'คาดการณ์หนี้ครัวเรือนต่อ GDP สิ้นปี 2569', 'value': '83.5-84.5%'}",
+        "{'label': 'สินเชื่อธนาคารพาณิชย์ Q2/2569', 'value': '-2.3%'}"
+      ],
+      "rank": 2,
+      "sectors": [
+        "Banking",
+        "Finance",
+        "Consumer"
+      ],
+      "sentiment": "bearish",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "SCB EIC ประเมินสัดส่วนหนี้ครัวเรือนต่อ GDP สิ้นปี 2569 อาจลดลงมาอยู่ที่ 83.5-84.5% แต่เตือนว่าไม่ได้สะท้อนการฟื้นตัวของฐานะการเงินที่แท้จริง เนื่องจากเกิดจากความเข้มงวดในการปล่อยกู้จนสินเชื่อธนาคารพาณิชย์หดตัว 2.3% ต่อเนื่องเป็นไตรมาสที่ 9 สวนทางกับยอดกู้โรงรับจำนำที่ขยายตัว 16.9% สะท้อนภาวะตึงตัวของครัวเรือนกลุ่มเปราะบาง",
+      "tickers": [
+        "SCB"
+      ],
+      "time_horizon": "short-term",
+      "title_th": "SCB EIC เตือนหนี้ครัวเรือนต่อ GDP ลดสู่ 83.5-84.5% สวนทางสินเชื่อแบงก์หดตัว 9 ไตรมาส",
+      "url": "https://www.prachachat.net/finance/news-2081805",
+      "watch_next": "ติดตามผลกระทบต่อกำลังซื้อในประเทศ คุณภาพสินเชื่อรายย่อย และการตั้งสำรองหนี้เสียของกลุ่มธนาคาร"
+    },
+    {
+      "category": "กฎระเบียบ",
+      "impact": "high",
+      "key_numbers": [],
+      "rank": 3,
+      "sectors": [
+        "Financials",
+        "Capital Markets"
+      ],
+      "sentiment": "bullish",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "เลขาธิการ ก.ล.ต. เปิดเผยทิศทางการพัฒนาตลาดทุนไทยเพื่อสร้างภูมิคุ้มกันและความยืดหยุ่นรองรับความผันผวนของกระแสเงินทุนโลก โดยเดินหน้า 3 นโยบายสำคัญ ได้แก่ การจัดทำบัญชีการออม TISA ส่งเสริมการลงทุนระยะยาว โครงการ BOI to IPO ผลักดันบริษัทศักยภาพเข้าจดทะเบียน และการพัฒนา Tokenization สำหรับนวัตกรรมการเงินแห่งอนาคต",
+      "tickers": [],
+      "time_horizon": "long-term",
+      "title_th": "ก.ล.ต. ชู 3 ยุทธศาสตร์ขับเคลื่อนตลาดทุน หนุน TISA, BOI to IPO และ Tokenization",
+      "url": "https://www.prachachat.net/finance/news-2082058",
+      "watch_next": "ติดตามหลักเกณฑ์และสิทธิประโยชน์ทางภาษีของบัญชี TISA รวมถึงความคืบหน้าการนำบริษัทรับส่งเสริมการลงทุนเข้า IPO"
+    },
+    {
+      "category": "SET/หุ้นไทย",
+      "impact": "medium",
+      "key_numbers": [
+        "{'label': 'ยอดออกหุ้นกู้ 9 เดือนแรกปี 2569', 'value': '629,662 ล้านบาท'}",
+        "{'label': 'การเปลี่ยนแปลงเทียบปีก่อนหน้า', 'value': '-1.61%'}"
+      ],
+      "rank": 4,
+      "sectors": [
+        "Property",
+        "Banking",
+        "ICT",
+        "Energy"
+      ],
+      "sentiment": "neutral",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "สมาคมตลาดตราสารหนี้ไทยระบุยอดการออกหุ้นกู้ระยะยาวภาคเอกชน 9 เดือนแรกปี 2569 มีมูลค่ารวม 629,662 ล้านบาท ลดลง 1.61% ส่งผลให้ทั้งปีอาจระดมทุนได้ราว 800,000 ล้านบาท ต่ำกว่าเป้าหมายเดิม เนื่องจากบริษัทขนาดใหญ่หันไปใช้วงเงินสินเชื่อธนาคารที่มีสภาพคล่องสูงและดอกเบี้ยจูงใจ พร้อมพบกลุ่มอสังหาฯ และธนาคารพาณิชย์มียอดหุ้นกู้คงค้างลดลงเด่นชัดที่สุดในรอบ 3 ปี",
+      "tickers": [
+        "KBANK",
+        "BBL",
+        "ADVANC",
+        "TIDLOR"
+      ],
+      "time_horizon": "short-term",
+      "title_th": "ThaiBMA เผยยอดออกหุ้นกู้ 9 เดือนแรกชะลอตัว บิ๊กคอร์ปอเรทหันพึ่งสินเชื่อแบงก์แทน",
+      "url": "https://www.prachachat.net/finance/news-2080305",
+      "watch_next": "จับตายอดการ Rollover หุ้นกู้ครบกำหนดไตรมาส 4 อีกประมาณ 170,000 ล้านบาท และการแข่งขันปล่อยสินเชื่อของธนาคาร"
+    },
+    {
+      "category": "นโยบายรัฐ-การคลัง",
+      "impact": "medium",
+      "key_numbers": [
+        "{'label': 'อัตราผลตอบแทนพันธบัตรรัฐบาลไทย', 'value': '2.3-2.4%'}",
+        "{'label': 'อัตราผลตอบแทนพันธบัตรสหรัฐฯ อ้างอิง', 'value': '5%'}"
+      ],
+      "rank": 5,
+      "sectors": [
+        "Government Bonds",
+        "Financials"
+      ],
+      "sentiment": "bullish",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "รองนายกรัฐมนตรีและ รมว.คลัง เปิดเผยผลการประชุม IMF-World Bank โดยระบุว่านานาชาติชื่นชมแนวทาง Bangkok Blueprint ในการปราบปรามสแกมเมอร์และขบวนการทุนเทาข้ามชาติ พร้อมย้ำว่าการรักษาวินัยการคลังของไทยช่วยให้ต้นทุนผลตอบแทนพันธบัตรรัฐบาลอยู่ในระดับต่ำเพียง 2.3-2.4% เมื่อเทียบกับประเทศพัฒนาแล้วที่สูงราว 5% สะท้อนความเชื่อมั่นต่อเสถียรภาพการคลังไทย",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "รมว.คลัง เผยผลหารือ IMF-World Bank ชูวินัยการคลังคุมต้นทุนบอนด์ยีลด์ไทยต่ำ 2.3-2.4%",
+      "url": "https://www.prachachat.net/finance/news-2082195",
+      "watch_next": "ติดตามการขับเคลื่อนงบประมาณเพื่อการลงทุนโครงสร้างพื้นฐานดิจิทัลและการพัฒนาแรงงานรองรับเทคโนโลยี AI"
+    },
+    {
+      "category": "SET/หุ้นไทย",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 6,
+      "sectors": [
+        "Electronic Components",
+        "Technology"
+      ],
+      "sentiment": "bullish",
+      "source_name": "Bangkok Post Business",
+      "summary_th": "ภาคการผลิตชิ้นส่วนอิเล็กทรอนิกส์ของไทยคาดการณ์ผลประกอบการไตรมาส 3 ขยายตัวแข็งแกร่ง จากกระแสการลงทุนในเทคโนโลยี AI ทั่วโลกที่ช่วยเพิ่มอัตราการใช้กำลังการผลิตและสนับสนุนราคาขาย อย่างไรก็ดี ตลาดยังจับตาความเสี่ยงจากอุปสงค์สินค้าอิเล็กทรอนิกส์ทั่วไปที่ยังฟื้นตัวช้าและระดับ Valuation ของหุ้นในกลุ่มที่อยู่ในเกณฑ์ค่อนข้างตึงตัว",
+      "tickers": [
+        "DELTA",
+        "HANA",
+        "KCE"
+      ],
+      "time_horizon": "short-term",
+      "title_th": "กลุ่มอิเล็กทรอนิกส์ไทยรับอานิสงส์ดีมานด์ AI หนุนแนวโน้มกำไรไตรมาส 3",
+      "url": "https://www.bangkokpost.com/business/general/3338599/ai-demand-drives-thai-electronics-earnings-in-q3",
+      "watch_next": "ติดตามการรายงานผลประกอบการไตรมาส 3/2569 ของหุ้นกลุ่มอิเล็กทรอนิกส์และทิศทางคำสั่งซื้อล่วงหน้าสำหรับปีหน้า"
+    },
+    {
+      "category": "บริษัท-M&A",
+      "impact": "medium",
+      "key_numbers": [
+        "{'label': 'ยอดสนับสนุนกรีนไฟแนนซ์สะสมถึง มิ.ย. 2569', 'value': 'เกือบ 300,000 ล้านบาท'}",
+        "{'label': 'เป้าหมายวงเงินความยั่งยืนภายในปี 2573', 'value': '500,000 ล้านบาท'}"
+      ],
+      "rank": 7,
+      "sectors": [
+        "Banking",
+        "ESG & Clean Energy"
+      ],
+      "sentiment": "bullish",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "กลุ่ม SCBX และธนาคารไทยพาณิชย์ จัดเวทีเสวนาคู่ขนานการประชุม IMF-World Bank ชูบทบาท Green Finance ในการยกระดับขีดความสามารถการแข่งขันของธุรกิจไทย โดยเปิดเผยยอดสนับสนุนทางการเงินเพื่อความยั่งยืนสะสมเกือบ 300,000 ล้านบาท พร้อมวางเป้าหมายขยายวงเงินเป็นอย่างน้อย 500,000 ล้านบาทภายในปี 2573 เพื่อสนับสนุนการเปลี่ยนผ่านของภาคธุรกิจ",
+      "tickers": [
+        "SCB"
+      ],
+      "time_horizon": "long-term",
+      "title_th": "SCBX และ SCB ดันกรีนไฟแนนซ์ทะลุ 3 แสนล้านบาท ตั้งเป้าแตะ 5 แสนล้านบาทภายในปี 2573",
+      "url": "https://www.prachachat.net/finance/news-2082028",
+      "watch_next": "ติดตามการเปิดตัวผลิตภัณฑ์สินเชื่อดอกเบี้ยพิเศษที่เชื่อมโยงกับเป้าหมายความยั่งยืน (Sustainability-linked loans) สำหรับลูกค้าองค์กร"
+    },
+    {
+      "category": "ต่างประเทศกระทบไทย",
+      "impact": "high",
+      "key_numbers": [
+        "{'label': 'อัตราเงินเฟ้อ CPI สหรัฐฯ เดือน ก.ย.', 'value': '3.7%'}"
+      ],
+      "rank": 8,
+      "sectors": [
+        "Global Macro",
+        "Equities",
+        "Currencies"
+      ],
+      "sentiment": "neutral",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "บล.อินโนเวสท์ เอกซ์ สรุปประเด็นเสวนาของประธานเฟดในเวที IMF กรุงเทพฯ โดยระบุว่าเฟดจะดำเนินนโยบายตามข้อมูลจริงแบบรายครั้งและไม่ส่งสัญญาณล่วงหน้า ท่ามกลางเงินเฟ้อสหรัฐฯ เดือน ก.ย. ที่ระดับ 3.7% ทั้งนี้ประธานเฟดยกให้ AI เป็นจุดเปลี่ยนสำคัญต่อผลิตภาพเศรษฐกิจโลก ขณะที่ตลาดให้น้ำหนักกับการประชุม FOMC ในช่วงปลายเดือน ต.ค. นี้",
+      "tickers": [],
+      "time_horizon": "immediate",
+      "title_th": "InnovestX สรุปสัญญาณประธานเฟดจากเวที IMF ชี้ AI หนุนเศรษฐกิจโลก จับตาประชุม FOMC ต.ค.",
+      "url": "https://www.prachachat.net/finance/news-2081887",
+      "watch_next": "จับตาผลการประชุม FOMC วันที่ 27-28 ต.ค. และผลกระทบต่อทิศทางกระแสเงินทุนต่างชาติในตลาดหุ้นไทย"
+    },
+    {
+      "category": "ธนาคาร-การเงิน",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 9,
+      "sectors": [
+        "Banking",
+        "Fintech",
+        "MSME"
+      ],
+      "sentiment": "bullish",
+      "source_name": "ประชาชาติธุรกิจ Finance",
+      "summary_th": "บริษัท ข้อมูลเครดิตแห่งชาติ (NCB) ร่วมกับ ASEAN-UK EIP จัดเสวนาการบูรณาการข้อมูลทางเลือก (Alternative Data) เช่น ข้อมูลการชำระเงินดิจิทัลและอีคอมเมิร์ซ เข้าสู่ระบบประเมินเครดิต เพื่อแก้ปัญหาข้อมูลกระจัดกระจายและช่วยให้กลุ่มธุรกิจ MSME รวมถึงผู้มีประวัติทางการเงินจำกัดสามารถเข้าถึงสินเชื่อในระบบได้อย่างมีประสิทธิภาพและยั่งยืน",
+      "tickers": [],
+      "time_horizon": "short-term",
+      "title_th": "เครดิตบูโรจับมือ ASEAN-UK และ World Bank ดัน 'Alternative Data' เพิ่มโอกาสสินเชื่อ MSME",
+      "url": "https://www.prachachat.net/finance/news-2081943",
+      "watch_next": "ติดตามกรอบการกำกับดูแลและมาตรฐานการแลกเปลี่ยนข้อมูลทางเลือกระหว่างสถาบันการเงินและแพลตฟอร์มดิจิทัล"
+    },
+    {
+      "category": "นโยบายรัฐ-การคลัง",
+      "impact": "medium",
+      "key_numbers": [],
+      "rank": 10,
+      "sectors": [
+        "Automotive",
+        "Industrial Estate",
+        "Technology"
+      ],
+      "sentiment": "bullish",
+      "source_name": "RYT9 Economy (Google News)",
+      "summary_th": "นายกรัฐมนตรีหารือทวิภาคีร่วมกับฝ่ายเยอรมนีเพื่อผลักดันการลงทุนในอุตสาหกรรมเทคโนโลยีขั้นสูง ยานยนต์ไฟฟ้า และพลังงานสะอาด พร้อมเร่งรัดการเจรจาความตกลงการค้าเสรี (FTA) ไทย-สหภาพยุโรป ให้มีความคืบหน้าอย่างเป็นรูปธรรม เพื่อเสริมสร้างบทบาทของประเทศไทยในฐานะศูนย์กลางห่วงโซ่อุปทานและประตูการค้าสู่อาเซียน",
+      "tickers": [
+        "WHA",
+        "AMATA"
+      ],
+      "time_horizon": "long-term",
+      "title_th": "นายกฯ หารือเยอรมนี เร่งเครื่องดึงลงทุนเทคโนโลยีขั้นสูง พร้อมดัน FTA ไทย-อียู",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4VGEwVVBrU3Z6Y0Zlb21mWVJGMGdHOVVEbk44QXV2anl6NXpWYVZYWktURGxDdGhIUjQxUXN1LTI4dUZ0dmtKOVNR?oc=5",
+      "watch_next": "ติดตามกรอบเวลาการเจรจา FTA ไทย-อียู รอบถัดไป และความชัดเจนของแพ็กเกจส่งเสริมการลงทุนสำหรับเอกชนยุโรป"
+    }
+  ],
+  "jev_screen": {
+    "brief_kind": "th",
+    "error_type": "RuntimeError",
+    "input_count": 25,
+    "mode": "active",
+    "output_count": 25,
+    "status": "fail_open_error"
+  },
+  "model_used": "google/gemini-3.7-flash"
+}
