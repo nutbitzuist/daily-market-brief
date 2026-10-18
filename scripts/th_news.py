@@ -230,7 +230,7 @@ def send_th_digest(date_str: str, items: list[dict], exec_summary: str,
 
 # ---------- main ----------
 
-def run() -> int:
+def _legacy_run() -> int:
     dry_run = os.environ.get("DRY_RUN") == "1"
     output_count = 10
     candidate_limit = max(int(os.environ.get("CANDIDATE_LIMIT", "25")), output_count)
@@ -321,5 +321,10 @@ def run() -> int:
     return 0
 
 
+def run(argv=None) -> int:
+    from scripts.john_news import main
+    return main(["--feed", "th", *(argv or [])])
+
+
 if __name__ == "__main__":
-    sys.exit(run())
+    sys.exit(run(sys.argv[1:]))

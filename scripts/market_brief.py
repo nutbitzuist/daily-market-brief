@@ -73,7 +73,7 @@ def render_markdown(date_str: str, generated_at_utc: str, model_used: str,
 
 # ------------------------ pipeline ------------------------
 
-def run() -> int:
+def _legacy_run() -> int:
     dry_run = os.environ.get("DRY_RUN") == "1"
     output_count = 10
     candidate_limit = max(int(os.environ.get("CANDIDATE_LIMIT", "25")), output_count)
@@ -188,5 +188,10 @@ def _load_fixtures() -> list[sources.Article]:
     return out
 
 
+def run(argv=None) -> int:
+    from scripts.john_news import main
+    return main(["--feed", "us", *(argv or [])])
+
+
 if __name__ == "__main__":
-    sys.exit(run())
+    sys.exit(run(sys.argv[1:]))

@@ -23,7 +23,7 @@ def test_us_no_source_does_not_write_or_send(monkeypatch, tmp_path):
     monkeypatch.setattr(market_brief, "BRIEFS_DIR", tmp_path)
     sent = []
     monkeypatch.setattr(market_brief.notify, "send_digest", lambda *a, **k: sent.append(True))
-    assert market_brief.run() == 1
+    assert market_brief._legacy_run() == 1
     assert not sent
     assert list(tmp_path.iterdir()) == []
 
@@ -59,7 +59,7 @@ def test_us_insufficient_unique_sources_does_not_publish(monkeypatch, tmp_path):
     monkeypatch.setattr(market_brief, "BRIEFS_DIR", tmp_path)
     sent = []
     monkeypatch.setattr(market_brief.notify, "send_digest", lambda *a, **k: sent.append(True))
-    assert market_brief.run() == 1
+    assert market_brief._legacy_run() == 1
     assert not sent
     assert list(tmp_path.iterdir()) == []
 
@@ -78,7 +78,7 @@ def test_us_model_outage_does_not_publish(monkeypatch, tmp_path):
     monkeypatch.setattr(market_brief, "BRIEFS_DIR", tmp_path)
     sent = []
     monkeypatch.setattr(market_brief.notify, "send_digest", lambda *a, **k: sent.append(True))
-    assert market_brief.run() == 1
+    assert market_brief._legacy_run() == 1
     assert not sent
     assert list(tmp_path.iterdir()) == []
 
@@ -89,7 +89,7 @@ def test_ai_no_source_does_not_write_or_send(monkeypatch, tmp_path):
     monkeypatch.setattr(ai_news, "ARTICLES_DIR", tmp_path)
     sent = []
     monkeypatch.setattr(ai_news, "send_ai_digest", lambda *a, **k: sent.append(True))
-    assert ai_news.run() == 1
+    assert ai_news._legacy_run() == 1
     assert not sent
     assert list(tmp_path.iterdir()) == []
 
@@ -100,7 +100,7 @@ def test_th_no_source_does_not_write_or_send(monkeypatch, tmp_path):
     monkeypatch.setattr(th_news, "TH_DIR", tmp_path)
     sent = []
     monkeypatch.setattr(th_news, "send_th_digest", lambda *a, **k: sent.append(True))
-    assert th_news.run() == 1
+    assert th_news._legacy_run() == 1
     assert not sent
     assert list(tmp_path.iterdir()) == []
 

@@ -7,6 +7,7 @@ the brief.
 """
 from __future__ import annotations
 
+import math
 import logging
 import os
 import time
@@ -67,7 +68,7 @@ def _candidate_instruction(candidate_id: str, article: dict[str, Any]) -> str:
     )
 
 
-def _request(payload: dict[str, Any], api_key: str, attempts: int = 3) -> dict[str, Any]:
+def _request(payload: dict[str, Any], api_key: str, attempts: int = 3, safe_errors: bool = False) -> dict[str, Any]:
     headers = {
         "Authorization": f"Bearer {api_key}",
         "Content-Type": "application/json",
@@ -90,7 +91,8 @@ def _request(payload: dict[str, Any], api_key: str, attempts: int = 3) -> dict[s
         if response.status_code in (429, 529) and attempt + 1 < attempts:
             time.sleep(2**attempt)
             continue
-        raise RuntimeError(f"TypeSafe Jev HTTP {response.status_code}: {response.text[:300]}")
+        raise RuntimeError(f"TypeSafe Jev HTTP {response.status_code}" if safe_errors else
+                           f"TypeSafe Jev HTTP {response.status_code}: {response.text[:300]}")
     raise RuntimeError("TypeSafe Jev request exhausted retries")
 
 
@@ -98,13 +100,14 @@ def screen_articles(
     articles: list[dict[str, Any]],
     brief_kind: str,
     min_keep: int,
+    *, strict_active: bool = False,
 ) -> tuple[list[dict[str, Any]], dict[str, Any]]:
     """Return screened candidates and a compact audit report.
 
     Modes: off (no API), shadow (record decisions, do not filter), active (drop only
     high-confidence excludes). Missing credentials and all errors fail open.
     """
-    mode = _mode()
+    mode = "active" if strict_active else _mode()
     base_report: dict[str, Any] = {
         "mode": mode,
         "brief_kind": brief_kind,
@@ -142,7 +145,8 @@ def screen_articles(
     }
 
     try:
-        result = _request(payload, api_key)
+        result = (_request(payload, api_key, attempts=1, safe_errors=True) if strict_active
+                  else _request(payload, api_key))
         answers = result.get("answers")
         if not isinstance(answers, dict):
             raise ValueError("Jev response missing answers object")
@@ -158,6 +162,12 @@ def screen_articles(
             confidence = float(answer.get("confidence", 0.0))
             probabilities = answer.get("probabilities") or {}
             include_probability = float(probabilities.get("include", 0.0))
+            if strict_active:
+                values = [confidence, *[float(v) for v in probabilities.values()]]
+                if (choice not in CRITERIA or not isinstance(probabilities, dict)
+                        or set(probabilities) != set(CRITERIA)
+                        or any(not math.isfinite(v) or not 0 <= v <= 1 for v in values)):
+                    raise ValueError("invalid Jev label/confidence/probabilities")
             should_exclude = choice == "exclude" and confidence >= EXCLUDE_CONFIDENCE
             record = {
                 "candidate_id": candidate_id,
@@ -200,7 +210,7 @@ def screen_articles(
         )
         return screened, report
     except Exception as exc:
-        log.warning("Jev screening failed open: %s", exc)
+        log.warning("Jev screening failed open: %s", type(exc).__name__ if strict_active else exc)
         return articles, {
             **base_report,
             "status": "fail_open_error",
