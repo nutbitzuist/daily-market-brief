@@ -1,1 +1,1 @@
-{"date": "2026-11-04", "delivered": true, "message_ids": [1561], "source_dates": {"set_investor_type": "2026-11-04", "set_short": "2026-11-03", "set_nvdr": "2026-11-03"}, "complete": false, "delivered_at_utc": "2026-11-04T12:36:09.555446+00:00"}
+{"date": "2026-11-04", "delivered": true, "message_ids": [1569], "source_dates": {"set_investor_type": "2026-11-04", "set_short": "2026-11-04", "set_nvdr": "2026-11-04"}, "complete": true, "delivered_at_utc": "2026-11-04T22:30:42.726926+00:00"}
