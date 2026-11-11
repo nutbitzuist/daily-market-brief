@@ -1,5 +1,110 @@
 [
   {
+    "date": "2026-11-11T00:00:00+07:00",
+    "rows": [
+      {
+        "symbol": "SCB",
+        "short_value": 133371000.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "DELTA",
+        "short_value": 128162250.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "PTTGC",
+        "short_value": 101604225.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "SCC",
+        "short_value": 100983400.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "ADVANC",
+        "short_value": 58529200.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "MINT",
+        "short_value": 57527770.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "TOP",
+        "short_value": 55968025.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "PTTEP",
+        "short_value": 51243350.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "PTT",
+        "short_value": 50095675.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "BAM",
+        "short_value": 46831755.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "KCE",
+        "short_value": 46143950.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "MTC",
+        "short_value": 46040975.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "GULF",
+        "short_value": 42959550.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "AWC",
+        "short_value": 35856554.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "CPALL",
+        "short_value": 34458750.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "AMATA",
+        "short_value": 34259825.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "CPF",
+        "short_value": 34020750.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "BH",
+        "short_value": 32576200.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "KTC",
+        "short_value": 26178775.0,
+        "short_volume": null
+      },
+      {
+        "symbol": "SPRC",
+        "short_value": 26082160.0,
+        "short_volume": null
+      }
+    ]
+  },
+  {
     "date": "2026-11-10T00:00:00+07:00",
     "rows": [
       {
@@ -3040,111 +3145,6 @@
       {
         "symbol": "BGRIM",
         "short_value": 18980740.0,
-        "short_volume": null
-      }
-    ]
-  },
-  {
-    "date": "2026-09-24T00:00:00+07:00",
-    "rows": [
-      {
-        "symbol": "DELTA",
-        "short_value": 455949500.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "ADVANC",
-        "short_value": 160258100.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "GULF",
-        "short_value": 145978725.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "PTTEP",
-        "short_value": 123885900.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "TOP",
-        "short_value": 121890700.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "KBANK",
-        "short_value": 120106000.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "PTT",
-        "short_value": 84834350.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "CPF",
-        "short_value": 76194410.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "KCE",
-        "short_value": 73997875.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "BCP",
-        "short_value": 71832250.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "IRPC",
-        "short_value": 60515228.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "SCB",
-        "short_value": 58375000.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "BH",
-        "short_value": 46212600.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "SAWAD",
-        "short_value": 46096580.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "KTB",
-        "short_value": 45457050.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "KTC",
-        "short_value": 41143850.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "WHA",
-        "short_value": 38302000.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "AOT",
-        "short_value": 34982650.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "TRUE",
-        "short_value": 33357820.0,
-        "short_volume": null
-      },
-      {
-        "symbol": "MTC",
-        "short_value": 33307500.0,
         "short_volume": null
       }
     ]
